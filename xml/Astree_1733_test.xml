@@ -4026,7 +4026,6 @@
                <p>JUGEMENT DU CONSEIL, 505</p>
             </div>
          </div>
-         <div xml:id="troisieme_partie" type="partie">
             <pb xml:id="page_abs_1112" n="page_ori_LIM"/>
             <div xml:id="page_titre6" n="page_titre" type="pages_préliminaires">
                <p><lb/><title>L'ASTRÉE<lb/>
@@ -4045,13 +4044,14 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_1113" n="page_ori_LIM"/> 
             </div>
+        <div xml:id="troisieme_partie" type="partie">
+           <head><lb/>L'ASTRÉE<lb/>
+              DE<lb/>
+              M. D'URFÉ.<lb/>
+              <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
+              <lb/>TROISIEME PARTIE.<lb/></head>
             <div xml:id="page_ASTREE0301" n="1" type="livre">
-               <head><lb/>L'ASTRÉE<lb/>
-                  DE<lb/>
-                  M. D'URFÉ.<lb/>
-                  <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
-               <lb/>TROISIEME PARTIE.<lb/>
-                  <hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
+               <head><hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
                <p><lb/>&#160;Depuis que les bergeres du Lignon eurent résolu d'aller ensemble visiter la feinte Alexis, Amour qui se plaît à tourmenter davantage ceux qui le servent mieux, fit sentir à la bergere Astrée certaines impatiences, dont elle n'eût pû se rendre raison à elle-même. Les trois jours qu'elles avoient pris pour faire cet agréable voyage lui parurent d'une longueur extrême ; mais quels furent les sentimens de la feinte druide, lorsqu'elle apprit qu'Astrée devoit bientôt
                   <pb xml:id="page_abs_1114" n="page_ori_2"/>
                   lui rendre visite ! Deux passions bien differentes l'agitérent tout à la fois. Si l'idée de voir Astrée, &amp; de pouvoir l'entretenir à la faveur de son déguisement, la transporta de joye ; la crainte d'être reconnue, &amp; d'avoir desobéi à sa bergere ne la tourmentoit guere moins. Elle eût mieux aimé mourir, que d'avoir à se reprocher la moindre infidelité, ou la plus legere desobéissance ; neantmoins suivant la coutume des vrais amans, elle s'arrêtoit plus aux images flateuses que lui présentoit l'esperance, en sorte que les trois jours lui parurent couler trop lentement au gré de son impatience.</p>
@@ -6256,7 +6256,6 @@
                <p><lb/><title>P. A. LE MERCIER, <hi rend="italic">Syndic.</hi></title><lb/></p>
             </div>
          </div>
-         <div xml:id="quatrieme_partie" type="partie">
             <div xml:id="page_titre8" n="page_titre" type="pages_préliminaires">
                <pb xml:id="page_abs_1714" n="page_ori_LIM"/>
                <p><lb/><title>L'ASTRÉE<lb/>
@@ -6274,13 +6273,14 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_1715" n="page_ori_1"/> 
              </div>
+        <div xml:id="quatrieme_partie" type="partie">
+           <head><lb/>L'ASTRÉE<lb/>
+              DE<lb/>
+              M. D'URFÉ.<lb/>
+              <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
+              <lb/>QUATRIÈME PARTIE.<lb/></head>
             <div xml:id="page_ASTREE0401" n="1" type="livre">
-               <head><lb/>L'ASTRÉE<lb/>
-                  DE<lb/>
-                  M. D'URFÉ.<lb/>
-                  <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
-               <lb/>QUATRIÈME PARTIE.<lb/>
-                  <hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
+                  <head><hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
                <p><lb/>&#160;Depuis que Galatée cedant à son extrême jalousie avoit éloigné de sa présence la nymphe Leonide, elle avoit desiré plusieurs fois de la revoir. Elle se rappelloit avec plaisir sa fidelité ; &amp; les témoignages de Sylvie la persuaderent enfin que Leonide n'étoit point coupable de l'évasion du berger Celadon. Mais ce qui contribua davantage à lui faire oublier tout ressentiment contre la nymphe, ce
                   <pb xml:id="page_abs_1716" n="page_ori_2"/>
                   fut la mort de Clidaman, &amp; les entreprises de Polemas. Elle en étoit uniquement occupée, &amp; ne respiroit que la vengeance. Admirez comment le ciel se joue de la finesse des hommes, &amp; la fait retomber contre eux-mêmes ; l'artifice dont Polemas avoit usé pour perdre Lindamor dans l'esprit de Galatée, fit qu'elle l'aima davantage.</p>
@@ -8713,7 +8713,6 @@
                <p><lb/><title><hi rend="italic">FIN.</hi></title><lb/></p>
             </div>
          </div>
-         <div xml:id="cinquieme_partie" type="partie">
             <div xml:id="page_titre10" n="page_titre" type="pages_préliminaires">
                <pb xml:id="page_abs_2377" n="page_ori_LIM"/>
                <p><lb/><title>L'ASTRÉE<lb/>
@@ -8730,13 +8729,14 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_2378" n="page_ori_1"/>
             </div>
+        <div xml:id="cinquieme_partie" type="partie">
+           <head><lb/>L'ASTRÉE<lb/>
+              DE<lb/>
+              M. D'URFÉ.<lb/>
+              <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
+              <lb/>DERNIERE PARTIE.<lb/></head>
             <div xml:id="page_ASTREE0501" n="1" type="livre">
-               <head><lb/>L'ASTRÉE<lb/>
-                  DE<lb/>
-                  M. D'URFÉ.<lb/>
-                  <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
-               <lb/>DERNIERE PARTIE.<lb/>
-                  <hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
+                  <head><hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
                <p><lb/>&#160;Quelques bergers furent témoins de l'enlevement d'Astrée, &amp; les cris qu'ils poussérent alors furent entendus de Diane &amp; de Phylis. Les bergeres s'étant habillées à la hâte coururent aussi-tôt pour apprendre le sujet de ce tumulte ; dès qu'elles parurent, un des bergers s'avançant : «Ah dieux, s'écria-t-il ! Astrée votre compagne vient de nous être en levée par une troupe de voleurs...
                   <pb xml:id="page_abs_2379" n="page_ori_2"/>
                   nous étions sans armes &amp; en si petit nombre, que nous n'avons pû la défendre.»</p>
