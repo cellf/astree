@@ -63,7 +63,7 @@
   <text>
       <front>
          <pb xml:id="page_abs_1" n="page_ori_LIM1"/>
-         <titlePage n="page_titre" xml:id="page_titre1" type="pages_préliminaires">
+         <titlePage n="1" xml:id="page_titre1" type="page_titre">
             <docTitle>
                <titlePart>
                   <lb/>L'ASTRÉE<lb/>
@@ -91,7 +91,7 @@
             <pb xml:id="page_abs_2" n="page_ori_LIM2"/>
       </front>
      <body>
-         <div n="avertissement" xml:id="avertissement" type="partie">
+         <div xml:id="avertissement" type="partie">
             <head><lb/>AVERTISSEMENT.<lb/></head>
             <p><lb/>&#160;<hi rend="italic">Voici une nouvelle édition de l'Astrée, qui peut être ne déplaira pas au public. On n'a rien négligé pour lui rendre plus agréable la lecture de ce livre, soit en abrégeant quelques conversations trop longues, &amp; par conséquent ennuyeuses, ou même en retouchant l'expression dans les endroits où l'on a jugé qu'elle en avoit besoin.</hi></p>
             <p>&#160;<hi rend="italic">On n'ignore pas que cet ouvrage a eu d'illustres censeurs ; les uns ayant blâmé l'érudition qui y est répandue ; les autres, certains incidens qui sont traités à la maniere grecque. Mais il a eu aussi d'illustres approbateurs. Tels sont M. Camus évêque de Belley, S. François de Sales, M. Huet évêque d'Avranches, comme on peut s'en convaincre par la lettre du même M. Huet, que l'on trouvera à la fin de la cinquiéme partie,
@@ -139,7 +139,7 @@
             <p>&#160;<hi rend="rule"/><hi rend="italic">On croit devoir encore avertir, qu'avant que de se mettre à la lecture de ce roman, il faut lire la lettre de M. Huet &amp; les éclaircissemens, que l'on a renvoyés à la fin de la derniere partie ; ce volume n'étant déja que trop gros.</hi></p>
             <pb xml:id="page_abs_6" n="page_ori_LIM6"/>
          </div>
-         <div xml:id="premiere_partie" type="partie">
+         <div xml:id="partie1" n="1" type="partie">
             <head><lb/>L'ASTRÉE<lb/>
                DE<lb/>
                M. D'URFÉ.<lb/>
@@ -1037,7 +1037,7 @@
                   tant de fois prédit, que je l'aimerois après sa mort, plus que je n'avois fait durant sa vie. Depuis que je l'ai perdu, il me semble qu'à toute heure je l'ai devant les yeux, &amp; qu'il me dit sans cesse, que je dois l'aimer, si je ne veux être l'ingratitude même. Aussi t'aimai-je, ô chere ame, mais de l'amour le plus vif &amp; le plus tendre ! Et si aux lieux que tu habites maintenant, on a quelque connoissance de ce qui se passe ici bas, reçoi ces larmes que je t'offre en témoignage que Diane aimera son cher Filandre jusqu'au dernier soupir.</p>
             </div>
             <pb xml:id="page_abs_270" n="page_ori_ LIM1"/>
-            <div xml:id="page_titre3" n="page_titre" type="pages_préliminaires">
+            <div xml:id="page_titre2" n="2" type="page_titre">
                <p><lb/><title>L'ASTRÉE<lb/>
                   DE M. D'URFÉ,<lb/>
                   PASTORALE ALLEGORIQUE,<lb/>
@@ -2102,7 +2102,7 @@
                <p><lb/><title><hi rend="italic">Fin de la premiere Partie.</hi></title></p>
             </div>
          </div>
-        <div xml:id="page_titre4" n="page_titre" type="pages_préliminaires">
+        <div xml:id="page_titre3" n="3" type="page_titre">
            <pb xml:id="page_abs_599" n="page_ori_LIM"/>
            <p><lb/><title>L'ASTRÉE<lb/>
               DE M. D'URFÉ,<lb/>
@@ -2118,7 +2118,7 @@
            <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
            <pb xml:id="page_abs_600" n="page_ori_LIM"/>
         </div>
-         <div xml:id="seconde_partie" type="partie">
+         <div xml:id="partie2" n="2" type="partie">
             <head><lb/>L'ASTRÉE<lb/>
                DE<lb/>
                M. D'URFÉ.<lb/>
@@ -3122,7 +3122,7 @@
                <p>&#160;Laonice ne perdit pas un mot de ce que disoient les bergeres. Pour Silvandre lors qu'il entendit les premiers discours de Diane, &amp; les conseils d'Astrée, quelle fut sa joye, &amp; combien se sentoit-il penétré de reconnoissance ! mais quand il entendit la resolution de Diane, quel fut son desespoir ! Heureusement pour lui que les bergeres s'endormirent ; car ses soupirs l'auroient trahi. Il se retira donc sans bruit, &amp; repassa long temps dans son esprit les discours des bergeres. Amour lui permit enfin de fermer les yeux, &amp; le sommeil vint en quelque sorte enchanter ses cruelles incertitudes.</p>
             </div>
             <pb xml:id="page_abs_859" n="page_ori_LIM"/>
-            <div xml:id="page_titre5" type="pages_préliminaires">
+            <div xml:id="page_titre4" n="4" type="page_titre">
                <p><lb/><title>L'ASTRÉE<lb/>
                   DE M. D'URFÉ,<lb/>
                   PASTORALE ALLEGORIQUE,<lb/>
@@ -4027,7 +4027,7 @@
             </div>
          </div>
             <pb xml:id="page_abs_1112" n="page_ori_LIM"/>
-            <div xml:id="page_titre6" n="page_titre" type="pages_préliminaires">
+            <div xml:id="page_titre5" n="5" type="page_titre">
                <p><lb/><title>L'ASTRÉE<lb/>
                   DE M. D'URFÉ.<lb/>
                   PASTORALE ALLEGORIQUE,<lb/>
@@ -4044,7 +4044,7 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_1113" n="page_ori_LIM"/> 
             </div>
-        <div xml:id="troisieme_partie" type="partie">
+        <div xml:id="partie3" n="3" type="partie">
            <head><lb/>L'ASTRÉE<lb/>
               DE<lb/>
               M. D'URFÉ.<lb/>
@@ -5062,7 +5062,7 @@
                   ceux qui avoient attaqué Damon ; il leur dit que par un commandement exprès d'Amasis, il les casse, &amp; leur ordonne de sortir dans dix jours de toute la contrée ; qu'il est bien mortifié de les traiter de la sorte, mais qu'il doit obéir ; qu'il y va de leur vie si ce terme expiré ils paroissent encore ; &amp; que ne pouvant perdre le souvenir de leurs services, il n'oubliera rien pour les remettre en graces, &amp; qu'en attendant il leur fera donner du sien propre la paye de trois lunes entieres. En feignant ainsi d'être véritablement touché de leur malheur, il se concilia non seulement ceux qu'il renvoyoit, mais encore tous les autres, &amp; par là il avançoit l'execution de ses desseins ; car ce qu'il ôtoit à la reine tournoit à son avantage.</p>
             </div>
             <pb xml:id="page_abs_1391" n="page_ori_LIM"/>
-            <div xml:id="page_titre7" n="page_titre" type="pages_préliminaires">
+            <div xml:id="page_titre6" n="6" type="page_titre">
                <p><lb/><title>L'ASTRÉE<lb/>
                   DE M. D'URFÉ,<lb/>
                   PASTORALE ALLEGORIQUE,<lb/>
@@ -6256,7 +6256,7 @@
                <p><lb/><title>P. A. LE MERCIER, <hi rend="italic">Syndic.</hi></title><lb/></p>
             </div>
          </div>
-            <div xml:id="page_titre8" n="page_titre" type="pages_préliminaires">
+            <div xml:id="page_titre7" n="7" type="page_titre">
                <pb xml:id="page_abs_1714" n="page_ori_LIM"/>
                <p><lb/><title>L'ASTRÉE<lb/>
                   DE M. D'URFÉ,<lb/>
@@ -6273,7 +6273,7 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_1715" n="page_ori_1"/> 
              </div>
-        <div xml:id="quatrieme_partie" type="partie">
+        <div xml:id="partie4" n="4" type="partie">
            <head><lb/>L'ASTRÉE<lb/>
               DE<lb/>
               M. D'URFÉ.<lb/>
@@ -7429,7 +7429,7 @@
                <p>&#160;Et enfin qu'à l'avenir ces bergers du Lignon ne soient plus si ignorans, nous voulons &amp; ordonnons que ces demandes soient écrites par Silvandre avec les réponses, au bas des tables des loix d'amour, avec l'avis de tous ceux qui voudront y souscrire, afin qu'on les voye à jamais ces demandes &amp; ces réponses dans le temple de la déesse Astrée.»</p>
             </div>
             <pb xml:id="page_abs_2034" n="page_ori_LIM"/>
-            <div xml:id="page_titre9" n="page_titre" type="pages_préliminaires">
+            <div xml:id="page_titre8" n="8" type="page_titre">
                <p><lb/><title>L'ASTRÉE<lb/>
                   DE M. D'URFÉ,<lb/>
                   PASTORALE ALLEGORIQUE,<lb/>
@@ -8713,7 +8713,7 @@
                <p><lb/><title><hi rend="italic">FIN.</hi></title><lb/></p>
             </div>
          </div>
-            <div xml:id="page_titre10" n="page_titre" type="pages_préliminaires">
+            <div xml:id="page_titre9" n="9" type="page_titre">
                <pb xml:id="page_abs_2377" n="page_ori_LIM"/>
                <p><lb/><title>L'ASTRÉE<lb/>
                   DE M. D'URFÉ,<lb/>
@@ -8729,7 +8729,7 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_2378" n="page_ori_1"/>
             </div>
-        <div xml:id="cinquieme_partie" type="partie">
+        <div xml:id="partie5" n="5" type="partie">
            <head><lb/>L'ASTRÉE<lb/>
               DE<lb/>
               M. D'URFÉ.<lb/>
@@ -9596,7 +9596,7 @@
                   extraordinaires ; &amp; comme si l'on n'avoit attendu que ce berger pour diner, à peine il fut arrivé, que l'on se mit à table.</p>
             </div>
             <pb xml:id="page_abs_2605" n="page_ori_LIM"/>
-            <div xml:id="page_titre11" n="page_titre" type="pages_préliminaires">
+            <div xml:id="page_titre10" n="10" type="page_titre">
                <p><lb/><title>L'ASTRÉE<lb/>
                   DE M. D'URFÉ,<lb/>
                   PASTORALE ALLEGORIQUE,<lb/>
