@@ -145,7 +145,7 @@
                M. D'URFÉ.<lb/>
                <hi rend="italic">PASTORALE ALLEGORIQUE</hi>.<lb/>
                <lb/>PREMIERE PARTIE.<lb/></head>
-            <div n="1" xml:id="page_ASTREE0101" type="livre">
+            <div n="1" xml:id="livre0101" type="livre">
                <head><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
                <p><lb/>&#160;De toutes les contrées que renferment les Gaules, il n'en est point de plus délicieuse que le Forest. L'air que l'on y respire est temperé ; &amp; le climat y est si fertile, qu'il produit, au gré de ses habitans, toute sorte de fruits. Au milieu est une plaine enchantée, qu'arrose le fleuve de Loire, &amp; que differens ruisseaux viennent baigner. Le plus agréable de tous est le Lignon, qui va serpentant depuis les hautes montagnes de Cervieres &amp; de Chalmasel, jusqu'à Feurs, où la Loire le reçoit,
                   <pb xml:id="page_abs_7" n="page_ori_2"/>
@@ -266,7 +266,7 @@
                   <p>&#160;Pour ce qui est d'Astrée, elle s'étoit livrée toute entiere à sa douleur, &amp; après avoir versé des torrens de larmes, &amp; s'être consumée en regrets ; l'esprit &amp; le cœur uniquement occupés  de sa perte, elle avoit cedé au sommeil qui étoit venu la surprendre.</p>
             </div>
             <pb xml:id="page_abs_35" n="page_ori_30"/>
-            <div xml:id="page_ASTREE0102" n="2" type="livre">
+            <div xml:id="livre0102" n="2" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -347,7 +347,7 @@
                <pb xml:id="page_abs_62" n="page_ori_57"/>
                Mais jamais il n'a pu aimer mon pere, &amp; nos deux familles ont toujours été ennemies. Et voilà, belle nymphe, dit Celadon, en s'adressant à Silvie, ce que vous avez oui dire dans notre hameau, car je suis fils d'Alcippe &amp; d'Amaryllis, &amp; Astrée doit le jour à Alcée &amp; à Hyppolite. Celadon ayant achevé son récit, les nymphes le quitterent, &amp; Galatée rentra dans son appartement, fort satisfaite d'avoir appris que ce berger qu'elle aimoit, avoit une illustre origine.</p>
             </div>
-            <div xml:id="page_ASTREE0103" n="3" type="livre">
+            <div xml:id="livre0103" n="3" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -497,7 +497,7 @@
                <p>&#160;En ce même temps, Celadon, dont l'estomach n'étoit pas encore bien rétabli, se trouva fort mal : de sorte qu'à l'abord de la nymphe ils furent contraints de se retirer ; &amp; le berger se mit au lit, où il demeura plusieurs jours dans le même état.</p>
             </div>
             <pb xml:id="page_abs_103" n="page_ori_98"/>
-            <div xml:id="page_ASTREE0104" n="4" type="livre">
+            <div xml:id="livre0104" n="4" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -708,7 +708,7 @@
                <p>&#160;Belle Diane, je n'y pus tenir davantage, je regagnai vîte mon troupeau ; &amp; mon malheur m'ayant fait rencontrer mon berger, dans le temps que le dépit &amp; la jalousie m'avoient ôté tout jugement, sans l'interroger, sans vouloir l'entendre, je lui parlai avec tant de colere &amp; tant de mépris, que desesperé il se précipita dans cet abîme, &amp; me donna le coup de la mort. A ces mots la pâleur s'empara de son visage, &amp; si Phylis ne l'avoit tirée par le bras, elle se seroit évanouie.</p>
             </div>
             <pb xml:id="page_abs_167" n="page_ori_162"/>
-            <div xml:id="page_ASTREE0105" n="5" type="livre">
+            <div xml:id="livre0105" n="5" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -855,7 +855,7 @@
                <p>&#160;Après que Corilas eut fini son recit, Adamas lui dit en souriant : «Mon enfant, ce que je puis vous conseiller de mieux, c'est d'éviter la perfide ; &amp; lorsque vous trouverez un parti convenable, de le prendre, sans vous arrêter à ces caprices du premier âge ; car il n'est rien qui attire tant d'estime, que de se marier non par amour, mais par raison : cette action étant une des plus importantes que vous puissiez jamais faire, &amp; dont dépend tout le bonheur de votre vie.» A ces mots ils se separerent, car il commençoit à se faire tard, le druyde continua sa route, &amp; Corilas se retira dans sa cabane.</p>
             </div>
             <pb xml:id="page_abs_217" n="page_ori_212"/>
-            <div xml:id="page_ASTREE0106" n="6" type="livre">
+            <div xml:id="livre0106" n="6" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -1053,7 +1053,7 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_271" n="page_ori_265"/>
             </div>
-            <div xml:id="page_ASTREE0107" n="7" type="livre">
+            <div xml:id="livre0107" n="7" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -1197,7 +1197,7 @@
                   visage un peu long, &amp; d'humeur agréable, quand il lui plaît. Et qui vous a dit, repliqua Lycidas, qu'il sert Phylis ? leurs actions, répondit-elle. Mais dites-moi si vous ne sçavez rien de celui que je cherche, car il est tard, &amp; j'ignore où je pourrai le trouver.» La surprise de Lycidas fut telle qu'il ne put lui répondre ; mais Corilas lui dit de suivre le sentier où ils étoient, qu'en sortant du bois elle verroit une prairie où l'on s'assembloit tous les soirs, &amp; qu'elle ne manqueroit pas d'y trouver le berger desolé. Il ajouta, que de peur qu'elle ne s'égarât, il l'accompagneroit si elle le jugeoit à propos. Laonice feignant de ne sçavoir pas le chemin, accepta avec politesse l'offre de Corilas, &amp; saluant Lycidas, elle prit le chemin qui lui avoit été montré. Pour Lycidas, il demeura long-temps immobile au même lieu : enfin revenant à lui-même, il repetoit ce que lui avoit dit la bergere, &amp; ne pouvoit la soupçonner d'imposture. Il seroit trop long de redire ses plaintes, &amp; les outrages dont il chargea la fidele Phylis. Il passa toute la nuit dans le plus épais du bois, &amp; lorsque le soleil commença de paroître, la fatigue le contraignit de se coucher sous des arbres, où le sommeil le surprit.</p>
             </div>
             <pb xml:id="page_abs_312" n="page_ori_306"/>
-            <div xml:id="page_ASTREE0108" n="8" type="livre">
+            <div xml:id="livre0108" n="8" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -1402,7 +1402,7 @@
                <p>&#160;Cependant Laonice ravie d'un si beau prélude, se retira avec la bergere sa compagne ; &amp; d'un autre côté Silvandre resolut, puisque Lycidas prenoit si aisément de la jalousie, de la lui vendre à l'avenir plus cherement, en feignant d'être amoureux de Phylis, lorsqu'il le verroit auprès d'elle.</p>
             </div>
             <pb xml:id="page_abs_380" n="page_ori_374"/>
-            <div xml:id="page_ASTREE0109" n="9" type="livre">
+            <div xml:id="livre0109" n="9" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -1585,7 +1585,7 @@
                   nymphe un peu honteuse, répondit que, malgré l'envie qu'elle avoit eue de lui parler, elle n'en avoit eu ni la hardiesse, ni les occasions ; &amp; que Climante étoit l'auteur de tout le mal. «Oh, s'il étoit possible de l'attraper, repartit Adamas, il payeroit cher l'insolence qu'il a eue d'usurper la qualité de druyde. La chose ne sera pas difficile, dit Leonide. Il dit à Galatée, de retourner plusieurs fois au lieu qu'il lui marquoit, en cas que la premiere fois elle ne rencontrât pas l'homme désigné. Je sçai que Polemas &amp; lui étant venus trop tard le premier jour, ne manquérent pas d'y venir les jours suivans : qui voudra surprendre l'imposteur, n'aura qu'à se cacher au lieu que je vous montrerai, il y viendra sans doute. Pour ce qui est du jour, je l'ai oublié, mais vous pourrez le sçavoir de Galatée.»</p>
             </div>
             <pb xml:id="page_abs_445" n="page_ori_439"/>
-            <div xml:id="page_ASTREE0110" n="10" type="livre">
+            <div xml:id="livre0110" n="10" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -1810,7 +1810,7 @@
                <p>&#160;Voilà ce que vous avez desiré sçavoir de leur fortune ; ils vécurent heureux, tant que les dieux leur permirent de vivre ensemble. Peu de temps après ils eurent un fils, à qui par consideration pour Ergaste, ils donnerent son nom ; mais ce malheureux enfant fut perdu dans le cruel pillage que firent quelques étrangers, &amp; depuis on n'en a point eu de nouvelles. Quelques années après il leur nâquit une fille qu'ils nommérent Diane. Mais ni Celion ni Ergaste ne jouirent long-temps du plaisir de voir cet enfant, car ils moururent bien-tôt après, &amp; tous deux le même jour. Et cette Diane dont vous m'avez demandé des nouvelles est celle-là même qui dans notre hameau est tenue pour une des plus belles &amp; des plus sages bergeres de Forest.</p> 
             </div>
             <pb xml:id="page_abs_512" n="page_ori_506"/>
-            <div xml:id="page_ASTREE0111" n="11" type="livre">
+            <div xml:id="livre0111" n="11" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -1944,7 +1944,7 @@
                   la nymphe, pensez-vous qu'il n'y ait point d'amour ? S'il y en a, repartit Celadon, il doit avoir un caractere de douceur ; mais quel qu'il soit, madame, vous en parlez à une personne bien ignorante en ce point ! outre que ma condition ne me permet pas d'en sçavoir beaucoup, mon esprit grossier m'en rend encore plus incapable. Cependant berger, lui repliqua la triste Sylvie, il y a quelque temps que je vous vis en un lieu, où difficilement on eût pu croire ce que vous dites de vous ; car il y avoit trop de beautés, &amp; vous avez trop de sentiment pour ne vous pas laisser prendre. Belle nymphe, répondit le berger, en quelque lieu que ce fût, il y avoit de la beauté sans doute, puisque vous y étiez ; mais vous en avez trop pour nos cœurs rustiques, qui doivent plus tôt vous admirer, que vous aimer, vous adorer, que vous servir.» C'est en discourant de la sorte, qu'ils rentrerent au palais, où l'heure du repas les appelloit.</p>
             </div>
             <pb xml:id="page_abs_557" n="page_ori_551"/>
-            <div xml:id="page_ASTREE0112" n="12" type="livre">
+            <div xml:id="livre0112" n="12" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -2124,7 +2124,7 @@
                M. D'URFÉ.<lb/>
                <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
                <lb/>SECONDE PARTIE.<lb/></head>
-            <div xml:id="page_ASTREE0201" n="1" type="livre">
+            <div xml:id="livre0201" n="1" type="livre">
                <head><hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
                <p><lb/>&#160;Déja la lune s'étoit montrée deux fois, depuis que Celadon s'étoit retiré dans la caverne ; &amp; quoiqu'il y eût près de trois mois qu'Astrée l'avoit perdu, elle en ressentoit un si cruel déplaisir, qu'elle ne pouvoit le cacher aux yeux les moins attentifs. Le temps qui adoucit tous les maux ne faisoit qu'augmenter les siens. La compagnie des autres bergeres, la promenade, les amusemens, tout lui paroissoit insupportable. Dans sa douleur, elle n'avoit pas même
                   <pb xml:id="page_abs_601" n="page_ori_2"/>
@@ -2302,7 +2302,7 @@
                <p>&#160;Cependant Celidée pour nous insulter également : «Ne disputez point, dit-elle, à qui doit être Celidée ; vous ne l'aurez jamais ni l'un ni l'autre ; vous Calydon, parce qu'elle ne vous aima jamais, &amp; vous continua-t-elle, en se tournant vers moi, parce que vous vous êtes rendu indigne de l'amour qu'elle vous portoit.» Elle nous échape à l'instant, &amp; nous laisse interdits &amp; confus. Nous nous separons Calydon &amp; moi ; Calydon ne rentra plus dans sa cabane, &amp; se retira chés un de ses parens, sans lui expliquer le sujet de sa fuite. Il s'est passé plus de trois lunes depuis cette separation, &amp; depuis nous n'avons pu tirer un mot obligeant de Celidée. Plus elle nous voit obstinés à l'aimer, plus elle s'obstine à nous haïr. Cependant mon amour pour elle, loin de diminuer, augmente chaque jour ; &amp; je suis persuadé que si elle maima autrefois, parce qu'elle se croyoit aimée, elle m'aimeroit encore plus aujourd'hui, si elle sçavoit que mon amour est plus violent qu'il ne le fut jamais.</p>
             </div>
             <pb xml:id="page_abs_645" n="page_ori_46"/>
-            <div xml:id="page_ASTREE0202" n="2" type="livre">
+            <div xml:id="livre0202" n="2" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -2465,7 +2465,7 @@
                <p>&#160;Silvandre eut beau écouter attentivement, il ne put s'assurer qui étoit le druyde, quoi qu'il crût le reconnoitre, pour le berger il ne le connut point du tout. C'est pourquoi il prit le parti de les suivre. Il esperoit de les reconnoitre à la clarté de la lune, quand il seroient hors du bois. Mais comme il ne les suivoit que de loin, de peur d'être apperçu, il les perdit entre les arbres, &amp; ne put sçavoir depuis ce qu'ils étoient devenus. Il ne cessa pourtant de les chercher que quand la lassitude &amp; le sommeil l'eurent contraint de choisir un lieu pour se reposer ; car il ne pouvoit regagner son hameau.</p>
             </div>
             <pb xml:id="page_abs_686" n="page_ori_87"/>
-            <div xml:id="page_ASTREE0203" n="3" type="livre">
+            <div xml:id="livre0203" n="3" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -2610,7 +2610,7 @@
                   fut ravie ; elle feignit pourtant d'en être fâchée à l'exemple des autres qui tous ensemble se firent voir. Pour Hylas, il feignit d'avoir interrompu Florice à dessein, &amp; courut l'embrasser. Il salue ensuite les deux autres, puis retournant à Florice : «Hé bien, dit-il, ne cesserez-vous point de médire de moi ? Depuis quand, répondit-elle, pensez-vous de la sorte ? En verité je croyois chanter vos louanges. N'est-il pas cruel à vous, ajouta le berger, de me rappeller le souvenir de mes premieres amours ? O, dit Florice, la cruauté n'est pas grande, &amp; vous n'avez point à craindre de mourir d'amour, vous y connoissez de trop exellens remedes. Vous auriez raison, repartit Hylas, si toutes les blessures se guerissoient par des remedes semblables ; mais, dites-moi quel dessein vous conduit en ce lieu ? Ce n'est pas, répondit Florice, celui de vous y voir. Si vous étiez aussi reconnoissante que gracieuse, ajouta Hylas, je vous ai assés servies toutes, pour vous inspirer le desir de me revoir.» A ces mots Astrée, Diane, &amp; Phylis arrivérent avec les bergers, &amp; leur présence termina la dispute.</p>
             </div>
             <pb xml:id="page_abs_729" n="page_ori_130"/>
-            <div xml:id="page_ASTREE0204" n="4" type="livre">
+            <div xml:id="livre0204" n="4" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -2793,7 +2793,7 @@
                   en effet les excuses de sa femme, resolut de rester quelque temps à la campagne ; pour connoître mieux son caractére, &amp; examiner de près sa conduite. Cependant je ne pouvois demeurer inutile. Je vis Chriseide, &amp; je l'aimai. Il est vrai qu'elle méritoit mon attachement, car il n'y eut jamais d'étrangére plus charmante, ni plus capable d'inspirer de l'amour.</p>
             </div>
             <pb xml:id="page_abs_780" n="page_ori_181"/>
-            <div xml:id="page_ASTREE0205" n="5" type="livre">
+            <div xml:id="livre0205" n="5" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -2963,7 +2963,7 @@
                   la lune ne paroisse. Que ferons-nous donc, dit Pâris ? Il faut, continua Silvandre, rester sous ces arbres, en attendant la lune.» Toute la troupe agréa la proposition, d'autant mieux qu'une partie de la nuit étoit déja passée. Ils choisirent donc un lieu bien sec, &amp; les bergers étendant leurs habits sous les bergeres, ils se retirerent à quelque distance d'elles, &amp; attendirent ainsi que la lune parût.</p>
             </div>
             <pb xml:id="page_abs_811" n="page_ori_212"/>
-            <div xml:id="page_ASTREE0206" n="6" type="livre">
+            <div xml:id="livre0206" n="6" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -3137,7 +3137,7 @@
                <p><hi rend="rule"/><lb/><title>M. DCC. XXXIII.</title><lb/></p>
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
             </div>
-            <div xml:id="page_ASTREE0207" n="7" type="livre">
+            <div xml:id="livre0207" n="7" type="livre">
                <pb xml:id="page_abs_860" n="page_ori_261"/>
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
@@ -3246,7 +3246,7 @@
                      de la porte, où il avoit roulé de grosses pierres. Alors la nymphe le trouvant si changé, ne put retenir ses larmes ; &amp; Celadon les voyant couler : «Belle nymphe, lui dit-il, ne vous affligez point : ce changement m'annonce une tranquillité prochaine.» Il seroit ennuyeux de rapporter tous leurs discours ; la nymphe enfin, de quelque artifice qu'elle usât, ne put lui persuader de rien changer à ce genre de vie, ni en obtenir autre chose que la permission de le voir quelquefois. Enfin le soleil étant prêt à se cacher, elle fut contrainte de se retirer, non toutefois sans lui promettre de le revoir bien souvent.</p>   
             </div>
             <pb xml:id="page_abs_893" n="page_ori_294"/>
-            <div xml:id="page_ASTREE0208" n="8" type="livre">
+            <div xml:id="livre0208" n="8" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -3401,7 +3401,7 @@
                   je n'ai point encore assés de pouvoir sur moi.» Phylis qui comprit ce qu'il vouloit dire, en fut vivement piquée ; cependant elle lui repliqua, comme si de rien n'eût été : «Il me semble Lycidas, que si la nymphe vouloit accorder tous ceux qui sont ici en differend, vous &amp; moi n'en serions pas exceptés. Il est vrai, dit le berger enflammé de colere, mais il faudroit que Silvandre fût notre juge, parce qu'il n'y a personne qui en soit mieux instruit.» A l'instant, sans attendre la réponse, il gagna le bois, &amp; s'y enfonça. On jugera facilement si Phylis fut touchée de cette replique ; on ne put tirer de toute la journée une seule parole d'elle.</p>
             </div>
             <pb xml:id="page_abs_939" n="page_ori_340"/>
-            <div xml:id="page_ASTREE0209" n="9" type="livre">
+            <div xml:id="livre0209" n="9" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -3537,7 +3537,7 @@
                <p>&#160;Leonide après quelque discours partit avec Chrysante &amp; ses filles druides. Après s'être reposée quelque temps au temple de la bonne déesse, elle alla trouver Adamas, sans que Pâris voulû la suivre, parce qu'il ne pouvoit se resoudre à quitter Diane. Il prit donc le chemin contraire, &amp; ayant retrouvé ces aimables bergeres, il passa avec elles presque tout le reste de la journée.</p>
             </div>
             <pb xml:id="page_abs_978" n="page_ori_379"/>
-            <div xml:id="page_ASTREE0210" n="10" type="livre">
+            <div xml:id="livre0210" n="10" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -3670,7 +3670,7 @@
                <p>&#160;D'un autre côté Leonide rejoignit Adamas, dès que Sylvie l'eut quittée, &amp; lui raconta une partie de ce qu'elle avoit appris d'elle, cachant finement ce qu'elle jugea qu'il desaprouveroit ; &amp; parce qu'il étoit heure de dîner, Adamas, Alexis, &amp; Leonide reprirent le chemin de la maison.</p>
             </div>
             <pb xml:id="page_abs_1014" n="page_ori_415"/>
-            <div xml:id="page_ASTREE0211" n="11" type="livre">
+            <div xml:id="livre0211" n="11" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -3823,7 +3823,7 @@
                   &amp; surtout tant qu'Alexis y restera.» Adamas sourit à ce discours. Après avoir remercié Hylas de sa bonne volonté au nom de sa fille, il se tourna vers les autres bergers, &amp; les pria de sorte qu'ils ne purent lui resister davantage. Il fit en même temps apporter des sieges, &amp; chacun s'étant placé, Silvandre commença en ces termes.</p>
             </div>
             <pb xml:id="page_abs_1061" n="page_ori_462"/>
-            <div xml:id="page_ASTREE0212" n="12" type="livre">
+            <div xml:id="livre0212" n="12" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -3997,7 +3997,7 @@
                <p><title><hi rend="italic">Fin de la seconde Partie.</hi></title></p>
             </div>
             <pb xml:id="page_abs_1110" n="page_ori_LIM"/>
-            <div xml:id="page_ASTREE0213" n="TABLE DES HISTOIRES" type="contents">
+            <div xml:id="table_histoires" n="1" type="contents">
                <head><lb/>TABLE<lb/>
                   DES HISTORIES<lb/>
                   contenues en cette II. Partie.<lb/></head>
@@ -4050,7 +4050,7 @@
               M. D'URFÉ.<lb/>
               <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
               <lb/>TROISIEME PARTIE.<lb/></head>
-            <div xml:id="page_ASTREE0301" n="1" type="livre">
+            <div xml:id="livre0301" n="1" type="livre">
                <head><hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
                <p><lb/>&#160;Depuis que les bergeres du Lignon eurent résolu d'aller ensemble visiter la feinte Alexis, Amour qui se plaît à tourmenter davantage ceux qui le servent mieux, fit sentir à la bergere Astrée certaines impatiences, dont elle n'eût pû se rendre raison à elle-même. Les trois jours qu'elles avoient pris pour faire cet agréable voyage lui parurent d'une longueur extrême ; mais quels furent les sentimens de la feinte druide, lorsqu'elle apprit qu'Astrée devoit bientôt
                   <pb xml:id="page_abs_1114" n="page_ori_2"/>
@@ -4172,7 +4172,7 @@
                <p>&#160;A ces mots, toute la troupe éclata de rire ; &amp; lors qu'Hylas voulut reprendre la parole, ils apperçurent la sage Chrysante qui venoit au devant d'eux, accompagnée de plueurs de ses vierges. Ils mirent donc sin à leur dispute, &amp; s'avancerent pour lui rendre l'honneur qui étoit dû à ses vertus &amp; à son caractére.</p>
             </div>
             <pb xml:id="page_abs_1147" n="page_ori_35"/>
-            <div xml:id="page_ASTREE0302" n="2" type="livre">
+            <div xml:id="livre0302" n="2" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -4307,7 +4307,7 @@
                   peut-être, dit Alexis, voudriez vous vendre cher vos paroles. Non non, dit incontinent Hylas, je ne veux que parole pour parole. En ce cas, &amp; si Adamas le permet, répondit Alexis, je le veux bien. Ma belle maîtresse, continua Hylas, priez donc ces bergeres de vous tenir compagnie aujourd'hui &amp; plus long-temps, si vous le souhaitez. Adamas prit la parole, avant qu'Alexis pût répondre, &amp; dit : Je vous assure Hylas, que je vous prie tous bien sincerement, &amp; que vous m'accorderez tous cette grace, si vous ne voulez me desobliger.» En même temps il se retira dans la galerie avec Daphnide qui emmenoit Alcidon, Stiliane, Carlis, &amp; Hermante. Les autres demeurerent dans la sale, où la collation fut apportée, en attendant l'heure du souper.</p>
             </div>
             <pb xml:id="page_abs_1186" n="page_ori_74"/>
-            <div xml:id="page_ASTREE0303" n="3" type="livre">
+            <div xml:id="livre0303" n="3" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -4499,7 +4499,7 @@
                   voudrez. Tâchez de vous rétablir, &amp; croyez que je ferai pour votre satisfaction tout ce qui ne me sera pas absolument impossible.» A ces mots le roi me laissa livré aux plus cruels déplaisirs, &amp; au désespoir le plus violent.</p>
             </div>
             <pb xml:id="page_abs_1239" n="page_ori_127"/>
-            <div xml:id="page_ASTREE0304">
+            <div xml:id="livre0304">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -4668,7 +4668,7 @@
                <p>&#160;A ces mots, Adamas prenant leurs mains : «Qu'éternelle, dit-il, puisse être votre union ! Alcidon ne pouvoit contenir les transports de sa joye ; mais la modestie de Daphnide témoignoit assez sa vertu. Stiliane, Carlis &amp; Hermante partagerent la satisfaction d'Alcidon, &amp; vinrent se réjouir avec lui de cette reconciliation, comme de la meilleure fortune qui lui pût arriver.</p>
             </div>
             <pb xml:id="page_abs_1286" n="page_ori_174"/>
-            <div xml:id="page_ASTREE0305" n="5" type="livre">
+            <div xml:id="livre0305" n="5" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -4904,7 +4904,7 @@
                   Adamas, qui invita Daphnide &amp; les bergeres à se promener, parce que la grande chaleur étoit tombée. Ils gouterent tous la proposition, &amp; se mirent en chemin, les uns chantant, &amp; les autres discourant de ce qui leur étoit le plus agréable.</p>
             </div>
             <pb xml:id="page_abs_1345" n="page_ori_233"/>
-            <div xml:id="page_ASTREE0306" n="6" type="livre">
+            <div xml:id="livre0306" n="6" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -5080,7 +5080,7 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_1392" n="page_ori_279"/> 
             </div>
-            <div xml:id="page_ASTREE0307" n="7" type="livre">
+            <div xml:id="livre0307" n="7" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -5342,7 +5342,7 @@
                <p>&#160;Je pris, dit Hylas, tant de plaisir au récit de la belle Chriseide, qu'il me parut extrêmement court, quoiqu'il fût déja si tard, que ses compagnes voulurent se retirer. Je les accompagnai jusques sur le rivage, &amp; je ne pus m'éloigner qu'elles n'eussent passé le fleuve, tant la belle étrangere me sembloit adorable. Je m'en allai enfin, plus amoureux que jamais, cependant très satisfait de sçavoir que ma nouvelle maitresse avoit appris à aimer, &amp; que l'objet de sa passion n'étoit plus ; &amp; j'esperai dès lors que je pourrois réussir à la consoler.</p>
             </div>
             <pb xml:id="page_abs_1460" n="page_ori_347"/>
-            <div xml:id="page_ASTREE0308" n="8" type="livre">
+            <div xml:id="livre0308" n="8" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -5518,7 +5518,7 @@
                <p>&#160;A ces mots, il ordonna que l'on ôtat au chevalier les chaînes dont il étoit chargé ; &amp; tous trois se jettent aux genoux du prince, ne pouvant se lasser de les embrasser. Et toute l'assemblée faisant retentir des cris de joye benissoit les dieux, &amp; louoit la justice, &amp; la magnanimité du roi qui avoit sçu se vaincre lui même.</p>
             </div>
             <pb xml:id="page_abs_1511" n="page_ori_398"/>
-            <div xml:id="page_ASTREE0309" n="9" type="livre">
+            <div xml:id="livre0309" n="9" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -5709,7 +5709,7 @@
                   par la main, &amp; lui faisant rendre son chapeau de fleurs au sage Adamas, elle la fit asseoir dans son siege ; puis relevant la guirlande de Silvandre, elle la mit sur la tête du berger, &amp; lui tendit la main afin qu'il la baisât : ce que fit Silvandre avec de si grands transports, que la bergere connut bien, si elle ne l'avoit pas connu encore, qu'il n'y avoit point de feinte en son amour.</p>
             </div>
             <pb xml:id="page_abs_1562" n="page_ori_449"/>
-            <div xml:id="page_ASTREE0310" n="10" type="livre">
+            <div xml:id="livre0310" n="10" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -5876,7 +5876,7 @@
                   &amp; lorsque l'heure du repas fut venue, ils regagnerent la maison, où ils trouverent une table servie d'une maniere qui ne sentoit point le village.</p>
             </div>
             <pb xml:id="page_abs_1608" n="page_ori_495"/>
-            <div xml:id="page_ASTREE0311" n="11" type="livre">
+            <div xml:id="livre0311" n="11" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -6055,7 +6055,7 @@
                <p>&#160;A ces mots Pâris lui baisa la main, &amp; prenant congé de lui, de Daphnide, &amp; d'Alcidon, il cotoya les prés, &amp; s'en alla transporté de joye.</p>
             </div>
             <pb xml:id="page_abs_1656" n="page_ori_543"/>
-            <div xml:id="page_ASTREE0312" n="12" type="livre">
+            <div xml:id="livre0312" n="12" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -6241,7 +6241,7 @@
                <p>&#160;Dès que l'aurore parut, Leonide laissa Phylis au lit avec Astrée, parce que Diane depuis le départ de Madonte, n'étoit point sortie de sa cabane, &amp; prit congé de ces belles bergeres, leur promettant de revenir bien tôt chercher Alexis. Puis s'approchant de celle-ci : «Souvenez-vous, lui dit-elle à l'oreille, de ne point perdre les occasions.» Alexis lui répondit par un soupir. Ainsi Leonide alla trouver Adamas, puis s'achemina avec le grand druide vers Marcilli, laissant Alexis dans la plus heureuse situation du monde, si elle avoit sçu s'en prévaloir.</p>
                <p><lb/><title><hi rend="italic">Fin de la troisiéme partie.</hi></title><lb/></p>
             </div>
-            <div xml:id="page_ASTREE0313" n="Privilège" type="ack">
+            <div xml:id="privilege" n="1" type="contents">
                <pb xml:id="page_abs_1711" n="page_ori_LIM"/>
                <p><lb/><title>APPROBATION.</title><lb/></p>
                <p>&#160;Lu par l'ordre de Monseigneur le Garde des Sceaux, ce 22. Fevrier 1732. DANCHET.</p>
@@ -6279,7 +6279,7 @@
               M. D'URFÉ.<lb/>
               <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
               <lb/>QUATRIÈME PARTIE.<lb/></head>
-            <div xml:id="page_ASTREE0401" n="1" type="livre">
+            <div xml:id="livre0401" n="1" type="livre">
                   <head><hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
                <p><lb/>&#160;Depuis que Galatée cedant à son extrême jalousie avoit éloigné de sa présence la nymphe Leonide, elle avoit desiré plusieurs fois de la revoir. Elle se rappelloit avec plaisir sa fidelité ; &amp; les témoignages de Sylvie la persuaderent enfin que Leonide n'étoit point coupable de l'évasion du berger Celadon. Mais ce qui contribua davantage à lui faire oublier tout ressentiment contre la nymphe, ce
                   <pb xml:id="page_abs_1716" n="page_ori_2"/>
@@ -6447,7 +6447,7 @@
                   nous avertir qu'il est notre juge, dès qu'il le sçaura lui même. Mais, interrompit encore le berger, comment le sçaura-t'il, si vous ne le lui dites ? Et comment le lui direz-vous, si vous ne le connoissez pas ? Le dieu qui a rendu l'oracle, dit Delphire, peut seul démêler ces difficultés.»</p>
             </div>
             <pb xml:id="page_abs_1768" n="page_ori_54"/>
-            <div xml:id="page_ASTREE0402" n="2" type="livre">
+            <div xml:id="livre0402" n="2" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -6629,7 +6629,7 @@
                   Phylis de rester là encore quelque temps, de peur que Silvandre ne les suivît. Et s'adressant au berger ; «souvenez-vous, lui dit-elle, qu'étant Silvandre, &amp; connoissant les dieux, vous serez infiniment plus coupable qu'un autre, si vous n'attendez le secours de votre génie.» Silvandre vouloit lui rendre ses actions de graces, lorsque sans attendre sa réponse, Alexis lui échapa pour rejoindre Astrée. Elle l'eut bientôt atteinte, parce qu'Astrée tournoit la tête de temps en temps, pour voir si Alexis ne venoit point. On eût dit que le ciel vouloit qu'en cette occasion Astrée rendît le même office à Silvandre, qu'autrefois Ursace reçut de Celadon.</p>
             </div>
             <pb xml:id="page_abs_1820" n="page_ori_106"/>
-            <div xml:id="page_ASTREE0403" n="3" type="livre">
+            <div xml:id="livre0403" n="3" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -6848,7 +6848,7 @@
                <p>&#160;Après une conclusion si heureuse, ils furent tous d'avis d'aller au temple pour remercier les dieux. Ils arrêterent aussi que l'on uniroit tout de suite les amans, &amp; qu'ils acheveroient les autres cérémonies, lorsqu'ils seroient retournés dans leurs cabanes. Pour Silvandre après avoir reçu les remercimens de Silvanire &amp; d'Aglante, il se separa de la troupe, &amp; s'enfonça dans les bois pour y plaindre sa destinée.</p>
             </div>
             <pb xml:id="page_abs_1881" n="page_ori_167"/>
-            <div xml:id="page_ASTREE0404" n="4" type="livre">
+            <div xml:id="livre0404" n="4" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -7030,7 +7030,7 @@
                   Calydon, &amp; Corylas se presenterent d'eux mêmes ; &amp; sans differer davantage, ils se mirent tous en chemin, après que les étrangers eurent dit adieu à la belle Alexis &amp; aux bergeres. Les trois chevaliers montés &amp; armés comme ils étoient venus, se tenoient un peu éloignés de la troupe, &amp; prêts à la défendre, si on venoit l'attaquer. Les bergers donnoient la main aux bergeres, &amp; Thamyre la donnoit à sa chere Celidée.</p>
             </div>
             <pb xml:id="page_abs_1928" n="page_ori_214"/>
-            <div xml:id="page_ASTREE0405" n="5" type="livre">
+            <div xml:id="livre0405" n="5" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -7214,7 +7214,7 @@
                <p>&#160;Il étoit déja tard ; c'est pourquoi les bergeres allerent toutes ensemble saluer Phocion, qui les méconnut d'abord à cause de leur déguisement. En même temps prenant Alexis par la main, il les conduisit dans la sale où le dîner les attendoit. Durant le repas, Phocion tint, selon sa coutume, plusieurs discours pleins de sagesse. Mais les bergeres avoient tant d'impatience de joindre Silvandre, pour lui rendre la tranquillité qu'il avoit perdue, qu'à peine elles avoient dîné, lorsque Phylis s'addressant à la feinte druide : «Madame, lui dit-elle, vous sçavez que Florice, Palinice &amp; Circène nous ont priées de nous trouver à leur retour sur le chemin de Marcilli, au sujet de cette affaire qui leur importe tant ; si vous voulez leur tenir parole, vous avez peu de temps à rester ici.» Alexis pénétra son dessein ; elle sortit incontinent de table ; &amp; toutes quatre ensemble se rendirent où elles esperoient de rencontrer Silvandre.</p>
             </div>
             <pb xml:id="page_abs_1981" n="page_ori_267"/>
-            <div xml:id="page_ASTREE0406" n="6" type="livre">
+            <div xml:id="livre0406" n="6" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -7445,7 +7445,7 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_2035" n="page_ori_319"/> 
             </div>
-            <div xml:id="page_ASTREE0407" n="7" type="livre">
+            <div xml:id="livre0407" n="7" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -7670,7 +7670,7 @@
                <p>&#160;Dorinde finit là son récit, qu'elle interrompit souvent par des larmes &amp; des soupirs. Ses compagnes tâcherent de lui donner quelque consolation, &amp; toutes après l'avoir plusieurs fois embrassée, commencerent à s'habiller.</p>
             </div>
             <pb xml:id="page_abs_2097" n="page_ori_381"/>
-            <div xml:id="page_ASTREE0408" n="8" type="livre">
+            <div xml:id="livre0408" n="8" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -7846,7 +7846,7 @@
                   qu'elle avoit à dire au prince, elle leur en parla. Ils approuverent son dessein, &amp; ils en firent eux-même l'ouverture. Le prince promit à la nymphe tout ce qu'elle souhaitoit ; &amp; la nymphe faisant appeller Adamas, elle lui commanda en sa presence de tenir tout prêt pour le projet qu'ils avoient medité.</p>
             </div>
             <pb xml:id="page_abs_2144" n="page_ori_428"/>
-            <div xml:id="page_ASTREE0409" n="9" type="livre">
+            <div xml:id="livre0409" n="9" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -8063,7 +8063,7 @@
                <p>&#160;Ainsi finit Alcandre ; &amp; parce qu'il étoit fort tard, Hylas dont les yeux étoient appesantis, après leur avoir donné le bon soir se remit dans son lit, où il reposa jusqu'au matin.</p>
             </div>
             <pb xml:id="page_abs_2199" n="page_ori_483"/>
-            <div xml:id="page_ASTREE0410" n="10" type="livre">
+            <div xml:id="livre0410" n="10" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -8290,7 +8290,7 @@
                <p>&#160;La nymphe approuva cet avis, &amp; dans le moment elle envoya chercher Galatée : puis elle se retira, pour laisser reposer la reine, si toutefois son inquietude le lui permettoit.</p>
             </div>
             <pb xml:id="page_abs_2260" n="page_ori_544"/>
-            <div xml:id="page_ASTREE0411" n="11" type="livre">
+            <div xml:id="livre0411" n="11" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -8520,7 +8520,7 @@
                <p>&#160;Cette dispute eût duré plus long temps, si Polemas jugeant que ce differend tournoit à sa confusion ne l'eût interrompue. «C'est assés, leur dit-il, je vais vous mettre d'accord ; &amp; s'adressant à Alexis : Estes-vous, lui dit-il, Alexis fille d'Adamas ? Oui, répondit-elle.» Puis se tournant vers Astrée : «Et vous, continua-t'il, êtes-vous aussi fille d'Adamas ? Oui, répondit-elle aussi. Puis donc, reprit Polemas, que vous êtes toutes deux filles d'Adamas, j'ordonne que vous soyez traitées comme telles.» A ces mots ayant commandé qu'elles fussent attachées ensemble, il les mit sous une bonne garde jusqu'au lendemain, &amp; s'écria qu'un si méchant pere ne méritoit pas une si belle fille. Mais dès qu'il l'eut perdue de vue, il oublia ses charmes &amp; sa vertu.</p>
             </div>
             <pb xml:id="page_abs_2322" n="page_ori_606"/>
-            <div xml:id="page_ASTREE0412" n="12" type="livre">
+            <div xml:id="livre0412" n="12" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -8735,7 +8735,7 @@
               M. D'URFÉ.<lb/>
               <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
               <lb/>DERNIERE PARTIE.<lb/></head>
-            <div xml:id="page_ASTREE0501" n="1" type="livre">
+            <div xml:id="livre0501" n="1" type="livre">
                   <head><hi rend="rule"/><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
                <p><lb/>&#160;Quelques bergers furent témoins de l'enlevement d'Astrée, &amp; les cris qu'ils poussérent alors furent entendus de Diane &amp; de Phylis. Les bergeres s'étant habillées à la hâte coururent aussi-tôt pour apprendre le sujet de ce tumulte ; dès qu'elles parurent, un des bergers s'avançant : «Ah dieux, s'écria-t-il ! Astrée votre compagne vient de nous être en levée par une troupe de voleurs...
                   <pb xml:id="page_abs_2379" n="page_ori_2"/>
@@ -8896,7 +8896,7 @@
                   Un remede à sa passion<lb/></p>
                <p>&#160;Laonice conçut sur cet oracle quelque esperance de guerison. Elle commença donc par obéir au premier vers de l'oracle, &amp; persuadée que le bois dont il s'agissoit, étoit celui de Montverdun, elle y alla chercher quelque grotte. Elle en trouva une que les ronces rendoient inaccessible d'un côté ; &amp; cette grotte la conduisit par un sentier un peu battu dans une autre que l'art &amp; la nature avoient creusée dans le rocher. Elle se mit d'abord à considerer quelques singularités qu'elle y trouva, mais ne les pouvant comprendre, elle pensa que ce lieu avoit autrefois servi de retraite à quelque druide. Elle resolut d'y rester, jusqu'à ce que la volonté des dieux l'enretirât. Elle y vivoit de fruits champêtres, tantôt interrogeant les échos sur ce qu'elle devoit attendre de Tyrcis, &amp; tantôt parlant aux rochers, &amp; aux fontaines, mais toujours du berger. C'est dans cet exercice qu'elle attendoit le secours que les dieux lui avoient promis ; &amp; cette esperance étoit le seul soutien de sa vie ; car elle n'avoit d'autre plaisir que de penser éternellement à Tyrcis, qui de son côté ne songeoit tous les jours qu'à faire de nouveaux sacrifices aux cendres de sa bien aimée Cléon.</p>
             </div>
-            <div xml:id="page_ASTREE0502" n="2" type="livre">
+            <div xml:id="livre0502" n="2" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -9070,7 +9070,7 @@
                <p>&#160;Laonice n'étoit pas si éloignée de Tyrcis qu'il le croyoit. Elle passoit les nuits dans sa solitude, continuellement occupée de l'ingratitude du berger. Ce jour là, elle étoit venue sur un rocher qui commande la plaine de Forest ; &amp; de là remarquant l'armée de Polemas, elle craignit pour Tyrcis, quoiqu'elle fût convaincue de sa haine. La nuit la contraignit de se retirer dans sa caverne, où elle recommença ses premiers exercices, qui étoient de prier les dieux, &amp; de faire éclater ses regrets sur l'ingratitude de Tyrcis.</p>
             </div>
             <pb xml:id="page_abs_2468" n="page_ori_92"/>
-            <div xml:id="page_ASTREE0503" n="3" type="livre">
+            <div xml:id="livre0503" n="3" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -9238,7 +9238,7 @@
                <p>&#160;Lindamor ayant fini, la nymphe se leva, &amp; les princes se disposerent aussi à se retirer. Amasis les accompagna malgré toutes leurs oppositions ; &amp; laissant à Galatée le soin de conduire Rosanire &amp; les autres dames dans leurs appartemens, elle les supplia tous de disposer de tout ce qui étoit en sa puissance, puisqu'elle ne possedoit rien dont elle ne fût redevable à leur courage &amp; à leur affection.</p>
             </div>
             <pb xml:id="page_abs_2514" n="page_ori_138"/>
-            <div xml:id="page_ASTREE0504" n="4" type="livre">
+            <div xml:id="livre0504" n="4" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -9440,7 +9440,7 @@
                <p>&#160;Tous se mirent à rire de la plaisante pensée d'Hylas. Seulement Cerinte, Clorian, &amp; Amilcar parurent mécontens, &amp; résolurent de partir le lendemain pour se rendre auprès de Sigismond. Ils partirent en effet, &amp; le druide, &amp; Ligdamon les accompagnerent jusqu'à Marcilli.</p>
             </div>
             <pb xml:id="page_abs_2561" n="page_ori_185"/>
-            <div xml:id="page_ASTREE0505" n="5" type="livre">
+            <div xml:id="livre0505" n="5" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -9612,7 +9612,7 @@
                <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
                <pb xml:id="page_abs_2606" n="page_ori_229"/>
             </div>
-            <div xml:id="page_ASTREE0506" n="6" type="livre">
+            <div xml:id="livre0506" n="6" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -9812,7 +9812,7 @@
                   étoit feinte. Ligonias partit, déterminé à faire la plus grande diligence qu'il pourroit.</p>
             </div>
             <pb xml:id="page_abs_2660" n="page_ori_283"/>
-            <div xml:id="page_ASTREE0507" n="7" type="livre">
+            <div xml:id="livre0507" n="7" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -9977,7 +9977,7 @@
                   le sujet de mon transport, permettez-moi, cher Celadon, de mouiller de mon sang les bords de cette fontaine... Sage Silvandre, interrompit Alexis, les dieux ne vous ont point inspiré ce dessein comme à moi ; ainsi ne me disputez pas un avantage qui me regarde seul. Au moins, dit Silvandre, permettez-moi d'unir ma fortune à la votre.» Le berger sçut si bien persuader Alexis, qu'elle associa Silvandre à un projet aussi glorieux.</p>
             </div>
             <pb xml:id="page_abs_2708" n="page_ori_331"/>
-            <div xml:id="page_ASTREE0508" n="8" type="livre">
+            <div xml:id="livre0508" n="8" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -10155,7 +10155,7 @@
                   Ursace étoit presque le seul qui ne ressentît point une joye pure, il craignoit toujours de nouveaux attentats de la part de Genseric ; mais comme il lui étoit permis sous les habits qu'il portoit, d'être presque toujours auprès d'Eudoxe, il sçut bientôt que le roi avoit absolument changé. En effet, quelque temps après il renvoya honorablement Eudoxe avec Placidie à Constantinople. Lorsqu'Eudoxe y fut arrivée, Ursace l'épousa avec solemnité, &amp; jouit enfin d'un bien si précieux, mais que la fortune lui avoit cherement vendu. Olimbre de son côté par l'ordre de Marcien, &amp; du consentement d'Eudoxe, gouta entre les bras de Placidie le repos qu'Amour devoit à sa fidelité.»</p>
             </div>
             <pb xml:id="page_abs_2757" n="page_ori_380"/>
-            <div xml:id="page_ASTREE0509" n="9" type="livre">
+            <div xml:id="livre0509" n="9" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -10314,7 +10314,7 @@
                   lui raconta de quelle maniere cet oracle s'étoit verifié. Il parla si naïvement de l'ombre qui lui avoit apparu, des discours qu'elle lui avoit tenus, &amp; de cette grande clarté dont il l'avoit vue environnée, que Laonice ne pût s'empêcher de rire du succès de son artifice. Enfin lorsqu'ils furent arrivés au temple, Tyrcis supplia Laonice de consentir qu'un druide unît leur destinée. Laonice y consentit ; ils descendirent ensuite dans la plaine pour apprendre leur mariage aux bergers, &amp; aux bergeres de leur connoissance.</p>
             </div>
             <pb xml:id="page_abs_2801" n="page_ori_424"/>
-            <div xml:id="page_ASTREE0510" n="10" type="livre">
+            <div xml:id="livre0510" n="10" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -10495,7 +10495,7 @@
                <p>&#160;Olicarsis supplia Adamas de hâter le plus qu'il pourroit un bien qui le combleroit de joye ; &amp; Celadon étant prié de chercher Silvandre, il le rencontra dans une allée avec Lycidas, Doris, Adraste, &amp; quelques autres. Il n'avoit osé venir où étoient Rosanire &amp; Galatée, de peur d'interrompre leur entretien. Aussitôt Celadon lui raconta une partie de ce qu'il avoit entendu, &amp; l'ayant conduit près d'Adamas, il y fut à peine qu'Azahyde revint de son assoupissement. Il voulut alors s'éloigner ; mais Olicarsis &amp; Adamas le retinrent, &amp; lui firent entendre que son mal finiroit dans peu. A quoi Azahyde ne pouvant ajouter foi, ils lui presenterent Silvandre, qu'il reconnut incontinent, quoiqu'il eût changé de condition &amp; d'habit. Et s'étant prosterné devant lui, il pleura long temps en se rappellant son attentat contre lui. Silvandre l'ayant enfin relevé, l'embrassa avec respect, &amp; en lui remettant cette offense, il lui rétablit si bien l'esprit, que depuis étant parti pour aller porter cette nouvelle à sa fille qui s'étoit confinée parmi les vestales, il ne fut plus agité des frayeurs qui lui avoient ôté le jugement.</p>
             </div>
             <pb xml:id="page_abs_2851" n="page_ori_474"/>
-            <div xml:id="page_ASTREE0511" n="11" type="livre">
+            <div xml:id="livre0511" n="11" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -10659,7 +10659,7 @@
                <p>&#160;A ces mots, ils entrerent dans la chambre d'Adamas. La nymphe le trouva dans une affliction extrême. Et après avoir passé une partie de la journée avec lui, elle fit venir Rosanire &amp; Galatée, parce qu'elle vouloit partir de bonne heure, afin de travailler à tirer Dorinde du lieu où elle s'étoit renfermée.</p>
             </div>
             <pb xml:id="page_abs_2894" n="page_ori_517"/>
-            <div xml:id="page_ASTREE0512" n="12" type="livre">
+            <div xml:id="livre0512" n="12" type="livre">
                <head><lb/>L'ASTRÉE<lb/>
                   DE<lb/>
                   M. D'URFÉ.<lb/>
@@ -10810,7 +10810,7 @@
             </div>
          </div>
          <pb xml:id="page_abs_2933" n="page_ori_556"/>
-         <div xml:id="lettre_huet_scudery" type="annexe">
+         <div xml:id="lettre_huet_scudery" n="6" type="partie">
                <head><lb/>LETTRE DE M. HUET<lb/>
                   à Mademoiselle de Scudery,<lb/>
                   <hi rend="italic">Touchant Honoré d'Urfé, &amp; Diane<lb/>
@@ -10884,7 +10884,7 @@
                   survêcut long temps à son mari, dont la famille n'ayant pas pour elle toute la consideration qu'elle croyoit en devoir attendre, elle s'en tint éloignée, sans autre correspondance que celle qui étoit nécessaire pour la conservation de la jouissance de ses droits, &amp;c.</p>
                <p>&#160;A Paris le 15. Decembre 1699.</p>
                </div>
-          <div xml:id="reflexions_necessaires" type="annexe">
+          <div xml:id="reflexions_necessaires" n="7" type="partie">
                <head><lb/>REFLEXIONS NECESSAIRES<lb/>
                   pour l'intelligence de l'Astrée.<lb/></head>
                <p><lb/><title><hi rend="italic">Ces refléxions sont tirées des œuvres diverses de M. Patru.</hi></title><lb/></p>
@@ -10898,7 +10898,7 @@
                   l'on y donne ou pour femme ou pour mari, le berger ou la bergere que l'on a le plus tendrement aimée. Ainsi Alcidon (le feu duc de Bellegarde) épouse Daphnide (la duchesse de Beaufort) quoique Daphnide n'ait jamais été mariée.</p>
                <p>&#160;V. Suivant ce qui se pratique ordinairement dans ces sortes d'ouvrages, l'auteur change les lieux, &amp; l'ordre des temps. Ainsi dans l'histoire d'Alexis, les carnutes, ou le païs chartrain, c'est l'isle de Malte. Ainsi il renferme en six mois ou environ toute l'histoire des amours de Celadon &amp; d'Astrée, à compter du jour que ce berger se précipite, quoique ces amours ayent duré quinze à seize ans, depuis que l'auteur s'en alla à Malte, qui est sa chute dans le Lignon.</p>
                </div>
-          <div xml:id="cle_astree" type="annexe">
+          <div xml:id="cle_astree" n="8" type="partie">
                   <head><lb/>CLÉ DE L'ASTRÉE.<lb/></head>
                <p><lb/>&#160;<hi rend="italic">Adamas.</hi> C'est le lieutenant géneral de Montbrison, de la famille des Papon, homme de grande vertu, reveré de toute la noblesse, &amp; l'arbitre de tous les differends. M. d'Urfé en a fait le grand druide, pour lui donner l'autorité de l'âge, &amp; de la religion. Pour ce qui regarde la reconnoissance de Silvandre sur le point d'être immolé, &amp; qui
                   <pb xml:id="page_abs_2951" n="page_ori_574"/>
