@@ -61,6 +61,8 @@
       </revisionDesc>
    </teiHeader>
   <text>
+     <group>
+        <text>
       <front>
          <pb xml:id="page_abs_1" n="page_ori_LIM1"/>
          <titlePage n="1" xml:id="page_titre1" type="page_titre">
@@ -2031,22 +2033,30 @@
                <p><lb/><title><hi rend="italic">Fin de la premiere Partie.</hi></title></p>
             </div>
          </div>
-        <div xml:id="page_titre2" n="2" type="page_titre">
+     </body>
+</text>
+        <text>
+           <front>
+        <titlePage xml:id="page_titre2" n="2" type="page_titre">
            <pb xml:id="page_abs_599" n="page_ori_LIM"/>
-           <p><lb/><title>L'ASTRÉE<lb/>
+           <docTitle>
+              <titlePart><lb/>L'ASTRÉE<lb/>
               DE M. D'URFÉ,<lb/>
               PASTORALE ALLEGORIQUE,<lb/>
               AVEC LA CLÉ,<lb/>
-              NOUVELLE EDITION,</title><lb/></p>
-           <p><lb/><title><hi rend="italic">Où sans toucher ni au fonds ni aux épisodes, on s'est contenté de corriger le langage, &amp; d'abreger les conversations.</hi></title><lb/></p>
-           <p><lb/><title>TOME SECOND.</title><lb/></p>
-           <p><lb/>A PARIS,<lb/></p>
-           <p>&#160;Chez PIERRE WITTE, rue S. Jacques proche de S. Yves, à l'Ange Gardien.<lb/>
-              DIDOT. Quay des Augustins, près du Pont S. Michel, à la Bible d'or.</p>
-           <p><hi rend="rule"/><lb/><title>M. DCC. XXXIII.</title><lb/></p>
-           <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
+                 NOUVELLE EDITION,<lb/></titlePart>
+           <titlePart><lb/><hi rend="italic">Où sans toucher ni au fonds ni aux épisodes, on s'est contenté de corriger le langage, &amp; d'abreger les conversations.</hi><lb/></titlePart>
+           <titlePart><lb/>TOME SECOND.<lb/></titlePart>
+           </docTitle>
+           <docImprint><lb/>A PARIS,<lb/></docImprint>
+           <docImprint>&#160;Chez PIERRE WITTE, rue S. Jacques proche de S. Yves, à l'Ange Gardien.<lb/>
+              DIDOT. Quay des Augustins, près du Pont S. Michel, à la Bible d'or.</docImprint>
+           <docDate><hi rend="rule"/><lb/>M. DCC. XXXIII.<lb/></docDate>
+           <docImprint><lb/><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi><lb/></docImprint>
            <pb xml:id="page_abs_600" n="page_ori_LIM"/>
-        </div>
+        </titlePage>
+           </front>
+           <body>
          <div xml:id="partie2" n="2" type="partie">
             <head><lb/>L'ASTRÉE<lb/>
                DE<lb/>
@@ -3885,24 +3895,34 @@
                <p>JUGEMENT DU CONSEIL, 505</p>
             </div>
          </div>
+           </body>
+        </text>
+        <text>
+           <front>
             <pb xml:id="page_abs_1112" n="page_ori_LIM"/>
-            <div xml:id="page_titre3" n="3" type="page_titre">
-               <p><lb/><title>L'ASTRÉE<lb/>
+            <titlePage xml:id="page_titre3" n="3" type="page_titre">
+               <docTitle>
+                  <titlePart>
+               <lb/>L'ASTRÉE<lb/>
                   DE M. D'URFÉ.<lb/>
                   PASTORALE ALLEGORIQUE,<lb/>
                   AVEC LA CLÉ,<lb/>
-                  NOUVELLE EDITION,</title><lb/></p>
-               <p><lb/><title><hi rend="italic">Où sans toucher ni au fonds ni aux épisodes, on s'est contenté de corriger le langage, &amp; d'abreger les conversations.</hi></title><lb/></p>
-               <p><lb/><title>TOME TROISIEME.</title><lb/></p>
-               <p><lb/><title>A PARIS,</title><lb/></p>
-               <p><lb/>Chez PIERRE WITTE, rue S. Jacques proche de<lb/>
+                  NOUVELLE EDITION,<lb/>
+                  </titlePart>
+               <titlePart><lb/><hi rend="italic">Où sans toucher ni au fonds ni aux épisodes, on s'est contenté de corriger le langage, &amp; d'abreger les conversations.</hi><lb/></titlePart>
+               <titlePart><lb/>TOME TROISIEME.<lb/></titlePart>
+               </docTitle>
+               <docImprint><lb/>A PARIS,<lb/></docImprint>
+               <docImprint><lb/>Chez PIERRE WITTE, rue S. Jacques proche de<lb/>
                   S. Yves, à l'Ange Gardien.<lb/>
                   Chez DIDOT, Quay des Augustins, près du Pont<lb/>
-                  S. Michel, à la Bible d'or.<lb/></p>
-               <p><hi rend="rule"/><lb/><title>M. DCC. XXXIII.</title><lb/></p>
-               <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
+                  S. Michel, à la Bible d'or.<lb/></docImprint>
+               <docDate><hi rend="rule"/><lb/>M. DCC. XXXIII.<lb/></docDate>
+               <docImprint><lb/><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi><lb/></docImprint>
                <pb xml:id="page_abs_1113" n="page_ori_LIM"/> 
-            </div>
+            </titlePage>
+           </front>
+           <body>
         <div xml:id="partie3" n="3" type="partie">
            <head><lb/>L'ASTRÉE<lb/>
               DE<lb/>
@@ -6043,23 +6063,33 @@
                <p><lb/><title>P. A. LE MERCIER, <hi rend="italic">Syndic.</hi></title><lb/></p>
             </div>
          </div>
-            <div xml:id="page_titre4" n="4" type="page_titre">
+           </body>
+        </text>
+        <text>
+           <front>
+            <titlePage xml:id="page_titre4" n="4" type="page_titre">
                <pb xml:id="page_abs_1714" n="page_ori_LIM"/>
-               <p><lb/><title>L'ASTRÉE<lb/>
+               <docTitle>
+                  <titlePart>
+               <lb/><title>L'ASTRÉE<lb/>
                   DE M. D'URFÉ,<lb/>
                   PASTORALE ALLEGORIQUE,<lb/>
                   AVEC LA CLE',<lb/>
-                  NOUVELLE EDITION,</title><lb/></p>
-               <p><lb/><title><hi rend="italic">Où sans toucher ni au fonds ni aux épisodes, on s'est contenté de corriger le langage, &amp; d'abreger les conversations.</hi></title><lb/></p>
-               <p><lb/><title>TOME QUATRIEME.</title><lb/></p>
-               <p><lb/><title><hi rend="italic">PREMIERE PARTIE.</hi></title><lb/></p>
-               <p><lb/><title>A PARIS,</title><lb/></p>
-               <p>Chez PIERRE WITTE, rue S. Jacques proche de S. Yves, à l'Ange Gardien.<lb/>
-                  Chez DIDOT. Quay des Augustins, près du Pont S. Michel, à la Bible d'or.</p>
-               <p><hi rend="rule"/><lb/><title>M. DCC. XXXIII.</title><lb/></p>
-               <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
+                  NOUVELLE EDITION,</title><lb/>
+                  </titlePart>
+               <titlePart><lb/><hi rend="italic">Où sans toucher ni au fonds ni aux épisodes, on s'est contenté de corriger le langage, &amp; d'abreger les conversations.</hi><lb/></titlePart>
+               <titlePart><lb/>TOME QUATRIEME.<lb/></titlePart>
+               <titlePart><lb/><hi rend="italic">PREMIERE PARTIE.</hi><lb/></titlePart>
+               </docTitle>
+               <docImprint><lb/>A PARIS,<lb/></docImprint>
+               <docImprint>Chez PIERRE WITTE, rue S. Jacques proche de S. Yves, à l'Ange Gardien.<lb/>
+                  Chez DIDOT. Quay des Augustins, près du Pont S. Michel, à la Bible d'or.</docImprint>
+               <docDate><hi rend="rule"/><lb/>M. DCC. XXXIII.<lb/></docDate>
+               <docImprint><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></docImprint>
                <pb xml:id="page_abs_1715" n="page_ori_1"/> 
-             </div>
+             </titlePage>
+           </front>
+           <body>
         <div xml:id="partie4" n="4" type="partie">
            <head><lb/>L'ASTRÉE<lb/>
               DE<lb/>
@@ -8430,22 +8460,32 @@
                <p><lb/><title><hi rend="italic">FIN.</hi></title><lb/></p>
             </div>
          </div>
-            <div xml:id="page_titre5" n="5" type="page_titre">
+           </body>
+        </text>
+        <text>
+           <front>
+            <titlePage xml:id="page_titre5" n="5" type="page_titre">
                <pb xml:id="page_abs_2377" n="page_ori_LIM"/>
-               <p><lb/><title>L'ASTRÉE<lb/>
+               <docTitle>
+                  <titlePart>
+               <lb/>L'ASTRÉE<lb/>
                   DE M. D'URFÉ,<lb/>
                   PASTORALE ALLEGORIQUE,<lb/>
                   AVEC LA CLÉ,<lb/>
-                  NOUVELLE EDITION,</title><lb/></p>
-               <p><lb/><title><hi rend="italic">Où sans toucher ni au fonds ni aux épisodes, on s'est contenté de corriger le langage, &amp; d'abreger les conversations.</hi></title><lb/></p>
-               <p><lb/><title>TOME CINQUIEME.</title><lb/></p>
-               <p><lb/>A PARIS,<lb/></p>
-               <p>Chez PIERRE WITTE, rue S. Jacques proche de S. Yves, à l'Ange Gardien.<lb/>
-                  Chez DIDOT, Quay des Augustins, près du Pont S. Michel, à la Bible d'or.</p>
-               <p><hi rend="rule"/><lb/><title>M. DCC. XXXIII.</title><lb/></p>
-               <p><lb/><title><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi></title><lb/></p>
+                  NOUVELLE EDITION,<lb/>
+                  </titlePart>
+               <titlePart><lb/><hi rend="italic">Où sans toucher ni au fonds ni aux épisodes, on s'est contenté de corriger le langage, &amp; d'abreger les conversations.</hi><lb/></titlePart>
+               <titlePart><lb/>TOME CINQUIEME.<lb/></titlePart>
+               </docTitle>
+               <docImprint><lb/>A PARIS,<lb/></docImprint>
+               <docImprint>Chez PIERRE WITTE, rue S. Jacques proche de S. Yves, à l'Ange Gardien.<lb/>
+                  Chez DIDOT, Quay des Augustins, près du Pont S. Michel, à la Bible d'or.</docImprint>
+               <docDate><hi rend="rule"/><lb/>M. DCC. XXXIII.<lb/></docDate>
+               <docImprint><lb/><hi rend="italic">Avec Approbation &amp; Privilege du Roy.</hi><lb/></docImprint>
                <pb xml:id="page_abs_2378" n="page_ori_1"/>
-            </div>
+            </titlePage>
+           </front>
+           <body>
         <div xml:id="partie5" n="5" type="partie">
            <head><lb/>L'ASTRÉE<lb/>
               DE<lb/>
@@ -10597,5 +10637,7 @@
                <p>&#160;<hi rend="italic">Torismond,</hi> est Henri III.</p>
                </div>
       </body>
+        </text>
+     </group>
   </text>
 </TEI>
