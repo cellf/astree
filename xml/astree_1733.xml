@@ -62,7 +62,7 @@
    </teiHeader>
   <text>
      <group>
-        <text>
+       <text xml:id="partie1" n="1" type="partie">
       <front>
          <pb xml:id="page_abs_1" n="page_ori_LIM1"/>
          <titlePage n="1" xml:id="page_titre1" type="page_titre">
@@ -93,7 +93,12 @@
             <pb xml:id="page_abs_2" n="page_ori_LIM2"/>
       </front>
      <body>
-         <div xml:id="avertissement" type="partie">
+       <head><lb/>L'ASTRÉE<lb/>
+         DE<lb/>
+         M. D'URFÉ.<lb/>
+         <hi rend="italic">PASTORALE ALLEGORIQUE</hi>.<lb/>
+         <lb/>PREMIERE PARTIE.<lb/></head>
+       <div xml:id="avertissement" type="partie">
             <head><lb/>AVERTISSEMENT.<lb/></head>
             <p><lb/>&#160;<hi rend="italic">Voici une nouvelle édition de l'Astrée, qui peut être ne déplaira pas au public. On n'a rien négligé pour lui rendre plus agréable la lecture de ce livre, soit en abrégeant quelques conversations trop longues, &amp; par conséquent ennuyeuses, ou même en retouchant l'expression dans les endroits où l'on a jugé qu'elle en avoit besoin.</hi></p>
             <p>&#160;<hi rend="italic">On n'ignore pas que cet ouvrage a eu d'illustres censeurs ; les uns ayant blâmé l'érudition qui y est répandue ; les autres, certains incidens qui sont traités à la maniere grecque. Mais il a eu aussi d'illustres approbateurs. Tels sont M. Camus évêque de Belley, S. François de Sales, M. Huet évêque d'Avranches, comme on peut s'en convaincre par la lettre du même M. Huet, que l'on trouvera à la fin de la cinquiéme partie,
@@ -141,12 +146,7 @@
             <p>&#160;<hi rend="rule"/><hi rend="italic">On croit devoir encore avertir, qu'avant que de se mettre à la lecture de ce roman, il faut lire la lettre de M. Huet &amp; les éclaircissemens, que l'on a renvoyés à la fin de la derniere partie ; ce volume n'étant déja que trop gros.</hi></p>
             <pb xml:id="page_abs_6" n="page_ori_LIM6"/>
          </div>
-         <div xml:id="partie1" n="1" type="partie">
-            <head><lb/>L'ASTRÉE<lb/>
-               DE<lb/>
-               M. D'URFÉ.<lb/>
-               <hi rend="italic">PASTORALE ALLEGORIQUE</hi>.<lb/>
-               <lb/>PREMIERE PARTIE.<lb/></head>
+            
             <div n="1" xml:id="livre0101" type="livre">
                <head><lb/><hi rend="italic">LIVRE PREMIER.</hi><lb/></head>
                <p><lb/>&#160;De toutes les contrées que renferment les Gaules, il n'en est point de plus délicieuse que le Forest. L'air que l'on y respire est temperé ; &amp; le climat y est si fertile, qu'il produit, au gré de ses habitans, toute sorte de fruits. Au milieu est une plaine enchantée, qu'arrose le fleuve de Loire, &amp; que differens ruisseaux viennent baigner. Le plus agréable de tous est le Lignon, qui va serpentant depuis les hautes montagnes de Cervieres &amp; de Chalmasel, jusqu'à Feurs, où la Loire le reçoit,
@@ -2032,10 +2032,9 @@
                <p>&#160;Après avoir mené quelque temps une vie si affreuse, l'infortuné Celadon changea tellement qu'il eût été difficile de le reconnoître. La maigreur lui avoit absolument changé le tour du visage, &amp; la tristesse avoit presqu'éteint ses beaux yeux. Lui-même, quand il alloit se desalterer à la source voisine, lorsqu'il voyoit son image dans le cristal de l'eau, il étoit surpris de ce qu'il vivoit. Ah si la bergere Astrée l'eût vu dans cet état, elle n'auroit pû douter ni de son amour, ni de sa fidelité !</p>
                <p><lb/><title><hi rend="italic">Fin de la premiere Partie.</hi></title></p>
             </div>
-         </div>
      </body>
 </text>
-        <text>
+       <text xml:id="partie2" n="2" type="partie">
            <front>
         <titlePage xml:id="page_titre2" n="2" type="page_titre">
            <pb xml:id="page_abs_599" n="page_ori_LIM"/>
@@ -2057,7 +2056,6 @@
         </titlePage>
            </front>
            <body>
-         <div xml:id="partie2" n="2" type="partie">
             <head><lb/>L'ASTRÉE<lb/>
                DE<lb/>
                M. D'URFÉ.<lb/>
@@ -3894,10 +3892,9 @@
                <p>DEMANDE D'OLYMBRE, 504</p>
                <p>JUGEMENT DU CONSEIL, 505</p>
             </div>
-         </div>
            </body>
         </text>
-        <text>
+       <text xml:id="partie3" n="3" type="partie">
            <front>
             <pb xml:id="page_abs_1112" n="page_ori_LIM"/>
             <titlePage xml:id="page_titre3" n="3" type="page_titre">
@@ -3923,7 +3920,6 @@
             </titlePage>
            </front>
            <body>
-        <div xml:id="partie3" n="3" type="partie">
            <head><lb/>L'ASTRÉE<lb/>
               DE<lb/>
               M. D'URFÉ.<lb/>
@@ -6062,10 +6058,9 @@
                <p>&#160;<hi rend="italic">Registré sur le Registre</hi> VIII. <hi rend="italic">de la Chambre Royale des Libraires &amp; Imprimeurs de Paris,</hi> N°. 217. <hi rend="italic">fol. 209. conformément aux anciens Reglemens, confirmez par celui du 28. Fevrier</hi> 1723. <hi rend="italic">A Paris le 9. Août 1731.</hi></p>
                <p><lb/><title>P. A. LE MERCIER, <hi rend="italic">Syndic.</hi></title><lb/></p>
             </div>
-         </div>
            </body>
         </text>
-        <text>
+        <text xml:id="partie4" n="4" type="partie">
            <front>
             <titlePage xml:id="page_titre4" n="4" type="page_titre">
                <pb xml:id="page_abs_1714" n="page_ori_LIM"/>
@@ -6090,7 +6085,6 @@
              </titlePage>
            </front>
            <body>
-        <div xml:id="partie4" n="4" type="partie">
            <head><lb/>L'ASTRÉE<lb/>
               DE<lb/>
               M. D'URFÉ.<lb/>
@@ -8459,10 +8453,9 @@
                <p>&#160;Son ame s'envola avec ces dernieres paroles : Heureux dans son malheur d'avoir donné sa vie pour celle qu'il aimoit, &amp; d'avoir vû les beaux yeux d'Astrée jetter des larmes à son trépas, sinon d'amour, au moins de compassion !</p>
                <p><lb/><title><hi rend="italic">FIN.</hi></title><lb/></p>
             </div>
-         </div>
            </body>
         </text>
-        <text>
+        <text xml:id="partie5" n="5" type="partie">
            <front>
             <titlePage xml:id="page_titre5" n="5" type="page_titre">
                <pb xml:id="page_abs_2377" n="page_ori_LIM"/>
@@ -8486,7 +8479,6 @@
             </titlePage>
            </front>
            <body>
-        <div xml:id="partie5" n="5" type="partie">
            <head><lb/>L'ASTRÉE<lb/>
               DE<lb/>
               M. D'URFÉ.<lb/>
@@ -10495,7 +10487,6 @@
                   à leur rencontre. Cependant Laonice remarquant Diane &amp; Pâris, qu'elle croyoit être Silvandre, vint leur demander pardon de la trahison qu'elle avoit tramée contr'eux. Elle n'eut pas de peine à l'obtenir, d'autant mieux qu'ils ne craignoient plus de changement dans leur fortune. Tyrcis demanda à Hylas d'où venoit cette nombreuse troupe, &amp; l'ayant appris, il pensa à aller aussi consulter la fontaine. Mais Laonice s'y opposa, &amp; l'engagea à suivre les autres à Marcilli, où pendant les huit jours qu'Amasis avoit destinés aux réjouissances publiques, tous ces amans conclurent heureusement leurs mariages, excepté Dorinde que Godomar enmena à Lyon. Il avoit sçu que le roi Gondebaut consentoit enfin que Sigismond l'épousât. Rosanire &amp; Rosiléon retournerent auprès de la reine Argyre ; &amp; tous les bergers, &amp; toutes les bergeres revinrent sur les bords du Lignon raconter les victoires qu'ils avoient remportées. Et le Lignon retentit tant de fois de leurs chants de triomphe, qu'il semble encore aujourd'hui que dans son plus doux murmure, il ne parle d'autre chose que du repos de CELADON, &amp; de la félicité d'ASTRE'E.</p>
                <p><lb/><title>FIN.</title><lb/></p>
             </div>
-         </div>
          <pb xml:id="page_abs_2933" n="page_ori_556"/>
          <div xml:id="lettre_huet_scudery" n="6" type="partie">
                <head><lb/>LETTRE DE M. HUET<lb/>
