@@ -107,42 +107,50 @@
             <p>&#160;<hi rend="italic">On se contentera de dire ici, après M. Huet, que M. d'Urfé fut le premier qui tira nos romans de la barbarie, &amp; qui les assujettit aux regles, dans son incomparable Astrée : ouvrage le plus ingenieux, &amp; le plus poli qui ait jamais paru en ce genre, &amp; qui a terni la gloire que la Grece, l'Italie, &amp; l'Espagne s'étoient acquise en ce genre.</hi></p>
             <p>&#160;<hi rend="italic">L'illustre M. de Fontenelle qui trouve que les bergers de l'Astrée sont quelquefois des sophistes trop pointilleux, lui rend d'ailleurs justice au même endroit où il le critique ; mais principalement dans ces vers admirables qui sont presque dans la bouche de tout le monde.</hi></p>
             <pb xml:id="page_abs_4" n="page_ori_LIM4"/>
-            <p><lb/>Quand je lis d'Amadis les faits inimitables,<lb/>
-               Tant de châteaux forcés, de géans pourfendus,<lb/>
-               De chevaliers occis, d'enchanteurs confondus :<lb/>
-               Je n'ai point de regret que ce soient là des fables.<lb/>
-               Mais quand je lis l'Astrée, où dans un doux repos<lb/>
-               L'Amour occupe seul de plus charmans héros ;<lb/>
-               &#160;Où l'Amour seul de leurs destins décide,<lb/>
-               Où la sagesse même a l'air si peu rigide,<lb/>
-               Qu'on trouve de l'Amour un zelé partisan<lb/>
-               Jusque dans Adamas le souverain druide :<lb/>
-               Dieux, que je suis faché que ce soit un roman ?<lb/></p>
-            <p><lb/>J'irois vous habiter, agréable contrée,<lb/>
-               &#160;Où je croirois que les esprits,<lb/>
-               &#160;Et de Celadon &amp; d'Astrée<lb/>
-               Iroient encore errans, des mêmes feux épris ;<lb/>
-               Où le charme secret produit par leur présence<lb/>
-               &#160;Feroit sentir à tous les cœurs<lb/>
-               &#160;Le mépris des vaines grandeurs,<lb/>
-               &#160;Et les plaisirs de l'innocence.<lb/></p>
-            <p><lb/>O rives de Lignon ! O plaines de Forest !<lb/>
-               &#160;Lieux consacrés aux amours les plus tendres,<lb/>
-               Montbrison, Marcilli, noms toujours pleins d'attraits,<lb/>
-               Que n'êtes-vous peuplés d'Hylas, &amp; de Silvandres ;<lb/>
-               Mais pour nous consoler de ne les trouver pas<lb/>
-               &#160;Ces Silvandres, &amp; ces Hylas,<lb/>
+            <lg>
+            <l>Quand je lis d'Amadis les faits inimitables,</l>
+               <l>Tant de châteaux forcés, de géans pourfendus,</l>
+               <l>De chevaliers occis, d'enchanteurs confondus :</l>
+               <l>Je n'ai point de regret que ce soient là des fables.</l>
+               <l>Mais quand je lis l'Astrée, où dans un doux repos</l>
+               <l>L'Amour occupe seul de plus charmans héros ;</l>
+               <l rend="indent">Où l'Amour seul de leurs destins décide,</l>
+               <l>Où la sagesse même a l'air si peu rigide,</l>
+               <l>Qu'on trouve de l'Amour un zelé partisan</l>
+               <l>Jusque dans Adamas le souverain druide :</l>
+               <l>Dieux, que je suis faché que ce soit un roman ?</l>
+            </lg>
+            <lg>
+               <l>J'irois vous habiter, agréable contrée,</l>
+               <l rend="indent">Où je croirois que les esprits,</l>
+               <l rend="indent">Et de Celadon &amp; d'Astrée</l>
+               <l>Iroient encore errans, des mêmes feux épris ;</l>
+               <l>Où le charme secret produit par leur présence</l>
+               <l rend="indent">Feroit sentir à tous les cœurs</l>
+               <l rend="indent">Le mépris des vaines grandeurs,</l>
+               <l rend="indent">Et les plaisirs de l'innocence.</l>
+            </lg>
+            <lg>
+               <l>O rives de Lignon ! O plaines de Forest !</l>
+               <l rend="indent">Lieux consacrés aux amours les plus tendres,</l>
+               <l>Montbrison, Marcilli, noms toujours pleins d'attraits,</l>
+               <l>Que n'êtes-vous peuplés d'Hylas, &amp; de Silvandres ;</l>
+               <l>Mais pour nous consoler de ne les trouver pas</l>
+               <l rend="indent">Ces Silvandres, &amp; ces Hylas,</l>
                <pb xml:id="page_abs_5" n="page_ori_LIM5"/>
-               Remplissons notre esprit de ces douces chiméres,<lb/>
-               Faisons-nous des bergers propres à nous charmer ;<lb/>
-               Et puisque dans ces champs nous voudrions aimer,<lb/>
-               &#160;Faisons-nous aussi des bergeres.<lb/></p>
-            <p><lb/>Souvent en s'attachant à des fantômes vains,<lb/>
-               Notre raison séduite avec plaisir s'égare.<lb/>
-               Elle-même jouit des objets qu'elle a feints,<lb/>
-               Et cette illusion pour quelque temps répare<lb/>
-               Le défaut des vrais biens que la nature avare<lb/>
-               &#160;N'a pas accordés aux humains.<lb/></p>
+               <l>Remplissons notre esprit de ces douces chiméres,</l>
+               <l>Faisons-nous des bergers propres à nous charmer ;</l>
+               <l>Et puisque dans ces champs nous voudrions aimer,</l>
+               <l rend="indent">Faisons-nous aussi des bergeres.</l>
+            </lg>
+            <lg>
+               <l>Souvent en s'attachant à des fantômes vains,</l>
+               <l>Notre raison séduite avec plaisir s'égare.</l>
+               <l>Elle-même jouit des objets qu'elle a feints,</l>
+               <l>Et cette illusion pour quelque temps répare</l>
+               <l>Le défaut des vrais biens que la nature avare</l>
+               <l rend="indent">N'a pas accordés aux humains.</l>
+            </lg>
             <p>&#160;<hi rend="rule"/><hi rend="italic">On croit devoir encore avertir, qu'avant que de se mettre à la lecture de ce roman, il faut lire la lettre de M. Huet &amp; les éclaircissemens, que l'on a renvoyés à la fin de la derniere partie ; ce volume n'étant déja que trop gros.</hi></p>
             <pb xml:id="page_abs_6" n="page_ori_LIM6"/>
          </div>
