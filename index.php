@@ -67,14 +67,6 @@ if ($doc['bookId']) {
   // auteur, titre, date
   if ($doc['byline']) $doc['byline']=$doc['byline'].'<br/>';
   echo "\n".'<header><a href="'.$pot->baseHref.$doc['bookName'].'/">'.$doc['byline'].$doc['title'].' ('.$doc['end'].')</a></header>';
-  // rechercher dans ce livre
-  echo '
-  <form>
-    <small>Rechercher dans ce livre</small><br/>
-    <input name="q" id="q" onclick="this.select()" name="search" size="25" title="Rechercher dans ce livre" value="'. str_replace('"', '&quot;', $pot->q) .'"/>
-    <button name="go">&gt;</button>
-  </form>
-  ';
   // table des matières
   echo $doc['toc'];
   echo "\n</nav>";
