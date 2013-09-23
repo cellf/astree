@@ -95,7 +95,7 @@
          M. D'URFÉ.<lb/>
          <hi rend="italic">PASTORALE ALLEGORIQUE</hi>.<lb/>
          PREMIERE PARTIE.</head>
-       <div xml:id="avertissement" type="partie">
+       <div xml:id="avertissement" type="chapter">
             <head>AVERTISSEMENT.</head>
             <p rend="indent"><hi rend="italic">Voici une nouvelle édition de l'Astrée, qui peut être ne déplaira pas au public. On n'a rien négligé pour lui rendre plus agréable la lecture de ce livre, soit en abrégeant quelques conversations trop longues, &amp; par conséquent ennuyeuses, ou même en retouchant l'expression dans les endroits où l'on a jugé qu'elle en avoit besoin.</hi></p>
             <p rend="indent"><hi rend="italic">On n'ignore pas que cet ouvrage a eu d'illustres censeurs ; les uns ayant blâmé l'érudition qui y est répandue ; les autres, certains incidens qui sont traités à la maniere grecque. Mais il a eu aussi d'illustres approbateurs. Tels sont M. Camus évêque de Belley, S. François de Sales, M. Huet évêque d'Avranches, comme on peut s'en convaincre par la lettre du même M. Huet, que l'on trouvera à la fin de la cinquiéme partie,
@@ -152,7 +152,7 @@
             <pb xml:id="page_abs_6" n="page_ori_LIM6"/>
          </div>
             
-            <div n="1" xml:id="livre0101" type="livre">
+            <div n="1" xml:id="livre0101" type="chapter">
                <head>LIVRE PREMIER.</head>
                <p rend="indent">De toutes les contrées que renferment les Gaules, il n'en est point de plus délicieuse que le Forest. L'air que l'on y respire est temperé ; &amp; le climat y est si fertile, qu'il produit, au gré de ses habitans, toute sorte de fruits. Au milieu est une plaine enchantée, qu'arrose le fleuve de Loire, &amp; que differens ruisseaux viennent baigner. Le plus agréable de tous est le Lignon, qui va serpentant depuis les hautes montagnes de Cervieres &amp; de Chalmasel, jusqu'à Feurs, où la Loire le reçoit,
                   <pb xml:id="page_abs_7" n="page_ori_2"/>
@@ -285,7 +285,7 @@
                   <p rend="indent">Pour ce qui est d'Astrée, elle s'étoit livrée toute entiere à sa douleur, &amp; après avoir versé des torrens de larmes, &amp; s'être consumée en regrets ; l'esprit &amp; le cœur uniquement occupés  de sa perte, elle avoit cedé au sommeil qui étoit venu la surprendre.</p>
             </div>
             <pb xml:id="page_abs_35" n="page_ori_30"/>
-            <div xml:id="livre0102" n="2" type="livre">
+            <div xml:id="livre0102" n="2" type="chapter">
                   <head><hi rend="rule"/>LIVRE SECOND.</head>
                <p rend="indent">Pendant que les choses se passoient ainsi entre les bergers, Celadon reçut des nymphes dans le palais d'Isoure tous les secours qu'elles purent lui donner ; mais, malgré leurs soins attentifs, il ne put encore ouvrir les yeux, ni donner d'autre signe de vie que la respiration. Il passa le reste du jour, &amp; une partie de la nuit, en cet état. Quel fut son étonnement, lorsqu'il ouvrit les yeux, de se trouver où il étoit ! Car il se souvenoit bien de ce qui lui étoit arrivé sur les bords du Lignon, &amp; comme il s'y étoit jetté dans son desespoir,
                   <pb xml:id="page_abs_36" n="page_ori_31"/>
@@ -363,7 +363,7 @@
                Mais jamais il n'a pu aimer mon pere, &amp; nos deux familles ont toujours été ennemies. Et voilà, belle nymphe, dit Celadon, en s'adressant à Silvie, ce que vous avez oui dire dans notre hameau, car je suis fils d'Alcippe &amp; d'Amaryllis, &amp; Astrée doit le jour à Alcée &amp; à Hyppolite. Celadon ayant achevé son récit, les nymphes le quitterent, &amp; Galatée rentra dans son appartement, fort satisfaite d'avoir appris que ce berger qu'elle aimoit, avoit une illustre origine.</p>
                </div>
              </div>
-            <div xml:id="livre0103" n="3" type="livre">
+            <div xml:id="livre0103" n="3" type="chapter">
                <head><hi rend="rule"/>LIVRE TROISIÈME.</head>
                <p rend="indent">Les nymphes, tant que le jour dura, firent compagnie à Celadon. Il eût gouté dans leur conversation tous les plaisirs
                   <pb xml:id="page_abs_63" n="page_ori_58"/>
@@ -512,7 +512,7 @@
                <p rend="indent">En ce même temps, Celadon, dont l'estomach n'étoit pas encore bien rétabli, se trouva fort mal : de sorte qu'à l'abord de la nymphe ils furent contraints de se retirer ; &amp; le berger se mit au lit, où il demeura plusieurs jours dans le même état.</p>
             </div>
             <pb xml:id="page_abs_103" n="page_ori_98"/>
-            <div xml:id="livre0104" n="4" type="livre">
+            <div xml:id="livre0104" n="4" type="chapter">
                <head><hi rend="rule"/>LIVRE QUATRIÈME.</head>
                <p rend="indent">GALATE'E qui étoit veritablement éprise, demeura presque toujours auprès de Celadon, tant que dura sa maladie ; &amp; si quelque raison la contraignoit de le quitter, elle lui laissoit ordinairement Leonide, qu'elle avoit chargée de faire entendre au berger quels étoient ses sentimens pour lui. La nymphe croyoit par ce moyen faire naître en lui les esperances que sa condition ne lui permettoit pas de concevoir. Et certes Leonide ne la trompoit nullement. Bien qu'elle souhaitât que Lindamor fût satisfait, comme elle attendoit sa fortune de Galatée, elle songeoit uniquement à lui plaire. Mais Amour
                   <pb xml:id="page_abs_104" n="page_ori_99"/>
@@ -726,7 +726,7 @@
                <p rend="indent">Belle Diane, je n'y pus tenir davantage, je regagnai vîte mon troupeau ; &amp; mon malheur m'ayant fait rencontrer mon berger, dans le temps que le dépit &amp; la jalousie m'avoient ôté tout jugement, sans l'interroger, sans vouloir l'entendre, je lui parlai avec tant de colere &amp; tant de mépris, que desesperé il se précipita dans cet abîme, &amp; me donna le coup de la mort. A ces mots la pâleur s'empara de son visage, &amp; si Phylis ne l'avoit tirée par le bras, elle se seroit évanouie.</p>
             </div>
             <pb xml:id="page_abs_167" n="page_ori_162"/>
-            <div xml:id="livre0105" n="5" type="livre">
+            <div xml:id="livre0105" n="5" type="chapter">
                <head><hi rend="rule"/>LIVRE CINQUIÈME.</head>
                <p rend="indent">Le bruit que firent les bergeres, lors qu'Astrée pensa s'évanouir, fut si grand, qu'il éveilla Leonide ; &amp; les entendant parler auprès d'elle, elle voulut sçavoir qui elles étoient. Mais Astrée étant un peu remise les trois bergeres s'étoient déja levées pour s'en aller, &amp; tout ce que put faire Leonide, fut d'eveiller Sylvie, &amp; de les lui montrer. Sylvie reconnut d'abord Astrée, bien que la perte de Celadon l'eût extremément changée. «Et les deux autres, dit Leonide, qui sont-elles ? Celle qui est à sa gauche répondit Sylvie, c'est Phylis sa chere compagne, &amp; l'autre c'est Diane fille de Celion, &amp; de la
                   <pb xml:id="page_abs_168" n="page_ori_163"/>
@@ -876,7 +876,7 @@
                <p rend="indent">Après que Corilas eut fini son recit, Adamas lui dit en souriant : «Mon enfant, ce que je puis vous conseiller de mieux, c'est d'éviter la perfide ; &amp; lorsque vous trouverez un parti convenable, de le prendre, sans vous arrêter à ces caprices du premier âge ; car il n'est rien qui attire tant d'estime, que de se marier non par amour, mais par raison : cette action étant une des plus importantes que vous puissiez jamais faire, &amp; dont dépend tout le bonheur de votre vie.» A ces mots ils se separerent, car il commençoit à se faire tard, le druyde continua sa route, &amp; Corilas se retira dans sa cabane.</p>
             </div>
             <pb xml:id="page_abs_217" n="page_ori_212"/>
-            <div xml:id="livre0106" n="6" type="livre">
+            <div xml:id="livre0106" n="6" type="chapter">
                <head><hi rend="rule"/>LIVRE SIXIÈME.</head>
                <p rend="indent">Leonide ne trouvant point Adamas à Feurs, elle reprit la route qu'elle avoit tenue, sans s'arrêter qu'autant de temps qu'il lui en fallut pour dîner ; le desir qu'elle avoit de connoître les bergeres qu'elle avoit vues le jour d'auparavant, lui fit prendre la resolution de passer la nuit avec elles. Elle revint donc au même lieu où elle les avoit rencontrées : puis tournant les yeux de tous côtés, elle apperçut au loin des bergeres, mais ne pouvant les reconnoître dans un si grand éloignement, elle s'approcha d'elles par un long circuit, &amp; connut enfin que c'étoit les mêmes qu'elle cherchoit. Elle ne pouvoit arriver plus heureusement,
                   <pb xml:id="page_abs_218" n="page_ori_213"/>
@@ -1063,7 +1063,7 @@
                   tant de fois prédit, que je l'aimerois après sa mort, plus que je n'avois fait durant sa vie. Depuis que je l'ai perdu, il me semble qu'à toute heure je l'ai devant les yeux, &amp; qu'il me dit sans cesse, que je dois l'aimer, si je ne veux être l'ingratitude même. Aussi t'aimai-je, ô chere ame, mais de l'amour le plus vif &amp; le plus tendre ! Et si aux lieux que tu habites maintenant, on a quelque connoissance de ce qui se passe ici bas, reçoi ces larmes que je t'offre en témoignage que Diane aimera son cher Filandre jusqu'au dernier soupir.</p>
             </div>
             <pb xml:id="page_abs_271" n="page_ori_265"/>
-            <div xml:id="livre0107" n="7" type="livre">
+            <div xml:id="livre0107" n="7" type="chapter">
                <head><hi rend="rule"/>LIVRE SEPTIÈME.</head>
                <p rend="indent">Astrée voulant interrompre de si tristes regrets, demanda à Diane quel étoit le malheureux auteur d'un si grand desastre. «Helas ! répondit la bergere, que pourrois-je vous en dire ? C'étoit un monstre qui ne nâquit que pour me causer une éternelle douleur. Mais enfin, poursuivit Astrée, n'a-t-on jamais sçu quel homme c'étoit ? On nous dit quelque temps après, repliqua Diane, qu'il venoit d'un pays barbare, situé au delà d'un détroit, que l'on appelle, je ne sçais si je le nommerai bien, les colomnes d'Hercule. Le sujet qui l'amena pour mon malheur, est que la
                   <pb xml:id="page_abs_272" n="page_ori_266"/>
@@ -1208,7 +1208,7 @@
                   visage un peu long, &amp; d'humeur agréable, quand il lui plaît. Et qui vous a dit, repliqua Lycidas, qu'il sert Phylis ? leurs actions, répondit-elle. Mais dites-moi si vous ne sçavez rien de celui que je cherche, car il est tard, &amp; j'ignore où je pourrai le trouver.» La surprise de Lycidas fut telle qu'il ne put lui répondre ; mais Corilas lui dit de suivre le sentier où ils étoient, qu'en sortant du bois elle verroit une prairie où l'on s'assembloit tous les soirs, &amp; qu'elle ne manqueroit pas d'y trouver le berger desolé. Il ajouta, que de peur qu'elle ne s'égarât, il l'accompagneroit si elle le jugeoit à propos. Laonice feignant de ne sçavoir pas le chemin, accepta avec politesse l'offre de Corilas, &amp; saluant Lycidas, elle prit le chemin qui lui avoit été montré. Pour Lycidas, il demeura long-temps immobile au même lieu : enfin revenant à lui-même, il repetoit ce que lui avoit dit la bergere, &amp; ne pouvoit la soupçonner d'imposture. Il seroit trop long de redire ses plaintes, &amp; les outrages dont il chargea la fidele Phylis. Il passa toute la nuit dans le plus épais du bois, &amp; lorsque le soleil commença de paroître, la fatigue le contraignit de se coucher sous des arbres, où le sommeil le surprit.</p>
             </div>
             <pb xml:id="page_abs_312" n="page_ori_306"/>
-            <div xml:id="livre0108" n="8" type="livre">
+            <div xml:id="livre0108" n="8" type="chapter">
                <head><hi rend="rule"/>LIVRE HUITIÈME.</head>
                <p rend="indent">Dés que le jour parut, Diane, Astrée, &amp; Phylis s'assemblerent pour se rendre au lever de Leonide. La nymphe avoit tellement goûté les bergeres, que pour ne pas perdre un moment de temps qu'elle pouvoit passer auprès d'elles, elle s'étoit habillée aussi-tôt qu'elle avoit vû le jour. Les bergeres furent étonnées de sa diligence ; toutes ensembles elles se prirent par la main, &amp; sortirent du hameau, pour commencer le même exercice que le jour d'auparavant. Le premier objet qui s'offrit à leurs yeux fut Silvandre. On ne feint point impunément d'aimer ; il ressentoit déja un amour veritable pour
                   <pb xml:id="page_abs_313" n="page_ori_307"/>
@@ -1410,7 +1410,7 @@
                <p rend="indent">Cependant Laonice ravie d'un si beau prélude, se retira avec la bergere sa compagne ; &amp; d'un autre côté Silvandre resolut, puisque Lycidas prenoit si aisément de la jalousie, de la lui vendre à l'avenir plus cherement, en feignant d'être amoureux de Phylis, lorsqu'il le verroit auprès d'elle.</p>
             </div>
             <pb xml:id="page_abs_380" n="page_ori_374"/>
-            <div xml:id="livre0109" n="9" type="livre">
+            <div xml:id="livre0109" n="9" type="chapter">
                <head><hi rend="rule"/>LIVRE NEUVIÈME.</head>
                <p rend="indent">Leonide, cependant arriva chés Adamas, &amp; lui fit entendre que Galatée avoit un besoin extrême de son secours, pour un sujet qu'elle lui diroit en chemin. Adamas, pour ne point désobeir à la nymphe, resolut de partir aussi-tôt que la lune se montreroit. Lorsqu'ils furent au bas de la colline, &amp; qu'ils n'avoient plus à traverser qu'une plaine, qui les conduisoit au palais d'Isoure, Leonide, à la sollicitation d'Adamas, commença en ces termes :</p>
                <pb xml:id="page_abs_381" n="page_ori_375"/>
@@ -1588,7 +1588,7 @@
                   nymphe un peu honteuse, répondit que, malgré l'envie qu'elle avoit eue de lui parler, elle n'en avoit eu ni la hardiesse, ni les occasions ; &amp; que Climante étoit l'auteur de tout le mal. «Oh, s'il étoit possible de l'attraper, repartit Adamas, il payeroit cher l'insolence qu'il a eue d'usurper la qualité de druyde. La chose ne sera pas difficile, dit Leonide. Il dit à Galatée, de retourner plusieurs fois au lieu qu'il lui marquoit, en cas que la premiere fois elle ne rencontrât pas l'homme désigné. Je sçai que Polemas &amp; lui étant venus trop tard le premier jour, ne manquérent pas d'y venir les jours suivans : qui voudra surprendre l'imposteur, n'aura qu'à se cacher au lieu que je vous montrerai, il y viendra sans doute. Pour ce qui est du jour, je l'ai oublié, mais vous pourrez le sçavoir de Galatée.»</p>
             </div>
             <pb xml:id="page_abs_445" n="page_ori_439"/>
-            <div xml:id="livre0110" n="10" type="livre">
+            <div xml:id="livre0110" n="10" type="chapter">
                <head><hi rend="rule"/>LIVRE DIXIÈME.</head>
                <p rend="indent">Le druyde &amp; la nymphe abregérent ainsi leur chemin, &amp; se trouvérent, presque sans y penser, près du palais d'Isoure. Adamas instruisit Leonide de tout ce qu'elle avoit à dire de lui à Galatée : «Mais sur tout, disoit-il, ne lui faites pas entendre que j'aye blâmé sa conduite ; c'est par la douceur, &amp; non par la force qu'il faut la ramener. Cependant, souvenez-vous que ces sortes d'attachemens sont honteux pour ceux qui les ont, &amp; pour ceux qui les favorisent.» Il alloit continuer, mais à l'entrée du palais ils rencontrerent Sylvie qui les conduisit où étoit Galatée. Elle se promenoit
                   <pb xml:id="page_abs_446" n="page_ori_440"/>
@@ -1816,7 +1816,7 @@
                <p rend="indent">Voilà ce que vous avez desiré sçavoir de leur fortune ; ils vécurent heureux, tant que les dieux leur permirent de vivre ensemble. Peu de temps après ils eurent un fils, à qui par consideration pour Ergaste, ils donnerent son nom ; mais ce malheureux enfant fut perdu dans le cruel pillage que firent quelques étrangers, &amp; depuis on n'en a point eu de nouvelles. Quelques années après il leur nâquit une fille qu'ils nommérent Diane. Mais ni Celion ni Ergaste ne jouirent long-temps du plaisir de voir cet enfant, car ils moururent bien-tôt après, &amp; tous deux le même jour. Et cette Diane dont vous m'avez demandé des nouvelles est celle-là même qui dans notre hameau est tenue pour une des plus belles &amp; des plus sages bergeres de Forest.</p> 
             </div>
             <pb xml:id="page_abs_512" n="page_ori_506"/>
-            <div xml:id="livre0111" n="11" type="livre">
+            <div xml:id="livre0111" n="11" type="chapter">
                <head><hi rend="rule"/>LIVRE ONZIÈME.</head>
                <p rend="indent">Celadon s'entretenoit de la sorte avec Sylvie, pendant que Leonide &amp; Galatée parloient des nouvelles que leur avoit apportées Fleurial ; car aussi-tôt que la nymphe apperçut Leonide, elle lui dit en secret d'empêcher que Fleurial ne vît le berger ; car, ajoutoit-elle, il est si devoué à Lindamor, &amp; «si simple d'ailleurs qu'il lui raconteroit tout ce qu'il auroit vû ; occupez-le donc pendant que je lirai mes lettres.» A ces mots, Leonide emmenant Fleurial, lui demanda quelles nouvelles il apportoit, «d'admirables, répondit-il, &amp; telles
                   <pb xml:id="page_abs_513" n="page_ori_507"/>
@@ -1945,7 +1945,7 @@
                   la nymphe, pensez-vous qu'il n'y ait point d'amour ? S'il y en a, repartit Celadon, il doit avoir un caractere de douceur ; mais quel qu'il soit, madame, vous en parlez à une personne bien ignorante en ce point ! outre que ma condition ne me permet pas d'en sçavoir beaucoup, mon esprit grossier m'en rend encore plus incapable. Cependant berger, lui repliqua la triste Sylvie, il y a quelque temps que je vous vis en un lieu, où difficilement on eût pu croire ce que vous dites de vous ; car il y avoit trop de beautés, &amp; vous avez trop de sentiment pour ne vous pas laisser prendre. Belle nymphe, répondit le berger, en quelque lieu que ce fût, il y avoit de la beauté sans doute, puisque vous y étiez ; mais vous en avez trop pour nos cœurs rustiques, qui doivent plus tôt vous admirer, que vous aimer, vous adorer, que vous servir.» C'est en discourant de la sorte, qu'ils rentrerent au palais, où l'heure du repas les appelloit.</p>
             </div>
             <pb xml:id="page_abs_557" n="page_ori_551"/>
-            <div xml:id="livre0112" n="12" type="livre">
+            <div xml:id="livre0112" n="12" type="chapter">
                <head><hi rend="rule"/>LIVRE DOUZIÈME.</head>
                <p rend="indent">Des que le jour commença de paroître, Leonide, suivant la resolution qu'Adamas, Celadon, &amp; Sylvie, avoit prise de concert avec elle, vint trouver le berger, pour le revêtir des habits que le druyde avoit apportés. Mais le petit Meril, qui, par ordre de Galatée, demeuroit presque toujours auprès de Celadon, autant pour épier les actions de Leonide, que pour servir le berger, déconcerta quelque temps leurs mesures. Un bruit enfin qu'ils entendirent dans la cour, fit sortir Meril, dans le dessein de leur en rapporter des nouvelles. Celadon se leve incontinent,
                   <pb xml:id="page_abs_558" n="page_ori_552"/>
@@ -2136,7 +2136,7 @@
                M. D'URFÉ.<lb/>
                <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
                SECONDE PARTIE.</head>
-            <div xml:id="livre0201" n="1" type="livre">
+            <div xml:id="livre0201" n="1" type="chapter">
                <head><hi rend="rule"/>LIVRE PREMIER.</head>
                <p rend="indent">Déja la lune s'étoit montrée deux fois, depuis que Celadon s'étoit retiré dans la caverne ; &amp; quoiqu'il y eût près de trois mois qu'Astrée l'avoit perdu, elle en ressentoit un si cruel déplaisir, qu'elle ne pouvoit le cacher aux yeux les moins attentifs. Le temps qui adoucit tous les maux ne faisoit qu'augmenter les siens. La compagnie des autres bergeres, la promenade, les amusemens, tout lui paroissoit insupportable. Dans sa douleur, elle n'avoit pas même
                   <pb xml:id="page_abs_601" n="page_ori_2"/>
@@ -2343,7 +2343,7 @@
                <p rend="indent">Cependant Celidée pour nous insulter également : «Ne disputez point, dit-elle, à qui doit être Celidée ; vous ne l'aurez jamais ni l'un ni l'autre ; vous Calydon, parce qu'elle ne vous aima jamais, &amp; vous continua-t-elle, en se tournant vers moi, parce que vous vous êtes rendu indigne de l'amour qu'elle vous portoit.» Elle nous échape à l'instant, &amp; nous laisse interdits &amp; confus. Nous nous separons Calydon &amp; moi ; Calydon ne rentra plus dans sa cabane, &amp; se retira chés un de ses parens, sans lui expliquer le sujet de sa fuite. Il s'est passé plus de trois lunes depuis cette separation, &amp; depuis nous n'avons pu tirer un mot obligeant de Celidée. Plus elle nous voit obstinés à l'aimer, plus elle s'obstine à nous haïr. Cependant mon amour pour elle, loin de diminuer, augmente chaque jour ; &amp; je suis persuadé que si elle maima autrefois, parce qu'elle se croyoit aimée, elle m'aimeroit encore plus aujourd'hui, si elle sçavoit que mon amour est plus violent qu'il ne le fut jamais.</p>
             </div>
             <pb xml:id="page_abs_645" n="page_ori_46"/>
-            <div xml:id="livre0202" n="2" type="livre">
+            <div xml:id="livre0202" n="2" type="chapter">
                <head><hi rend="rule"/>LIVRE SECOND.</head>
                <p rend="indent">Ainsi parla Thamyre pour apprendre à la nymphe ce qu'elle avoit desiré sçavoir, &amp; s'étant tû quelque temps, il poursuivit en ces termes : «Or, madame, nous nous sommes rencontrés par hazard au sortir du Lignon avec cette bergere, &amp; nous tâchions de lui prouver qu'elle devoit nous aimer l'un ou l'autre. Je lui disois moi que son choix devoit me regarder, &amp; Calydon, que j'ai comblé de bienfaits, soutient qu'il doit avoir la preference. Je sçai, grande nymphe, que vous entendez mes raisons beaucoup mieux que je ne puis les
                   <pb xml:id="page_abs_646" n="page_ori_47"/>
@@ -2503,7 +2503,7 @@
                <p rend="indent">Silvandre eut beau écouter attentivement, il ne put s'assurer qui étoit le druyde, quoi qu'il crût le reconnoitre, pour le berger il ne le connut point du tout. C'est pourquoi il prit le parti de les suivre. Il esperoit de les reconnoitre à la clarté de la lune, quand il seroient hors du bois. Mais comme il ne les suivoit que de loin, de peur d'être apperçu, il les perdit entre les arbres, &amp; ne put sçavoir depuis ce qu'ils étoient devenus. Il ne cessa pourtant de les chercher que quand la lassitude &amp; le sommeil l'eurent contraint de choisir un lieu pour se reposer ; car il ne pouvoit regagner son hameau.</p>
             </div>
             <pb xml:id="page_abs_686" n="page_ori_87"/>
-            <div xml:id="livre0203" n="3" type="livre">
+            <div xml:id="livre0203" n="3" type="chapter">
                <head><hi rend="rule"/>LIVRE TROISIÈME.</head>
                <p rend="indent">Silvandre ne s'éveilla que fort tard, parce que la nuit étoit déja très avancée, lorsqu'il s'endormit. Pour le berger qui s'étoit entretenu avec le druyde, il fut aussi matineux que l'aurore. Comme il demeuroit près du lieu où Silvandre s'étoit retiré, il arriva qu'en se promenant selon sa coutume, il apperçut le berger qui dormoit. Depuis plus d'un mois qu'il habitoit ce lieu, il n'avoit point encore rencontré de berger qu'il connût. La curiosité le porte à s'approcher doucement, &amp; bien-tôt il reconnoit Silvandre pour un de ses plus intimes amis. Le souvenir de sa vie passée lui arracha des larmes ; il se retira aussitôt,
                   <pb xml:id="page_abs_687" n="page_ori_88"/>
@@ -2645,7 +2645,7 @@
                   fut ravie ; elle feignit pourtant d'en être fâchée à l'exemple des autres qui tous ensemble se firent voir. Pour Hylas, il feignit d'avoir interrompu Florice à dessein, &amp; courut l'embrasser. Il salue ensuite les deux autres, puis retournant à Florice : «Hé bien, dit-il, ne cesserez-vous point de médire de moi ? Depuis quand, répondit-elle, pensez-vous de la sorte ? En verité je croyois chanter vos louanges. N'est-il pas cruel à vous, ajouta le berger, de me rappeller le souvenir de mes premieres amours ? O, dit Florice, la cruauté n'est pas grande, &amp; vous n'avez point à craindre de mourir d'amour, vous y connoissez de trop exellens remedes. Vous auriez raison, repartit Hylas, si toutes les blessures se guerissoient par des remedes semblables ; mais, dites-moi quel dessein vous conduit en ce lieu ? Ce n'est pas, répondit Florice, celui de vous y voir. Si vous étiez aussi reconnoissante que gracieuse, ajouta Hylas, je vous ai assés servies toutes, pour vous inspirer le desir de me revoir.» A ces mots Astrée, Diane, &amp; Phylis arrivérent avec les bergers, &amp; leur présence termina la dispute.</p>
             </div>
             <pb xml:id="page_abs_729" n="page_ori_130"/>
-            <div xml:id="livre0204" n="4" type="livre">
+            <div xml:id="livre0204" n="4" type="chapter">
                <head><hi rend="rule"/>LIVRE QUATRIÈME.</head>
                <p rend="indent">Les bergers du Lignon ne manquoient jamais d'exercer les loix de l'hospitalité. Cet usage bien établi parmi eux engagea Astrée, Diane &amp; Phylis à rendre ces mêmes devoirs aux belles étrangeres ; &amp; à leur demander ensuite le sujet de leur voyage. Florice répondit qu'un dieu les envoyoit dans cette contrée, &amp; que leur étant défendu d'en dire la raison, elles ne pouvoient satisfaire leur curiosité à cet égard. Florice à son tour demanda qui étoient ces bergeres : Phylis lui en dit les noms, &amp; dans le moment s'adressant à la belle Astrée ; «J'avoue, dit-elle, que j'ai
                   <pb xml:id="page_abs_730" n="page_ori_131"/>
@@ -2825,7 +2825,7 @@
                   en effet les excuses de sa femme, resolut de rester quelque temps à la campagne ; pour connoître mieux son caractére, &amp; examiner de près sa conduite. Cependant je ne pouvois demeurer inutile. Je vis Chriseide, &amp; je l'aimai. Il est vrai qu'elle méritoit mon attachement, car il n'y eut jamais d'étrangére plus charmante, ni plus capable d'inspirer de l'amour.</p>
             </div>
             <pb xml:id="page_abs_780" n="page_ori_181"/>
-            <div xml:id="livre0205" n="5" type="livre">
+            <div xml:id="livre0205" n="5" type="chapter">
                <head><hi rend="rule"/>LIVRE CINQUIÈME.</head>
                <p rend="indent">Astrée eût entendu Hylas avec bien du plaisir, si elle avoit été dans une autre situation ; mais le desir extrême qu'elle avoit de se rendre au lieu où Silvandre avoit trouvé la lettre de Celadon, lui faisoit souffrir avec impatience tout ce qui la retardoit. Elle fit donc signe à Phylis qu'il étoit temps de partir, &amp; lorsqu'elle s'apperçut qu'Hylas s'arrêtoit pour songer à ce qu'il avoit à dire de Chriseide, &amp; qu'il alloit continuer, elle le prévint ainsi : «Je n'aurois jamais cru que Phylis eût eu tant d'empire sur le volage Hylas ; mais puisque la bergere le
                   <pb xml:id="page_abs_781" n="page_ori_182"/>
@@ -2998,7 +2998,7 @@
                   la lune ne paroisse. Que ferons-nous donc, dit Pâris ? Il faut, continua Silvandre, rester sous ces arbres, en attendant la lune.» Toute la troupe agréa la proposition, d'autant mieux qu'une partie de la nuit étoit déja passée. Ils choisirent donc un lieu bien sec, &amp; les bergers étendant leurs habits sous les bergeres, ils se retirerent à quelque distance d'elles, &amp; attendirent ainsi que la lune parût.</p>
             </div>
             <pb xml:id="page_abs_811" n="page_ori_212"/>
-            <div xml:id="livre0206" n="6" type="livre">
+            <div xml:id="livre0206" n="6" type="chapter">
                <head><hi rend="rule"/>LIVRE SIXIÈME.</head>
                <p rend="indent">Les Bergeres qui n'étoient point accoutumées à dormir de la sorte, s'entretinrent long temps avant que le sommeil vînt les saisir. La nuit même les effrayoit, &amp; la peur les faisant se resserer, elles veilloient plus qu'elles n'auroient voulu. Le hazard avoit placé Diane auprès de Madonte. C'est pourquoi discourant avec elle, après plusieurs discours, elle lui demanda quelle fortune l'avoit conduite en cette contrée. «Sage Diane, répondit-elle, l'histoire en feroit trop longue ; qu'il vous suffise d'apprendre que
                   <pb xml:id="page_abs_812" n="page_ori_213"/>
@@ -3154,7 +3154,7 @@
                <p rend="indent">Laonice ne perdit pas un mot de ce que disoient les bergeres. Pour Silvandre lors qu'il entendit les premiers discours de Diane, &amp; les conseils d'Astrée, quelle fut sa joye, &amp; combien se sentoit-il penétré de reconnoissance ! mais quand il entendit la resolution de Diane, quel fut son desespoir ! Heureusement pour lui que les bergeres s'endormirent ; car ses soupirs l'auroient trahi. Il se retira donc sans bruit, &amp; repassa long temps dans son esprit les discours des bergeres. Amour lui permit enfin de fermer les yeux, &amp; le sommeil vint en quelque sorte enchanter ses cruelles incertitudes.</p>
             </div>
             <pb xml:id="page_abs_859" n="page_ori_LIM"/>
-            <div xml:id="livre0207" n="7" type="livre">
+            <div xml:id="livre0207" n="7" type="chapter">
                <pb xml:id="page_abs_860" n="page_ori_261"/>
                <head><hi rend="rule"/>LIVRE SEPTIÈME.</head>
                   <p rend="indent">Mais il est temps de revenir à Celadon, que nous avons laissé dans sa caverne, uniquement occupé de sa felicité passée, &amp; du malheur qui l'accabloit. Il passa quinze jours en ce lieu, sans prendre presque aucune nourriture. Là il se rappelloit sans cesse toutes les disgraces de sa vie, &amp; s'arrêtoit toujours à celles qui lui avoient été les plus sensibles, comme étant les plus convenables à l'état où il se trouvoit. Il étoit si changé, qu'Astrée même auroit eu de la peine à le reconnoître ; &amp; si le ciel qui peut être le reservoit à une meilleure fortune, ne lui eût envoyé du secours,
@@ -3258,7 +3258,7 @@
                      de la porte, où il avoit roulé de grosses pierres. Alors la nymphe le trouvant si changé, ne put retenir ses larmes ; &amp; Celadon les voyant couler : «Belle nymphe, lui dit-il, ne vous affligez point : ce changement m'annonce une tranquillité prochaine.» Il seroit ennuyeux de rapporter tous leurs discours ; la nymphe enfin, de quelque artifice qu'elle usât, ne put lui persuader de rien changer à ce genre de vie, ni en obtenir autre chose que la permission de le voir quelquefois. Enfin le soleil étant prêt à se cacher, elle fut contrainte de se retirer, non toutefois sans lui promettre de le revoir bien souvent.</p>   
             </div>
             <pb xml:id="page_abs_893" n="page_ori_294"/>
-            <div xml:id="livre0208" n="8" type="livre">
+            <div xml:id="livre0208" n="8" type="chapter">
                <head><hi rend="rule"/>LIVRE HUITIÈME.</head>
                <p rend="indent">Leonide vouloit se détacher du berger ; mais quand l'amour a jetté de profondes racines dans un cœur, il est bien difficile de l'en arracher. Si elle avoit senti de la joye en retrouvant Celadon, elle ne fut pas moins affligée de l'état où elle l'avoit vu, &amp; sur-tout de l'étrange resolution qu'il avoit prise. Tant que le chemin dura, elle ne fit que penser aux moyens de lui faire abandonner ce genre de vie ; quelquefois elle croyoit en devoir instruire sa bergere ; mais aussitôt elle changeoit de sentiment, persuadée qu'Astrée iroit le chercher, &amp; qu'elle s'ôteroit à elle-même
                   <pb xml:id="page_abs_894" n="page_ori_295"/>
@@ -3410,7 +3410,7 @@
                   je n'ai point encore assés de pouvoir sur moi.» Phylis qui comprit ce qu'il vouloit dire, en fut vivement piquée ; cependant elle lui repliqua, comme si de rien n'eût été : «Il me semble Lycidas, que si la nymphe vouloit accorder tous ceux qui sont ici en differend, vous &amp; moi n'en serions pas exceptés. Il est vrai, dit le berger enflammé de colere, mais il faudroit que Silvandre fût notre juge, parce qu'il n'y a personne qui en soit mieux instruit.» A l'instant, sans attendre la réponse, il gagna le bois, &amp; s'y enfonça. On jugera facilement si Phylis fut touchée de cette replique ; on ne put tirer de toute la journée une seule parole d'elle.</p>
             </div>
             <pb xml:id="page_abs_939" n="page_ori_340"/>
-            <div xml:id="livre0209" n="9" type="livre">
+            <div xml:id="livre0209" n="9" type="chapter">
                <head><hi rend="rule"/>LIVRE NEUVIÈME.</head>
                <p rend="indent">Tandis que Leonide &amp; Chrysante cherchoient un lieu commode pour s'asseoir, elles apperçurent autravers des arbres des bergeres qui venoient à elles. Personne ne les reconnut d'abord ; mais quand elles furent plus près, on remarqua bien-tôt que c'étoit Hylas, &amp; les bergeres Palinice &amp; Florice, avec lesquelles il s'étoit amusé, sans se souvenir de ce qu'il alloit chercher. Et si elles ne lui avoient demandé où il alloit, il n'auroit pas même pensé à ce qu'il devoit faire ; mais cette demande lui en ayant rappellé le souvenir, il les pria de l'attendre, tandis qu'il iroit chercher
                   <pb xml:id="page_abs_940" n="page_ori_341"/>
@@ -3541,7 +3541,7 @@
                <p rend="indent">Leonide après quelque discours partit avec Chrysante &amp; ses filles druides. Après s'être reposée quelque temps au temple de la bonne déesse, elle alla trouver Adamas, sans que Pâris voulû la suivre, parce qu'il ne pouvoit se resoudre à quitter Diane. Il prit donc le chemin contraire, &amp; ayant retrouvé ces aimables bergeres, il passa avec elles presque tout le reste de la journée.</p>
             </div>
             <pb xml:id="page_abs_978" n="page_ori_379"/>
-            <div xml:id="livre0210" n="10" type="livre">
+            <div xml:id="livre0210" n="10" type="chapter">
                <head><hi rend="rule"/>LIVRE DIXIÈME.</head>
                <p rend="indent">Leonide, après qu'elle eut quitté Chrysante, se rendit en diligence auprès d'Adamas ; elle étoit impatiente de lui raconter ce que l'on avoit fait pour Celadon. Elle le rencontra sur une terrasse qu'ombrageoient des sycomores ; &amp; lui dit tout ce qui s'étoit passé au sujet du berger. Adamas ne put s'empêcher de rire, en apprenant que tous les bergers étoient dans l'erreur, &amp; qu'en effet ils croyoient Celadon mort. «J'ai pensé, ajouta la nymphe, que c'étoit un moyen admirable de lui faire quitter la vie sauvage qu'il mene ; quand il sçaura les regrets de sa bergere, il prendra
                   <pb xml:id="page_abs_979" n="page_ori_380"/>
@@ -3671,7 +3671,7 @@
                <p rend="indent">D'un autre côté Leonide rejoignit Adamas, dès que Sylvie l'eut quittée, &amp; lui raconta une partie de ce qu'elle avoit appris d'elle, cachant finement ce qu'elle jugea qu'il desaprouveroit ; &amp; parce qu'il étoit heure de dîner, Adamas, Alexis, &amp; Leonide reprirent le chemin de la maison.</p>
             </div>
             <pb xml:id="page_abs_1014" n="page_ori_415"/>
-            <div xml:id="livre0211" n="11" type="livre">
+            <div xml:id="livre0211" n="11" type="chapter">
                <head><hi rend="rule"/>LIVRE ONZIÈME.</head>
                <p rend="indent">Le soleil avoit douze fois fourni sa carriere, depuis qu'Asexis avoit quitté sa triste demeure lorsqu'on vint avertir Adamas que des bergers, entre lesquels étoit un nommé Lycidas, demandoient à lui parler. A ce nom de Lycidas le druide remarqua qu'Alexis avoit été émue : «Je crains, lui dit-il, ma fille, que votre haine pour ce frere ne découvre notre secret ; cependant il faut vous montrer, parce qu'ils viennent en partie pour vous voir, outre qu'en vous cachant vous donneriez des soupçons à Pâris.» Alexis ne répondit rien, parce qu'elle entendit
                   <pb xml:id="page_abs_1015" n="page_ori_416"/>
@@ -3819,7 +3819,7 @@
                   &amp; surtout tant qu'Alexis y restera.» Adamas sourit à ce discours. Après avoir remercié Hylas de sa bonne volonté au nom de sa fille, il se tourna vers les autres bergers, &amp; les pria de sorte qu'ils ne purent lui resister davantage. Il fit en même temps apporter des sieges, &amp; chacun s'étant placé, Silvandre commença en ces termes.</p>
             </div>
             <pb xml:id="page_abs_1061" n="page_ori_462"/>
-            <div xml:id="livre0212" n="12" type="livre">
+            <div xml:id="livre0212" n="12" type="chapter">
                <head><hi rend="rule"/>LIVRE DOUZIÈME.</head>
                <p rend="indent">Sage Adamas, &amp; vous grande nymphe, quoique je paroisse devant vous en habit de berger, &amp; que je vive dans le hameau de ces bergers qui m'entendent, ce n'est pas que j'aye été élevé pour mener la vie pastorale. On m'envoya dès l'enfance aux écoles des massiliens, où je finis mes études, &amp; où j'appris tous les exercices convenables à un jeune homme. Quelquefois nous nous assemblions sur le bord de la mer, où nous prenions differens amusemens. Un jour d'été que nous étions cinq ou six, &amp; que nous avions resolu de nous baigner, nous sortîmes de la ville, &amp; prenant
                   <pb xml:id="page_abs_1062" n="page_ori_463"/>
@@ -3988,7 +3988,7 @@
                <p rend="italic">Fin de la seconde Partie.</p>
             </div>
             <pb xml:id="page_abs_1110" n="page_ori_LIM"/>
-            <div xml:id="table_histoires" n="1" type="contents">
+            <div xml:id="table_histoires" n="1" type="chapter">
                <head>TABLE<lb/>
                   DES HISTORIES<lb/>
                   contenues en cette II. Partie.</head>
@@ -4049,7 +4049,7 @@
               M. D'URFÉ.<lb/>
               <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
               TROISIEME PARTIE.</head>
-            <div xml:id="livre0301" n="1" type="livre">
+            <div xml:id="livre0301" n="1" type="chapter">
                <head><hi rend="rule"/>LIVRE PREMIER.</head>
                <p rend="indent">Depuis que les bergeres du Lignon eurent résolu d'aller ensemble visiter la feinte Alexis, Amour qui se plaît à tourmenter davantage ceux qui le servent mieux, fit sentir à la bergere Astrée certaines impatiences, dont elle n'eût pû se rendre raison à elle-même. Les trois jours qu'elles avoient pris pour faire cet agréable voyage lui parurent d'une longueur extrême ; mais quels furent les sentimens de la feinte druide, lorsqu'elle apprit qu'Astrée devoit bientôt
                   <pb xml:id="page_abs_1114" n="page_ori_2"/>
@@ -4177,7 +4177,7 @@
                <p rend="indent">A ces mots, toute la troupe éclata de rire ; &amp; lors qu'Hylas voulut reprendre la parole, ils apperçurent la sage Chrysante qui venoit au devant d'eux, accompagnée de plueurs de ses vierges. Ils mirent donc sin à leur dispute, &amp; s'avancerent pour lui rendre l'honneur qui étoit dû à ses vertus &amp; à son caractére.</p>
             </div>
             <pb xml:id="page_abs_1147" n="page_ori_35"/>
-            <div xml:id="livre0302" n="2" type="livre">
+            <div xml:id="livre0302" n="2" type="chapter">
                <head><hi rend="rule"/>LIVRE SECOND.</head>
                <p rend="indent">Le temple où présidoit la sage Chrysante, étoit situé au pié d'une colline agréable. D'un côté s'élevoit un bocage consacré à Thautates, &amp; de l'autre on voyoit serpenter un des bras du lignon. Dans ce temple somptueux que les romains avoient construit, servoient les vestales, suivant l'usage des romains, &amp; les vierges druides offroient leurs sacrifices dans le bocage sacré, selon la religion des gaulois. La sage Chrysante, quoique gauloise, &amp; de l'ordre des druides leur commandoit à toutes. Quand les romains, sous prétexte de secourir le eduois s'emparerent des gaules, ils y établirent leur culte, persuadés
                   <pb xml:id="page_abs_1148" n="page_ori_36"/>
@@ -4317,7 +4317,7 @@
                   peut-être, dit Alexis, voudriez vous vendre cher vos paroles. Non non, dit incontinent Hylas, je ne veux que parole pour parole. En ce cas, &amp; si Adamas le permet, répondit Alexis, je le veux bien. Ma belle maîtresse, continua Hylas, priez donc ces bergeres de vous tenir compagnie aujourd'hui &amp; plus long-temps, si vous le souhaitez. Adamas prit la parole, avant qu'Alexis pût répondre, &amp; dit : Je vous assure Hylas, que je vous prie tous bien sincerement, &amp; que vous m'accorderez tous cette grace, si vous ne voulez me desobliger.» En même temps il se retira dans la galerie avec Daphnide qui emmenoit Alcidon, Stiliane, Carlis, &amp; Hermante. Les autres demeurerent dans la sale, où la collation fut apportée, en attendant l'heure du souper.</p>
             </div>
             <pb xml:id="page_abs_1186" n="page_ori_74"/>
-            <div xml:id="livre0303" n="3" type="livre">
+            <div xml:id="livre0303" n="3" type="chapter">
                <head><hi rend="rule"/>LIVRE TROISIÈME.</head>
                <p rend="indent">La galerie où le sage Adamas conduisit Alcidon &amp; Daphnide étoit plus considerable par les curiosités qui y étoient rassemblées, que par la magnificence de sa structure. Les portes &amp; les fenêtres étoient incrustées de marbre ; les proportions y étoient exactement observées ; on n'y avoit épargné ni la sculpture, ni la dorure. Mais si l'édifice attiroit les yeux par sa richesse &amp; par sa beauté, toutes les raretés dont Adamas avoit pris soin de l'enrichir, retenoient les esprits dans une admiration continuelle.</p>
                <p rend="indent">La voute qui sembloit être soutenue sur
@@ -4504,7 +4504,7 @@
                   voudrez. Tâchez de vous rétablir, &amp; croyez que je ferai pour votre satisfaction tout ce qui ne me sera pas absolument impossible.» A ces mots le roi me laissa livré aux plus cruels déplaisirs, &amp; au désespoir le plus violent.</p>
             </div>
             <pb xml:id="page_abs_1239" n="page_ori_127"/>
-            <div xml:id="livre0304">
+            <div xml:id="livre0304" type="chapter">
                <head><hi rend="rule"/>LIVRE QUATRIÈME.</head>
                <p rend="indent">Alcidon demeura quelque temps, sans pouvoir continuer, dans l'accablement où l'avoit jetté le souvenir de l'outrage qu'il avoit reçu de son maître. Enfin prenant sur lui-même, «madame ajouta-t'il ; vous voyez l'état où je me suis réduit pour executer vos ordres ; mais si quelque chose peut adoucir la rigueur d'un souvenir si cruel, c'est ce que je vous obéis. Cependant, si votre cœur n'est pas insensible à la pitié daignez vous-même continuer un récit si douloureux pour moi. Vous avez souhaitté que le sage Adamas apprît de ma bouche
                   <pb xml:id="page_abs_1240" n="page_ori_128"/>
@@ -4674,7 +4674,7 @@
                <p rend="indent">A ces mots, Adamas prenant leurs mains : «Qu'éternelle, dit-il, puisse être votre union ! Alcidon ne pouvoit contenir les transports de sa joye ; mais la modestie de Daphnide témoignoit assez sa vertu. Stiliane, Carlis &amp; Hermante partagerent la satisfaction d'Alcidon, &amp; vinrent se réjouir avec lui de cette reconciliation, comme de la meilleure fortune qui lui pût arriver.</p>
             </div>
             <pb xml:id="page_abs_1286" n="page_ori_174"/>
-            <div xml:id="livre0305" n="5" type="livre">
+            <div xml:id="livre0305" n="5" type="chapter">
                <head><hi rend="rule"/>LIVRE CINQUIÈME.</head>
                <p rend="indent">Tandis que les choses se passoient ainsi en présence d'Adamas, les bergers &amp; les bergers qui étoient dans la sale avec Alexis &amp; Leonide, après qu'ils eurent achevé leur collation, reprirent les discours qu'ils avoient laissés. Mais Astrée &amp; Alexis, pour n'être point interrompues se promenerent dans la sale. Astrée qui retrouvoit dans Alexis tous les traits de Celadon, étoit charmée de pouvoir lui exprimer en liberté tout ce qu'elle sentoit pour elle. Alexis de son côté pouvoit plus aisement cacher son trouble, &amp; ses discours interrompus. Elles avoient
                   <pb xml:id="page_abs_1287" n="page_ori_175"/>
@@ -4913,7 +4913,7 @@
                   Adamas, qui invita Daphnide &amp; les bergeres à se promener, parce que la grande chaleur étoit tombée. Ils gouterent tous la proposition, &amp; se mirent en chemin, les uns chantant, &amp; les autres discourant de ce qui leur étoit le plus agréable.</p>
             </div>
             <pb xml:id="page_abs_1345" n="page_ori_233"/>
-            <div xml:id="livre0306" n="6" type="livre">
+            <div xml:id="livre0306" n="6" type="chapter">
                <head><hi rend="rule"/>LIVRE SIXIÈME.</head>
                <p rend="indent">Le chevalier qui avoit été près du temple d'Astrée, ayant suivi la même route que Pâris, se trouva bien tôt sur le haut de la plaine d'où l'on découvre la grande ville de Marcilli. Le paisage lui parut très agréable. D'un côté il voyoit ces fertiles montagnes qui descendoient imperceptiblement jusques dans la plaine, &amp; montroient leur croupe enrichie de vignobles, &amp; leur sommet couronné de hauts chênes, qui sembloient avoir été placés la exprès par la sage nature. La plaine s'étendant jusqu'à Montbrison, &amp; suivant toûjours ces coteaux délicieux s'élargissoit
                   <pb xml:id="page_abs_1346" n="page_ori_234"/>
@@ -5067,7 +5067,7 @@
             </div>
             <pb xml:id="page_abs_1391" n="page_ori_LIM"/>
            <pb xml:id="page_abs_1392" n="page_ori_279"/> 
-            <div xml:id="livre0307" n="7" type="livre">
+            <div xml:id="livre0307" n="7" type="chapter">
                <head><hi rend="rule"/>LIVRE SEPTIÈME.</head>
                <p rend="indent">Adamas, pour satisfaire à la promesse qu'il avoit faite aux bergeres, ordonna, dès que le jour fut venu, que l'on fît partir les sacrificateurs avec les animaux, &amp; les autres choses nécessaires, &amp; que l'on avertit tous ceux des hameaux voisins, afin qu'ils pussent assister au sacrifice. Cependant Daphnide &amp; les bergeres s'étant habillées, ils se mirent tous en chemin. Alexis paroissoit la plus interdite ; dès qu'elle apperçut le Lignon, &amp; sa derniere retraite, elle regarda moins comme une verité, que comme un songe, un voyage si inesperé. A la verité,
                   <pb xml:id="page_abs_1393" n="page_ori_280"/>
@@ -5336,7 +5336,7 @@
                <p rend="indent">Je pris, dit Hylas, tant de plaisir au récit de la belle Chriseide, qu'il me parut extrêmement court, quoiqu'il fût déja si tard, que ses compagnes voulurent se retirer. Je les accompagnai jusques sur le rivage, &amp; je ne pus m'éloigner qu'elles n'eussent passé le fleuve, tant la belle étrangere me sembloit adorable. Je m'en allai enfin, plus amoureux que jamais, cependant très satisfait de sçavoir que ma nouvelle maitresse avoit appris à aimer, &amp; que l'objet de sa passion n'étoit plus ; &amp; j'esperai dès lors que je pourrois réussir à la consoler.</p>
             </div>
             <pb xml:id="page_abs_1460" n="page_ori_347"/>
-            <div xml:id="livre0308" n="8" type="livre">
+            <div xml:id="livre0308" n="8" type="chapter">
                <head><hi rend="rule"/>LIVRE HUITIÈME.</head>
                <p rend="indent">Lorsque les bergers redoubloient leur attention, &amp; qu'ils désiroient plus d'entendre la fin de cette histoire, Hylas en interrompit le fil. Il ne pouvoit discontinuer plus à propos, parce qu'il se présenta en ce moment un sentier étroit, où ils ne pouvoient marcher que deux de front. Mais lorsqu'ils eurent tous passé, &amp; qu'ils se furent rassemblés autour de lui : «Qu'attendez vous davantage, leur dit Hylas ? Si quelqu'un en sçait plus que moi, &amp; qu'il veuille parler, je l'écoute avec plaisir ; je sçai bien pour moi que je n'ai plus rien à dire. Comment,
                   <pb xml:id="page_abs_1461" n="page_ori_348"/>
@@ -5507,7 +5507,7 @@
                <p rend="indent">A ces mots, il ordonna que l'on ôtat au chevalier les chaînes dont il étoit chargé ; &amp; tous trois se jettent aux genoux du prince, ne pouvant se lasser de les embrasser. Et toute l'assemblée faisant retentir des cris de joye benissoit les dieux, &amp; louoit la justice, &amp; la magnanimité du roi qui avoit sçu se vaincre lui même.</p>
             </div>
             <pb xml:id="page_abs_1511" n="page_ori_398"/>
-            <div xml:id="livre0309" n="9" type="livre">
+            <div xml:id="livre0309" n="9" type="chapter">
                <head><hi rend="rule"/>LIVRE NEUVIÈME.</head>
                <p rend="indent">Florice acheva ainsi l'histoire de ces genereux amans ; laissant tous ceux qui l'avoient entendue remplis d'admiration, L'un exaltoit Chriseide, pour avoir méprisé Rithimer &amp; Gondebaut en faveur de son fidele Arimant ; l'autre étoit frappé de la résolution d'Arimant, qui s'étoit offert à une mort volontaire ; &amp; tous louoient unanimement le zele &amp; l'affection de Bellaris. Le seul Hylas se mocquoit d'eux trois, &amp; de tous ceux qui leur donnoient des louanges. «Y eut-il jamais, disoit-il en branlant la tête, folie plus marquée que la leur ? Chriseide
                   <pb xml:id="page_abs_1512" n="page_ori_399"/>
@@ -5695,7 +5695,7 @@
                   par la main, &amp; lui faisant rendre son chapeau de fleurs au sage Adamas, elle la fit asseoir dans son siege ; puis relevant la guirlande de Silvandre, elle la mit sur la tête du berger, &amp; lui tendit la main afin qu'il la baisât : ce que fit Silvandre avec de si grands transports, que la bergere connut bien, si elle ne l'avoit pas connu encore, qu'il n'y avoit point de feinte en son amour.</p>
             </div>
             <pb xml:id="page_abs_1562" n="page_ori_449"/>
-            <div xml:id="livre0310" n="10" type="livre">
+            <div xml:id="livre0310" n="10" type="chapter">
                <head><hi rend="rule"/>LIVRE DIXIÈME.</head>
                <p rend="indent">La chaleur étant bien diminuée, lorsque Diane donna son jugement, Adamas qui vouloit qu'Alcidon &amp; Daphnide fussent témoins des divers exercices de ces bergers se leva, &amp; leur dit qu'il étoit temps de se mettre en chemin pour arriver de jour au hameau de ces belles bergeres. Cependant Phylis &amp; Sylvandre disputoient entr'eux, pour sçavoir à qui Diane avoit donné l'avantage ; &amp; prévoyant que leur dispute ne se termineroit pas facilement, il leur representa qu'elle seroit bien propre à les amuser pendant le chemin. Et dès qu'ils eurent
                   <pb xml:id="page_abs_1563" n="page_ori_450"/>
@@ -5865,7 +5865,7 @@
                   &amp; lorsque l'heure du repas fut venue, ils regagnerent la maison, où ils trouverent une table servie d'une maniere qui ne sentoit point le village.</p>
             </div>
             <pb xml:id="page_abs_1608" n="page_ori_495"/>
-            <div xml:id="livre0311" n="11" type="livre">
+            <div xml:id="livre0311" n="11" type="chapter">
                <head><hi rend="rule"/>LIVRE ONZIÈME.</head>
                <p rend="indent">Lerindas se hâta tant qu'il put de retourner à Montverdun ; Galatée ne faisoit que de se mettre à table, lorsqu'il arriva. «Madame, lui dit-il, Adamas n'a pû retarder le sacrifice, parce que le peuple étoit déja assemblé ; &amp; sur ce que je l'ai assuré que vous seriez charmée de voir les bergeres du Lignon, il vous mande que si vous demeurez encore ici quelque temps, il vous les amenera, Je suis bien fâchée, dit la nymphe, en se tournant vers la sage Cleontine, que Damon n'ait point vû cette fête, &amp; ces belles bergeres ; mais si Adamas
                   <pb xml:id="page_abs_1609" n="page_ori_496"/>
@@ -6047,7 +6047,7 @@
                <p rend="indent">A ces mots Pâris lui baisa la main, &amp; prenant congé de lui, de Daphnide, &amp; d'Alcidon, il cotoya les prés, &amp; s'en alla transporté de joye.</p>
             </div>
             <pb xml:id="page_abs_1656" n="page_ori_543"/>
-            <div xml:id="livre0312" n="12" type="livre">
+            <div xml:id="livre0312" n="12" type="chapter">
                <head><hi rend="rule"/>LIVRE DOUZIÈME.</head>
                <p rend="indent">La nymphe Galatée &amp; Damon partirent de Bonlieu dès qu'ils eurent dîné ; Amasis impatiente leur avoit envoyé un autre chevalier pour les hâter. Adamas ne les trouvant point au temple de la bonne déesse, supplia Daphnide &amp; Alcidon de continuer avec lui leur voyage, ajoutant qu'il envoyeroit Lerindas vers la nymphe qui leur feroit l'honneur de les attendre, &amp; de les mener dans son char. Les étrangers se mirent incontinent en chemin, &amp; Lerindas dépêché par le druide courut pour atteindre Galatée.</p>
                <pb xml:id="page_abs_1657" n="page_ori_544"/>
@@ -6228,7 +6228,7 @@
                <p rend="indent">Dès que l'aurore parut, Leonide laissa Phylis au lit avec Astrée, parce que Diane depuis le départ de Madonte, n'étoit point sortie de sa cabane, &amp; prit congé de ces belles bergeres, leur promettant de revenir bien tôt chercher Alexis. Puis s'approchant de celle-ci : «Souvenez-vous, lui dit-elle à l'oreille, de ne point perdre les occasions.» Alexis lui répondit par un soupir. Ainsi Leonide alla trouver Adamas, puis s'achemina avec le grand druide vers Marcilli, laissant Alexis dans la plus heureuse situation du monde, si elle avoit sçu s'en prévaloir.</p>
                <p rend="italic">Fin de la troisiéme partie.</p>
             </div>
-            <div xml:id="privilege" n="1" type="contents">
+            <div xml:id="privilege" n="1" type="chapter">
                <pb xml:id="page_abs_1711" n="page_ori_LIM"/>
                <head>APPROBATION.</head>
                <p rend="indent">Lu par l'ordre de Monseigneur le Garde des Sceaux, ce 22. Fevrier 1732. DANCHET.</p>
@@ -6274,7 +6274,7 @@
               M. D'URFÉ.<lb/>
               <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
               QUATRIÈME PARTIE.</head>
-            <div xml:id="livre0401" n="1" type="livre">
+            <div xml:id="livre0401" n="1" type="chapter">
                   <head><hi rend="rule"/>LIVRE PREMIER.</head>
                <p rend="indent">Depuis que Galatée cedant à son extrême jalousie avoit éloigné de sa présence la nymphe Leonide, elle avoit desiré plusieurs fois de la revoir. Elle se rappelloit avec plaisir sa fidelité ; &amp; les témoignages de Sylvie la persuaderent enfin que Leonide n'étoit point coupable de l'évasion du berger Celadon. Mais ce qui contribua davantage à lui faire oublier tout ressentiment contre la nymphe, ce
                   <pb xml:id="page_abs_1716" n="page_ori_2"/>
@@ -6444,7 +6444,7 @@
                   nous avertir qu'il est notre juge, dès qu'il le sçaura lui même. Mais, interrompit encore le berger, comment le sçaura-t'il, si vous ne le lui dites ? Et comment le lui direz-vous, si vous ne le connoissez pas ? Le dieu qui a rendu l'oracle, dit Delphire, peut seul démêler ces difficultés.»</p>
             </div>
             <pb xml:id="page_abs_1768" n="page_ori_54"/>
-            <div xml:id="livre0402" n="2" type="livre">
+            <div xml:id="livre0402" n="2" type="chapter">
                <head><hi rend="rule"/>LIVRE SECOND.</head>
                <p rend="indent">Cependant Diane entendoit tous ces discours, &amp; regardant au travers du buisson qui la couvroit, elle reconnut presque tous les bergers. Ils étoient de quelques hameaux éloignés, &amp; ils habitoient sur les bords du Lignon, vers les montagnes de Rochefort &amp; de Cervieres. La bergere les avoit souvent remarqués aux jeux publics, au sacrifice du gui &amp; aux autres solemnités. Elle n'avoit pas oublié l'estime où étoient la beauté de Delphire, &amp; le merite de Taumantes. Elle n'ignoroit pas même leur passion mutuelle, parce qu'ils étoient des familles les plus considerables de leurs hameaux, &amp; qu'ils
                   <pb xml:id="page_abs_1769" n="page_ori_55"/>
@@ -6623,7 +6623,7 @@
                   Phylis de rester là encore quelque temps, de peur que Silvandre ne les suivît. Et s'adressant au berger ; «souvenez-vous, lui dit-elle, qu'étant Silvandre, &amp; connoissant les dieux, vous serez infiniment plus coupable qu'un autre, si vous n'attendez le secours de votre génie.» Silvandre vouloit lui rendre ses actions de graces, lorsque sans attendre sa réponse, Alexis lui échapa pour rejoindre Astrée. Elle l'eut bientôt atteinte, parce qu'Astrée tournoit la tête de temps en temps, pour voir si Alexis ne venoit point. On eût dit que le ciel vouloit qu'en cette occasion Astrée rendît le même office à Silvandre, qu'autrefois Ursace reçut de Celadon.</p>
             </div>
             <pb xml:id="page_abs_1820" n="page_ori_106"/>
-            <div xml:id="livre0403" n="3" type="livre">
+            <div xml:id="livre0403" n="3" type="chapter">
                <head><hi rend="rule"/>LIVRE TROISIÈME.</head>
                <p rend="indent">Phylis étant seule avec Silvandre, &amp; véritablement touchée de son mal : «Berger, lui dit-elle, puisque le ciel veille sur vous, j'espere que vous serez bien-tôt plus heureux que jamais. Mais dites-moi franchement, comme à une de vos meilleures amies : Est-il vrai, Silvandre, que vous aimez Madonte ? ce n'est pas un crime que d'aimer une aussi belle fille, &amp; nous sçavons tous que c'est notre gageure qui a produit les soins que vous avez rendus à Diane, ou qui les a occasionnés.» Tandis que la bergere parloit de la sorte à Silvandre, Diane regardoit
                   <pb xml:id="page_abs_1821" n="page_ori_107"/>
@@ -6837,7 +6837,7 @@
                <p rend="indent">Après une conclusion si heureuse, ils furent tous d'avis d'aller au temple pour remercier les dieux. Ils arrêterent aussi que l'on uniroit tout de suite les amans, &amp; qu'ils acheveroient les autres cérémonies, lorsqu'ils seroient retournés dans leurs cabanes. Pour Silvandre après avoir reçu les remercimens de Silvanire &amp; d'Aglante, il se separa de la troupe, &amp; s'enfonça dans les bois pour y plaindre sa destinée.</p>
             </div>
             <pb xml:id="page_abs_1881" n="page_ori_167"/>
-            <div xml:id="livre0404" n="4" type="livre">
+            <div xml:id="livre0404" n="4" type="chapter">
                <head><hi rend="rule"/>LIVRE QUATRIEME.</head>
                <p rend="indent">Diane &amp; Phylis avoient dîné avec Astrée, pour faire compagnie à la belle Alexis ; lorsqu'elles furent sorties de table, elles les avertirent qu'il étoit venu une étrangere qui desiroit passionnément de voir Astrée. «Ainsi, dirent-elles, si vous ne vous hâtez de lui rendre visite, assurez-vous qu'elle vous préviendra. En ce cas il faudra se résoudre à l'avoir toute la journée sur les bras. Mon dieu, dit Alexis, n'attendons pas qu'elle vienne ! nous ne pourrions plus nous en défaire, &amp; s'il me faut contraindre ainsi, je serai infailliblement plus malade que je ne l'ai été
                   <pb xml:id="page_abs_1882" n="page_ori_168"/>
@@ -7014,7 +7014,7 @@
                   Calydon, &amp; Corylas se presenterent d'eux mêmes ; &amp; sans differer davantage, ils se mirent tous en chemin, après que les étrangers eurent dit adieu à la belle Alexis &amp; aux bergeres. Les trois chevaliers montés &amp; armés comme ils étoient venus, se tenoient un peu éloignés de la troupe, &amp; prêts à la défendre, si on venoit l'attaquer. Les bergers donnoient la main aux bergeres, &amp; Thamyre la donnoit à sa chere Celidée.</p>
             </div>
             <pb xml:id="page_abs_1928" n="page_ori_214"/>
-            <div xml:id="livre0405" n="5" type="livre">
+            <div xml:id="livre0405" n="5" type="chapter">
                <head><hi rend="rule"/>LIVRE CINQUIEME.</head>
                <p rend="indent">En même temps toute la compagnie se separa. Astrée, Diane &amp; Phylis s'acheminerent vers la demeure de Phocion, pour y accompagner Alexis, parce qu'il commençoit à se faire tard. Comme elles étoient encore frapées de l'accident qui étoit arrivé à Dorinde : «Je croi, dit Astrée, que Dorinde a moins d'obligation à ceux qui l'aiment, qu'à ceux qui lui veulent du mal. Ceux ci ne la trompent point, &amp; les autres la trahissent. Pensez-vous donc, ma sœur, s'écria Diane que tous les hommes soient perfides ?» Mais Alexis qui ne pouvoit se dépouiller de son personnage naturel : «Belle
                   <pb xml:id="page_abs_1929" n="page_ori_215"/>
@@ -7195,7 +7195,7 @@
                <p rend="indent">Il étoit déja tard ; c'est pourquoi les bergeres allerent toutes ensemble saluer Phocion, qui les méconnut d'abord à cause de leur déguisement. En même temps prenant Alexis par la main, il les conduisit dans la sale où le dîner les attendoit. Durant le repas, Phocion tint, selon sa coutume, plusieurs discours pleins de sagesse. Mais les bergeres avoient tant d'impatience de joindre Silvandre, pour lui rendre la tranquillité qu'il avoit perdue, qu'à peine elles avoient dîné, lorsque Phylis s'addressant à la feinte druide : «Madame, lui dit-elle, vous sçavez que Florice, Palinice &amp; Circène nous ont priées de nous trouver à leur retour sur le chemin de Marcilli, au sujet de cette affaire qui leur importe tant ; si vous voulez leur tenir parole, vous avez peu de temps à rester ici.» Alexis pénétra son dessein ; elle sortit incontinent de table ; &amp; toutes quatre ensemble se rendirent où elles esperoient de rencontrer Silvandre.</p>
             </div>
             <pb xml:id="page_abs_1981" n="page_ori_267"/>
-            <div xml:id="livre0406" n="6" type="livre">
+            <div xml:id="livre0406" n="6" type="chapter">
                <head><hi rend="rule"/>LIVRE SIXIÈME.</head>
                <p rend="indent">Silvandre passa toute la nuit dans le bois où il s'étoit retiré, pour éviter Alcandre &amp; son frere. Il ne cessa de s'occuper du malheur qui lui étoit arrivé, &amp; de son innocence. Enfin persuadé que le ciel étoit irrité contre lui, &amp; que par ce châtiment il vouloit le rappeller à lui même, il se jetta tout à coup à genoux, &amp; levant les mains vers le ciel, il invoqua le grand Thautates, &amp; prit en même temps la resolution de consulter l'oracle de la vieille Cleontine. Dans ce dessein il passa le Lignon, vint à Montverdun, consulta l'oracle &amp; en reçut cette réponse.</p>
                <pb xml:id="page_abs_1982" n="page_ori_268"/>
@@ -7410,7 +7410,7 @@
             </div>
             <pb xml:id="page_abs_2034" n="page_ori_LIM"/>
            <pb xml:id="page_abs_2035" n="page_ori_319"/> 
-            <div xml:id="livre0407" n="7" type="livre">
+            <div xml:id="livre0407" n="7" type="chapter">
                <head><hi rend="rule"/>LIVRE SEPTIÈME.</head>
                <p rend="indent">Tandis que les choses se passoient ainsi sur les rives du Lignon, Dorinde, &amp; ceux qui l'avoient accompagnée à Marcilli, furent conduits dans leurs chambres, dès qu'ils eurent soupé, parce qu'ils étoient fatigués du chemin, &amp; que l'heure du sommeil étoit venue. Avant que de se séparer, ils convinrent que Périandre &amp; Mérindor iroient le lendemain trouver le grand Adamas, pour le supplier de les presenter à la nymphe ; après quoi, si
                   <pb xml:id="page_abs_2036" n="page_ori_320"/>
@@ -7630,7 +7630,7 @@
                <p rend="indent">Dorinde finit là son récit, qu'elle interrompit souvent par des larmes &amp; des soupirs. Ses compagnes tâcherent de lui donner quelque consolation, &amp; toutes après l'avoir plusieurs fois embrassée, commencerent à s'habiller.</p>
             </div>
             <pb xml:id="page_abs_2097" n="page_ori_381"/>
-            <div xml:id="livre0408" n="8" type="livre">
+            <div xml:id="livre0408" n="8" type="chapter">
                <head><hi rend="rule"/>LIVRE HUITIÈME.</head>
                <p rend="indent">Adamas craignant quelque surprise de la part de Polemas, avoit ordonné qu'on prît les noms de tous les étrangers qui arriveroient ; c'est pour cela qu'il fut averti le soir même que Merindor, Périandre avec Dorinde &amp; leur suite, étoient dans la maison de Clindor. Les noms des chevaliers n'étoient pas inconnus au druide, il sçavoit qu'ils étoient vassaux du roi de Bourgogne ; &amp; cela même lui rendit suspecte leur arrivée. Il envoya donc chercher Clindor, qu'à peine il faisoit jour. Dès que l'on eut ouvert sa porte, un jeune eubage se presenta, demandant à lui parler. Et se
                   <pb xml:id="page_abs_2098" n="page_ori_382"/>
@@ -7801,7 +7801,7 @@
                   qu'elle avoit à dire au prince, elle leur en parla. Ils approuverent son dessein, &amp; ils en firent eux-même l'ouverture. Le prince promit à la nymphe tout ce qu'elle souhaitoit ; &amp; la nymphe faisant appeller Adamas, elle lui commanda en sa presence de tenir tout prêt pour le projet qu'ils avoient medité.</p>
             </div>
             <pb xml:id="page_abs_2144" n="page_ori_428"/>
-            <div xml:id="livre0409" n="9" type="livre">
+            <div xml:id="livre0409" n="9" type="chapter">
                <head><hi rend="rule"/>LIVRE NEUVIÈME.</head>
                <p rend="indent">C'est en ces divers entretiens qu'ils passerent le jour entier. La nuit vint enfin les surprendre, &amp; les separa jusqu'au lendemain. Dorinde obtint d'Amasis par ses prieres &amp; ses empressemens, qu'elle iroit dans la maison de Clindor avec ses compagnes. Merindor &amp; Périandre donnoient la main à Dorinde ; Lucindor &amp; Cerinte à Florice, Amilcar &amp; Silene à Palinice. D'un autre côté Thamyre aidoit la triste Celidée, qui étoit inconsolable de son prochain départ. Pour Adraste, il n'abandonnoit point Doris que conduisoit Palemon. Tous, excepté Hylas, &amp;
                   <pb xml:id="page_abs_2145" n="page_ori_429"/>
@@ -8021,7 +8021,7 @@
                <p rend="indent">Ainsi finit Alcandre ; &amp; parce qu'il étoit fort tard, Hylas dont les yeux étoient appesantis, après leur avoir donné le bon soir se remit dans son lit, où il reposa jusqu'au matin.</p>
             </div>
             <pb xml:id="page_abs_2199" n="page_ori_483"/>
-            <div xml:id="livre0410" n="10" type="livre">
+            <div xml:id="livre0410" n="10" type="chapter">
                <head><hi rend="rule"/>LIVRE DIXIÈME.</head>
                <p rend="indent">Les affaires importantes qui occupoient Adamas, ne lui permirent pas de reposer un instant. Il étoit si affectionné au service de la nymphe, qui n'avoit de confiance qu'en lui seul, que tout accablé qu'il étoit du poids des années, il faisoit des efforts incroyables. Le péril étoit grand, &amp; les remedes difficiles. La nymphe étoit denuée d'hommes &amp; d'argent ; elle n'avoit d'autre lieu de sûreté que Marcilli, où même Polemas avoit des intelligences ; &amp; ce qui paroissoit plus embarrassant, il falloit que les préparatifs fussent très secrets. Mais par malheur, Adamas
                   <pb xml:id="page_abs_2200" n="page_ori_484"/>
@@ -8245,7 +8245,7 @@
                <p rend="indent">La nymphe approuva cet avis, &amp; dans le moment elle envoya chercher Galatée : puis elle se retira, pour laisser reposer la reine, si toutefois son inquietude le lui permettoit.</p>
             </div>
             <pb xml:id="page_abs_2260" n="page_ori_544"/>
-            <div xml:id="livre0411" n="11" type="livre">
+            <div xml:id="livre0411" n="11" type="chapter">
                <head><hi rend="rule"/>LIVRE ONZIÈME.</head>
                <p rend="indent">Le lendemain, le grand pontife accompagné de plusieurs flamines parut devant la nymphe. Il lui representa qu'elle devoit élire un souverain magistrat, auquel elle remettroit la puissance suprême, tant qu'il seroit revêtu de cette charge, parce que la cérémonie avoit été instituée par Numa Pompilius, &amp; que c'étoit les rois ses successeurs qui plantoient le clou. Et depuis qu'ils avoient été bannis, on avoit toujours élu un dictateur dans ces occasions. Or, madame, continua-t'il, je vous represente ces choses, afin que s'il
                   <pb xml:id="page_abs_2261" n="page_ori_545"/>
@@ -8470,7 +8470,7 @@
                <p rend="indent">Cette dispute eût duré plus long temps, si Polemas jugeant que ce differend tournoit à sa confusion ne l'eût interrompue. «C'est assés, leur dit-il, je vais vous mettre d'accord ; &amp; s'adressant à Alexis : Estes-vous, lui dit-il, Alexis fille d'Adamas ? Oui, répondit-elle.» Puis se tournant vers Astrée : «Et vous, continua-t'il, êtes-vous aussi fille d'Adamas ? Oui, répondit-elle aussi. Puis donc, reprit Polemas, que vous êtes toutes deux filles d'Adamas, j'ordonne que vous soyez traitées comme telles.» A ces mots ayant commandé qu'elles fussent attachées ensemble, il les mit sous une bonne garde jusqu'au lendemain, &amp; s'écria qu'un si méchant pere ne méritoit pas une si belle fille. Mais dès qu'il l'eut perdue de vue, il oublia ses charmes &amp; sa vertu.</p>
             </div>
             <pb xml:id="page_abs_2322" n="page_ori_606"/>
-            <div xml:id="livre0412" n="12" type="livre">
+            <div xml:id="livre0412" n="12" type="chapter">
                <head><hi rend="rule"/>LIVRE DOUZIÈME.</head>
                <p rend="indent">Polemas avoit résolu en effet d'exposer Alexis &amp; Sylvie aux coups des assiegés, pour intimider la nymphe Amasis &amp; le grand druide, &amp; pour montrer combien il ressentoit la mort de Climante, dont Sylvie &amp; Leonide étoient principalement accusées : Lors donc qu'il partit de Surieu, il avoit laissé Sylvie dans le château sous bonne garde. Sylvie naturellement timide, elle eut toute la nuit des frayeurs mortelles. Dès que le somme il s'emparoit de ses sens, elle se voyoit au milieu des piques &amp; des traits qui lui representoient tant de morts affreuses, qu'elle s'éveilloit tout à coup baignée de larmes &amp; couverte de sueur. Ne pouvant donc trouver de repos,
                   <pb xml:id="page_abs_2323" n="page_ori_607"/>
@@ -8688,7 +8688,7 @@
               M. D'URFÉ.<lb/>
               <hi rend="italic">PASTORALE ALLEGORIQUE.</hi><lb/>
               DERNIERE PARTIE.</head>
-            <div xml:id="livre0501" n="1" type="livre">
+            <div xml:id="livre0501" n="1" type="chapter">
                   <head><hi rend="rule"/>LIVRE PREMIER.</head>
                <p rend="indent">Quelques bergers furent témoins de l'enlevement d'Astrée, &amp; les cris qu'ils poussérent alors furent entendus de Diane &amp; de Phylis. Les bergeres s'étant habillées à la hâte coururent aussi-tôt pour apprendre le sujet de ce tumulte ; dès qu'elles parurent, un des bergers s'avançant : «Ah dieux, s'écria-t-il ! Astrée votre compagne vient de nous être en levée par une troupe de voleurs...
                   <pb xml:id="page_abs_2379" n="page_ori_2"/>
@@ -8851,7 +8851,7 @@
                </lg>
                <p rend="indent">Laonice conçut sur cet oracle quelque esperance de guerison. Elle commença donc par obéir au premier vers de l'oracle, &amp; persuadée que le bois dont il s'agissoit, étoit celui de Montverdun, elle y alla chercher quelque grotte. Elle en trouva une que les ronces rendoient inaccessible d'un côté ; &amp; cette grotte la conduisit par un sentier un peu battu dans une autre que l'art &amp; la nature avoient creusée dans le rocher. Elle se mit d'abord à considerer quelques singularités qu'elle y trouva, mais ne les pouvant comprendre, elle pensa que ce lieu avoit autrefois servi de retraite à quelque druide. Elle resolut d'y rester, jusqu'à ce que la volonté des dieux l'enretirât. Elle y vivoit de fruits champêtres, tantôt interrogeant les échos sur ce qu'elle devoit attendre de Tyrcis, &amp; tantôt parlant aux rochers, &amp; aux fontaines, mais toujours du berger. C'est dans cet exercice qu'elle attendoit le secours que les dieux lui avoient promis ; &amp; cette esperance étoit le seul soutien de sa vie ; car elle n'avoit d'autre plaisir que de penser éternellement à Tyrcis, qui de son côté ne songeoit tous les jours qu'à faire de nouveaux sacrifices aux cendres de sa bien aimée Cléon.</p>
             </div>
-            <div xml:id="livre0502" n="2" type="livre">
+            <div xml:id="livre0502" n="2" type="chapter">
                <head><hi rend="rule"/>LIVRE SECOND.</head>
                <p rend="indent">Polemas ne cessa durant la nuit de penser aux travaux qu'il avoit ordonnés. Il se flattoit par ce moyen de se rendre maître à la fois &amp; de Galatée, &amp; des états d'Amasis. L'aurore paroissoit à peine, qu'il se leva pour voir si l'on avoit beaucoup avancé ; il trouva que l'on avoit creusé du moins à la hauteur de quinze piés, &amp; qu'il en avoit déja gagné près de six en longueur. Sa joye étoit extrême ; mais lorsque le soleil se montra sur la montagne d'Isoure, &amp; que jettant les yeux sur la maison de Meronte,
                   <pb xml:id="page_abs_2422" n="page_ori_46"/>
@@ -9020,7 +9020,7 @@
                <p rend="indent">Laonice n'étoit pas si éloignée de Tyrcis qu'il le croyoit. Elle passoit les nuits dans sa solitude, continuellement occupée de l'ingratitude du berger. Ce jour là, elle étoit venue sur un rocher qui commande la plaine de Forest ; &amp; de là remarquant l'armée de Polemas, elle craignit pour Tyrcis, quoiqu'elle fût convaincue de sa haine. La nuit la contraignit de se retirer dans sa caverne, où elle recommença ses premiers exercices, qui étoient de prier les dieux, &amp; de faire éclater ses regrets sur l'ingratitude de Tyrcis.</p>
             </div>
             <pb xml:id="page_abs_2468" n="page_ori_92"/>
-            <div xml:id="livre0503" n="3" type="livre">
+            <div xml:id="livre0503" n="3" type="chapter">
                <head><hi rend="rule"/>LIVRE TROISIÈME.</head>
                <p rend="indent">Polemas ayant reçu les secours que Gondebaut lui envoyoit, fit sortir de Surieu toutes les troupes qui lui restoient, avec ses machines de guerre. Il triomphoit de joye, lorsqu'il s'imaginoit qu'il étoit maintenant assés fort pour réduire Marcilli ; &amp; il ne pouvoit se persuader que les armes du fils pussent arrêter les exploits du pere. Il n'avoit encore rien sçû du retour de Lindamor, qui pourtant étoit déja arrivé au rendez-vous qu'il avoit donné à Sigismond.</p>
                <p rend="indent">D'un autre côté, le prince avoit fait une
@@ -9183,7 +9183,7 @@
                <p rend="indent">Lindamor ayant fini, la nymphe se leva, &amp; les princes se disposerent aussi à se retirer. Amasis les accompagna malgré toutes leurs oppositions ; &amp; laissant à Galatée le soin de conduire Rosanire &amp; les autres dames dans leurs appartemens, elle les supplia tous de disposer de tout ce qui étoit en sa puissance, puisqu'elle ne possedoit rien dont elle ne fût redevable à leur courage &amp; à leur affection.</p>
             </div>
             <pb xml:id="page_abs_2514" n="page_ori_138"/>
-            <div xml:id="livre0504" n="4" type="livre">
+            <div xml:id="livre0504" n="4" type="chapter">
                <head><hi rend="rule"/>LIVRE QUATRIÈME.</head>
                <p rend="indent">De's que le jour parut, Ligonias partit ; &amp; la belle Astrée s'éveilla. La bergere avoit encore couché ce soir là dans la maison d'Adamas, parce qu'elle ne pouvoit s'éloigner de sa chere Alexis. A peine elle eut ouvert les yeux, qu'impatiente de la revoir, elle entra incontinent dans sa chambre, mais sans faire de bruit. Le berger qui ne dormoit pas, remarqua la discretion d'Astrée, &amp; feignit de dormir pour s'instruire mieux de ses mouvemens secrets. Il vit sa bergere se jetter à genoux, &amp; lui baiser plusieurs
                   <pb xml:id="page_abs_2515" n="page_ori_139"/>
@@ -9392,7 +9392,7 @@
                <p rend="indent">Tous se mirent à rire de la plaisante pensée d'Hylas. Seulement Cerinte, Clorian, &amp; Amilcar parurent mécontens, &amp; résolurent de partir le lendemain pour se rendre auprès de Sigismond. Ils partirent en effet, &amp; le druide, &amp; Ligdamon les accompagnerent jusqu'à Marcilli.</p>
             </div>
             <pb xml:id="page_abs_2561" n="page_ori_185"/>
-            <div xml:id="livre0505" n="5" type="livre">
+            <div xml:id="livre0505" n="5" type="chapter">
                <head><hi rend="rule"/>LIVRE CINQUIÈME.</head>
                <p rend="indent">Adamas étant arrivé de bonne heure à Marcilli, se rendit à l'appartement de Lindamor, en attendant que les nymphes fussent éveillées. Et lui ayant demandé ce qui avoit engagé Galatée à précipiter son retour, Lindamor lui répondit en ces termes : «C'est, mon pere, un sujet qui nous interesse également la nymphe &amp; moi. Dans l'état où je suis ma vie dépend absolument d'Amasis, de Galatée, &amp; de vous. Peut-être qu'Amasis se souviendra de mes services, &amp; qu'elle ne me refusera
                   <pb xml:id="page_abs_2562" n="page_ori_186"/>
@@ -9544,7 +9544,7 @@
             </div>
             <pb xml:id="page_abs_2605" n="page_ori_LIM"/>
            <pb xml:id="page_abs_2606" n="page_ori_229"/>
-            <div xml:id="livre0506" n="6" type="livre">
+            <div xml:id="livre0506" n="6" type="chapter">
                <head><hi rend="rule"/>LIVRE SIXIÈME.</head>
                <p rend="indent">Le repas étoit à peine fini, qu'Alcandre, Silene, &amp; Lucindor songerent à retourner sur les rives de l'Arar, pour leur apprendre quelle étoit leur felicité. Circène, Palinice, &amp; Florice consentant à ce départ, ils remercierent Adamas de toutes les bontés qu'il leur avoit marquées, &amp; dirent adieu au reste de la compagnie, en leur témoignant le regret qu'ils avoient de les quitter. Florice, Circène, &amp; Palinice ne purent retenir leurs larmes, lorsqu'il fallut embrasser pour la derniere fois Alexis, Diane, Astrée, &amp; Phylis sur tout qui les avoit délivrées de la peine où l'oracle les avoit
                   <pb xml:id="page_abs_2607" n="page_ori_230"/>
@@ -9741,7 +9741,7 @@
                   étoit feinte. Ligonias partit, déterminé à faire la plus grande diligence qu'il pourroit.</p>
             </div>
             <pb xml:id="page_abs_2660" n="page_ori_283"/>
-            <div xml:id="livre0507" n="7" type="livre">
+            <div xml:id="livre0507" n="7" type="chapter">
                <head><hi rend="rule"/>LIVRE SEPTIÈME.</head>
                <p rend="indent">Ligonias arriva le lendemain à Marcilli, avant qu'Amasis fût levée. Il alla aussitôt à l'appartement de Sigismond. Le prince n'osa d'abord lui demander quel avoit été le succés de sa commission ; mais après l'avoir consideré, il crut lire dans ses yeux que les nouvelles étoient favorables. «Hé bien, Ligonias, lui dit-il, après l'avoir embrassé, qu'à résolu Gondebaut ? <hi rend="italic">Il vous redemande,</hi> Segneur ; il proteste qu'il oubliera l'offense qu'il croit avoir reçue de vous, &amp; qu'il vivra avec Amasis,
                   <pb xml:id="page_abs_2661" n="page_ori_284"/>
@@ -9901,7 +9901,7 @@
                   le sujet de mon transport, permettez-moi, cher Celadon, de mouiller de mon sang les bords de cette fontaine... Sage Silvandre, interrompit Alexis, les dieux ne vous ont point inspiré ce dessein comme à moi ; ainsi ne me disputez pas un avantage qui me regarde seul. Au moins, dit Silvandre, permettez-moi d'unir ma fortune à la votre.» Le berger sçut si bien persuader Alexis, qu'elle associa Silvandre à un projet aussi glorieux.</p>
             </div>
             <pb xml:id="page_abs_2708" n="page_ori_331"/>
-            <div xml:id="livre0508" n="8" type="livre">
+            <div xml:id="livre0508" n="8" type="chapter">
                <head><hi rend="rule"/>LIVRE HUITIÈME.</head>
                <p rend="indent">Apeine Astrée eut entendu que la grotte qui la receloit avoit servi de retraite à Celadon, qu'il lui sembla que ce rocher même lui parloit de son amour. Tous les objets qui s'offroient à elle sembloient aussi lui tenir ce même langage. Le trouble où elle parut fit croire à Diane que c'étoit l'apprehension d'être surprise par Phylis, ou l'horreur même du lieu qui le causoit. Mais lorsque Lycidas &amp; Phylis se furent retirés, Diane lui en ayant demandé la cause : «C'est, répondit Astrée, que ce lieu me rappelle
                   <pb xml:id="page_abs_2709" n="page_ori_332"/>
@@ -10076,7 +10076,7 @@
                   Ursace étoit presque le seul qui ne ressentît point une joye pure, il craignoit toujours de nouveaux attentats de la part de Genseric ; mais comme il lui étoit permis sous les habits qu'il portoit, d'être presque toujours auprès d'Eudoxe, il sçut bientôt que le roi avoit absolument changé. En effet, quelque temps après il renvoya honorablement Eudoxe avec Placidie à Constantinople. Lorsqu'Eudoxe y fut arrivée, Ursace l'épousa avec solemnité, &amp; jouit enfin d'un bien si précieux, mais que la fortune lui avoit cherement vendu. Olimbre de son côté par l'ordre de Marcien, &amp; du consentement d'Eudoxe, gouta entre les bras de Placidie le repos qu'Amour devoit à sa fidelité.»</p>
             </div>
             <pb xml:id="page_abs_2757" n="page_ori_380"/>
-            <div xml:id="livre0509" n="9" type="livre">
+            <div xml:id="livre0509" n="9" type="chapter">
                <head><hi rend="rule"/>LIVRE NEUVIÈME.</head>
                <p rend="indent">Apeine le grand Olicarsis eut fini, que Phylis entra toute éperdue. Adamas &amp; Bellinde sur tout craignirent qu'elle ne leur apportât des nouvelles fâcheuses d'Astrée, de Diane, &amp; d'Alexis. Et le druide jugeant que s'il étoit arrivé quelque malheur, il n'étoit pas à propos que Bellinde en fût si promptement informée, alla an devant d'elle. Aussitôt Phylis lui dit avec un étonnement sans égal : «Mon pere, j'ai à vous dire la chose du monde de la plus admirable. On a trouvé Astrée &amp; Diane ; elles
                   <pb xml:id="page_abs_2758" n="page_ori_381"/>
@@ -10232,7 +10232,7 @@
                   lui raconta de quelle maniere cet oracle s'étoit verifié. Il parla si naïvement de l'ombre qui lui avoit apparu, des discours qu'elle lui avoit tenus, &amp; de cette grande clarté dont il l'avoit vue environnée, que Laonice ne pût s'empêcher de rire du succès de son artifice. Enfin lorsqu'ils furent arrivés au temple, Tyrcis supplia Laonice de consentir qu'un druide unît leur destinée. Laonice y consentit ; ils descendirent ensuite dans la plaine pour apprendre leur mariage aux bergers, &amp; aux bergeres de leur connoissance.</p>
             </div>
             <pb xml:id="page_abs_2801" n="page_ori_424"/>
-            <div xml:id="livre0510" n="10" type="livre">
+            <div xml:id="livre0510" n="10" type="chapter">
                <head><hi rend="rule"/>LIVRE DIXIÈME.</head>
                <p rend="indent">Cependant les bergers du Lignon étoient dans un trouble extrême ; Lycidas sur tout paroissoit digne de compassion. Adamas lui-même trouva si justes les regrets du berger, que durant tout le chemin il ne lui dit rien. Mais lorsqu'ils furent tous arrivés, &amp; qu'Astrée &amp; Diane, Celadon &amp; Silvandre eurent été mis dans les chambres que le druide leur avoit destinées, Bellinde &amp; Phylis qui étoient toujours l'une auprès de Diane, &amp; l'autre auprès d'Astrée, remarquerent qu'elles ouvroient insensiblement
                   <pb xml:id="page_abs_2802" n="page_ori_425"/>
@@ -10410,7 +10410,7 @@
                <p rend="indent">Olicarsis supplia Adamas de hâter le plus qu'il pourroit un bien qui le combleroit de joye ; &amp; Celadon étant prié de chercher Silvandre, il le rencontra dans une allée avec Lycidas, Doris, Adraste, &amp; quelques autres. Il n'avoit osé venir où étoient Rosanire &amp; Galatée, de peur d'interrompre leur entretien. Aussitôt Celadon lui raconta une partie de ce qu'il avoit entendu, &amp; l'ayant conduit près d'Adamas, il y fut à peine qu'Azahyde revint de son assoupissement. Il voulut alors s'éloigner ; mais Olicarsis &amp; Adamas le retinrent, &amp; lui firent entendre que son mal finiroit dans peu. A quoi Azahyde ne pouvant ajouter foi, ils lui presenterent Silvandre, qu'il reconnut incontinent, quoiqu'il eût changé de condition &amp; d'habit. Et s'étant prosterné devant lui, il pleura long temps en se rappellant son attentat contre lui. Silvandre l'ayant enfin relevé, l'embrassa avec respect, &amp; en lui remettant cette offense, il lui rétablit si bien l'esprit, que depuis étant parti pour aller porter cette nouvelle à sa fille qui s'étoit confinée parmi les vestales, il ne fut plus agité des frayeurs qui lui avoient ôté le jugement.</p>
             </div>
             <pb xml:id="page_abs_2851" n="page_ori_474"/>
-            <div xml:id="livre0511" n="11" type="livre">
+            <div xml:id="livre0511" n="11" type="chapter">
                <head><hi rend="rule"/>LIVRE ONZIÈME.</head>
                <p rend="indent">Le recit d'Olicarsis, &amp; l'aventure de la fontaine enchantée, occupa la journée entiere. Et la nuit approchoit, lorsqu'Amasis qui étoit déja arrivée au palais d'Isoure, envoya un char à Galatée, afin qu'elle vint l'y trouver, avec Rosanire, Dorinde, &amp; leur suite. Adamas qui esperoit de les garder encore, n'osa par respect se plaindre d'Amasis, &amp; les accompagna jusqu'à l'extrêmité de la grande allée, les suppliant de revenir le lendemain.</p>
                <p rend="indent">Aussitôt qu'elles furent arrivées, elles raconterent
@@ -10573,7 +10573,7 @@
                <p rend="indent">A ces mots, ils entrerent dans la chambre d'Adamas. La nymphe le trouva dans une affliction extrême. Et après avoir passé une partie de la journée avec lui, elle fit venir Rosanire &amp; Galatée, parce qu'elle vouloit partir de bonne heure, afin de travailler à tirer Dorinde du lieu où elle s'étoit renfermée.</p>
             </div>
             <pb xml:id="page_abs_2894" n="page_ori_517"/>
-            <div xml:id="livre0512" n="12" type="livre">
+            <div xml:id="livre0512" n="12" type="chapter">
                <head><hi rend="rule"/>LIVRE DOUZIÈME.</head>
                <p rend="indent">Amasis ne communiqua ni à Rosanire, ni à Galatée la résolution de Dorinde ; elle crut qu'elle auroit le temps de la ramener avant qu'elles fussent averties de sa retraite. Elle leur dit seulement que Dorinde avoit eu la curiosité d'aller à Bonlieu visiter le temple des carnutes, &amp; qu'elle attendroit qu'elle même vint la prendre. Comme elles ignoroient la supercherie du roi, elles ne soupçonnerent rien ; mais lorsque la nymphe leur eut refusé la permission de l'accompagner, elles devinerent en partie
                   <pb xml:id="page_abs_2895" n="page_ori_518"/>
@@ -10722,7 +10722,7 @@
                <p>FIN.</p>
             </div>
          <pb xml:id="page_abs_2933" n="page_ori_556"/>
-         <div xml:id="lettre_huet_scudery" n="6" type="partie">
+         <div xml:id="lettre_huet_scudery" n="6" type="chapter">
                <head>LETTRE DE M. HUET<lb/>
                   à Mademoiselle de Scudery,<lb/>
                   <hi rend="italic">Touchant Honoré d'Urfé, &amp; Diane<lb/>
@@ -10796,7 +10796,7 @@
                   survêcut long temps à son mari, dont la famille n'ayant pas pour elle toute la consideration qu'elle croyoit en devoir attendre, elle s'en tint éloignée, sans autre correspondance que celle qui étoit nécessaire pour la conservation de la jouissance de ses droits, &amp;c.</p>
                <p rend="indent">A Paris le 15. Decembre 1699.</p>
                </div>
-          <div xml:id="reflexions_necessaires" n="7" type="partie">
+          <div xml:id="reflexions_necessaires" n="7" type="chapter">
                <head>REFLEXIONS NECESSAIRES<lb/>
                   pour l'intelligence de l'Astrée.</head>
                <p rend="italic">Ces refléxions sont tirées des œuvres diverses de M. Patru.</p>
@@ -10810,7 +10810,7 @@
                   l'on y donne ou pour femme ou pour mari, le berger ou la bergere que l'on a le plus tendrement aimée. Ainsi Alcidon (le feu duc de Bellegarde) épouse Daphnide (la duchesse de Beaufort) quoique Daphnide n'ait jamais été mariée.</p>
                <p rend="indent">V. Suivant ce qui se pratique ordinairement dans ces sortes d'ouvrages, l'auteur change les lieux, &amp; l'ordre des temps. Ainsi dans l'histoire d'Alexis, les carnutes, ou le païs chartrain, c'est l'isle de Malte. Ainsi il renferme en six mois ou environ toute l'histoire des amours de Celadon &amp; d'Astrée, à compter du jour que ce berger se précipite, quoique ces amours ayent duré quinze à seize ans, depuis que l'auteur s'en alla à Malte, qui est sa chute dans le Lignon.</p>
                </div>
-          <div xml:id="cle_astree" n="8" type="partie">
+          <div xml:id="cle_astree" n="8" type="chapter">
                   <head>CLÉ DE L'ASTRÉE.</head>
                <p rend="indent"><hi rend="italic">Adamas.</hi> C'est le lieutenant géneral de Montbrison, de la famille des Papon, homme de grande vertu, reveré de toute la noblesse, &amp; l'arbitre de tous les differends. M. d'Urfé en a fait le grand druide, pour lui donner l'autorité de l'âge, &amp; de la religion. Pour ce qui regarde la reconnoissance de Silvandre sur le point d'être immolé, &amp; qui
                   <pb xml:id="page_abs_2951" n="page_ori_574"/>
