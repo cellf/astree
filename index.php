@@ -37,7 +37,7 @@ $themeHref=$pot->baseHref.'teipot/';
         echo $doc['breadcrumb']; 
         ?>
       </nav>
-      <main id="main">
+      <div id="main">
       <?php
 
 if ($doc['body']) {
@@ -57,7 +57,7 @@ else {
   echo $pot->conc();
 }
       ?>
-      </main>
+      </div>
       <aside id="aside">
         <p> </p>
           <?php
