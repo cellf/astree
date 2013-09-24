@@ -39,7 +39,6 @@ $themeHref=$pot->baseHref.'teipot/';
       </nav>
       <div id="main">
       <?php
-
 if ($doc['body']) {
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
