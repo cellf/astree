@@ -2872,13 +2872,15 @@ Ligdamon, estoient cause de la continuation de ses folies, &amp; qu'il avoit plu
 plaindre de moy, que d'elle, pour la fin elle luy rescrivit.</p>
 <pb xml:id="page_abs_163" n="page_ori_76"/>
 <p><hi rend="rule"/><title>RESPONSE DE SILVIE.</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Le Phœnix de la cendre sort,<lb/> Parce qu'en la flame il est mort,<lb
-/> L'absence en l'Amour est mortelle,<lb/> Si la presence n'a rien pu,<lb/> Jamais par le
-froid n'est rompu<lb/> Le glaçon qu'un feu ne degelle.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Le Phœnix de la cendre sort,</l>
+<l>Parce qu'en la flame il est mort,</l>
+<l>L'absence en l'Amour est mortelle,</l>
+<l>Si la presence n'a rien pu,</l>
+<l>Jamais par le
+froid n'est rompu</l>
+<l>Le glaçon qu'un feu ne degelle.</l>
+</lg>
 <p rend="indent">Vous pouvez penser avec quel contentement il partit. Il fut fort à propos pour
 luy d'avoir accoustumé de longue main semblables coups, &amp; qu'il se ressouvint, que les
 deffaveurs qui partent de celles que l'on sert, doivent le plus souvent tenir lieu de faveurs.
@@ -3556,47 +3558,66 @@ luy, comme on a de coustume d'user envers ceux qui commencent une recherche : je
 que s'en voyant assez rudement traitté, il chantoit fort souvent ceste chanson, qu'il avoit
 faite sur ce sujet.</p>
 <p><hi rend="rule"/><title>CHANSON.</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Dessus les bords d'une fontaine,<lb/> D'humide mousse revestus,<lb/>
-Dont l'eau de maint replis tortus,<lb/> S'alloit esgarant par la plaine,<lb/> Un Berger
-qu'Amour tourmentoit,<lb/> Ces vers sur son flageol chantoit :<lb/> Cessez un jour, cessez la
-belle,<lb/> Avant ma mort d'estre cruelle.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Se peut-il, qu'un si grand supplice,<lb/> Que pour vous je souffre en
-aymant,<lb/> Si les Dieux sont Dieux de justice,<lb/> Soit en fin souffert vainement ?<lb/>
-Peut-il estre qu'une amitié<lb/> N'esmeuve jamais à pitié,<lb/> Mesme quand l'Amour est
-extreme,<lb/> Comme est celle dont je vous ayme ?</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Ces yeux de qui leurs mignardises<lb/> M'ont souvent contraint
-d'esperer,<lb/>
-<pb xml:id="page_abs_204" n="page_ori_96v"/> Encores que pleins de faintises,<lb/> Veulent-ils
-bien se parjurer ?<lb/> Ils m'ont dit souvent que leur cœur<lb/> Changeroit enfin sa
-rigueur,<lb/> Et à ce deceveur langage<lb/> Faisoit consentir leur visage.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Mais quoy ? Les beaux yeux des Bergeres,<lb/> A mon dam sont aussi
-trompeurs,<lb/> Que des cours les attraits pipeurs :<lb/> Doncques ces beautez bocageres,<lb
-/> Quoy que sans fard dessus le front,<lb/> Dedans le cœur se farderont,<lb/> Et
-n'apprendront dans leurs escoles,<lb/> Qu'à ne donner que des paroles ?</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Cessez un jour, cessez la belle,<lb/> Avant ma mort vostre fierté,<lb
-/> Et croyez que toute beauté,<lb/> Qui n'a la douceur avec elle,<lb/> C'est un œil qui n'a
-point de jour :<lb/> Car une belle sans Amour,<lb/> Quelle que puisse estre la femme,<lb/>
-Ressemble un corps qui n'a point d'ame.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Dessus les bords d'une fontaine,</l>
+<l>D'humide mousse revestus,</l>
+<l>Dont l'eau de maint replis tortus,</l>
+<l>S'alloit esgarant par la plaine,</l>
+<l>Un Berger
+qu'Amour tourmentoit,</l>
+<l>Ces vers sur son flageol chantoit :</l>
+<l>Cessez un jour, cessez la
+belle,</l>
+<l>Avant ma mort d'estre cruelle.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Se peut-il, qu'un si grand supplice,</l>
+<l>Que pour vous je souffre en aymant,</l>
+<l>Si les Dieux sont Dieux de justice,</l>
+<l>Soit en fin souffert vainement ?</l>
+<l>Peut-il estre qu'une amitié</l>
+<l>N'esmeuve jamais à pitié,</l>
+<l>Mesme quand l'Amour est
+extreme,</l>
+<l>Comme est celle dont je vous ayme ?</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Ces yeux de qui leurs mignardises</l>
+<l>M'ont souvent contraint
+d'esperer,</l>
+<pb xml:id="page_abs_204" n="page_ori_96v"/>
+<l>Encores que pleins de faintises,</l>
+<l>Veulent-ils
+bien se parjurer ?</l>
+<l>Ils m'ont dit souvent que leur cœur</l>
+<l>Changeroit enfin sa
+rigueur,</l>
+<l>Et à ce deceveur langage</l>
+<l>Faisoit consentir leur visage.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Mais quoy ? Les beaux yeux des Bergeres,</l>
+<l>A mon dam sont aussi
+trompeurs,</l>
+<l>Que des cours les attraits pipeurs :</l>
+<l>Doncques ces beautez bocageres,</l>
+<l>Quoy que sans fard dessus le front,</l>
+<l>Dedans le cœur se farderont,</l>
+<l>Et
+n'apprendront dans leurs escoles,</l>
+<l>Qu'à ne donner que des paroles ?</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Cessez un jour, cessez la belle,</l>
+<l>Avant ma mort vostre fierté,</l>
+<l>Et croyez que toute beauté,</l>
+<l>Qui n'a la douceur avec elle,</l>
+<l>C'est un œil qui n'a
+point de jour :</l>
+<l>Car une belle sans Amour,</l>
+<l>Quelle que puisse estre la femme,</l>
+<l>Ressemble un corps qui n'a point d'ame.</l>
+</lg>
 <p rend="indent">Ma sœur, interrompit Phillis, je me ressouviens fort bien de ce que vous dittes,
 &amp; faut que je vous fasse rire, de la façon dont il me parloit : car le plus souvent ce
 n'estoient que des mots tant interrompus, qu'il eust fallu deviner pour les entendre, &amp;
@@ -3644,28 +3665,35 @@ me renvoya si loin que je ne sçavois presque qu'en esperer, si bien que je me r
 gaigner avec le temps : mais Lycidas qui n'avoit nulle patience fit dessein plusieurs fois de
 ne la plus aimer, &amp; en ce temps il alloit chantant d'ordinaire tels vers.</p>
 <p><hi rend="rule"/><title>STANCES.<lb/> Sur une resolution de ne plus aymer.</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Fuyons ces Tyrans de nos cœurs,<lb/> Ces yeux qui d'un clin de
-paupiere,<lb/> Sans qu'ils croyent d'estre vainqueurs,<lb/> Randent toute ame
-prisonniere,<lb/> Et nostre porte leur fermons,<lb/> Si nostre repos nous aymons.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Comme la fonteine tousjours,<lb/> Esloigne sa premiere source,<lb/>
-Ainsi de ces yeux les Amours<lb/>
-<pb xml:id="page_abs_208" n="page_ori_98v"/> Y naissant d'une prompte course,<lb/> S'enfuyent
-ailleurs sans oser<lb/> Un seul moment s'y reposer.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">A leur exemple nous aussi,<lb/> De ces yeux esloignons nos ames,<lb/>
-Yeux qui seulement du soucy<lb/> Des Amants nourrissent leurs flâmes :<lb/> Laissons les avec
-leur beauté,<lb/> Pour vivre en nostre liberté.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Fuyons ces Tyrans de nos cœurs,</l>
+<l>Ces yeux qui d'un clin de
+paupiere,</l>
+<l>Sans qu'ils croyent d'estre vainqueurs,</l>
+<l>Randent toute ame
+prisonniere,</l>
+<l>Et nostre porte leur fermons,</l>
+<l>Si nostre repos nous aymons.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Comme la fonteine tousjours,</l>
+<l>Esloigne sa premiere source,</l>
+<l>Ainsi de ces yeux les Amours</l>
+<pb xml:id="page_abs_208" n="page_ori_98v"/>
+<l>Y naissant d'une prompte course,</l>
+<l>S'enfuyent
+ailleurs sans oser</l>
+<l>Un seul moment s'y reposer.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">A leur exemple nous aussi,</l>
+<l>De ces yeux esloignons nos ames,</l>
+<l>Yeux qui seulement du soucy</l>
+<l>Des Amants nourrissent leurs flâmes :</l>
+<l>Laissons les avec
+leur beauté,</l>
+<l>Pour vivre en nostre liberté.</l>
+</lg>
 <p rend="indent">Je croy que Lycidas n'eust pas si promptement mis fin à la cruauté dont Phillis
 refusoit son affection, si de fortune un jour, qu'elle &amp; moy selon nostre coustume nous
 allions promener le long de Lygnon, nous n'eussions rencontré ce Berger dans une Isle de la
@@ -3678,15 +3706,24 @@ tels.</p>
 <pb xml:id="page_abs_209" n="page_ori_99"/>
 <p><hi rend="rule"/><title>MADRIGAL.<lb/> QU'IL NE DOIT POINT<lb/> esperer d'estre
 aymé.</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Pensons nous en l'aimant,<lb/> Que quelquefois nostre amitié fidele<lb
-/> Puisse asseurer au cœur de ceste belle<lb/> Quelque seur fondement ?<lb/> Helas c'est
-vainement !<lb/> &#160;Car plutost pour ma peine,<lb/> Ce que je vas tracer<lb/> Sur
-l'inconstante areine,<lb/> Ferme se doit penser,<lb/> Que dedans son courage,<lb/> A mon dam
-trop sauvage,<lb/> Amour pour moy jette nul fondement<lb/> Qui ne soit vainement.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Pensons nous en l'aimant,</l>
+<l>Que quelquefois nostre amitié fidele</l>
+<l>Puisse asseurer au cœur de ceste belle</l>
+<l>Quelque seur fondement ?</l>
+<l>Helas c'est
+vainement !</l>
+<l rend="indent">Car plutost pour ma peine,</l>
+<l>Ce que je vas tracer</l>
+<l>Sur
+l'inconstante areine,</l>
+<l>Ferme se doit penser,</l>
+<l>Que dedans son courage,</l>
+<l>A mon dam
+trop sauvage,</l>
+<l>Amour pour moy jette nul fondement</l>
+<l>Qui ne soit vainement.</l>
+</lg>
 <p rend="indent">Peu apres nous ouïsmes, s'estant teu pour quelque temps, qu'il reprenoit ainsi la
 parole avec un grand helas ! &amp; levant les yeux au ciel : O Dieu, si vous estes irritez
 contre moy, parce que j'adore avec plus de devotion l'œuvre de vos mains que vous mesmes ;
@@ -4175,64 +4212,81 @@ plaintes : ce fut en ce temps qu'il fit ceste chanson.</p>
 <pb xml:id="page_abs_239" n="page_ori_114"/>
 <p><hi rend="rule"/><title>CHANSON<lb/> DE CELADON SUR LE<lb/> changement d'Astrée.</title><lb
 /></p>
-<p>
-<lb/>
-<hi rend="italic indent">Il faudroit bien que la constance,<lb/> M'eust desrobé le
-sentiment,<lb/> Si je ne ressentois l'offence,<lb/> De ce desdaigneux changement :<lb/> Et
-la ressentant, si soudain,<lb/> Je ne recourois au desdain.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Vous m'avez desdaigné parjure,<lb/> Pour un que vous n'aviez point
-veu,<lb/> Parce qu'il eut par aventure,<lb/> Plus de bien que je n'ay pas eu :<lb/>
-Infidelle, osez vous encor<lb/> Sacrifier à ce veau d'or ?</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Où sont les serments que nous fismes,<lb/> Où sont ces ruisseaux
-espandus,<lb/> Et ces A-dieux, quand nous partismes ?<lb/> Le ciel les a bien entendus :<lb
-/> Quand vostre cœur les oublioit,<lb/> Vostre bouche les publioit.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Yeux parjurez, flâme infidele,<lb/> Qui n'aimez sinon en changeant,<lb
-/>
-<pb xml:id="page_abs_240" n="page_ori_114v"/> Fasse Amour qu'une beauté telle<lb/> Que la vostre
-m'aille vengeant,<lb/> Qu'elle faigne de vous aymer,<lb/> Seulement pour vous enflâmer.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Ainsi pressé de sa tristesse,<lb/> Un Amant trahy se plaignoit,<lb/>
-Quand on luy dit que sa maistresse<lb/> Pour un autre le desdaignoit,<lb/> Et le Ciel tonnant
-par pitié,<lb/> Promit venger son amitié.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Il estoit couché, miserable,<lb/> Pres de Lignon, &amp; s'en
-alloit,<lb/> Du doigt marquant dessur le sable,<lb/> Leurs chiffres ainsi qu'il souloit.<lb
-/> Ce chiffre, dit-il, trop heureux,<lb/> Helas ! n'est plus propre à nous deux.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Lors le pleur enfant de la peine,<lb/> Qu'une juste douleur
-poussoit,<lb/> Tombant à grands flots sur l'areine,<lb/> Ces doubles chiffres effaçoit.<lb/>
-Efface, dit-il, ô mon pleur,<lb/> Non pas ceux-cy, mais ceux du cœur.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Amant qui plein de coüardise,<lb/> T'en vas plaignant si longuement<lb
-/>
-<pb xml:id="page_abs_241" n="page_ori_115"/> Une ame toute de faintise :<lb/> Lors que tu sceus
-son changement,<lb/> Ou tu devois soudain mourir,<lb/> Ou bien incontinent guerir.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Il faudroit bien que la constance,</l>
+<l>M'eust desrobé le
+sentiment,</l>
+<l>Si je ne ressentois l'offence,</l>
+<l>De ce desdaigneux changement :</l>
+<l>Et
+la ressentant, si soudain,</l>
+<l>Je ne recourois au desdain.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Vous m'avez desdaigné parjure,</l>
+<l>Pour un que vous n'aviez point
+veu,</l>
+<l>Parce qu'il eut par aventure,</l>
+<l>Plus de bien que je n'ay pas eu :</l>
+<l>Infidelle, osez vous encor</l>
+<l>Sacrifier à ce veau d'or ?</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Où sont les serments que nous fismes,</l>
+<l>Où sont ces ruisseaux
+espandus,</l>
+<l>Et ces A-dieux, quand nous partismes ?</l>
+<l>Le ciel les a bien entendus :</l>
+<l>Quand vostre cœur les oublioit,</l>
+<l>Vostre bouche les publioit.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Yeux parjurez, flâme infidele,</l>
+<l>Qui n'aimez sinon en changeant,</l>
+<pb xml:id="page_abs_240" n="page_ori_114v"/>
+<l>Fasse Amour qu'une beauté telle</l>
+<l>Que la vostre
+m'aille vengeant,</l>
+<l>Qu'elle faigne de vous aymer,</l>
+<l>Seulement pour vous enflâmer.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Ainsi pressé de sa tristesse,</l>
+<l>Un Amant trahy se plaignoit,</l>
+<l>Quand on luy dit que sa maistresse</l>
+<l>Pour un autre le desdaignoit,</l>
+<l>Et le Ciel tonnant
+par pitié,</l>
+<l>Promit venger son amitié.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Il estoit couché, miserable,</l>
+<l>Pres de Lignon, &amp; s'en
+alloit,</l>
+<l>Du doigt marquant dessur le sable,</l>
+<l>Leurs chiffres ainsi qu'il souloit.</l>
+<l>Ce chiffre, dit-il, trop heureux,</l>
+<l>Helas ! n'est plus propre à nous deux.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Lors le pleur enfant de la peine,</l>
+<l>Qu'une juste douleur
+poussoit,</l>
+<l>Tombant à grands flots sur l'areine,</l>
+<l>Ces doubles chiffres effaçoit.</l>
+<l>Efface, dit-il, ô mon pleur,</l>
+<l>Non pas ceux-cy, mais ceux du cœur.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Amant qui plein de coüardise,</l>
+<l>T'en vas plaignant si longuement</l>
+<pb xml:id="page_abs_241" n="page_ori_115"/>
+<l>Une ame toute de faintise :</l>
+<l>Lors que tu sceus
+son changement,</l>
+<l>Ou tu devois soudain mourir,</l>
+<l>Ou bien incontinent guerir.</l>
+</lg>
 <p rend="indent">La solitude de Celadon eust esté beaucoup plus longue sans le commandement
 qu'Alcippe fit à Lycidas de chercher son frere, ayant en soy-mesme fait dessein (puis qu'aussi
 bien voyoit-il que sa peine luy estoit inutile) de ne plus contrarier ceste amitié ; mais
@@ -4259,7 +4313,7 @@ son infidelité : &amp; si touchée du repentir, elle te moüille de quelque[s] 
 que pour destendre l'arc on ne guerit pas la playe qu'elle a faicte à sa foy, &amp; à mon
 amitié, &amp; que mes ennuis seront tesmoins &amp; devant les hommes, &amp; devant les Dieux,
 que comme elle est la plus belle, &amp; la plus infidele du monde, que je suis aussi le plus
-fidele &amp; plus affectionné de l'univers.</hi><lb/></p>
+fidele &amp; plus affectionné de l'univers.</hi></p>
 <p rend="indent">Nous n'eusmes pas si tost jetté les yeux sur ceste escriture, que nous la
 recognusmes tous trois, pour estre de Celadon, qui fut cause que Lycidas courut pour retirer
 les autres qui nageoient sur l'eau, mais le courant les avoit emportez si loin, qu'il ne les
@@ -4399,32 +4453,32 @@ en sa premiere place, peu apres chanta ces vers.</p>
 <p><hi rend="rule"/><title>SONNET.<lb/> DE CELADON,<lb/> Qu'il cognoist qu'on faint de
 l'aimer<lb/> &amp; que toutefois ceste fainte mes-<lb/> me luy plaist &amp; ne s'en<lb/>
 peut retirer</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Elle faint de m'aimer pleine de mignardise,<lb/> Souspirant avec moy,
-me voyant souspirer,<lb/> Et par de faintes pleurs tesmoigne d'endurer,<lb/> L'ardeur que
-dans mon ame elle void tant esprise.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Qui ne la cognoistroit lors qu'elle se desguise ?<lb/> Mais qui de ses
-attraits se pourroit retirer ?<lb/> Il faut estre sans cœur pour ne point desirer<lb/>
-D'estre si doucement deceu par sa faintise.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Mais que c'est que de moy ! ce faux mesme me plaist<lb/> Et ne la puis
-quitter la perfide qu'elle est,<lb/> Traistres miroirs du cœur, lumieres infideles,</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Je vous recognois bien &amp; vos trompeurs appas ;<lb/> Mais que me
-sert cela puis qu'Amour ne veut pas,<lb/> Voyant vos trahisons, que je me garde d'elle ?</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Elle faint de m'aimer pleine de mignardise,</l>
+<l>Souspirant avec moy,
+me voyant souspirer,</l>
+<l>Et par de faintes pleurs tesmoigne d'endurer,</l>
+<l>L'ardeur que
+dans mon ame elle void tant esprise.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Qui ne la cognoistroit lors qu'elle se desguise ?</l>
+<l>Mais qui de ses
+attraits se pourroit retirer ?</l>
+<l>Il faut estre sans cœur pour ne point desirer</l>
+<l>D'estre si doucement deceu par sa faintise.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Mais que c'est que de moy ! ce faux mesme me plaist</l>
+<l>Et ne la puis
+quitter la perfide qu'elle est,</l><l>Traistres miroirs du cœur, lumieres infideles,</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Je vous recognois bien &amp; vos trompeurs appas ;</l>
+<l>Mais que me
+sert cela puis qu'Amour ne veut pas,</l>
+<l>Voyant vos trahisons, que je me garde d'elle ?</l>
+</lg>
 <p rend="indent">Apres s'estre teu quelque temps, Aminthe luy dit : Et quoy Celadon vous
 ennuyez-vous si tost ? Je crains plutost, dit-il, d'ennuyer celle à qui en toute façon je ne
 veux que plaire. Et qui peut-c'estre, dit-elle, puis que nous <pb xml:id="page_abs_252"
@@ -4436,14 +4490,21 @@ Vous userez, reprit le Berger, des termes qu'il vous plaira, mais en fin je ne s
 serviteur, &amp; lors il recommença de ceste sorte.</p>
 <p><hi rend="rule"/><title>MADRIGAL<lb/> DE CELADON, SUR LA<lb/> RESSEMBLANCE QU'IL A<lb/> avec
 sa maistresse.</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">D'un marbre dur vous estes<lb/> Aux coups d'Amour, &amp; de mon
-pleur,<lb/> Et de marbre dur est mon cœur,<lb/> Aux maux que vous me faites.<lb/> Nos yeux
-sont pleins de feux,<lb/> Et nous sommes tous deux<lb/> D'Amour, et de nature,<lb/> D'une
-roche bien dure :<lb/> Mais vous de cruauté,<lb/> Et moy de loyauté.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">D'un marbre dur vous estes</l>
+<l>Aux coups d'Amour, &amp; de mon
+pleur,</l>
+<l>Et de marbre dur est mon cœur,</l>
+<l>Aux maux que vous me faites.</l>
+<l>Nos yeux
+sont pleins de feux,</l>
+<l>Et nous sommes tous deux</l>
+<l>D'Amour, et de nature,</l>
+<l>D'une
+roche bien dure :</l>
+<l>Mais vous de cruauté,</l>
+<l>Et moy de loyauté.</l>
+</lg>
 <pb xml:id="page_abs_253" n="page_ori_121"/>
 <p rend="indent">Belle Diane, il fut hors de mon pouvoir d'arrester davantage en ce lieu, &amp;
 ainsi m'esloignant doucement d'eux, je m'en retournay à mon trouppeau, si triste que de ce
@@ -4753,31 +4814,43 @@ vous friser les cheveux, vous vous bruslastes la jouë, surquoy il fit tels vers
 <p><hi rend="rule"/><title>CHANSON <lb/>D'AGIS. <lb/>Sur la bruslure de la joüe <lb/>de
 Leonide.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Pendant qu'à votre poil se joüe <lb/>Amour attentif à son jeu, <lb
-/>Un'étincelle de son feu <lb/>Vous est tombée sur la joüe. <lb/>&#160;Par là vous jugerez la
-belle, <pb xml:id="page_abs_272" n="page_ori_131"/>
-<lb/>Combien en est le feu cuisant, <lb/>Puis que ceste seule estincelle <lb/>Tant de douleur
-va produisant.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Cependant que vostre œil eslance, <lb/>Encores qu'il en fust
-vaincueur, <lb/>Tant de flâmes contre mon cœur, <lb/>L'une la joüe vous offence. <lb
-/>&#160;Par là vous jugerez la belle, <lb/>Combien en est le feu cuisant, <lb/>Puis que ceste
-seule estincelle, <lb/>Tant de douleur va produisant.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Et lors que mon cœur tout en flâme, <lb/>Vouloit son ardeur vous
-lancer, <lb/>Son feu qui ne pût y passer, <lb/>Brusla la joüe au lieu de l'âme. <lb
-/>&#160;Par là vous jugerez la belle, <lb/>Combien en est le feu cuisant, <lb/>Pui-que ceste
-seule estincelle, <lb/>Tant de douleur va produisant.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Pendant qu'à votre poil se joüe </l>
+<l>Amour attentif à son jeu,</l>
+<l>Un'étincelle de son feu </l>
+<l>Vous est tombée sur la joüe. </l>
+<l rend="indent">Par là vous jugerez la
+belle,</l>
+<pb xml:id="page_abs_272" n="page_ori_131"/>
+<l>Combien en est le feu cuisant, </l>
+<l>Puis que ceste seule estincelle </l>
+<l>Tant de douleur
+va produisant.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Cependant que vostre œil eslance, </l>
+<l>Encores qu'il en fust
+vaincueur, </l>
+<l>Tant de flâmes contre mon cœur, </l>
+<l>L'une la joüe vous offence.</l>
+<l rend="indent">Par là vous jugerez la belle, </l>
+<l>Combien en est le feu cuisant, </l>
+<l>Puis que ceste
+seule estincelle, </l>
+<l>Tant de douleur va produisant.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Et lors que mon cœur tout en flâme, </l>
+<l>Vouloit son ardeur vous
+lancer, </l>
+<l>Son feu qui ne pût y passer, </l>
+<l>Brusla la joüe au lieu de l'âme.</l>
+<l rend="indent">Par là vous jugerez la belle, </l>
+<l>Combien en est le feu cuisant, </l>
+<l>Pui-que ceste
+seule estincelle, </l>
+<l>Tant de douleur va produisant.</l>
+</lg>
 <p rend="indent">Et pour vous faire paroistre que veritablement je sçay ces choses, par une
 divinité qui ne peut mentir, &amp; de qui la veuë, &amp; l'oüye penetrent jusques dans le
 profond des cœurs, je vous veux dire une chose sur ce sujet, que personne ne peut sçavoir que
@@ -5317,19 +5390,28 @@ ne fust encor vainqueur, &amp; me souvient que sur ce discours il fit ces vers, 
 lors que nous fusmes amis, il me donna.</p>
 <p><hi rend="rule"/><title>SONNET <lb/>Sur un despit d'Amour.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Despit foible guerrier, parrain audacieux, <lb/>Qui me conduits au
-camp sous de si foibles armes, <lb/>Contre un Amour couvert, &amp; d'armes &amp; de charmes,
-<lb/>Amour si coustumier d'estre victorieux. <lb/>&#160;Helas, c'est fait de nous, nos
-glaçons desdaigneuxs, <lb/>Au seul vent de son ayle, aux premieres alarmes, <lb/>Se dégellent
-d'abort en des ardantes larmes : <lb/>Et que feront les feux qui consument les Dieux ? <lb
-/>&#160;Je te crie mercy, vaincu je tends la main, <lb/>Fleschissant le genoüil, &amp;
-descouvrant le sein, <lb/>Si tu veux le combat, que pour moy pitié s'arme. <lb/>&#160;Le
-vraincre, &amp; le mourir je mets en son effort <lb/>Que s'il tombe en ton sein seulement une
-larme, <lb/>Mon sang soit mon triomphe, &amp; victoire ma mort.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Despit foible guerrier, parrain audacieux, </l>
+<l>Qui me conduits au
+camp sous de si foibles armes, </l>
+<l>Contre un Amour couvert, &amp; d'armes &amp; de charmes,</l>
+<l>Amour si coustumier d'estre victorieux. </l>
+<l rend="indent">Helas, c'est fait de nous, nos
+glaçons desdaigneuxs, </l>
+<l>Au seul vent de son ayle, aux premieres alarmes, </l>
+<l>Se dégellent
+d'abort en des ardantes larmes : </l>
+<l>Et que feront les feux qui consument les Dieux ?</l>
+<l rend="indent">Je te crie mercy, vaincu je tends la main, </l>
+<l>Fleschissant le genoüil, &amp;
+descouvrant le sein, </l>
+<l>Si tu veux le combat, que pour moy pitié s'arme. </l>
+<l rend="indent">Le
+vraincre, &amp; le mourir je mets en son effort </l>
+<l>Que s'il tombe en ton sein seulement une
+larme, </l>
+<l>Mon sang soit mon triomphe, &amp; victoire ma mort.</l>
+</lg>
 <p rend="indent">Ce qui fut cause de ce changement en Stelle, fut une nouvelle affection, que la
 recherche d'un Berger nommé Semire fit naistre dans son ame, dequoy Lysis s'apperceut le
 dernier, parce qu'elle se cachoit davantage de luy, que de tout autre : Ce Berger est entre
@@ -5821,35 +5903,42 @@ tourné l'œil à moy, pour faire cognoistre que c'estoit de moy dont il parloit
 <pb xml:id="page_abs_333" n="page_ori_162 ERR262"/>
 <p><hi rend="rule"/><title>VILANELLE D'AMIDOR <lb/>REPROCHANT UNE <lb/>legereté.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">A la fin celuy l'aura, <lb/>Qui dernier la servira, <lb/>De ce cœur
-cent fois volage, <lb/>Plus que le vent animé, <lb/>Qui peut croire d'estre aimé, <lb/>Ne
-doit pas estre creu sage. <lb/>&#160;Car enfin celuy l'aura, <lb/>&#160;Qui dernier la
-servira.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">A tous vents la giroüette, <lb/>Sur le feste d'une tour, <lb/>Elle
-aussi vers toute Amour, <lb/>Va tousjours tournant la teste, <lb/>&#160;Et en fin, &amp;c.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Le Chasseur jamais ne prise, <lb/>Ce qu'à la fin il a pris, <lb
-/>L'inconstante fait bien pis, <lb/>Mesprisant qui la tient prise, <lb/>&#160;Mais en fin,
-&amp;c.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Ainsi qu'un clou l'autre chasse, <lb/>Dedans son cœur le dernier, <pb
-xml:id="page_abs_334" n="page_ori_162v ERR262v"/>
-<lb/>De celuy qui fut premier, <lb/>Soudain usurpe la place : <lb/>&#160;C'est pourquoy celuy
-l'aura, <lb/>&#160;Qui dernier la servira.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">A la fin celuy l'aura,</l>
+<l>Qui dernier la servira, </l>
+<l>De ce cœur
+cent fois volage, </l>
+<l>Plus que le vent animé, </l>
+<l>Qui peut croire d'estre aimé, </l>
+<l>Ne
+doit pas estre creu sage. </l>
+<l rend="indent">Car enfin celuy l'aura, </l>
+<l rend="indent">Qui dernier la
+servira.</l>
+</lg>
+<lg rend="italic"><l rend="indent">A tous vents la giroüette, </l>
+<l>Sur le feste d'une tour, </l>
+<l>Elle
+aussi vers toute Amour, </l>
+<l>Va tousjours tournant la teste, </l>
+<l rend="indent">Et en fin, &amp;c.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Le Chasseur jamais ne prise, </l>
+<l>Ce qu'à la fin il a pris,</l>
+<l>L'inconstante fait bien pis, </l>
+<l>Mesprisant qui la tient prise, </l>
+<l rend="indent">Mais en fin,
+&amp;c.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Ainsi qu'un clou l'autre chasse, </l>
+<l>Dedans son cœur le dernier,</l>
+<pb xml:id="page_abs_334" n="page_ori_162v ERR262v"/>
+<l>De celuy qui fut premier, </l>
+<l>Soudain usurpe la place : </l>
+<l rend="indent">C'est pourquoy celuy
+l'aura, </l>
+<l rend="indent">Qui dernier la servira.</l>
+</lg>
 <p rend="indent">J'eusse bien eu assez d'authorité sur moy-mesme pour m'empescher de donner
 cognoissance du desplaisir que ceste chanson me r'aportoit, n'eust esté que chacun jetta
 l'oeil sur moy : Et sans Daphnis, je ne sçay quelle je fusse devenuë, mais elle pleine de
@@ -5858,74 +5947,94 @@ discretion, sans attendre la fin de cette Vilanelle, l'interrompit de ceste sort
 <p><hi rend="rule"/><title>MADRIGAL DE DAPHNIS, <lb/>sur l'amitié qu'elle porte à
 Diane.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Puis qu'en naissant belle Diane, <lb/>Amour des cœurs vous fit
-l'Aimant, <lb/>Pourquoy dit-on que je profane <lb/>Tant de beautez en vous aymant ? <lb
-/>C'est par destin qu'on les ayme. <lb/>&#160;Que si de sympathie naist <lb/>Amour, le nostre
-est bien extresme, <lb/>Puis que de vous &amp; moy ce n'est <lb/>Qu'un sexe mesme.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Puis qu'en naissant belle Diane, </l>
+<l>Amour des cœurs vous fit
+l'Aimant, </l>
+<l>Pourquoy dit-on que je profane </l>
+<l>Tant de beautez en vous aymant ?</l>
+<l>C'est par destin qu'on les ayme. </l>
+<l rend="indent">Que si de sympathie naist </l>
+<l>Amour, le nostre
+est bien extresme, </l>
+<l>Puis que de vous &amp; moy ce n'est </l>
+<l>Qu'un sexe mesme.</l>
+</lg>
 <p rend="indent">Et afin de mieux couvrir la rougeur de mon visage, &amp; faire croire que je
 n'avois point pris garde aux paroles d'Amidor, aussi tost que Daphnis eut fini, je luy
 respondis ainsi.</p>
 <pb xml:id="page_abs_335" n="page_ori_163 ERR263"/>
 <p><hi rend="rule"/><title>MADRIGAL <lb/>sur le mesme sujet.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Pourquoy semble-t'il tant estrange, <lb/>Que fille comme vous estant,
-<lb/>Toutefois je vous ayme tant ? <lb/>&#160;Si l'Amant en l'aimé se change, <lb/>Ne
-puis-je pas mieux me changer, <lb/>Estant Bergere, en vous Bergere, <lb/>Qu'estant Bergere en
-un Berger ?</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Pourquoy semble-t'il tant estrange, </l>
+<l>Que fille comme vous estant,</l>
+<l>Toutefois je vous ayme tant ? </l>
+<l rend="indent">Si l'Amant en l'aimé se change, </l>
+<l>Ne
+puis-je pas mieux me changer, </l>
+<l>Estant Bergere, en vous Bergere, </l>
+<l>Qu'estant Bergere en
+un Berger ?</l>
+</lg>
 <p rend="indent">Apres nous, chacun selon son rang, chanta quelques vers, &amp; mesme Filandre qui
 avoit la voix tres-bonne, quand ce vint à son tour, dit avec une façon fort bonne ceux-cy.</p>
 <p><hi rend="rule"/><title>STANCES <lb/>DE FILANDRE SUR LA <lb/>naissance de son
 affection.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Que ses desirs soient grands &amp; ses attentes vaines, <lb/>Ses
-Amours pleins de feux, &amp; plus encor de peines, <lb/>Qu'il ayme, &amp; que jamais il ne
-puisse estre aimé, <lb/>Ou bien s'il est aimé qu'on ne puisse luy plaire, <lb/>Et que d'un
-faux espoir, toutefois qu'il espere, <lb/>Mais seulement afin qu'il soit plus enflamé.</hi>
+<lg rend="italic">
+<l rend="indent">Que ses desirs soient grands &amp; ses attentes vaines, </l>
+<l>Ses
+Amours pleins de feux, &amp; plus encor de peines, </l>
+<l>Qu'il ayme, &amp; que jamais il ne
+puisse estre aimé, </l>
+<l>Ou bien s'il est aimé qu'on ne puisse luy plaire, </l>
+<l>Et que d'un
+faux espoir, toutefois qu'il espere, </l>
+<l>Mais seulement afin qu'il soit plus enflamé.</l>
 <pb xml:id="page_abs_336" n="page_ori_163v ERR263v"/>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Ainsi sur mon berceau de la parque ordonnée, <lb/>Neuf fois se
-prononça la dure destinée, <lb/>Qui devoit infaillible accompagner mes jours, <lb/>A main
-droite le Ciel tonna plein de nuages, <lb/>Et depuis j'ay tousjours recognu ces presages, <lb
-/>En mes plus grands desirs &amp; plus vives amours.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Ne vous estonnez donc, suivant ceste ordonnance, <lb/>Si voyant vos
-beautez mon amitié commance, <lb/>Que si je suis puny du dessein proposé, <lb/>Le grand
-alegement, qu'on en juge coulpable <lb/>Les Loix de mon destin, &amp; ma faute loüable, <lb
-/>En disant qu'un cœur bas ne l'eust oncques osé.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Ainsi quand le Soulcy durant la canicule, <lb/>Se plaisant au Soleil à
-ses rayons se brusle <lb/> Il dit tournant vers luy, brusle, ô mon beau Soleil, <lb/>Brusle,
-aussi bien faut-il que toute chose meure : <lb/>Il est vray qu'à ma mort ce plaisir me
-demeure, <lb/>Qu'autre feu ne pouvoit me brusler que ton œil.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Quand l'unique Phœnix d'un artifice rare, <lb/>Instruit par la nature,
-ensemble se prepare <lb/>Au naistre &amp; au mourir la tombe &amp; le berceau, <lb/>Amoureux
-de ce feu qu'à son dam il allume, <lb/>Glorieux de sa mort, il dit quand il consume, <lb
-/>D'un tel feu consumer, est-il rien de plus beau ?.</hi>
-<lb/>
-</p>
+</lg>
+<lg rend="italic">
+<l rend="indent">Ainsi sur mon berceau de la parque ordonnée, </l>
+<l>Neuf fois se
+prononça la dure destinée, </l>
+<l>Qui devoit infaillible accompagner mes jours, </l>
+<l>A main
+droite le Ciel tonna plein de nuages, </l>
+<l>Et depuis j'ay tousjours recognu ces presages,</l>
+<l>En mes plus grands desirs &amp; plus vives amours.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Ne vous estonnez donc, suivant ceste ordonnance, </l>
+<l>Si voyant vos
+beautez mon amitié commance, </l>
+<l>Que si je suis puny du dessein proposé, </l>
+<l>Le grand
+alegement, qu'on en juge coulpable </l>
+<l>Les Loix de mon destin, &amp; ma faute loüable,</l>
+<l>En disant qu'un cœur bas ne l'eust oncques osé.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Ainsi quand le Soulcy durant la canicule, </l>
+<l>Se plaisant au Soleil à
+ses rayons se brusle </l>
+<l>Il dit tournant vers luy, brusle, ô mon beau Soleil, </l>
+<l>Brusle,
+aussi bien faut-il que toute chose meure : </l>
+<l>Il est vray qu'à ma mort ce plaisir me
+demeure, </l>
+<l>Qu'autre feu ne pouvoit me brusler que ton œil.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Quand l'unique Phœnix d'un artifice rare, </l>
+<l>Instruit par la nature,
+ensemble se prepare </l>
+<l>Au naistre &amp; au mourir la tombe &amp; le berceau, </l>
+<l>Amoureux
+de ce feu qu'à son dam il allume, </l>
+<l>Glorieux de sa mort, il dit quand il consume,</l>
+<l>D'un tel feu consumer, est-il rien de plus beau ?.</l>
+</lg>
 <p rend="indent">Il en dit bien encores quelques autres, mais je les ay oubliez, tant y a que fust
 ce que m'en avoit dit Daphnis, ou que veritablement ses <pb xml:id="page_abs_337" n="page_ori_164
 ERR264"/> ses yeux me parlassent plus clairement que sa bouche, il me sembla que c'estoit à
@@ -5972,21 +6081,36 @@ apparance) de la longueur du chemin, &amp; par hazard quand nous arrivasmes, il 
 cette sorte.</p>
 <p><hi rend="rule"/><title>MADRIGAL.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">D'un cœur outrecuidé, <lb/>Je mesprisois Amour, ses ruzes ? &amp; ses
-charmes : <lb/>Lors que changeant ses armes, <lb/>Des vostres contre moy, le trompeur s'est
-aidé : <lb/>Et toutefois avant que de m'en faire outrage ? <lb/>Il me tint ce langage. <lb
-/>&#160;Un Dieu contre mes loix arrogant devenu, <lb/>Pour avoir obtenu <lb/>D'un Serpent la
-victoire, <pb xml:id="page_abs_340" n="page_ori_165v ERR265v"/>
-<lb/>Voulut nier ma gloire : <lb/>&#160;Mais quoy d'une Daphné ? ne le rendis-je Amant <lb
-/>Pour luy montrer ma force ? <lb/>&#160;Que si j'ay ses desirs, mis sous sa froide escorce,
-<lb/>Juge quel chastiment ? <lb/>Sera le tien Filandre. <lb/>&#160;Car le feu qui brusla ce
-Dieu si glorieux, <lb/>Ne vint que des beaux yeux, <lb/>D'une Nymphe qu'encor toute
-insensible il aime : <lb/>Mais je veux que le tien <lb/>Bien plus grand que le sien, <lb
-/>Vienne non d'une Nymphe : ains de Diane mesme.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">D'un cœur outrecuidé, </l>
+<l>Je mesprisois Amour, ses ruzes ? &amp; ses
+charmes : </l>
+<l>Lors que changeant ses armes, </l>
+<l>Des vostres contre moy, le trompeur s'est
+aidé : </l>
+<l>Et toutefois avant que de m'en faire outrage ? </l>
+<l>Il me tint ce langage.</l>
+<l rend="indent">Un Dieu contre mes loix arrogant devenu, </l>
+<l>Pour avoir obtenu </l>
+<l>D'un Serpent la
+victoire,</l>
+<pb xml:id="page_abs_340" n="page_ori_165v ERR265v"/>
+<l>Voulut nier ma gloire : </l>
+<l rend="indent">Mais quoy d'une Daphné ? ne le rendis-je Amant</l>
+<l>Pour luy montrer ma force ? </l>
+<l rend="indent">Que si j'ay ses desirs, mis sous sa froide escorce,
+</l>
+<l>Juge quel chastiment ? </l>
+<l>Sera le tien Filandre. </l>
+<l rend="indent">Car le feu qui brusla ce
+Dieu si glorieux, </l>
+<l>Ne vint que des beaux yeux, </l>
+<l>D'une Nymphe qu'encor toute
+insensible il aime : </l>
+<l>Mais je veux que le tien </l>
+<l>Bien plus grand que le sien, </l>
+<l>Vienne non d'une Nymphe : ains de Diane mesme.</l>
+</lg>
 <p rend="indent">Quand je m'ouys nommer, belles Bergeres, je tressaillis, comme si sans y penser
 j'eusse mis le pied sur un serpent, &amp; sans vouloir attendre davantage, je m'en allay le
 plus doucement que je pûs pour n'estre pas veuë, quoy que Daphnis ? pour m'y faire retourner,
@@ -7145,61 +7269,67 @@ si pres, qu'ils ouyrent que Hylas venoit chantant tels vers.<hi rend="rule"/></p
 <title>VILANELLE DE <lb/>HYLAS SUR SON <lb/>inconstance.</title>
 <lb/>
 </p>
-<p>
-<lb/>
-<hi rend="italic indent">La belle qui m'arrestera, <lb/>Beaucoup plus d'honneur en aura.</hi>
-<lb/>
-</p>
-<p><lb/>I. <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">J'ayme à changer, c'est ma franchise, <lb/>&#160;Et mon humeur m'y va
-portant : <lb/>Mais quoy si je suis inconstant, <lb/>Faut-il pourtant qu'on me mesprise ? <lb
-/>&#160;Tant s'en faut, qui m'arrestera <lb/>&#160;Beaucoup plus d'honneur en aura.</hi>
-<lb/>
-</p>
-<p><lb/>II. <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Faire aimer une ame barbare, <lb/>C'est signe de grande beauté, <lb/>
-<pb xml:id="page_abs_410" n="page_ori_201 ERR301"/> Et rendre mon cœur arresté, <lb/>C'est un
-effet encor plus rare. <lb/>&#160;Si bien que qui m'arrestera <lb/>&#160;Beaucoup plus
-d'honneur en aura.</hi>
-<lb/>
-</p>
-<p><lb/>III. <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Arrester un fais immobile, <lb/>Qui ne le peut faire aisément ? <lb
-/>Mais arrester un mouvement, <lb/>C'est chose bien plus difficile : <lb/>&#160;C'est
-pourquoy qui m'arrestera <lb/>&#160;Beaucoup plus d'honneur en aura.</hi>
-<lb/>
-</p>
-<p><lb/>IIII. <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Et pourquoy trouvez-vous estrange <lb/>Que je change pour avoir mieux
-? <lb/>Il faudroit bien n'avoir point des yeux, <lb/>Qui ne voudroit ainsi le change. <lb
-/>&#160;Mais celle qui m'arrestera <lb/>&#160;Beaucoup plus d'honneur en aura.</hi>
-<lb/>
-</p>
-<p><lb/>V. <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Car c'est signe que ceste belle, <lb/>Qui mon Amour constante aura,
-<lb/>Toute beauté surpassera, <lb/>Pendant que je seray pour elle. <lb/>&#160;Et ainsi qui
-m'arrestera <lb/>&#160;Beaucoup plus d'honneur en aura.</hi>
-<lb/>
-</p>
-<p><lb/>VI. <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Venez donc me trouver Bergeres, <lb/>
-<pb xml:id="page_abs_411" n="page_ori_201v ERR301v"/> Qui voulez le prix de beauté, <lb/>Arrestez
-ma legereté <lb/>Par des faveurs non coustumieres. <lb/>&#160;Car celle qui m'arrestera <lb
-/>&#160;Beaucoup plus d'honneur en aura.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">La belle qui m'arrestera, </l>
+<l>Beaucoup plus d'honneur en aura.</l>
+</lg>
+<p>I. </p>
+<lg rend="italic"><l rend="indent">J'ayme à changer, c'est ma franchise, </l>
+<l rend="indent">Et mon humeur m'y va
+portant : </l>
+<l>Mais quoy si je suis inconstant, </l>
+<l>Faut-il pourtant qu'on me mesprise ?</l>
+<l rend="indent">Tant s'en faut, qui m'arrestera </l>
+<l rend="indent">Beaucoup plus d'honneur en aura.</l>
+</lg>
+<p>II. </p>
+<lg rend="italic"><l rend="indent">Faire aimer une ame barbare, </l>
+<l>C'est signe de grande beauté, </l>
+<pb xml:id="page_abs_410" n="page_ori_201 ERR301"/> 
+<l>Et rendre mon cœur arresté, </l>
+<l>C'est un
+effet encor plus rare. </l>
+<l rend="indent">Si bien que qui m'arrestera </l>
+<l rend="indent">Beaucoup plus
+d'honneur en aura.</l>
+</lg>
+<p>III. </p>
+<lg rend="italic"><l rend="indent">Arrester un fais immobile, </l>
+<l>Qui ne le peut faire aisément ?</l>
+<l>Mais arrester un mouvement, </l>
+<l>C'est chose bien plus difficile : </l>
+<l rend="indent">C'est
+pourquoy qui m'arrestera </l>
+<l rend="indent">Beaucoup plus d'honneur en aura.</l>
+</lg>
+<p>IIII. </p>
+<lg rend="italic">
+<l rend="indent">Et pourquoy trouvez-vous estrange </l>
+<l>Que je change pour avoir mieux
+? </l>
+<l>Il faudroit bien n'avoir point des yeux, </l>
+<l>Qui ne voudroit ainsi le change.</l>
+<l rend="indent">Mais celle qui m'arrestera </l>
+<l rend="indent">Beaucoup plus d'honneur en aura.</l>
+</lg>
+<p>V. </p>
+<lg rend="italic"><l rend="indent">Car c'est signe que ceste belle, </l>
+<l>Qui mon Amour constante aura,</l>
+<l>Toute beauté surpassera, </l>
+<l>Pendant que je seray pour elle. </l>
+<l rend="indent">Et ainsi qui
+m'arrestera </l>
+<l rend="indent">Beaucoup plus d'honneur en aura.</l>
+</lg>
+<p>VI. </p>
+<lg rend="italic"><l rend="indent">Venez donc me trouver Bergeres, </l>
+<pb xml:id="page_abs_411" n="page_ori_201v ERR301v"/>
+<l>Qui voulez le prix de beauté, </l>
+<l>Arrestez
+ma legereté </l>
+<l>Par des faveurs non coustumieres. </l><l rend="indent">Car celle qui m'arrestera </l>
+<l rend="indent">Beaucoup plus d'honneur en aura.</l>
+</lg>
 <p rend="indent">Leonide en sousriant contre Silvandre, luy dit, que ce Berger n'estoit pas de ces
 trompeurs qui dissimulent leurs imperfections, puis qu'il l'alloit chantant : C'est parce,
 respondit Silvandre, qu'il ne croit pas que ce soit vice, &amp; qu'il en fait gloire. A ce mot
@@ -7280,18 +7410,27 @@ temps-là.</p>
 <pb xml:id="page_abs_416" n="page_ori_204 ERR304"/>
 <p><hi rend="rule"/><title>SONNET.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Mon Dieu quel est le mal dont je suis tourmenté ? <lb/>Depuis que je
-la vis ceste Cleon si belle, <lb/>J'ay senty dans le cœur une douleur nouvelle, <lb/>Encores
-que larron son œil me l'ait osté. <lb/>&#160;Depuis d'un chaud desir je me sens agité, <lb
-/>Si toutefois desir, tel mouvement s'appelle, <lb/>De qui le jugement tellement
-s'ensorcelle, <lb/>Qu'il joint à son dessein ma propre volonté. <lb/>&#160;De ce commencement
-mon mal a pris naissance, <lb/>Car depuis le desir accreut sa violence, <lb/>Et soudain loing
-de moy le repos s'envola. <lb/>&#160;Au lieu de ce repos nâquit l'inquietude, <lb/>Qui serve
-du desir bastit ma servitude : <lb/>Voila quel est mon mal, mais mon Dieu qu'est cela ?</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">Mon Dieu quel est le mal dont je suis tourmenté ? </l>
+<l>Depuis que je
+la vis ceste Cleon si belle, </l>
+<l>J'ay senty dans le cœur une douleur nouvelle, </l>
+<l>Encores
+que larron son œil me l'ait osté. </l>
+<l rend="indent">Depuis d'un chaud desir je me sens agité,</l>
+<l>Si toutefois desir, tel mouvement s'appelle, </l>
+<l>De qui le jugement tellement
+s'ensorcelle, </l>
+<l>Qu'il joint à son dessein ma propre volonté. </l>
+<l rend="indent">De ce commencement
+mon mal a pris naissance, </l>
+<l>Car depuis le desir accreut sa violence, </l>
+<l>Et soudain loing
+de moy le repos s'envola. </l>
+<l rend="indent">Au lieu de ce repos nâquit l'inquietude, </l>
+<l>Qui serve
+du desir bastit ma servitude : </l>
+<l>Voila quel est mon mal, mais mon Dieu qu'est cela ?</l>
+</lg>
 <p rend="indent">Depuis que Tircis eut recognu la bonne volonté de l'heureuse Cleon, il la receut
 avec tant de contentement, que son cœur n'estant capable de l[e] celer fut contraint d'en
 faire part à ses yeux &amp; à ses actions, qui soudain Dieu sçait combien changez de ce qu'ils
@@ -7519,49 +7658,48 @@ xml:id="page_abs_430" n="page_ori_211 ERR311"/> avec un souspir qui sembloit luy
 l'estomach, je luy ouys proferer telles paroles.</p>
 <p><hi rend="rule"/><title>STANCES <lb/>Sur la mort de Cleon.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">J'ay plus aimé que moy, que sert-il que je faigne, <lb/>Puis qu'en fin
-c'en est fait, une belle Cleon ? <lb/>Mais le ciel veut qu'autant la mort ores s'en plaigne,
-<lb/>Que vivant elle mit en moy d'affection.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Elle vivoit en moy, je vivois tout en elle, <lb/>Nos esprits l'un à
-l'autre estraints de mille nœuds, <lb/>S'unissoient tellement, qu'en leur Amour fidelle <lb
-/>Tous les deux n'estoient qu'un, &amp; chacun estoit deux.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Mais sur le poinct qu'Amour d'un fondement plus ferme <lb/>Assuroit
-mes plaisirs, j'ay veu tout renverser, <lb/>C'est d'autant que mon heur avoit touché le
-terme, <lb/>Qu'il est permis d'atteindre, &amp; non d'outrepasser.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Parce que dans Paris, les plus belles pensées, <lb/>Qu'Amour éprit en
-moy, s'esteindrent par la mort, <lb/>Au mesme temps qu'on vid les Gaules oppressées, <lb/>Aux
-efforts estrangers opposer leur effort.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Et falloit-il aussi que tombe moins celebre <lb/>Que Paris enfermast
-ce que j'ay pû cherir, <lb/>Ou que mon mal advint en saison moins funebre, <lb/>Que quand
-toute l'Europe estoit preste à perir ?</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">J'ay plus aimé que moy, que sert-il que je faigne, </l>
+<l>Puis qu'en fin
+c'en est fait, une belle Cleon ? </l>
+<l>Mais le ciel veut qu'autant la mort ores s'en plaigne,
+</l>
+<l>Que vivant elle mit en moy d'affection.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Elle vivoit en moy, je vivois tout en elle, </l>
+<l>Nos esprits l'un à
+l'autre estraints de mille nœuds, </l>
+<l>S'unissoient tellement, qu'en leur Amour fidelle</l>
+<l>Tous les deux n'estoient qu'un, &amp; chacun estoit deux.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Mais sur le poinct qu'Amour d'un fondement plus ferme </l>
+<l>Assuroit
+mes plaisirs, j'ay veu tout renverser, </l>
+<l>C'est d'autant que mon heur avoit touché le
+terme, </l>
+<l>Qu'il est permis d'atteindre, &amp; non d'outrepasser.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Parce que dans Paris, les plus belles pensées, </l>
+<l>Qu'Amour éprit en
+moy, s'esteindrent par la mort, </l>
+<l>Au mesme temps qu'on vid les Gaules oppressées, </l>
+<l>Aux
+efforts estrangers opposer leur effort.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Et falloit-il aussi que tombe moins celebre </l>
+<l>Que Paris enfermast
+ce que j'ay pû cherir, </l>
+<l>Ou que mon mal advint en saison moins funebre, </l>
+<l>Que quand
+toute l'Europe estoit preste à perir ?</l>
+</lg>
 <pb xml:id="page_abs_431" n="page_ori_211v ERR311v"/>
-<p>
-<lb/>
-<hi rend="italic indent">Mais helas ! je me faux, ma Cleon n'est point morte, <lb/>Pour vivre
-en mon Amour elle estoit hors de soy, <lb/>Le corps seul en est mort, &amp; de contraire
-sorte <lb/>Mon esprit meurt en elle, &amp; le sien vit en moy.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">Mais helas ! je me faux, ma Cleon n'est point morte, </l>
+<l>Pour vivre
+en mon Amour elle estoit hors de soy, </l>
+<l>Le corps seul en est mort, &amp; de contraire
+sorte </l>
+<l>Mon esprit meurt en elle, &amp; le sien vit en moy.</l>
+</lg>
 <p rend="indent">Dieux ! quelle devins-je, quand je l'oüys parler ainsi ? mon estonnement fut tel,
 que sans y penser, estant appuyée contre la porte, je l'entr'ouvris presque à moitié, à quoy
 il tourna la teste, &amp; me voyant n'en fit autre semblant, sinon que me tendant la main, il
@@ -7632,13 +7770,14 @@ d'un commun consentement nous allasmes à l'oracle d'Apollon, pour sçavoir ce q
 de nous, &amp; nous eusmes une telle response par la bouche d'Arontine.</p>
 <p><hi rend="rule"/><title>ORACLE.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic">Sur les bords que Lignon paisiblement serpente, <lb/>Amans vous trouverez un
-curieux Berger, <lb/>Qui premier s'enquerra du mal qui vous tourmente, <lb/>Croyez-le : car
-le Ciel l'eslit pour vous juger.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Sur les bords que Lignon paisiblement serpente,</l>
+<l>Amans vous trouverez un
+curieux Berger, </l>
+<l>Qui premier s'enquerra du mal qui vous tourmente, </l>
+<l>Croyez-le : car
+le Ciel l'eslit pour vous juger.</l>
+</lg>
 <p rend="indent">Et quoy qu'il y ait des-ja long temps que nous sommes icy, si est-ce que vous
 estes le premier qui nous a demandé l'estat de nostre fortune : C'est pourquoy nous nous
 jettons entre vos bras, &amp; vous requerons d'ordonner ce que nous avons à faire, &amp; afin
@@ -7926,39 +8065,46 @@ de cet hameau, que sa nouvelle maistresse sortist, &amp; aussi tost qu'il l'avoi
 s'en estoit venu à elle chantant ces vers.</p>
 <p><hi rend="rule"/><title>STANCES, <lb/>DE SYLVANDRE SUR SES <lb/>desirs trop eslevez.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Espoirs hautains espoirs, Ixions en audace, <lb/>Vous flattez mes
-desirs, où le ciel les menace, <lb/>C'est erreur que d'oser en un sujet si haut : <lb/>Icares
-vous croyez trop au vol de vostre ayle, <lb/>Mais bien quand je devrois tomber d'un plus
-grand saut, <lb/>Si n'abandonneray-je entreprise si belle.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Promethée en paissant de renaissante proye, <lb/>L'aigle qui ne vivoit
-que pour paistre en son foye, <lb/>Au milieu des tourments disoit, au moins je l'eus <lb/>Ce
-feu dont j'animay pour la fin mon image, <lb/>Or ce mal renaissant me sera tesmoignage, <lb
-/>Que ce que nul n'osa, je l'osay, je le peux.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Ainsi dira mon coeur, quoy que son inhumaine, <lb/>D'un tourment
-devoreur eternise sa peine, <lb/>Je l'eus, &amp; de ce feu mon Amour j'animay ; <pb
+<lg rend="italic"><l rend="indent">Espoirs hautains espoirs, Ixions en audace, </l>
+<l>Vous flattez mes
+desirs, où le ciel les menace, </l>
+<l>C'est erreur que d'oser en un sujet si haut : </l>
+<l>Icares
+vous croyez trop au vol de vostre ayle, </l>
+<l>Mais bien quand je devrois tomber d'un plus
+grand saut, </l>
+<l>Si n'abandonneray-je entreprise si belle.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Promethée en paissant de renaissante proye, </l>
+<l>L'aigle qui ne vivoit
+que pour paistre en son foye, </l>
+<l>Au milieu des tourments disoit, au moins je l'eus </l>
+<l>Ce
+feu dont j'animay pour la fin mon image, </l>
+<l>Or ce mal renaissant me sera tesmoignage,</l>
+<l>Que ce que nul n'osa, je l'osay, je le peux.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Ainsi dira mon coeur, quoy que son inhumaine, </l>
+<l>D'un tourment
+devoreur eternise sa peine, </l>
+<l>Je l'eus, &amp; de ce feu mon Amour j'animay ;</l>
+<pb
 xml:id="page_abs_454" n="page_ori_223 ERR323"/>
-<lb/>Or ceux qui me verront à jamais sur ma roche, <lb/>Sçauront qu'à ma douleur, si nulle
-autre n'approche, <lb/>Plus que tout autre aussi, je voulus, &amp; j'aymay.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">J'ayme sans estre aymé : mais de ses roches creuses, <lb/>Quand Echo
-respondoit aux plaintes amoureuses, <lb/>De son aymé Narcisse, elle disoit en soy, <lb/>Et
-bien je vas l'aymant, sans toutefois qu'il m'ayme, <lb/>Si suis-je consolée, ayant sceu par
-luy-mesme, <lb/>Que de luy, nul que luy, n'est plus aymé que moy.</hi>
-<lb/>
-</p>
+<l>Or ceux qui me verront à jamais sur ma roche, </l>
+<l>Sçauront qu'à ma douleur, si nulle
+autre n'approche, </l>
+<l>Plus que tout autre aussi, je voulus, &amp; j'aymay.</l>
+</lg>
+<lg rend="italic"><l rend="indent">J'ayme sans estre aymé : mais de ses roches creuses, </l>
+<l>Quand Echo
+respondoit aux plaintes amoureuses, </l>
+<l>De son aymé Narcisse, elle disoit en soy, </l>
+<l>Et
+bien je vas l'aymant, sans toutefois qu'il m'ayme, </l>
+<l>Si suis-je consolée, ayant sceu par
+luy-mesme, </l>
+<l>Que de luy, nul que luy, n'est plus aymé que moy.</l>
+</lg>
 <p rend="indent">Phillis qui estoit d'une humeur fort gaye, &amp; qui vouloit se bien acquiter de
 l'essay à quoy elle avoit esté condannée, se tournant à Diane : Ma maistresse, luy dit-elle,
 fiez vous à l'advenir aux paroles de ce Berger. Hier il ne vous aymoit point, &amp; à ceste
@@ -8099,13 +8245,13 @@ davantage : bref cet amy me sceut si bien persuader, que tous deux ensemble nous
 &amp; la response que nous eusmes fut telle.</p>
 <p><hi rend="rule"/><title>ORACLE.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Tu nasquis dans la terre où fut jadis Neptune : <lb/>Jamais tu ne
-sçauras celuy dont tu es né, <lb/>Que Sylvandre ne meure, &amp; à telle fortune <lb/>Tu fus
-par les destins au berceau destiné.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">Tu nasquis dans la terre où fut jadis Neptune : </l>
+<l>Jamais tu ne
+sçauras celuy dont tu es né, </l>
+<l>Que Sylvandre ne meure, &amp; à telle fortune </l>
+<l>Tu fus
+par les destins au berceau destiné.</l>
+</lg>
 <p rend="indent">Jugez, belle Diane quelle satisfaction nous eusmes de ceste response, quant à moy
 sans <pb xml:id="page_abs_463" n="page_ori_227v ERR327v"/> m'y arrester davantage je me resolus de
 ne m'en jamais enquerir ; puis qu'il estoit impossible que je le sceusse sans mourir, &amp;
@@ -8676,20 +8822,30 @@ pouvoient atteindre, de sorte que je n'en ressentois que la douceur, &amp; sur c
 ressouviens que quelquefois j'allois chantant ces vers.</p>
 <p><hi rend="rule"/><title>SONNET. <lb/>Sur la douceur d'une amitié.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Quand ma Bergere parle, ou bien quand elle chante, <lb/>Ou que d'un
-doux clin d'œil elle éblouit nos yeux, <lb/>Amour parle avec elle, &amp; d'accents gratieux,
-<lb/>Nous ravit par l'oreille, &amp; des yeux nous enchante. <lb/>&#160;On ne le voit point
-tel, quand cruel il tourmente, <lb/>Les cœurs passionnez de desirs furieux ; <lb/>Mais bien
-lors qu'enfantin, il s'en court tout joyeux <lb/>Dans le sein de sa mere, &amp; mille Amours
-enfante. <lb/>&#160;Ny jamais se joüant aux vergers de Paphos, <lb/>Ny prenant au giron des
-graces son repos, <lb/>Nul ne l'a veu si beau qu'aupres de ma Bergere : <lb/>&#160;Mais quand
-il blesse aussi, le doit-on dire Amour ? <lb/>
-<pb xml:id="page_abs_497" n="page_ori_244v ERR344v"/> Il l'est quand il se joüe, &amp; qu'il fait
-son sejour <lb/>Dans le sein de Carlis, comme au sein de sa mere.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">Quand ma Bergere parle, ou bien quand elle chante, </l>
+<l>Ou que d'un
+doux clin d'œil elle éblouit nos yeux, </l>
+<l>Amour parle avec elle, &amp; d'accents gratieux,
+</l>
+<l>Nous ravit par l'oreille, &amp; des yeux nous enchante. </l>
+<l rend="indent">On ne le voit point
+tel, quand cruel il tourmente, </l>
+<l>Les cœurs passionnez de desirs furieux ; </l>
+<l>Mais bien
+lors qu'enfantin, il s'en court tout joyeux </l>
+<l>Dans le sein de sa mere, &amp; mille Amours
+enfante. </l>
+<l rend="indent">Ny jamais se joüant aux vergers de Paphos, </l>
+<l>Ny prenant au giron des
+graces son repos, </l>
+<l>Nul ne l'a veu si beau qu'aupres de ma Bergere : </l>
+<l rend="indent">Mais quand
+il blesse aussi, le doit-on dire Amour ? </l>
+<pb xml:id="page_abs_497" n="page_ori_244v ERR344v"/>
+<l>Il l'est quand il se joüe, &amp; qu'il fait
+son sejour </l>
+<l>Dans le sein de Carlis, comme au sein de sa mere.</l>
+</lg>
 <p rend="indent">Encor que l'âge où j'estois ne me permist pas de sçavoir ce que c'estoit que
 l'Amour, si ne laissois-je de me plaire en la compagnie de ceste Bergere, &amp; d'user des
 recherches dont j'oyois que se servoient ceux qu'on appelloit amoureux, de sorte que la longue
@@ -9607,19 +9763,28 @@ n="page_ori_272v ERR372v"/> devant vous, il y a quelque temps, lors que vous luy
 de celer son affection : ils estoient tels.</p>
 <p><hi rend="rule"/><title>SONNET.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Pourquoy si vous m'aimez, craignez vous qu'on le sçache ? <lb/>Est-il
-rien de plus beau qu'une honneste amitié ? <lb/>Ceste saincte vertu par douceur nous attache,
-<lb/>Et loing des cœurs humains bannit l'inimitié, <lb/>&#160;Si vostre eslection est celle
-qui vous fache, <lb/>Et que vous me jugiez trop indigne moitié, <lb/>Je veux bien qu'à mon
-dam à chacun on le cache, <lb/>Sans que jamais en vous se monstre la pitié. <lb/>&#160;Mais
-toutefois Didon n'eut honte d'un coursaire, <lb/>Enone pour Paris de se rendre Bergere, <lb
-/>Ny Diane d'aimer le jeune Endimion. <lb/>&#160;Amour n'a point d'esgard à la grandeur
-royale, <lb/>Au sceptre le plus grand la houlette il esgale, <lb/>Et sans plus luy suffit la
-pure affection.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">Pourquoy si vous m'aimez, craignez vous qu'on le sçache ? </l>
+<l>Est-il
+rien de plus beau qu'une honneste amitié ? </l>
+<l>Ceste saincte vertu par douceur nous attache,
+</l>
+<l>Et loing des cœurs humains bannit l'inimitié, </l>
+<l rend="indent">Si vostre eslection est celle
+qui vous fache, </l>
+<l>Et que vous me jugiez trop indigne moitié, </l>
+<l>Je veux bien qu'à mon
+dam à chacun on le cache, </l>
+<l>Sans que jamais en vous se monstre la pitié. </l>
+<l rend="indent">Mais
+toutefois Didon n'eut honte d'un coursaire, </l>
+<l>Enone pour Paris de se rendre Bergere,</l>
+<l>Ny Diane d'aimer le jeune Endimion. </l>
+<l rend="indent">Amour n'a point d'esgard à la grandeur
+royale, </l>
+<l>Au sceptre le plus grand la houlette il esgale, </l>
+<l>Et sans plus luy suffit la
+pure affection.</l>
+</lg>
 <p rend="indent">Alors Adamas luy demanda : Et comment, Leonide, il semble par les paroles de
 Galathée, qu'elle mesprise Polemas, &amp; par ces vers il n'y a personne qui ne jugeast
 qu'elle l'aime, &amp; qu'il ne puisse seulement patienter qu'elle le dissimule ? Mon pere, luy
@@ -10825,91 +10990,89 @@ respondit-il, &amp; j'en suis tes <pb xml:id="page_abs_626" n="page_ori_310 ERR4
 lors il commença de ceste sorte.</p>
 <p><hi rend="rule"/><title>STANCES <lb/>D'UNE DAME EN <lb/>DEVOTION.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Dans le Temple sacré, les grands Dieux adoroit <lb/>Celle que tous les
-cœurs adorent d'ordinaire : <lb/>Elle sans qui la grace au monde ne peut plaire, <lb/>Des
-yeux, &amp; de la voix, des graces requeroit.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Et bien qu'elle voulust ses beaux yeux desarmer, <lb/>Et laisser de sa
-voix les appas &amp; les charmes, <lb/>Ses beaux yeux &amp; sa voix avoient de telles armes,
-<lb/>Qu'on ne pouvoit la voir, ny l'ouyr sans l'aimer.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Si quelquefois ses yeux d'un sainct zelle enflambez, <lb/>Vont
-mignardant le Ciel, toute ame elle mignarde, <lb/>Et si demy fermez en bas elle regarde, <lb
-/>O que leurs mouvements ont de traits desrobez !</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Que si quelque souspir va du cœur s'esgarant, <lb/>Quand les douceurs
-du Ciel en esprit elle espreuve ; <lb/>O que cet air fuitif incontinant retreuve <lb
-/>D'autres souspirs esmeus d'un esprit differant !</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">O grand Dieu, disoit-elle, ayez pitié de moy ! <lb/>Et mon desir alors
-s'efforçoit de luy dire : <pb xml:id="page_abs_627" n="page_ori_310v ERR410v"/>
-<lb/>Aye pitié de moy : qui la pitié desire, <lb/>Les effets de pitié doit ressentir en soy.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Sois pere, disoit-elle, &amp; non juge en courroux : <lb/>Puis que tu
-veux, ô Dieu, que pere l'on t'appelle. <lb/>Sois ma Dame, disois-je, &amp; non pas ma
-cruelle, <lb/>Puis que tant de beauté te rend Dame de tous.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Regarde ta bonté plutost que ta rigueur, <lb/>Quand tu veux chastier,
-disoit-elle, une offense. <lb/>Et moy je luy disois : Et toy de mesme pense, <lb/>Qu'à tes
-yeux tant humains doit ressembler ton cueur.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Souviens toy, disoit-elle ! ô grand Dieu, que je suis, <lb/>A toy dés
-ma naissance, &amp; que toy seul j'adore : <lb/>Et moy je suis à toy, luy disois-je, &amp;
-encore <lb/>Que toy seul en mes vœux adorer je ne puis.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Mesure, disoit-elle, à l'Amour ta pitié : <lb/>Et lors elle tranchoit
-pour un temps son murmure. <lb/>Et moy je luy disois : Et toy, belle, mesure <lb/>Ta pitié
-non à moy, mais à mon amitié.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Ses vœux furent receuz, &amp; les miens repoussez : <lb/>Et toutefois
-les miens avoient bien plus de zelle : <lb/>Car de la seule foy les siens naissoient en elle,
-<lb/>Moy je voyois la Saincte où les miens sont dressez.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Elle l'obtint en fin (mais qui peut refuser <lb/>Chose qu'elle
-demande) &amp; j'en portay la peine : <lb/>Car depuis s'esloignant de toute chose humaine,
-<lb/>Elle ne me vid plus que pour me mespriser.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">Dans le Temple sacré, les grands Dieux adoroit </l>
+<l>Celle que tous les
+cœurs adorent d'ordinaire : </l>
+<l>Elle sans qui la grace au monde ne peut plaire, </l>
+<l>Des
+yeux, &amp; de la voix, des graces requeroit.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Et bien qu'elle voulust ses beaux yeux desarmer, </l>
+<l>Et laisser de sa
+voix les appas &amp; les charmes, </l>
+<l>Ses beaux yeux &amp; sa voix avoient de telles armes,
+</l>
+<l>Qu'on ne pouvoit la voir, ny l'ouyr sans l'aimer.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Si quelquefois ses yeux d'un sainct zelle enflambez, </l>
+<l>Vont
+mignardant le Ciel, toute ame elle mignarde, </l>
+<l>Et si demy fermez en bas elle regarde,</l>
+<l>O que leurs mouvements ont de traits desrobez !</l>
+</lg>
+<lg rend="italic"><l rend="indent">Que si quelque souspir va du cœur s'esgarant, </l>
+<l>Quand les douceurs
+du Ciel en esprit elle espreuve ; </l>
+<l>O que cet air fuitif incontinant retreuve</l>
+<l>D'autres souspirs esmeus d'un esprit differant !</l>
+</lg>
+<lg rend="italic"><l rend="indent">O grand Dieu, disoit-elle, ayez pitié de moy ! </l>
+<l>Et mon desir alors
+s'efforçoit de luy dire :</l>
+<pb xml:id="page_abs_627" n="page_ori_310v ERR410v"/>
+<l>Aye pitié de moy : qui la pitié desire, </l>
+<l>Les effets de pitié doit ressentir en soy.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Sois pere, disoit-elle, &amp; non juge en courroux : </l>
+<l>Puis que tu
+veux, ô Dieu, que pere l'on t'appelle. </l>
+<l>Sois ma Dame, disois-je, &amp; non pas ma
+cruelle, </l>
+<l>Puis que tant de beauté te rend Dame de tous.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Regarde ta bonté plutost que ta rigueur, </l>
+<l>Quand tu veux chastier,
+disoit-elle, une offense. </l>
+<l>Et moy je luy disois : Et toy de mesme pense, </l>
+<l>Qu'à tes
+yeux tant humains doit ressembler ton cueur.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Souviens toy, disoit-elle ! ô grand Dieu, que je suis, </l>
+<l>A toy dés
+ma naissance, &amp; que toy seul j'adore : </l>
+<l>Et moy je suis à toy, luy disois-je, &amp;
+encore </l>
+<l>Que toy seul en mes vœux adorer je ne puis.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Mesure, disoit-elle, à l'Amour ta pitié : </l>
+<l>Et lors elle tranchoit
+pour un temps son murmure. </l>
+<l>Et moy je luy disois : Et toy, belle, mesure </l>
+<l>Ta pitié
+non à moy, mais à mon amitié.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Ses vœux furent receuz, &amp; les miens repoussez : </l>
+<l>Et toutefois
+les miens avoient bien plus de zelle : </l>
+<l>Car de la seule foy les siens naissoient en elle,
+</l>
+<l>Moy je voyois la Saincte où les miens sont dressez.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Elle l'obtint en fin (mais qui peut refuser </l>
+<l>Chose qu'elle
+demande) &amp; j'en portay la peine : </l>
+<l>Car depuis s'esloignant de toute chose humaine,
+</l>
+<l>Elle ne me vid plus que pour me mespriser.</l>
+</lg>
 <pb xml:id="page_abs_628" n="page_ori_311 ERR411"/>
-<p>
-<lb/>
-<hi rend="italic indent">Est-ce ainsi, dis-je alors, que l'on crie mercy, <lb/>Amoncelant sans
-fin l'outrage sur l'outrage ? <lb/>Si je faux, mes erreurs naissent de ton visage : <lb/>Car
-tes yeux trop aimez me l'ordonnent ainsi.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">Est-ce ainsi, dis-je alors, que l'on crie mercy, </l>
+<l>Amoncelant sans
+fin l'outrage sur l'outrage ? </l>
+<l>Si je faux, mes erreurs naissent de ton visage : </l>
+<l>Car
+tes yeux trop aimez me l'ordonnent ainsi.</l>
+</lg>
 <p rend="indent">Nous estions toutes demeurées fort attentifves, &amp; peut-estre eussions sceu
 quelque chose davantage, n'eust esté que Leonide, craignant que Polemas ne declarast ce
 qu'elle nous vouloit cacher, soudain qu'il eut parachevé prit la parole. Je gage, dit-elle,
@@ -11843,55 +12006,64 @@ que celle qui estoit cause de son mal, en ressentist quelque chose, il luy renvo
 <p><hi rend="rule"/><title>STANCES <lb/>DE CELION SUR LE MARIAGE <lb/>de Bellinde, &amp;
 d'Ergaste.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic">Donques le ciel consent, qu'apres tant d'amitié, <lb/>&#160;Qu'apres tant de
-services, <lb/>D'un autre vous soyez les douceurs, les delices, <lb/>&#160;Et la chere moitié
-? <lb/>Et que je n'aye en fin, de mon amour fidelle, <lb/>Que le ressouvenir qu'un regret
-renouvelle ?</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic">Vous m'avez bien aymé, mais qu'est-ce que me vaut <lb/>&#160;Ceste amitié
-passée, <lb/>Si dans les bras d'autruy je vous voy caressée, <lb/>&#160;Et encores s'il faut,
-<lb/>Que vous sçachant à luy, je couvre du silence <lb/>Le cruel desplaisir qui rompt ma
-patience ?</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic">S'il avoit plus que moy de merite, ou d'Amour, <lb/>&#160;Je ne sçaurois que
-dire, <lb/>Mais helas n'est-ce point un trop cruel martyre, <lb/>&#160;Qu'il obtienne en un
-jour, <lb/>Et sans le meriter, ce que le ciel desnie <lb/>Aux desirs infinis d'une Amour
-infinie ?</hi>
-<lb/>
-</p>
+<lg rend="italic"><l>Donques le ciel consent, qu'apres tant d'amitié, </l>
+<l rend="indent">Qu'apres tant de
+services, </l>
+<l>D'un autre vous soyez les douceurs, les delices, </l>
+<l rend="indent">Et la chere moitié
+? </l>
+<l>Et que je n'aye en fin, de mon amour fidelle, </l>
+<l>Que le ressouvenir qu'un regret
+renouvelle ?</l>
+</lg>
+<lg rend="italic"><l>Vous m'avez bien aymé, mais qu'est-ce que me vaut </l>
+<l rend="indent">Ceste amitié
+passée, </l>
+<l>Si dans les bras d'autruy je vous voy caressée, </l>
+<l rend="indent">Et encores s'il faut,
+</l>
+<l>Que vous sçachant à luy, je couvre du silence </l>
+<l>Le cruel desplaisir qui rompt ma
+patience ?</l>
+</lg>
+<lg rend="italic"><l>S'il avoit plus que moy de merite, ou d'Amour, </l>
+<l rend="indent">Je ne sçaurois que
+dire, </l>
+<l>Mais helas n'est-ce point un trop cruel martyre, </l>
+<l rend="indent">Qu'il obtienne en un
+jour, </l>
+<l>Et sans le meriter, ce que le ciel desnie </l>
+<l>Aux desirs infinis d'une Amour
+infinie ?</l>
+</lg>
 <pb xml:id="page_abs_685" n="page_ori_339v ERR439v"/>
-<p>
-<lb/>
-<hi rend="italic">Mais ô foible raison, le devoir, dittes vous, <lb/>&#160;Par ses loix m'a
-contrainte ; <lb/>Et quel devoir plus fort, &amp; quelle loy plus saincte <lb/>&#160;Sçauroit
-estre pour nous, <lb/>Que la foy si souvent dedans nos mains jurée, <lb/>Quand nous nous
-promettions une amour assurée ?</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic">Puisse, me disiez-vous, incontinent seicher, <lb/>&#160;Ma main, comme
-parjure, <lb/>Si je manque jamais à ce que je t'assure, <lb/>&#160;Et si j'ay rien plus cher,
-<lb/>Ny que dedans mon cœur davantage je prise, <lb/>Que ceste affection que ta foy m'a
-promise.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic">Cruels ressouvenirs de mon bon-heur passé, <lb/>&#160;Sortez de ma memoire,
-<lb/>Helas ! puis que le bien d'une si grande gloire, <lb/>&#160;Est ores effacé : <lb
-/>Effacez vous de mesme, il n'est pas raisonnable, <lb/>Que vous soyez en moy, qui suis si
-miserable.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l>Mais ô foible raison, le devoir, dittes vous, </l><l rend="indent">Par ses loix m'a
+contrainte ; </l>
+<l>Et quel devoir plus fort, &amp; quelle loy plus saincte </l>
+<l rend="indent">Sçauroit
+estre pour nous, </l>
+<l>Que la foy si souvent dedans nos mains jurée, </l>
+<l>Quand nous nous
+promettions une amour assurée ?</l>
+</lg>
+<lg rend="italic"><l>Puisse, me disiez-vous, incontinent seicher, </l>
+<l rend="indent">Ma main, comme
+parjure, </l>
+<l>Si je manque jamais à ce que je t'assure, </l>
+<l rend="indent">Et si j'ay rien plus cher,
+</l>
+<l>Ny que dedans mon cœur davantage je prise, </l>
+<l>Que ceste affection que ta foy m'a
+promise.</l>
+</lg>
+<lg rend="italic"><l>Cruels ressouvenirs de mon bon-heur passé, </l>
+<l rend="indent">Sortez de ma memoire,</l>
+<l>Helas ! puis que le bien d'une si grande gloire, </l>
+<l rend="indent">Est ores effacé :</l>
+<l>Effacez vous de mesme, il n'est pas raisonnable, </l>
+<l>Que vous soyez en moy, qui suis si
+miserable.</l>
+</lg>
 <p rend="indent">Encores qu'il ne fist paroistre en une seule de ses actions, qu'il luy fust resté
 de l'esperance, si est-ce qu'il en avoit tousjours quelque peu, parce que le contrat de
 mariage n'estoit point passé, &amp; qu'il sçavoit bien que le plus souvent les conventions
@@ -11924,19 +12096,19 @@ autrechose, sinon que je suis la personne du monde la plus affligée.</hi>
 <p rend="indent">Et au bas de la lettre il y avoit ces vers.</p>
 <p><hi rend="rule"/><title>STANCE.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic">Je ne puis excuser ceste extresme inconstance, <lb/>Qui vous a fait si mal
-changer d'affection : <lb/>Changer de bien en mieux, je l'appelle prudence ; <lb/>Mais de
-changer en pis, peu de discretion.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l>Je ne puis excuser ceste extresme inconstance, </l>
+<l>Qui vous a fait si mal
+changer d'affection : </l>
+<l>Changer de bien en mieux, je l'appelle prudence ; </l>
+<l>Mais de
+changer en pis, peu de discretion.</l>
+</lg>
 <p rend="indent">Lors que Bellinde receut ceste lettre, &amp; ces vers, elle estoit en peine de
 luy faire tenir une des siennes, parce qu'oyant dire l'estrange vie qu'il faisoit, &amp; les
 paroles qu'il <pb xml:id="page_abs_688" n="page_ori_341 ERR441"/> proferoit contre elle : Elle ne
 pouvoit les souffrir qu'avec beaucoup de desplaisir, considerant combien cela donnoit
 d'occasion de parler à ceux qui n'ont des aureilles que pour apprendre les nouvelles d'autruy,
-&amp; de langue, que pour les redire : Sa lettre estoit telle. <lb/></p>
+&amp; de langue, que pour les redire : Sa lettre estoit telle.</p>
 <p><hi rend="rule"/><title>LETTRE DE BELLINDE <lb/>A CELION.</title>
 <lb/></p>
 <p><lb/><hi rend="italic">Il m'est impossible de supporter davantage le tort que vostre
@@ -11974,31 +12146,41 @@ cours de l'onde, il commença, en attendant sa Bergere, de s'entretenir sur son 
 malheur, &amp; apres avoir esté quelque temps muet, il souspira ces vers.</p>
 <p><hi rend="rule"/><title>COMPARAISON D'UNE <lb/>FONTEINE A SON <lb/>desplaisir.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Cette source eternelle, <lb/>Qui ne finit jamais, <lb/>Mais qui se
-renouvelle <lb/>Par des flots plus espais, <lb/>Ressemble à ces ennuis dont le regret
-m'oppresse : <lb/>&#160;Car comme elle sans cesse <lb/>D'une source feconde au mal-heur que
-je sens, <lb/>&#160;Ils s'en vont renaissans.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Puis d'immortelle course, <lb/>Tout ainsi que ces flots <lb/>Vont
-esloignant leur source, <pb xml:id="page_abs_691" n="page_ori_342v ERR442v"/>
-<lb/>Sans prendre nul repos, <lb/>Moy par divers travaux par mainte &amp; mainte peine, <lb
-/>&#160;Comme parmy l'areine <lb/>Se froissant à grands coups, l'onde s'en va courant, <lb
-/>&#160;Mon mal je va pleurant.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Et comme vagabonde <lb/>Murmurant elle court, <lb/>Quand d'onde dessur
-onde <lb/>A long[s] flots elle sourd ; <lb/>De mesme en me plaignant de ma triste advanture.
-<lb/>&#160;Contre Amour je murmure : <lb/>Mais que me vaut cela, puis qu'il faut qu'à la fin
-<lb/>&#160;Je suive mon destin ?</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">Cette source eternelle, </l>
+<l>Qui ne finit jamais, </l>
+<l>Mais qui se
+renouvelle </l>
+<l>Par des flots plus espais, </l>
+<l>Ressemble à ces ennuis dont le regret
+m'oppresse : </l>
+<l rend="indent">Car comme elle sans cesse </l>
+<l>D'une source feconde au mal-heur que
+je sens, </l>
+<l rend="indent">Ils s'en vont renaissans.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Puis d'immortelle course, </l>
+<l>Tout ainsi que ces flots </l>
+<l>Vont
+esloignant leur source,</l>
+<pb xml:id="page_abs_691" n="page_ori_342v ERR442v"/>
+<l>Sans prendre nul repos, </l>
+<l>Moy par divers travaux par mainte &amp; mainte peine,</l>
+<l rend="indent">Comme parmy l'areine </l>
+<l>Se froissant à grands coups, l'onde s'en va courant,</l>
+<l rend="indent">Mon mal je va pleurant.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Et comme vagabonde </l>
+<l>Murmurant elle court, </l>
+<l>Quand d'onde dessur
+onde </l>
+<l>A long[s] flots elle sourd ; </l>
+<l>De mesme en me plaignant de ma triste advanture.
+</l>
+<l rend="indent">Contre Amour je murmure : </l>
+<l>Mais que me vaut cela, puis qu'il faut qu'à la fin
+</l>
+<l rend="indent">Je suive mon destin ?</l>
+</lg>
 <p rend="indent">Cependant que ce Berger parloit de ceste sorte en soy-mesme, &amp; qu'il en
 proferoit assez haut plusieurs paroles sans y penser, tant il estoit troublé de ce desastre,
 Bellinde qui n'avoit pas perdu le souvenir de l'assignation qu'elle luy avoit donnée, aussi
@@ -12232,24 +12414,45 @@ frere s'esveilla, &amp; recommençant son ordinaire entretien, il se mit à plai
 sorte.</p>
 <p><hi rend="rule"/><title>PLAINTE.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic">Outré par la douleur de mortelles attaintes, <lb/>&#160;Sans autre reconfort
-<lb/>&#160;Que celuy de mes plaintes, <lb/>&#160;Je souspire à la mort. <lb/>Ma deffense est
-sans plus, l'impossible esperance, <lb/>&#160;Mais le glaive inhumain, <lb/>&#160;Dont le
-mal-heur m'offence, <lb/>&#160;C'est un mal tres-certain. <lb/>J'espere quelquefois en ma
-longue misere, <lb/>&#160;De voir finir mon deuil : <lb/>&#160;Mais quoy ! je ne l'espere <lb
-/>&#160;Sinon dans le cercueil. <lb/>Celuy ne doit-il point s'estimer miserable, <lb
-/>&#160;Et les Dieux ennemis, <lb/>&#160;Dont l'espoir favorable <lb/>&#160;En la mort est
-remis ? <lb/>Mais où sont les desseins de ce courage extreme, <lb/>&#160;En mon mal resolus ?
-<lb/>&#160;Mais où suis-je moy-mesme ? <lb/>&#160;Je ne me cognois plus. <pb
+<lg rend="italic"><l>Outré par la douleur de mortelles attaintes, </l>
+<l rend="indent">Sans autre reconfort
+</l>
+<l rend="indent">Que celuy de mes plaintes, </l>
+<l rend="indent">Je souspire à la mort. </l>
+<l>Ma deffense est
+sans plus, l'impossible esperance, </l>
+<l rend="indent">Mais le glaive inhumain, </l>
+<l rend="indent">Dont le
+mal-heur m'offence, </l>
+<l rend="indent">C'est un mal tres-certain. </l>
+<l>J'espere quelquefois en ma
+longue misere, </l>
+<l rend="indent">De voir finir mon deuil : </l>
+<l rend="indent">Mais quoy ! je ne l'espere</l>
+<l rend="indent">Sinon dans le cercueil. </l>
+<l>Celuy ne doit-il point s'estimer miserable,</l>
+<l rend="indent">Et les Dieux ennemis, </l>
+<l rend="indent">Dont l'espoir favorable </l>
+<l rend="indent">En la mort est
+remis ? </l>
+<l>Mais où sont les desseins de ce courage extreme, </l>
+<l rend="indent">En mon mal resolus ?
+</l>
+<l rend="indent">Mais où suis-je moy-mesme ? </l>
+<l rend="indent">Je ne me cognois plus.</l>
+<pb
 xml:id="page_abs_706" n="page_ori_350 ERR450"/>
-<lb/>Mon ame en sa douleur est tellement confuse, <lb/>&#160;Que ce qu'ore elle veut <lb
-/>&#160;Soudain elle refuse <lb/>&#160;Alors qu'elle le peut. <lb/>Reduitte en cet estat,
-elle ne peut cognoistre, <lb/>&#160;Qu'elle a, ny quelle elle est : <lb/>&#160;O pourquoy
-faut-il estre, <lb/>&#160;Lors que tout nous déplaist !</hi>
-<lb/>
-</p>
+<l>Mon ame en sa douleur est tellement confuse, </l>
+<l rend="indent">Que ce qu'ore elle veut</l>
+<l rend="indent">Soudain elle refuse </l>
+<l rend="indent">Alors qu'elle le peut. </l>
+<l>Reduitte en cet estat,
+elle ne peut cognoistre, </l>
+<l rend="indent">Qu'elle a, ny quelle elle est : </l>
+<l rend="indent">O pourquoy
+faut-il estre, </l>
+<l rend="indent">Lors que tout nous déplaist !</l>
+</lg>
 <p rend="indent">Diamis qui ne vouloit le surprendre, apres l'avoir quelque temps escouté fit du
 bruit expres, afin qu'il tournast la teste vers luy, &amp; voiant que tout estonné il le
 regardoit, il s'advança doucement à luy, &amp; apres l'avoir salué, il luy dit. Je loüe Dieu,
@@ -12780,23 +12983,31 @@ nostres fit dernierement sur le tombeau d'un mary jaloux, tels vers </p>
 <title>SONNET, <lb/>SUR LE TOMBEAU D'UN <lb/>MARY JALOUX.</title>
 <lb/>
 </p>
-<p>
-<lb/>
-<hi rend="italic indent">Dessous son pasle effroy cette tombe relante <lb/>Tient enclos
-l'ennemy du grand Dieu Cupidon, <lb/>De sa temerité la mort fut le guerdon, <lb/>Mort qui
-selon nos vœux, fut encore trop lente.</hi>
-<lb/>
-<hi rend="italic indent">C'est ce tyran cruel, dont la force arrogante, <lb/>Rendoit larcin
-d'Amour ce qui doit estre un don, <lb/>Et desdaignant les feux, &amp; l'amoureux brandon, <lb
-/>Retenoit la pitié, desesperoit l'attente.</hi>
-<lb/>
-<hi rend="italic indent">C'est ce jaloux Argus, dont les cent yeux tousjours, <lb/>Curieux
-importuns veilloient sur nos Amours, <lb/>Et faisoient nos espoirs mourir avant que naistre :</hi>
-<lb/>
-<hi rend="italic indent">Mais l'Amour par la mort, à la fin s'est vengé. <lb/>Apprenez, ô
-mortels, comme Amour outragé <lb/>Fait, quoy qu'il tarde, enfin sa vengeance paroistre.</hi>
-<lb/>
-</p>
+<lg rend="italic"><l rend="indent">Dessous son pasle effroy cette tombe relante </l>
+<l>Tient enclos
+l'ennemy du grand Dieu Cupidon, </l>
+<l>De sa temerité la mort fut le guerdon, </l>
+<l>Mort qui
+selon nos vœux, fut encore trop lente.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">C'est ce tyran cruel, dont la force arrogante, </l>
+<l>Rendoit larcin
+d'Amour ce qui doit estre un don, </l>
+<l>Et desdaignant les feux, &amp; l'amoureux brandon,</l>
+<l>Retenoit la pitié, desesperoit l'attente.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">C'est ce jaloux Argus, dont les cent yeux tousjours, </l>
+<l>Curieux
+importuns veilloient sur nos Amours, </l>
+<l>Et faisoient nos espoirs mourir avant que naistre :</l>
+</lg>
+<lg rend="italic"><l rend="indent">Mais l'Amour par la mort, à la fin s'est vengé. </l>
+<l>Apprenez, ô
+mortels, comme Amour outragé </l>
+<l>Fait, quoy qu'il tarde, enfin sa vengeance paroistre.</l>
+</lg>
 <p rend="indent">Il est tout vray, respondit Galathée, qu'Amour ne laisse jamais une offense
 contre luy impunie, &amp; de là vient que nous voyons en cecy de plus estranges accidents
 qu'en tout le reste des actions humaines. Mais si cela est, Celadon, comment ne fremissez vous
@@ -13857,115 +14068,191 @@ part des contentements qu'il payoit à cet heure si cherement, &amp; en ceste co
 s'estant assis au pied d'un arbre, il souspira tels vers.</p>
 <p><hi rend="rule"/><title>RESSOUVENIRS.</title>
 </p>
-<p>
-<lb/>
-<hi rend="italic indent">Icy mon beau Soleil repose, <lb/>Quand l'autre paresseux s'endort :
-<lb/>Et puis le matin quand il sort, <lb/>Couronné d'œillet, &amp; de rose, <lb/>Pour
-chasser l'effroy de la nuit : <lb/>Deça premierement reluit, <lb/>Le Soleil que mon ame
-adore, <lb/>Apportant avec luy le jour <lb/>A ces campagnes qu'il honore, <lb/>Et qu'il va
-remplissant d'Amour.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Sur les bords de ceste riviere <lb/>Il se fait voir diversement, <lb
-/>Quelquesfois tout d'embrasement ; <lb/>D'autrefois couvrant sa lumiere, <lb/>Il semble,
-devenu jalous, <lb/>Qu'il se veuille ravir de nous, <lb/>Ainsi que sous la nüe sombre, <lb
-/>Le Soleil cache sa beauté, </hi>
+<lg rend="italic"><l rend="indent">Icy mon beau Soleil repose, </l>
+<l>Quand l'autre paresseux s'endort :
+</l>
+<l>Et puis le matin quand il sort, </l>
+<l>Couronné d'œillet, &amp; de rose, </l>
+<l>Pour
+chasser l'effroy de la nuit : </l>
+<l>Deça premierement reluit, </l>
+<l>Le Soleil que mon ame
+adore, </l>
+<l>Apportant avec luy le jour </l>
+<l>A ces campagnes qu'il honore, </l>
+<l>Et qu'il va
+remplissant d'Amour.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Sur les bords de ceste riviere </l>
+<l>Il se fait voir diversement,</l>
+<l>Quelquesfois tout d'embrasement ; </l>
+<l>D'autrefois couvrant sa lumiere, </l>
+<l>Il semble,
+devenu jalous, </l>
+<l>Qu'il se veuille ravir de nous, </l>
+<l>Ainsi que sous la nüe sombre,</l>
+<l>Le Soleil cache sa beauté, </l>
 <pb xml:id="page_abs_803" n="page_ori_399v ERR499v"/>
-<lb/>
-<hi rend="italic">Sans que toutefois si peu d'ombre, <lb/>Puisse en bien couvrir la clairté.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Mais que veut dire qu'il ne brûle, <lb/>Comme on voit que l'autre
-Soleil <lb/>Seiche les herbes de son œil, <lb/>Durant l'ardente canicule ? <lb/>Pourquoy
-dis-je ne seiche aussi <lb/>Mon Soleil les herbes d'icy ? <lb/>J'entens Amour, c'est que ma
-Dame <lb/>N'eslance ses rayons vaincueurs, <lb/>Dessus ces corps qui n'ont point d'ame, <lb
-/>Et ne veut brusler que des cueurs.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Fontaine qui des Sicomores, <lb/>Le beau nom t'en vas empruntant, <lb
-/>Tu m'as veu jadis si contant, <lb/>Et pourquoy ne le suis-je encores ? <lb/>Quel erreur
-puis je avoir commis, <lb/>Qui rend les Dieux mes ennemis ? <lb/>Sont-ils subjets comme nous
-sommes, <lb/>D'estre quelquesfois envieux, <lb/>Ou le change propre des hommes, <lb/>Peut-il
-attaindre jusqu'aux Dieux ?</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Jadis sur tes bords ma Bergere, <lb/>Disoit, sa main dedans ma main :
-<lb/>Dispose le sort inhumain <pb xml:id="page_abs_804" n="page_ori_400 ERR500"/>
-<lb/>De nostre vie passagere ; <lb/>Jamais Celadon en effait, <lb/>Le serment ne sera
-deffait, <lb/>Que dans ceste main je te jure, <lb/>Et vif, &amp; mort je t'aimeray, <lb/>Ou
-mourant dans ma sepulture, <lb/>Nostre amitié j'enfermeray.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Feuillage espais de ce bel arbre, <lb/>Qui couvres d'ombre tout
-l'entour ; <lb/>Ne te souviens tu point du jour <lb/>Qu'à ses lis meslant le Cinabre, <lb/>De
-honte elle alloit rougissant, <lb/>Qu'un Berger pres d'elle passant, <lb/>Parlant à moy
-l'appella belle, <lb/>Et l'heur, &amp; l'honneur de ces lieux ? <lb/>Car je ne veux, me
-disoit-elle, <lb/>Ressembler belle qu'à tes yeux.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Rocher où souvent à cachette, <lb/>Nous nous sommes entretenus, <lb
-/>Que peuvent estre devenus, <lb/>Tous ces amours que je regrette ? <lb/>Les Dieux tant de
-fois invoquez, <lb/>Souffriront-ils d'estre moquez ? <lb/>Et d'avoir la priere ardante, <lb
-/>D'elle, &amp; de moy, receuë en vain, <pb xml:id="page_abs_805" n="page_ori_400v ERR500v"/>
-<lb/>Puis qu'ores son ame changeante, <lb/>Paye ses amours d'un desdain ?</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Veuille le Ciel, disoit Astrée, <lb/>Que je meure avant que de voir,
-<lb/>Que mon pere ayt plus de pouvoir, <lb/>D'une hayne opiniastrée, <lb/>En sa trop longue
-inimitié, <lb/>A nous separer d'amitié, <lb/>Que nostre amitié ferme &amp; sainte, <lb/>A
-nous rejoindre, &amp; nous unir : <lb/>Aussi bien de regret attainte, <lb/>Je mourrois la
-voyant finir.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">En toy vieux Saul[e], dont l'escorce <lb/>Sans plus se deffend des
-saisons, <lb/>Dy moy n'ay-je point de raisons <lb/>De me plaindre de ce divorce, <lb/>Et de
-t'en adresser mes cris ? <lb/>Combien avons nous nos escris, <lb/>Fiez dessous ta seure
-garde, <lb/>Dans le creux du tronc my-mangé ? <lb/>Mais ores que je te regarde, <lb/>Combien
-saule tout est changé !</hi>
-<lb/>
-</p>
+<l>Sans que toutefois si peu d'ombre, </l>
+<l>Puisse en bien couvrir la clairté.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Mais que veut dire qu'il ne brûle, </l>
+<l>Comme on voit que l'autre
+Soleil </l>
+<l>Seiche les herbes de son œil, </l>
+<l>Durant l'ardente canicule ? </l>
+<l>Pourquoy
+dis-je ne seiche aussi </l>
+<l>Mon Soleil les herbes d'icy ? </l>
+<l>J'entens Amour, c'est que ma
+Dame </l>
+<l>N'eslance ses rayons vaincueurs, </l>
+<l>Dessus ces corps qui n'ont point d'ame,</l>
+<l>Et ne veut brusler que des cueurs.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Fontaine qui des Sicomores, </l>
+<l>Le beau nom t'en vas empruntant,</l>
+<l>Tu m'as veu jadis si contant, </l>
+<l>Et pourquoy ne le suis-je encores ? </l>
+<l>Quel erreur
+puis je avoir commis, </l>
+<l>Qui rend les Dieux mes ennemis ? </l>
+<l>Sont-ils subjets comme nous
+sommes, </l>
+<l>D'estre quelquesfois envieux, </l>
+<l>Ou le change propre des hommes, </l>
+<l>Peut-il
+attaindre jusqu'aux Dieux ?</l>
+</lg>
+<lg rend="italic"><l rend="indent">Jadis sur tes bords ma Bergere, </l>
+<l>Disoit, sa main dedans ma main :
+</l>
+<l>Dispose le sort inhumain</l>
+<pb xml:id="page_abs_804" n="page_ori_400 ERR500"/>
+<l>De nostre vie passagere ; </l>
+<l>Jamais Celadon en effait, </l>
+<l>Le serment ne sera
+deffait, </l>
+<l>Que dans ceste main je te jure, </l>
+<l>Et vif, &amp; mort je t'aimeray, </l>
+<l>Ou
+mourant dans ma sepulture, </l>
+<l>Nostre amitié j'enfermeray.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Feuillage espais de ce bel arbre, </l>
+<l>Qui couvres d'ombre tout
+l'entour ; </l>
+<l>Ne te souviens tu point du jour </l>
+<l>Qu'à ses lis meslant le Cinabre, </l>
+<l>De
+honte elle alloit rougissant, </l>
+<l>Qu'un Berger pres d'elle passant, </l>
+<l>Parlant à moy
+l'appella belle, </l>
+<l>Et l'heur, &amp; l'honneur de ces lieux ? </l>
+<l>Car je ne veux, me
+disoit-elle, </l>
+<l>Ressembler belle qu'à tes yeux.</l>
+</lg>
+<lg rend="italic"><l rend="indent">Rocher où souvent à cachette, </l>
+<l>Nous nous sommes entretenus,</l>
+<l>Que peuvent estre devenus, </l>
+<l>Tous ces amours que je regrette ? </l>
+<l>Les Dieux tant de
+fois invoquez, </l>
+<l>Souffriront-ils d'estre moquez ? </l>
+<l>Et d'avoir la priere ardante,</l>
+<l>D'elle, &amp; de moy, receuë en vain,</l>
+<pb xml:id="page_abs_805" n="page_ori_400v ERR500v"/>
+<l>Puis qu'ores son ame changeante, </l>
+<l>Paye ses amours d'un desdain ?</l>
+</lg>
+<lg rend="italic"><l rend="indent">Veuille le Ciel, disoit Astrée, </l>
+<l>Que je meure avant que de voir,
+</l>
+<l>Que mon pere ayt plus de pouvoir, </l>
+<l>D'une hayne opiniastrée, </l>
+<l>En sa trop longue
+inimitié, </l>
+<l>A nous separer d'amitié, </l>
+<l>Que nostre amitié ferme &amp; sainte, </l>
+<l>A
+nous rejoindre, &amp; nous unir : </l>
+<l>Aussi bien de regret attainte, </l>
+<l>Je mourrois la
+voyant finir.</l>
+</lg>
+<lg rend="italic"><l rend="indent">En toy vieux Saul[e], dont l'escorce </l>
+<l>Sans plus se deffend des
+saisons, </l>
+<l>Dy moy n'ay-je point de raisons </l>
+<l>De me plaindre de ce divorce, </l>
+<l>Et de
+t'en adresser mes cris ? </l>
+<l>Combien avons nous nos escris, </l>
+<l>Fiez dessous ta seure
+garde, </l>
+<l>Dans le creux du tronc my-mangé ? </l>
+<l>Mais ores que je te regarde, </l>
+<l>Combien
+saule tout est changé !</l>
+</lg>
 <p rend="indent">Ces pensers eussent plus longuement retenu Celadon en ce lieu, n'eust esté la
 survenuë du Berger desolé, qui plaignant continuellement sa perte, s'en venoit souspirant ces
 vers.</p>
 <pb xml:id="page_abs_806" n="page_ori_401 ERR501"/>
 <p><hi rend="rule"/><title>SUR UNE TROP <lb/>PROMPTE MORT.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Vous qui voyez mes tristes pleurs, <lb/>Si vous sçaviez de quels
-mal-heurs <lb/>&#160;J'ay l'ame attainte, <lb/>Au lieu de condamner mon œil, <lb/>Vous
-adjousteriez vostre deuil <lb/>&#160;Avec ma plainte. <lb/>Dessous l'horreur d'un noir
-tombeau, <lb/>Ce que la terre eut de plus beau <lb/>&#160;Est mis en cendre. <lb/>O destins
-trop pleins de rigueur, <lb/>Pourquoy mon corps, comme mon cœur, <lb/>&#160;N'y peut
-descendre ? <lb/>Elle ne fut plutost ça bas, <lb/>Que les Dieux par un prompt trespas, <lb
-/>&#160;Me l'ont ravie, <lb/>Si bien qu'il sembloit seulement, <lb/>Que pour entrer au
-monument <lb/>&#160;Elle eust eu vie. <lb/>Pourquoy falloit-il tant d'Amour, <lb/>Si
-ressemblant la fleur d'un jour <lb/>&#160;A peine née, <lb/>Le Ciel la monstroit pour
-l'oster, <lb/>Et pour nous faire regretter <lb/>&#160;Sa destinée ? <lb/>Comme à son arbre
-estant serré <lb/>Du tronc mort n'est point separé <lb/>&#160;L'heureux lyerre ; <pb
+<lg rend="italic"><l rend="indent">Vous qui voyez mes tristes pleurs, </l>
+<l>Si vous sçaviez de quels
+mal-heurs </l>
+<l rend="indent">J'ay l'ame attainte, </l>
+<l>Au lieu de condamner mon œil, </l>
+<l>Vous
+adjousteriez vostre deuil </l>
+<l rend="indent">Avec ma plainte. </l>
+<l>Dessous l'horreur d'un noir
+tombeau, </l>
+<l>Ce que la terre eut de plus beau </l>
+<l rend="indent">Est mis en cendre. </l>
+<l>O destins
+trop pleins de rigueur, </l>
+<l>Pourquoy mon corps, comme mon cœur, </l>
+<l rend="indent">N'y peut
+descendre ? </l>
+<l>Elle ne fut plutost ça bas, </l>
+<l>Que les Dieux par un prompt trespas,</l>
+<l rend="indent">Me l'ont ravie, </l>
+<l>Si bien qu'il sembloit seulement, </l>
+<l>Que pour entrer au
+monument </l>
+<l rend="indent">Elle eust eu vie. </l>
+<l>Pourquoy falloit-il tant d'Amour, </l>
+<l>Si
+ressemblant la fleur d'un jour </l>
+<l rend="indent">A peine née, </l>
+<l>Le Ciel la monstroit pour
+l'oster, </l>
+<l>Et pour nous faire regretter </l>
+<l rend="indent">Sa destinée ? </l>
+<l>Comme à son arbre
+estant serré </l>
+<l>Du tronc mort n'est point separé </l>
+<l rend="indent">L'heureux lyerre ;</l> <pb
 xml:id="page_abs_807" n="page_ori_401v ERR501v"/>
-<lb/>Pour le moins me fust-il permis, <lb/>Vif aupres d'elle d'estre mis <lb/>&#160;Dessous
-sa pierre ! <lb/>Content pres d'elle je vivrois : <lb/>Et si là dedans de la voix <lb
-/>&#160;J'avois l'usage, <lb/>Je benirois d'un tel sejour <lb/>La mort qui m'auroit de
-l'Amour <lb/>Laissé tel gage.</hi>
-<lb/>
-</p>
+<l>Pour le moins me fust-il permis, </l>
+<l>Vif aupres d'elle d'estre mis </l>
+<l rend="indent">Dessous
+sa pierre ! </l>
+<l>Content pres d'elle je vivrois : </l>
+<l>Et si là dedans de la voix</l>
+<l rend="indent">J'avois l'usage, </l>
+<l>Je benirois d'un tel sejour </l>
+<l>La mort qui m'auroit de
+l'Amour </l>
+<l>Laissé tel gage.</l>
+</lg>
 <p rend="indent">Celadon qui ne vouloit point estre veu de personne qui le pûst cognoistre,
 d'aussi loing qu'il vid ce Berger, commença peu à peu de se retirer dans l'espaisseur de
 quelques arbres, mais voyant que sans s'arrester à luy, il passoit outre pour s'assoir au
