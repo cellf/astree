@@ -1347,8 +1347,7 @@ quoy qu'il se sentist encore mal de l'eau qu'il avoit avalée, si est-ce qu'il s
 pour luy obeïr, &amp; commença de cette sorte.</p>
 <pb xml:id="page_abs_77" n="page_ori_33"/>
 <div>
-    <p><hi rend="rule"/><title>HISTOIRE D'ALCIPPE.</title>
-<lb/></p>
+<head><hi rend="rule"/>HISTOIRE D'ALCIPPE.</head>
 <p rend="indent">Vous me commandez, Madame, de vous dire la fortune la plus traversée, &amp; la
 plus diverse d'homme du monde, &amp; en laquelle on peut bien apprendre, que <q>"qui veut
 donner de la peine à autruy s'en prepare à soy-mesme la plus grande partie"</q>: Toutesfois
@@ -1431,19 +1430,29 @@ par-ce qu'il avoit la voix assez bonne, chacun se teut pour l'escouter. </p>
 <pb xml:id="page_abs_82" n="page_ori_35v"/>
 <p><hi rend="rule"/><title>SONNET <lb/>d'Alcippe sur les contraintes <lb/>de l'honneur.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic">O couples bienheureux, aymables tourterelles, <lb/>&#160;Sans nombre
-redoublez vos baisers amoureux, <lb/>&#160;Et allez à l'envy renouvellant par eux, <lb
-/>&#160;Tantost vos douces paix, puis vos douces querelles ! <lb/>Quand je vous voy languir
-d'un tremoussement d'ayles <lb/>&#160;Et à demy lassez vous caresser tous deux, <lb/>&#160;O
-gentils oyselets que je vous dis heureux, <lb/>&#160;De jouïr librement de vos amours
-fidelles ! <lb/>Que vous estes heureux de montrer franchement, <lb/>&#160;Ce, qu'helas ! il
-nous faut cacher si finement <lb/>&#160;Sous les injustes loix que cet honneur nous donne !
-<lb/>De notre propre bien nous rendant ennemis : <lb/>&#160;Car le cruel qu'il est, sans
-raison il ordonne, <lb/>&#160;Qu'en Amour seulement le larcin soit permis.</hi>
-<lb/>
-</p>
+
+<lg rend="italic">
+<l>O couples bienheureux, aymables tourterelles,</l>
+<l rend="indent">Sans nombre
+redoublez vos baisers amoureux,</l>
+<l rend="indent">Et allez à l'envy renouvellant par eux,</l>
+<l rend="indent">Tantost vos douces paix, puis vos douces querelles !</l>
+<l>Quand je vous voy languir
+d'un tremoussement d'ayles</l>
+<l rend="indent">Et à demy lassez vous caresser tous deux,</l>
+<l rend="indent">O
+gentils oyselets que je vous dis heureux,</l>
+<l rend="indent">De jouïr librement de vos amours
+fidelles !</l>
+<l>Que vous estes heureux de montrer franchement,</l>
+<l rend="indent">Ce, qu'helas ! il
+nous faut cacher si finement</l>
+<l rend="indent">Sous les injustes loix que cet honneur nous donne !</l>
+<l>De notre propre bien nous rendant ennemis :</l>
+<l rend="indent">Car le cruel qu'il est, sans
+raison il ordonne,</l>
+<l rend="indent">Qu'en Amour seulement le larcin soit permis.</l>
+</lg>
 <p rend="indent">Depuis ce temps Alcippe se laissa tellement transporter à son affection qu'il n'y
 avoit plus de borne qu'il n'outre-passast, &amp; elle au contraire se monstroit tousjours plus
 froide, &amp; plus gelée envers luy : &amp; sur ce suject, un jour qu'il fut prié de chanter,
@@ -1451,15 +1460,18 @@ il dit tels vers.</p>
 <pb xml:id="page_abs_83" n="page_ori_36"/>
 <p><hi rend="rule"/><title>MADRIGAL. <lb/>Sur la froideur d'Amarillis.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic">Elle a le cœur de glace, et les yeux tous de flame, <lb/>&#160;Et moy pour
-mon mal-heur <lb/>Je gele par dehors, et j'ay le feu dans l'ame, <lb/>Mais c'est par-ce
-qu'Amour, qui se paist de douleur, <lb/>&#160;Loge dedans mon cœur, et aux yeux de Madame.
-<lb/>Dieux !changera-t'il point quelquefois ce moqueur ? <lb/>&#160;Et que je l'aye aux
-yeux, et elle dans le cœur ?</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l>Elle a le cœur de glace, et les yeux tous de flame,</l>
+<l rend="indent">Et moy pour
+mon mal-heur </l>
+<l>Je gele par dehors, et j'ay le feu dans l'ame, </l>
+<l>Mais c'est par-ce
+qu'Amour, qui se paist de douleur,</l>
+<l rend="indent">Loge dedans mon cœur, et aux yeux de Madame.</l>
+<l>Dieux !changera-t'il point quelquefois ce moqueur ? </l>
+<l rend="indent">Et que je l'aye aux
+yeux, et elle dans le cœur ?</l>
+</lg>
 <p rend="indent">En ce temps-là, comme je vous ay dit, Alcé recherchoit Amarillis, &amp; par-ce
 que c'estoit un tres-honneste Berger, &amp; qui estoit tenu pour fort sage, le pere
 d'Amarillis inclinoit plus à la luy bailler, que non point à Alcippe, à cause de son courage
@@ -1490,37 +1502,57 @@ le long du bois. <pb xml:id="page_abs_85" n="page_ori_37"/>
 </p>
 <p><hi rend="rule"/><title>SONNET <lb/>D'Alcippe sur la constance de <lb/>son amitié.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Amarillis toute pleine de grace, <lb/>Alloit ces bors de ces fleurs
-despoüillant, <lb/>Mais sous la main qui les alloit cueillant, <lb/>D'autres soudain
-renaissoient en leur place. <lb/>&#160;Ces beaux cheveux, où l'Amour s'entrelasse, <lb/>Amour
-alloit d'un doux air éveillant, <lb/>Et s'il en voit quelqu'un s'eparpillant : <lb/>Tout
-curieux soudain il le ramasse. <lb/>&#160;Telle Lignon pour la voir s'arresta, <lb/>Et pour
-miroir ses eaux luy presenta, <lb/>Et puis luy dit ; Une si belle image <lb/>&#160;A ton
-despart mon onde esloignera, <lb/>Mais de mon cœur jamais ne partira <lb/>Le traict fatal,
-Nymphe, de ton visage.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Amarillis toute pleine de grace, </l>
+<l>Alloit ces bors de ces fleurs
+despoüillant, </l>
+<l>Mais sous la main qui les alloit cueillant, </l>
+<l>D'autres soudain
+renaissoient en leur place. </l>
+<l rend="indent">Ces beaux cheveux, où l'Amour s'entrelasse, </l>
+<l>Amour
+alloit d'un doux air éveillant,</l>
+<l>Et s'il en voit quelqu'un s'eparpillant : </l>
+<l>Tout curieux soudain il le ramasse. </l>
+<l rend="indent">Telle Lignon pour la voir s'arresta, </l>
+<l>Et pour
+miroir ses eaux luy presenta, </l>
+<l>Et puis luy dit ; Une si belle image </l>
+<l rend="indent">A ton
+despart mon onde esloignera, </l>
+<l>Mais de mon cœur jamais ne partira </l>
+<l>Le traict fatal,
+Nymphe, de ton visage.</l>
+</lg>
 <p rend="indent">Lors qu'elle fut partie, &amp; qu'il commença à bon escient à ressentir les
 desplaisirs de son absence, allant bien souvent sur le mesme lieu où il avoit pris congé de sa
 Bergere, il y souspira plusieurs fois tels vers.</p>
 <pb xml:id="page_abs_86" n="page_ori_37v"/>
 <p><hi rend="rule"/><title>SONNET, <lb/>D'Alcippe sur l'absence.</title>
 <lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Belle onde de Lignon, qui de source éternelle, <lb/>Du gratieux FOREST
-va le sein arrousant, <lb/>Et qui flot dessus flot ne te va reposant, <lb/>Que tu ne sois
-rentré dans l'onde paternelle : <lb/>&#160;Ne vois-tu point Allier qui te ravit ta belle, <lb
-/>User comme outrageux du droit du plus puissant : <lb/>Et qu'ainsi ton Soleil loin de toy
-ravissant, <lb/>Il semble que par force au combat il t'appelle. <lb/>&#160;Contre ce
-ravisseur sousleve à ton secours, <lb/>Les yeux qui sur tes bords vont pleurant leurs amours
-: <lb/>Fleschir à l'outrageux est faute de courage. <lb/>&#160;Ose-le seulement, que mille de
-nos cœurs <lb/>Te dorront pour secours milles fleuves de pleurs, <lb/>Qui ne se tariront
-qu'en vengeant ton outrage.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Belle onde de Lignon, qui de source éternelle, </l>
+<l>Du gratieux FOREST
+va le sein arrousant, </l>
+<l>Et qui flot dessus flot ne te va reposant, </l>
+<l>Que tu ne sois
+rentré dans l'onde paternelle : </l>
+<l rend="indent">Ne vois-tu point Allier qui te ravit ta belle,</l>
+<l>User comme outrageux du droit du plus puissant : </l>
+<l>Et qu'ainsi ton Soleil loin de toy
+ravissant, </l>
+<l>Il semble que par force au combat il t'appelle.</l>
+<l rend="indent">Contre ce
+ravisseur sousleve à ton secours, </l>
+<l>Les yeux qui sur tes bords vont pleurant leurs amours
+: </l>
+<l>Fleschir à l'outrageux est faute de courage. </l>
+<l rend="indent">Ose-le seulement, que mille de
+nos cœurs </l>
+<l>Te dorront pour secours milles fleuves de pleurs, </l>
+<l>Qui ne se tariront
+qu'en vengeant ton outrage.</l>
+</lg>
 <p rend="indent">Mais ne pouvant patienter de vivre sans la voir au mesme lieu, où il avoit tant
 accoustumé le bien de sa veuë : Il se resolut comme que ce fust, de partir de là. Et lors
 qu'il en cherchoit l'occasion, il s'en presenta une toute telle qu'il l'eust sçeu desirer, car
@@ -1817,13 +1849,7 @@ qu'elle aymoit tant.</p>
 </div>
 <div xml:id="page_ASTREE0103" n="troisiesme" type="chapter">
 <pb xml:id="page_abs_104" n="page_ori_46v"/>
-<p>
-<lb/>
-<title>
-<hi rend="bold"> LE<lb/> TROISIESME<lb/> LIVRE D'ASTREE.</hi>
-</title>
-<lb/>
-</p>
+<head rend="bold">LE<lb/> TROISIESME<lb/> LIVRE D'ASTREE.</head>
 <p rend="indent">Tant que le jour dura ces belles Nymphes tindrent si bonne compagnie à Celadon,
 que s'il n'eust eu le cuisant desplaisir du changement d'Astrée, il n'eust point eu d'occasion
 de s'ennuyer : car elles estoient &amp; belles, &amp; remplies de beaucoup de jugement :
@@ -2138,7 +2164,8 @@ mesme, Celadon apprenoit leur vie plus particuliere : &amp; afin qu'en se promen
 les mieux oüyr, elles le mirent entre-elles, &amp; marchant au petit pas, Leonide commença de
 ceste sorte.</p>
 <pb xml:id="page_abs_123" n="page_ori_56"/>
-<p><hi rend="rule"/><title>HISTOIRE DE SILVIE.</title></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE SILVIE.</head>
 <p rend="indent">Ceux qui dient que <q>"pour estre aimé, il ne faut qu'aimer"</q>, n'ont pas esprouvé
 ny les yeux, ny le courage de ceste Nymphe ; autrement ils eussent cogneu, que tout ainsi que
 l'eau de la fonteine fuit incessamment de sa source ; que de mesme l'Amour qui naist de ceste
@@ -2579,14 +2606,22 @@ son logis, où apres avoir quelque temps envenimé son mal par ses pensers, il p
 &amp; m'escrivit tels vers.</p>
 <p><hi rend="rule"/><title>MADRIGAL<lb/> SUR L'ESPEE DE SILVIE<lb/> ENTRE LES MAINS<lb/> de
 Clidaman</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">D'une meurtriere espée,<lb/> &#160;Amour en trahison,<lb/> De mon
-bon-heur l'esperance a couppée :<lb/> Et toutefois ce n'est pas sans raison.<lb/> &#160;Car
-voyant bien que mon destin commande<lb/> Que mon Amour trop grande,<lb/> Ne se pouvant
-payer<lb/> Je meure sans loyer.<lb/> &#160;Il veut (pour n'estre au moins entierement
-ingrat)<lb/> Ne pouvant en Amant, que je meure en soldat.<lb/></hi>
-</p>
+
+<lg rend="italic">
+<l rend="indent">D'une meurtriere espée,</l>
+<l rend="indent">Amour en trahison,</l>
+<l>De mon
+bon-heur l'esperance a couppée :</l>
+<l>Et toutefois ce n'est pas sans raison.</l>
+<l rend="indent">Car
+voyant bien que mon destin commande</l>
+<l>Que mon Amour trop grande,</l>
+<l>Ne se pouvant
+payer</l>
+<l>Je meure sans loyer.</l>
+<l rend="indent">Il veut (pour n'estre au moins entierement
+ingrat)</l>
+<l>Ne pouvant en Amant, que je meure en soldat.</l></lg>
 <pb xml:id="page_abs_150" n="page_ori_69v"/>
 <p><hi rend="rule"/><title>BILLET</title><lb/></p>
 <p><lb/><hi rend="italic indent">Il faut advoüer, belle Leonide, que Silvie fait comme le
@@ -2706,31 +2741,43 @@ faites, ont plutost de l'outrage que de la rigueur.</p>
 voix fort agreable, &amp; que je le priay de chanter, il dit tels vers.</p>
 <pb xml:id="page_abs_157" n="page_ori_73"/>
 <p><hi rend="rule"/><title>CHANSON<lb/> SUR UN DESIR.</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Quel est ce mal qui me travaille,<lb/> Et ne veut me donner loisir,<lb
-/> De trouver remede qui vaille ?<lb/> Helas ! c'est un ardant desir,<lb/> Qui comme un feu
-tousjours aspire,<lb/> Au bon-heur le plus eslevé,<lb/> Aussi ce que plus on desire,<lb/>
-C'est ce qu'on a moins esprouvé.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Desir ardant dés ta naissance,<lb/> Boüillonnant de jeunes ardeurs,<lb
-/> Quand nasquit ta sœur l'Esperance,<lb/> Vous remplissiez de vos grandeurs,<lb/> Non pas
-seulement mes pensées :<lb/> Mais toute mon ame à la fois,<lb/> Dont les puissances
-rabaissées<lb/> Alloient fléchissant sous vos loix.</hi>
-<lb/>
-</p>
-<p>
-<lb/>
-<hi rend="italic indent">Ores que l'Esperance est morte<lb/> Pourquoy Desir t'efforces-tu<lb/>
-D'une violence plus forte ?<lb/> C'est que tu nayz de la vertu,<lb/> Et tout ainsi comme ta
-mere :<lb/> De l'espoir ne te nourris pas :<lb/>
-<pb xml:id="page_abs_158" n="page_ori_73v"/> Aussi tu ne veux qu'au contraire<lb/> Ta mort vienne
-de son trespas.</hi>
-<lb/>
-</p>
+
+<lg rend="italic">
+<l rend="indent">Quel est ce mal qui me travaille,</l>
+<l>Et ne veut me donner loisir,</l>
+<l>De trouver remede qui vaille ?</l>
+<l>Helas ! c'est un ardant desir,</l>
+<l>Qui comme un feu
+tousjours aspire,</l>
+<l>Au bon-heur le plus eslevé,</l>
+<l>Aussi ce que plus on desire,</l>
+<l>C'est ce qu'on a moins esprouvé.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Desir ardant dés ta naissance,</l>
+<l>Boüillonnant de jeunes ardeurs,</l>
+<l>Quand nasquit ta sœur l'Esperance,</l>
+<l>Vous remplissiez de vos grandeurs,</l>
+<l>Non pas
+seulement mes pensées :</l>
+<l>Mais toute mon ame à la fois,</l>
+<l>Dont les puissances
+rabaissées</l>
+<l>Alloient fléchissant sous vos loix.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Ores que l'Esperance est morte</l>
+<l>Pourquoy Desir t'efforces-tu</l>
+<l>D'une violence plus forte ?</l>
+<l>C'est que tu nayz de la vertu,</l>
+<l>Et tout ainsi comme ta
+mere :</l>
+<l>De l'espoir ne te nourris pas :</l>
+<pb xml:id="page_abs_158" n="page_ori_73v"/>
+<l>Aussi tu ne veux qu'au contraire</l>
+<l>Ta mort vienne
+de son trespas.</l>
+</lg>
 <p rend="indent">Il n'eust point si tost parachevé, que Silvie reprit ainsi. Hê ! dites moy
 Ligdamon, puis que je ne suis pas cause de vostre mal, pourquoy vous en prenez vous à moy ?
 C'est vostre desir que vous devez accuser, car c'est luy qui vous travaille vainement. Le
@@ -2805,18 +2852,19 @@ point oublié, mais ceste cruelle ne voulut jamais luy dire adieu, feignant de s
 luy toutefois qui ne s'en vouloit point aller sans qu'elle le sceust en quelque sorte,
 m'escrivit tels vers.</p>
 <p><hi rend="rule"/><title>SUR UN DEPART.</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Pourquoy, puis Amour que tu veux<lb/> Que je brusle de tant de
-feux,<lb/> Faut-il que j'esloigne Madame ?<lb/></hi>
-</p>
-<p rend="indent">Je luy respondis.<lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Pour faire en elle quelque effaict,<lb/> Ne sçais-tu qu'en la cendre
-naist,<lb/> Le Phœnix qui meurt en la flame.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Pourquoy, puis Amour que tu veux</l>
+<l>Que je brusle de tant de
+feux,</l>
+<l>Faut-il que j'esloigne Madame ?</l>
+</lg>
+<p rend="indent">Je luy respondis.</p>
+<lg rend="italic">
+<l rend="indent">Pour faire en elle quelque effaict,</l>
+<l>Ne sçais-tu qu'en la cendre
+naist,</l>
+<l>Le Phœnix qui meurt en la flame.</l>
+</lg>
 <p rend="indent">Il eust esté trop heureux de ceste response, mais ceste cruelle m'ayant trouvé
 que j'escrivois, &amp; ne voulant ny luy faire du bien, ny permettre qu'autre luy en fist, me
 ravit la plume à toute force de la main, me disant que les flateries que je faisois à
@@ -2843,19 +2891,28 @@ payoit ceux qui estoient à elle, &amp; que quelle qu'elle fust, il falloit la c
 qu'elle avoit ceste marque, &amp; sur ce sujet il m'envoya tels vers avant que partir.</p>
 <pb xml:id="page_abs_164" n="page_ori_76v"/>
 <p><hi rend="rule"/><title>SONNET.</title><lb/></p>
-<p>
-<lb/>
-<hi rend="italic indent">Elle le veut ainsi ceste beauté supréme,<lb/> Que ce soit
-l'impossible, &amp; non ce que je puis,<lb/> Qui luy fasse l'essay de ce que je luy suis :<lb
-/> Et bien, elle le veut, &amp; je le veux de mesme.<lb/> &#160;En fin elle verra que mon
-amour extréme,<lb/> En sa source ressemble à la source du puis,<lb/> Car plus elle voudra
-m'espuiser par ennuis,<lb/> Et plus elle verra qu'infiniment je l'aime.<lb/> &#160;La source
-qui produit ma belle affection,<lb/> Est celle-là sans plus de sa perfection,<lb/> Eternelle
-en effet, comme elle est éternelle.<lb/> &#160;Donc essais de mon cœur, rigueur, peine,
-desdain,<lb/> Puisez incessamment, mon amour est sans fin,<lb/> Et plus vous puiserez plus
-elle sera belle.</hi>
-<lb/>
-</p>
+<lg rend="italic">
+<l rend="indent">Elle le veut ainsi ceste beauté supréme,</l>
+<l>Que ce soit
+l'impossible, &amp; non ce que je puis,</l>
+<l>Qui luy fasse l'essay de ce que je luy suis :</l>
+<l>Et bien, elle le veut, &amp; je le veux de mesme.</l>
+<l rend="indent">En fin elle verra que mon
+amour extréme,</l>
+<l>En sa source ressemble à la source du puis,</l>
+<l>Car plus elle voudra
+m'espuiser par ennuis,</l>
+<l>Et plus elle verra qu'infiniment je l'aime.</l>
+<l rend="indent">La source
+qui produit ma belle affection,</l>
+<l>Est celle-là sans plus de sa perfection,</l>
+<l>Eternelle en effet, comme elle est éternelle.</l>
+<l rend="indent">Donc essais de mon cœur, rigueur, peine,
+desdain,</l>
+<l>Puisez incessamment, mon amour est sans fin,</l>
+<l>Et plus vous puiserez plus
+elle sera belle.</l>
+</lg>
 <p rend="indent">Leonide eust continué son discours n'eust esté que de loing elle vid venir
 Galathée, qui apres avoir demeuré longuement seule, &amp; ne pouvant davantage se priver de la
 veuë du Berger, s'estoit habillée le mieux à son advantage, que son miroir luy avoit sceu
@@ -2866,15 +2923,10 @@ sorte qu'à l'abord de la Nimphe, ils furent contrains de se retirer, &amp; le B
 apres, de se mettre au lit, où il demeura plusieurs jours tombant &amp; se relevant de ce mal
 sans pouvoir estre, ny bien malade, ny bien guery.</p>
 </div>
+</div>
 <div xml:id="page_ASTREE0104" n="quatrieme" type="chapter">
 <pb xml:id="page_abs_165" n="page_ori_77"/>
-<p>
-<lb/>
-<title>
-<hi rend="bold">LE<lb/> QUATRIESME<lb/> LIVRE D'ASTREE</hi>
-</title>
-<lb/>
-</p>
+<head rend="bold">LE<lb/> QUATRIESME<lb/> LIVRE D'ASTREE</head>
 <p rend="indent">Galathée (qui estoit atteinte à bon escient) tant que la maladie de Celadon dura,
 ne bougea pres-que d'ordinaire de son lict, &amp; quand elle estoit contrainte de s'en
 esloigner pour reposer, ou pour quelque autre affaire, elle y laissoit le plus souvent
@@ -3186,7 +3238,8 @@ vos bon-heurs &amp; contentements, &amp; que cependant vous me permettiez d'user
 en ce discours, que vous desirez sçavoir de moy ; aussi bien une histoire si malheureuse que
 la mien <pb xml:id="page_abs_184" n="page_ori_86v"/> ne, ne peut plaire que pour estre courte,
 &amp; s'estant toutes trois rassises en rond, elle reprit la parole de ceste sorte.</p>
-<p><hi rend="rule"/><title>HISTOIRE D'ASTREE<lb/> ET PHILLIS.</title><lb/></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE D'ASTREE<lb/> ET PHILLIS.</head>
 <p rend="indent">Ceux qui pensent que les amitiez, &amp; les haines passent de pere en fils, s'ils
 sçavoient quelle a esté la fortune de Celadon &amp; de moy advouëroient sans doute qu'ils se
 sont bien fort trompez. Car belle Diane, je croy que vous avez souvent ouy dire la vieille
@@ -4406,15 +4459,10 @@ où se noyant, il noya d'un coup tous mes contentements. A ce mot elle devint pa
 mort, &amp; n'eust esté que Phillis la réveilla, la tirant par le bras, elle estoit en danger
 d'esvanoüyr.</p>
 </div>
+</div>
 <div xml:id="page_ASTREE0105" n="cinquiesme" type="chapter">
-<p>
 <pb xml:id="page_abs_254" n="page_ori_122"/>
-<lb/>
-<title>
-<hi rend="bold">LE <lb/>CINQUIESME LIVRE <lb/>DE LA PREMIERE <lb/>PARTIE D'ASTREE.</hi>
-</title>
-<lb/>
-</p>
+<head rend="bold">LE <lb/>CINQUIESME LIVRE <lb/>DE LA PREMIERE <lb/>PARTIE D'ASTREE.</head>
 <p rend="indent">Le bruit que ces Bergeres firent lors qu'Astrée faillit d'évanoüyr, fut si grand,
 que Leonide s'en esveilla, &amp; les oyant parler aupres d'elle, la curiosité luy donna
 volonté de sçavoir qui elles estoient : &amp; parce qu'apres estre un peu remises, ces trois
@@ -4502,8 +4550,8 @@ respondoit, Dieu me soit en ayde avec cet homme ! Je vous ay desja dit plusieurs
 estoit impossible. Ouy bien, dit l'autre, à vostre jugement. Vrayement, respondit Climanthe,
 pour le vous faire advoüer, &amp; pour vous faire sortir de ceste peine, je vous veux encor
 une fois redire le tout par le menu.</p>
-<p><hi rend="rule"/><title>HISTOIRE DE LA <lb/>TROMPERIE DE <lb/>Climanthe.</title>
-<lb/></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE LA <lb/>TROMPERIE DE <lb/>Climanthe.</head>
 <p rend="indent">Apres que nous nous fusmes separez, &amp; que vous m'eustes fait cognoistre
 Galathée, Silvie, Leonide, &amp; les autres Nymphes d'Amasis : aussi bien de veuë que je les
 cognoissois desja par les discours que vous m'en aviez tenus, je creus qu'une des principales
@@ -5214,8 +5262,9 @@ soit importunité d'oüir les particularitez de nos villages. Tant s'en faut, re
 sera beaucoup de satisfaction, de sçavoir que vous n'avez point de tort, aussi bien veux-je
 passer icy une partie de la chaleur, &amp; ce sera autant de temps employé.</p>
 <pb xml:id="page_abs_300" n="page_ori_145 ERR245"/>
-<p><hi rend="rule"/><title>HISTOIRE DE STELLE <lb/>ET CORILAS.</title>
-<lb/></p>
+</div>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE STELLE <lb/>ET CORILAS.</head>
 <p rend="indent">Puis que vous le commandez ainsi, dit le Berger, il faut que je prenne ce
 discours d'un peu plus haut. Il y a fort longtemps que Stelle demeura vefve d'un mary, que le
 ciel luy avoit donné, plutost pour en avoir le nom que l'effect, car outre qu'il estoit
@@ -5608,15 +5657,10 @@ estant une des plus importantes actions que vous puissiez jamais faire, &amp; de
 l'heur &amp; tout le malheur d'un homme peut despendre. A ce mot ils se separerent, car il
 commençoit à se faire tard, &amp; chacun prit le chemin de son logis.</p>
 </div>
+</div>
 <div xml:id="page_ASTREE0106" n="sixiesme" type="chapter">
-<p>
 <pb xml:id="page_abs_323" n="page_ori_157 ERR257"/>
-<lb/>
-<title>
-<hi rend="bold">LE <lb/>SIXIESME LIVRE <lb/>DE LA PREMIERE <lb/>PARTIE D'ASTREE.</hi>
-</title>
-<lb/>
-</p>
+<head rend="bold">LE <lb/>SIXIESME LIVRE <lb/>DE LA PREMIERE <lb/>PARTIE D'ASTREE.</head>
 <p rend="indent">D'autre costé Leonide n'ayant point trouvé Adamas à Feurs, reprit le chemin par
 où elle estoit venuë, sans y sejourner que le temps qu'il fallut pour disner, &amp; parce
 qu'elle avoit resolu de demeurer ceste nuit avec les belles Bergeres qu'elle avoit veuës le
@@ -5656,8 +5700,8 @@ impossible, si bien qu'envers elles les raports peuvent beaucoup noircir une per
 c'est pour ce sujet, puis que vous m'ordonnez de vous raconter une partie de ma vie, que je
 vous conjure par nostre amitié de n'en parler jamais, &amp; le luy ayant juré toutes deux,
 elle reprit son discours de cette sorte.</p>
-<p><hi rend="rule"/><title>HISTOIRE <lb/>DE DIANE.</title>
-<lb/></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE <lb/>DE DIANE.</head>
 <p rend="indent">Ce seroit chose estrange, si le discours que vous desirez sçavoir de moy, ne vous
 estoit ennuyeux, puis belles, &amp; discrettes Bergeres, qu'il m'a tant fait endurer de
 desplaisir, que je ne croy point y employer à ceste heure <pb xml:id="page_abs_326"
@@ -6843,14 +6887,10 @@ es, on a quelque cognoissance de ce qui se fait ça bas, reçoy, ô cher amy, ce
 &amp; ces larmes que je t'offre pour tesmoignage, que Diane aymera jusques au cercueil son
 cher Filandre.</p>
 </div>
+</div>
 <div xml:id="page_ASTREE0107" n="septiesme" type="chapter">
-<p>
 <pb xml:id="page_abs_394" n="page_ori_193 ERR293"/>
-<lb/>
-<title>
-<hi rend="bold">LE <lb/>SEPTIESME <lb/>LIVRE D'ASTREE.</hi>
-</title>
-</p>
+<head rend="bold">LE <lb/>SEPTIESME <lb/>LIVRE D'ASTREE.</head>
 <p rend="indent">Astrée pour interrompre les tristes paroles de Diane, mais belle Bergere, luy
 dit-elle, qui estoit ce miserable qui fut cause d'un si grand desastre ? Helas, dit-elle, que
 voulez-vous que je vous en die ? c'estoit un ennemy qui n'estoit au monde que pour estre cause
@@ -7193,8 +7233,8 @@ contrée, nous sommes tousjours allez recherchant : il ne tiendra <pb xml:id="pa
 n="page_ori_202v ERR302v"/> plus qu'à vous que nous ne sortions de ceste peine, ainsi qu'a
 ordonné l'Oracle. Alors la Bergere, sans luy faire autre response, s'adressa à Silvandre,
 &amp; luy parla de ceste sorte.</p>
-<p><hi rend="rule"/><title>HISTOIRE DE TIRCIS <lb/>ET [LAONICE].</title>
-<lb/></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE TIRCIS <lb/>ET [LAONICE].</head>
 <p rend="indent"><q>"De toutes les amitiez il n'y en a point, à ce que j'ay ouy dire, qui puissent
 estre plus affectionnées que celles qui naissent avec l'enfance, parce que la coustume que ce
 jeune âge prend, va peu à peu se changeant en nature"</q> : de laquelle s'il est malaisé de
@@ -7865,15 +7905,10 @@ qu'aller tournoyant dans le plus retiré du bois, où sur le matin travaillé d'
 trop long marcher, il fut contraint de se coucher sous quelques arbres, où tout moitte de
 pleurs, en fin son extréme desplaisir le contraignit de s'endormir.</p>
 </div>
+</div>
 <div xml:id="page_ASTREE0108" n="huictiesme" type="chapter">
-<p>
 <pb xml:id="page_abs_452" n="page_ori_222 ERR322"/>
-<lb/>
-<title>
-<hi rend="bold">LE <lb/>HUITIESME <lb/>LIVRE D'ASTREE.</hi>
-</title>
-<lb/>
-</p>
+<head rend="bold">LE <lb/>HUITIESME <lb/>LIVRE D'ASTREE.</head>
 <p rend="indent">Soudain que le jour parut, Diane, Astrée &amp; Phillis se trouverent ensemble,
 afin d'estre au lever de Leonide, qui ne pouvant assez estimer leur honnesteté &amp;
 courtoisie, s'estoit habillée dés que la premiere clairté avoit donné dans sa chambre, pour ne
@@ -8024,8 +8059,8 @@ sçavoir que je vis, en me cachant toute autre cognoissance de moy-mesme : &amp;
 ne croyez pas, que je ne veuille satisfaire à ma promesse, je vous jure par nostre Dieu Pan,
 &amp; par les beautez de Diane, dit-il se tournant à Phillis, que je vous diray veritablement
 tout ce que j'en sçay.</p>
-<p><hi rend="rule"/><title>HISTOIRE DE <lb/>SYLVANDRE.</title>
-<lb/></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE <lb/>SYLVANDRE.</head>
 <p rend="indent">Lors qu'Ætius fut fait lieutenant general en Gaule de l'Empereur Valentinian, il
 trouva fort dangereux pour les Romains, que Gondioch premier Roy des Bourguignons, en
 possedast la plus grande partie, &amp; se resolut de l'en chasser, &amp; le renvoyer de là le
@@ -8578,8 +8613,9 @@ nous, que si quelqu'un survient, il pense que nous soyons tous trois ensemble.</
 leur raconter sa vie, pour satisfaire au commandement de sa maistresse, &amp; quoy qu'il en
 fist beaucoup de difficulté, si est-ce qu'en fin il commença de ceste sorte.</p>
 <pb xml:id="page_abs_493" n="page_ori_242v ERR342v"/>
-<p><hi rend="rule"/><title>HISTOIRE DE HYLAS.</title>
-<lb/></p>
+</div>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE HYLAS.</head>
 <p rend="indent">Vous voulez donc belle maistresse de la mienne, &amp; vous gentil Paris, que je
 vous die les fortunes qui me sont advenues, depuis que j'ay commencé d'aimer, ne croyez pas
 que le refus que j'en ay fait procede pour ne sçavoir que dire, car j'ay trop aimé pour avoir
@@ -9357,15 +9393,10 @@ un si bon commencement à son dessein, se retira comme de coustume avec la Berge
 jalousie, de la luy vendre à l'advenir un peu plus cherement, faignant de vrayement aimer
 Phillis, lors qu'il le verroit aupres d'elle.</p>
 </div>
+</div>
 <div xml:id="page_ASTREE0109" n="neufiesme" type="chapter">
 <pb xml:id="page_abs_539" n="page_ori_266 ERR366"/>
-<p>
-<lb/>
-<title>
-<hi rend="bold">LE <lb/>NEUFIESME <lb/>LIVRE D'ASTREE.</hi>
-</title>
-<lb/>
-</p>
+<head rend="bold">LE <lb/>NEUFIESME <lb/>LIVRE D'ASTREE.</head>
 <p rend="indent">Leonide ce pendant arriva en la maison d'Adamas, &amp; luy ayant fait entendre,
 que Galathée avoit infiniment affaire de luy, &amp; pour un sujet fort pressé, que elle luy
 feroit entendre par les chemins, il resolut pour ne luy point desobeïr de partir aussi tost
@@ -9375,8 +9406,8 @@ chemin, &amp; lors qu'ils furent au bas de la colline, n'ayant plus qu'une plain
 conduisoit au Palais d'Isoure ; La Nymphe à la requeste de son oncle, reprit la parole de
 ceste sorte.</p>
 <pb xml:id="page_abs_540" n="page_ori_266v ERR366v"/>
-<p><hi rend="rule"/><title>HISTOIRE DE GALATHEE <lb/>ET LINDAMOR.</title>
-<lb/></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE GALATHEE <lb/>ET LINDAMOR.</head>
 <p rend="indent">Mon pere (car elle l'appelloit ainsi) ne vous estonnez point, je vous supplie,
 d'ouyr ce que j'ay à vous dire, &amp; lors que vous en aurez occasion, ressouvenez-vous que ce
 mesme Amour en est cause, qui autrefois vous a poussé à semblables ou plus estranges
@@ -10700,15 +10731,10 @@ esté trop tardifs le premier jour, ne manqueront d'y venir les autres suivants,
 surprendre ce trompeur, il ne faut que se cacher en ce lieu, car sans doutte il y viendra,
 &amp; quant au jour vous le pourrez sçavoir de Galathée, car pour moy je l'ay oublié.</p>
 </div>
+</div>
 <div xml:id="page_ASTREE0110" n="dixiesme" type="chapter">
-<p>
 <pb xml:id="page_abs_620" n="page_ori_307 ERR407"/>
-<lb/>
-<title>
-<hi rend="bold">LE <lb/>DIXIESME <lb/>LIVRE D'ASTREE.</hi>
-</title>
-<lb/>
-</p>
+<head rend="bold">LE <lb/>DIXIESME <lb/>LIVRE D'ASTREE.</head>
 <p rend="indent">Avec ces discours, le Druide, &amp; la Nymphe tromperent une partie du chemin,
 ayant esté &amp; l'un &amp; l'autre si attentif, que presque sans y penser, ils se trouverent
 aupres du Palais d'Isoure. Mais Adamas qui vouloit en toute façon remedier à ceste vie, ne
@@ -10764,8 +10790,8 @@ qui estoit fort advisé, pour sçavoir si sa niece luy avoit dit la verité, la 
 raconter tout ce qu'elle en sçavoit. Sylvie qui vouloit en toute sorte rompre ceste pratique,
 le fit sans dissimulation, &amp; le plus briefvement qu'il luy fut possible, de ceste sorte.</p>
 <pb xml:id="page_abs_624" n="page_ori_309 ERR409"/>
-<p><hi rend="rule"/><title>HISTOIRE DE <lb/>LEONIDE.</title>
-<lb/></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE <lb/>LEONIDE.</head>
 <p rend="indent">Scachez que pour mieux vous faire entendre tout ce que vous me demandez, je suis
 contrainte de toucher des particularitez d'autre que de Galathée, &amp; je le feray d'autant
 plus volontiers, qu'il est mesme à propos que pour y pourvoir à l'advenir, elles ne vous
@@ -11357,8 +11383,9 @@ respondit le Berger, que le discours n'en soit si long qu'il vous ennuye. Au con
 Nimphe, nous ne sçaurions mieux employer le temps, cependant que Galathée lira les lettres
 qu'elle vient de recevoir. Pour satisfaire donc à vostre commandement, adjousta-il, je le
 feray le plus briefvement qu'il me sera possible, &amp; lors il continua de ceste sorte.</p>
-<p><hi rend="rule"/><title>HISTOIRE DE CELION <lb/>ET BELLINDE.</title>
-<lb/></p>
+</div>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE CELION <lb/>ET BELLINDE.</head>
 <p rend="indent">Il est tout certain, belle Nymphe, que <q>"la vertu despoüillée de tout autre
 agencement ne laisse pas d'estre de soy-mesme agreable, ayant des aymants tant attirans,
 qu'aussi tost qu'une ame en est touchée, il faut qu'elle l'aime &amp; la suive, mais quand
@@ -12265,18 +12292,12 @@ Diane, mais Celion ny Ergaste n'eurent pas longuement le plaisir de cet enfant, 
 moururent incontinent apres, &amp; tous deux en mesme jour, &amp; c'est ceste Diane dont vous
 m'avez demandé des nouvelles, &amp; qui est tenuë en mon hameau, pour l'une des plus belles,
 &amp; des plus sages bergeres de Forests.</p>
-<p><title><hi rend="italic">Fin du dixiesme livre d'Astrée.</hi></title>
-<lb/></p>
+<p><hi rend="italic">Fin du dixiesme livre d'Astrée.</hi></p>
+</div>
 </div>
 <div xml:id="page_ASTREE0111" n="onziesme" type="chapter">
-<p>
 <pb xml:id="page_abs_709" n="page_ori_352 ERR452"/>
-<lb/>
-<title>
-<hi rend="bold">LE <lb/>UNZIESME <lb/>LIVRE D'ASTREE.</hi>
-</title>
-<lb/>
-</p>
+<head rend="bold">LE <lb/>UNZIESME <lb/>LIVRE D'ASTREE.</head>
 <p rend="indent">Celadon alloit de ceste sorte racontant à la Nymphe l'histoire de Celion, &amp;
 de Bellinde ; ce pendant que Leonide &amp; Galathée parloient des nouvelles que Fleurial leur
 avoit rapportées, car aussi tost que la Nymphe apperceut Leonide, elle la tira à part, &amp;
@@ -12417,8 +12438,8 @@ quoy, dit Galathée, en l'interrompant, il semble qu'il fasse son testament, com
 porte-il ? Madame, dit-il, s'addressant à Galathée, je le vous diray s'il vous plaist de m'en
 donner le loisir, &amp; puis retournant à Silvie il continua de ceste sorte.</p>
 <pb xml:id="page_abs_718" n="page_ori_356v ERR456v"/>
-<p><hi rend="rule"/><title>HISTOIRE DE LIGDAMON.</title>
-<lb/></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE LIGDAMON.</head>
 <p rend="indent">Apres que Ligdamon eut pris congé de vous, il partit avec Lindamor, accompagné de
 tant de beaux desseins, qu'il ne se promettoit rien moins que d'acquerir par ce voyage ce que
 ses services n'avoient pû par sa presence, resolvant de faire tant d'actes signalez, qu'ou le
@@ -12886,8 +12907,9 @@ s'addressant à Celadon. Voicy, Berger, qui satisfera au desir que vous avez de 
 histoire : &amp; apres luy avoir demandé comme il se portoit, &amp; que les salutations furent
 faittes d'un costé, &amp; d'autre, Adamas pour obeïr au commandement de la Nymphe, &amp;
 contenter la curiosité du Berger, s'approchant avec eux du tombeau, commença de ceste sorte.</p>
-<p><hi rend="rule"/><title>HISTOIRE DE DAMON, <lb/>ET DE FORTUNE.</title>
-<lb/></p>
+</div>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE DAMON, <lb/>ET DE FORTUNE.</head>
 <p><lb/><q>"Tout ainsi que l'ouvrier se joüe de son œuvre, &amp; en fait comme il luy plaist :
 de mesme les grands Dieux, de la main desquels nous sommes formez, prennent plaisir à nous
 faire joüer sur le theatre du monde, le personnage qu'ils nous ont esleu. Mais entre tous, il
@@ -13224,23 +13246,13 @@ beautez aussi sont trop grandes pour nos cœurs rustiques, &amp; se font plutost
 qu'aimer, &amp; adorer que servir. Avec tels propos ceste belle trouppe s'alloit retirant au
 logis, où l'heure du repas les appelloit.</p>
 <p>
-<lb/>
-<title>
-<hi rend="bold">
-<hi rend="italic">Fin de l'unziesme livre <lb/>d'Astrée.</hi>
-</hi>
-</title>
+<hi rend="bold italic">Fin de l'unziesme livre <lb/>d'Astrée.</hi>
 </p>
 </div>
+</div>
 <div xml:id="page_ASTREE0112" n="douziesme" type="chapter">
-<p>
 <pb xml:id="page_abs_766" n="page_ori_381 ERR481"/>
-<lb/>
-<title>
-<hi rend="bold">LE <lb/>DOUZIESME <lb/>LIVRE D'ASTREE.</hi>
-</title>
-<lb/>
-</p>
+<head rend="bold">LE <lb/>DOUZIESME <lb/>LIVRE D'ASTREE.</head>
 <p rend="indent">Dès que la pointe du jour commença de poindre, Leonide suivant la resolution que
 le soir Adamas, sa compagne, &amp; Celadon avoient prise ensemble, vint trouver le Berger dans
 sa chambre, afin de luy mettre l'habit que son oncle luy avoit apporté. Mais le petit Meril,
@@ -13312,8 +13324,8 @@ incontinent resolution de venir, car il ne me semble pas que je puisse joüir d'
 toute seule, &amp; puis certes la chose merite bien d'estre sçeuë. Avec semblables discours
 elle descendit dans le jardin, où commençant son promenoir, ayant mis Galathée d'un costé,
 &amp; Adamas de l'autre, elle reprit de ceste sorte.</p>
-<p><hi rend="rule"/><title>HISTOIRE DE LYDIAS, <lb/>ET DE MELANDRE.</title>
-<lb/></p>
+<div>
+<head><hi rend="rule"/>HISTOIRE DE LYDIAS, <lb/>ET DE MELANDRE.</head>
 <p rend="indent">Considerant les estranges accidents qui arrivent par l'Amour, il me semble que
 l'on est presque contraint d'avoüer, que <q>"si la for <pb xml:id="page_abs_771" n="page_ori_383v
 ERR483v"/> tune a plusieurs rouës pour hausser, &amp; baisser, pour tourner &amp; changer
@@ -14179,6 +14191,7 @@ souloit estre. Ah ! si Astrée l'eust veu en tel estat, que de joye &amp; de con
 eust donné la peine de son fidelle Berger ! cognoissant par un si asseuré tesmoignage, combien
 elle estoit vrayement aimée du plus fidele, &amp; du plus parfait Berger de Lignon !</p>
 <p>Fin de la premiere Partie d'Astrée. </p>
+</div>
 </div>
   </body>
  </text>
