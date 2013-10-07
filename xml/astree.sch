@@ -11,7 +11,7 @@
   <sch:pattern>
     <sch:rule context="tei:hi">
       <sch:report test="contains(@rend, 'indent')">hi est une balise de niveau caractère, l’indentation doit être portée par un bloc</sch:report>
-      <sch:report test="contains(@rend, 'rule')">Une barre n’est pas un style caractère, préférer div/milestone[@type="hr"]</sch:report>
+      <sch:report test="contains(@rend, 'rule')">Une barre n’est pas un style caractère, préférer milestone[@unit="hr"]</sch:report>
     </sch:rule>
   </sch:pattern>
   <sch:pattern>
