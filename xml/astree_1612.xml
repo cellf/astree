@@ -2,58 +2,58 @@
 <?xml-stylesheet type="text/xsl" href="../teipub/tei2html.xsl"?>
 <?xml-model href="../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="astree.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="astree_1612" xml:lang="français" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
  <fileDesc>
  <titleStmt><title>L'Astrée, première partie, édition de 1612</title>
- <author>Honoré d'Urfé</author>
- <respStmt>
- <resp>numérisation par </resp>
- <name>l' équipe Astrée</name>
- </respStmt>
+ <author key="Urfé, Honoré (d') (1567-1625)">Honoré d'Urfé</author>
  </titleStmt>
  <editionStmt>
  <edition>
 <date>1612</date>
 </edition>
+ <respStmt>
+ <resp>numérisation par </resp>
+ <name>l' équipe Astrée</name>
+ </respStmt>
  </editionStmt>
  <publicationStmt>
+ <address><addrLine>
+ Delphine Denis, Université Paris 4-Sorbonne, 1, rue V. Cousin, Paris, 75005, FRANCE
+ </addrLine></address>
+ <idno></idno>
+ <availability status="restricted">
+ <licence target="Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France"></licence>
+ </availability>
+ <date when="2013"/>
+ <publisher>Dir. Delphine Denis et Alexandre Gefen</publisher>
  <distributor>ACI Astrée (Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France)</distributor>
- <address>
- <addrLine>Delphine Denis, Université Paris 4-Sorbonne, 1, rue V. Cousin, Paris, 75005, FRANCE</addrLine>
- </address>
  </publicationStmt>
- <notesStmt>
- <note>
-<p>Edition de 1612</p>
-<p>Le texte de cette édition (Paris, Toussaint du Bray, in-8°) a été établi sur l’exemplaire conservé à la BnF, département Littérature et art, sous la cote [8° Y2. 8801. Il est consultable en ligne :
-<ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1191689">http://gallica.bnf.fr/ark:/12148/bpt6k1191689</ref></p><p>Nous avons signalé les éventuelles erreurs de foliotation.</p>
-</note>
- </notesStmt>
  <sourceDesc>
  <bibl>
-<editor>Dir. Delphine Denis et Alexandre Gefen</editor>
-<title type="sub">L'ASTREE DE MESSIRE Honoré d'Urfé Premiere partie édition 1612</title>
+<title>L'ASTREE DE MESSIRE Honoré d'Urfé Premiere partie édition 1612</title>
 <author>D'Urfé, Honoré</author>
  <date>1612</date>
 </bibl>
+ <p>Le texte de cette édition (Paris, Toussaint du Bray, in-8°) a été établi sur l’exemplaire conservé à la BnF, département Littérature et art, sous la cote [8° Y2. 8801. Il est consultable en ligne :
+ <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1191689">http://gallica.bnf.fr/ark:/12148/bpt6k1191689</ref> <lb/>Nous avons signalé les éventuelles erreurs de foliotation.</p>
  </sourceDesc>
  </fileDesc>
- <encodingDesc>
- <samplingDecl>
- <p>Graphie mise aux normes modernes, orthographe conservée</p>
- </samplingDecl>
- </encodingDesc>
  <profileDesc>
  <creation>
-<date>1612</date>
+<date when="1612">1612</date>
 </creation>
  <langUsage>
  <language ident="FR">Français.</language>
  </langUsage>
  </profileDesc>
+<encodingDesc>
+<samplingDecl>
+<p>Graphie mise aux normes modernes, orthographe conservée</p>
+</samplingDecl>
+</encodingDesc>
 <revisionDesc>
-   <change><date>25/06/2007</date>
+   <change when="2007" who="Gefen, Alexandre"><date>25/06/2007</date>
    <name>Alexandre Gefen éd.</name>
      <p>Diverses corrections pour conformité TEI</p></change>
 </revisionDesc>
@@ -98,7 +98,7 @@ que les mesmes Dieux avoient inventées ou produittes pour la conservation de l'
 <pb xml:id="page_abs_5" n="page_ori_aiiijv"/>
 contentements &amp; de gloires, que par vostre bonté vous obligez tous les peuples qui sont à vous, de vous benir, aimer, &amp; servir. Ce sont (SIRE) les souhaits que je fais pour V.M. attendant que par l'honneur de vos commandemens je vous puisse rendre quelque meilleur service, au prix de mon sang &amp; de ma vie, ainsi que la nature &amp; la volonté m'y obligent, &amp; le tiltre qu'en toute humilité je prends,<lb/></p>
 <p><lb/><hi rend="italic">&#160;SIRE,</hi><lb/>
-<lb/><hi rend="droite">De tres-humble, tres-<lb/>
+<lb/><hi rend="right">De tres-humble, tres-<lb/>
 affectionné, &amp; tres-fidelle <lb/>
 sujet &amp; serviteur de V. M.<lb/>
 HONORE D'URFE.</hi><lb/></p>
@@ -123,7 +123,7 @@ d'Isoure, ou l'onde de Lignon. Nous devons cela au lieu de nostre naissance &amp
 bien paroistre qu'il change &amp; le langage &amp; les conceptions, quand il dit,</hi></p>
 <lb/>
 <lb/>
-<quote>
+<quote type="poem">
 <lg>
 <l>&#160;&#160;Queste selve hoggi raggionar d'Amore</l>
 <l rend="indent">Sudranno in nova guisa, è ben parrassi</l>
@@ -197,7 +197,7 @@ ceste feinte te donnoit tant de peine qu'elle te cousteroit la vie : mais encor
 <pb xml:id="page_abs_32" n="page_ori_10"/>
 affection l'obligeoit envers vous) luy pouvoit permettre, je m'en remets à vous-mesme, si vous voulez vous en ressouvenir : tant y a que je ne croy point qu'il vous ait jamais desobeye, que pour ce seul sujet ; &amp; à la verité ce luy estoit une contrainte si grande, que toutes les fois qu'il revenoit du lieu, où il estoit contraint de feindre, il falloit qu'il se mit sur un lict, comme revenant de faire un tres-grand effort : &amp; lors il s'arresta pour quelque temps, &amp; puis il reprit ainsi. Or sus Astrée, mon frere est mort : s'en est fait, quoy que vous en croyez, ou mécroyez, ne luy peut r'apporter bien ny mal, de sorte que vous ne devez plus penser que je vous en parle en sa consideration : mais pour la seule verité, toutefois ayez-en telle croyance qu'il vous plaira, si vous jureray-je qu'il n'y a point deux jours que je le trouvay gravant des vers sur l'escorce de ces arbres, qui sont par delà la grande prairie, à main gauche du bié, &amp; m'asseure que si vous y daignez tourner les yeux vous remarquerez que c'est luy qui les y a couppez : car vous recognoissez trop bien ses caracteres, si ce n'est qu'oublieuse de luy, &amp; de ses services passez, vous ayez de mesme perdu la memoire de tout ce qui le touche : mais je m'asseure, que les Dieux ne le permettront pour sa satisfaction, &amp; pour vostre punition : les vers sont tels.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>MADRIGAL.</title><lb/></p>
+<label><hi rend="rule"></hi>MADRIGAL.</label>
 <lg rend="italic">
 <l rend="italic indent">Je pourray bien dessus moy-mesme</l>
 <l>Quoy que mon amour soit extresme,</l>
@@ -214,8 +214,8 @@ affection l'obligeoit envers vous) luy pouvoit permettre, je m'en remets à vous
 </quote>
 <p rend="indent">Il peut y avoir sept ou huit jours, qu'ayant esté contraint de m'en aller, pour quelque temps sur les rives de Loire, pour response il m'escrivit une lettre que je veux que vous voyez, &amp; si en la lisant vous ne cognoissez son innocence, je veux croire qu'avec vostre bonne volonté vous avez perdu pour luy toute espece de jugement ; Et lors la prenant en sa poche, la luy leut : Elle estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>RESPONCE DE CELADON<lb/>
-A LYCIDAS.</title><lb/></p>
+<label><hi rend="rule"></hi>RESPONCE DE CELADON<lb/>
+A LYCIDAS.</label>
 <p rend="italic indent">Ne t'enquiers plus de ce que je fais, mais sçache que je continuë tousjours en ma peine ordinaire. Aymer, &amp; ne l'oser faire paroistre, n'aymer point, &amp; jurer le contraire, cher frere, c'est tout l'exercice ou plustost le supplice de ton Celadon. On dit que deux contraires ne peuvent en mesme temps estre en mesme lieu,
 <pb xml:id="page_abs_34" n="page_ori_11"/>
 toutesfois la vraye &amp; la feinte amitié, sont d'ordinaire en mes actions ; mais ne t'en estonne point, car je suis contraint à l'un par la perfection, &amp; à l'autre par le commandement de mon Astre. Que si ceste vie te semble estrange, ressouviens-toy, que les miracles sont les œuvres ordinaires des Dieux, &amp; que veux-tu que ma Déesse cause en moy que des miracles ?</p>
@@ -228,8 +228,8 @@ Bergere Amynthe, luy revenoient en la memoire, elle le condamnoit comme coulpabl
 <pb xml:id="page_abs_37" n="page_ori_12v"/>
 peres les empeschoit de se pouvoir parler : car feignant de se jetter par jeu ce chappeau, ils pouvoient aisément recevoir &amp; donner leurs lettres : toute tremblante elle sortit celle-cy hors de sa petite cachette, &amp; toute hors de soy apres l'avoir despliée elle y jetta la veuë pour la lire : mais elle avoit tellement esgaré les puissances de son ame, qu'elle fut contrainte de se frotter plusieurs fois les yeux avant que de le pouvoir faire ; en fin elle leut tels mots.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE CELADON<lb/>
-A LA BERGERE ASTREE</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE CELADON<lb/>
+A LA BERGERE ASTREE</label>
 <p><hi rend="italic">&#160;Mon Astre, si la dissimulation à quoy vous me contraignez, est pour me faire mourir de peine, vous le pouvez plus aisément d'une seule parole : si c'est pour punir mon outrecuidance, vous estes juge trop doux, de m'ordonner un moindre supplice que la mort. Que si c'est pour esprouver quelle puissance vous avez sur moy, pourquoy n'en recherchez vous un tesmoignage plus prompt que celui-ci, de qui la longueur vous doit estre ennuyeuse ? car je ne sçaurois penser que ce soit pour celer nostre dessein, comme vous dites, puis que ne pouvant vivre en telle contrainte, ma mort sans doute en donnera assez prompte, &amp; déplorable cognoissance. Jugez donc, mon bel Astre, que c'est assez enduré, &amp; qu'il est desor
 <pb xml:id="page_abs_38" n="page_ori_13"/>
 mais temps que vous me permettiez de faire le personnage de Celadon, ayant si longuement, &amp; avec tant de peine, representé celuy de la personne du monde, qui luy est la plus contraire.</hi><lb/></p>
@@ -243,8 +243,8 @@ d'années luy devoit donner assez d'asseurance de sa fidelité.</p>
 Berger couché de son long sur l'herbe, &amp; deux Bergeres aupres de luy. L'une luy tenant la teste en son giron, &amp; l'autre joüant d'une harpe, cependant qu'il alloit souspirant tels vers, les yeux tendus contre le Ciel, les mains
 jointes sur son estomach, &amp; le visage tout couvert de larmes.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>STANCES<lb/>
-SUR LA MORT DE CLEON.</title><lb/></p>
+<label><hi rend="rule"></hi>STANCES<lb/>
+SUR LA MORT DE CLEON.</label>
 <lg rend="italic">
 <l>La beauté que la mort en cendre a fait resoudre</l>
 <l rend="indent">La dépoüillant si tost de son humanité,</l>
@@ -297,7 +297,7 @@ quelle est la perfection de mon amitié, &amp; apprens quelquesfois, apprens à 
 <pb xml:id="page_abs_43" n="page_ori_15v"/>
 cruelle, la voulez-vous faire remourir par l'oubly qu'une nouvelle amour causeroit en mon ame ? Non, non, Bergere : Vos reproches n'auront jamais tant de force en moy, que de me faire consentir à un si mauvais conseil ; d'autant que ce que vous nommez cruauté, je l'appelle fidelité, &amp; ce que vous croyez digne de punition, je l'estime meriter une extréme loüange. Je vous ay dit, qu'en mon cercueil la memoire de ma Cleon vivra parmy mes os, ce que je vous ay dit, je l'ay mille fois juré aux Dieux immortels, &amp; à ceste belle ame qui est avecques eux ! &amp; croiriez vous qu'ils laissassent impuny Tyrcis, si oublieux de ses serments il devenoit infidele ? Ah ! que je voye plustost le Ciel pleuvoir des foudres sur mon chef, que jamais j'offense ny mon serment ny ma chere Cleon : Elle vouloit repliquer, lors que le Berger qui alloit chantant les interrompit, pour estre desja trop pres d'eux avec tels vers.</p>
 <quote>
-<p><hi rend="rule"></hi><title>CHANSON DE L'INCONSTANT HYLAS.</title><lb/></p>
+<label><hi rend="rule"></hi>CHANSON DE L'INCONSTANT HYLAS.</label>
 <lg rend="italic">
 <l rend="indent">Si l'on me dédaigne, je laisse</l>
 <l>La cruelle avec son dédain,</l>
@@ -365,7 +365,7 @@ esté blessé d'une nouvelle beauté, vous aviez receu une playe incurable, je n
 <pb xml:id="page_abs_49" n="page_ori_18v"/>
 elle en souspirant, que je te responde là dessus, sinon qu'il y a long temps que je vay pleurant ce mal-heur, mais beaucoup plus en ma consideration qu'en la tienne. Je n'en doute point, dit Hylas, mais puis que vous estes de ceste humeur, &amp; que je puis plus sur moy, que vous ne pouvez sur vous, touchez là Bergere, dit-il, luy tendant la main, ou donnez moy congé, ou recevez le de moy, &amp; croyez qu'aussi bien, si vous ne le faites, je ne laisseray pas de me retirer, ayant trop de honte de servir une si pauvre Maistresse. Elle luy respondit assez froidement ; ny toy, ny moy, n'y ferons pas grande perte, pour le moins je t'asseure bien que celle là ne me fera jamais oublier le mauvais traittement que je reçois de ce Berger. Si vous aviez, luy respondit-il, autant de cognoissance de ce que vous perdez, en me perdant, que vous monstrez peu de raison en la poursuitte que vous faites, vous me plaindriez plus que vous ne souhaittez l'affection de Tyrcis : mais le regret que vous aurez de moy sera bien petit, s'il n'égale celuy que j'ay pour vous, &amp; lors il chanta tels vers en s'en allant.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET.</title><lb/></p>
+<label><hi rend="rule"></hi>SONNET.</label>
 <lg>
 <l rend="indent">Puis qu'il faut arracher la profonde racine,</l>
 <l>Qu'Amour en vous voyant me planta dans le cœur,</l>
@@ -469,8 +469,8 @@ plus forte affection : si vous voulez donc que nous continuons de vivre, comme 
 divertir du serment que j'en ay fait. Je serois bien ayse (repliqua Amarillis) que vous eussiez pris quelqu'autre pour butte de telles importunitez. Vous nommerez (luy dit le Berger) mes affections comme il vous plaira, cela ne peut toutefois me faire changer de dessein. Ne trouvez donc point mauvais (repliqua Amarillis) si je suis aussi ferme en mon opiniastreté, que vous en vostre importunité. Le Berger voulut repliquer, mais il fut interrompu par plusieurs Bergeres qui survindrent : de sorte qu'Amarillis, pour conclusion, luy dit assez bas. Vous me ferez déplaisir, Alcippe, si vostre déliberation est recogneuë : car je me contente de sçavoir vos folies, &amp; aurois trop de déplaisir que quelqu'autre les entendist. Ainsi finirent les premiers discours de mon pere, &amp; d'Amarillis, qui ne firent que luy augmenter le desir qu'il avoit de la servir. Car <q>"rien ne donne tant d'Amour que l'honnesteté"</q> . Et de fortune le long du chemin, ceste trouppe rencontra Celion, &amp; Bellinde, qui s'estoient arrestez à contempler deux tourterelles qui sembloient se caresser, &amp; se faire l'Amour l'une à l'autre, sans se soucier de voir à l'entour d'elles tant de personnes. Alors Alcippe se ressouvenant du commandement qu'Amarillis venoit de luy faire, ne peut s'empescher de souspirer tels vers : Et parce qu'il avoit la voix assez bonne, chacun se teut pour l'escouter.</p>
 <pb xml:id="page_abs_83" n="page_ori_35v"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET,<lb/>
-Sur les contraintes de l'honneur.</title><lb/></p>
+<label><hi rend="rule"></hi>SONNET,<lb/>
+Sur les contraintes de l'honneur.</label>
 <lg rend="italic">
 <l>Chers oyseaux de Venus, aimables Tourterelles,</l>
 <l rend="indent">Qui redoublez sans fin vos baisers amoureux,</l>
@@ -497,9 +497,8 @@ Sur les contraintes de l'honneur.</title><lb/></p>
 <p rend="indent">Depuis ce temps, Alcippe se laissa tellement transporter à son affection, qu'il n'y avoit plus de borne qu'il n'outre-passast, &amp; elle au contraire se monstroit tousjours plus froide, &amp; plus gelée envers luy : &amp; sur ce sujet, un jour qu'il fut prié de chanter, il dit tels vers.</p>
 <pb xml:id="page_abs_84" n="page_ori_36"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>MADRIGAL,<lb/>
-Sur la froideur d'Amarillis.</title><lb/></p>
-
+<label><hi rend="rule"></hi>MADRIGAL,<lb/>
+Sur la froideur d'Amarillis.</label>
 <lg rend="italic">
 <l>Elle a le cœur de glace, &amp; les yeux tous de flame,</l>
 <l rend="indent">Et moy tout au rebours</l>
@@ -515,16 +514,16 @@ Sur la froideur d'Amarillis.</title><lb/></p>
 <p rend="indent">En ce temps là, comme je vous ay dit, Alcé recherchoit Amarillis, &amp; parce que c'estoit un tres-honneste Berger, &amp; qui estoit tenu pour fort sage, le pere d'Amarillis panchoit plus à la luy bailler, que non point à Alcippe, à cause de son courage turbulant : &amp; au contraire la Bergere aymoit d'avantage mon pere, par ce que son humeur estoit plus approchante de la sienne : ce que recognoissant bien le sage pere, &amp; ne voulant user de violance ny d'authorité absoluë envers elle, il eut opinion que l'éloignement la pourroit divertir de ceste volonté : &amp; ainsi resolut de l'envoyer pour quelque temps vers Artemis, sœur d'Alcé, qui se tenoit sur les rives de la riviere d'Allier. Lors qu'Amarillis sçeut la deliberation de son pere (comme <q>"tousjours on s'efforce contre les choses deffenduës")</q> elle prit resolution de ne partir point sans asseurer Alcippe de sa bonne volonté ; en ce dessein elle luy escrivit tels mots.</p>
 <pb xml:id="page_abs_85" n="page_ori_36v"/>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE D'AMARILLIS<lb/>
-A ALCIPPE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE D'AMARILLIS<lb/>
+A ALCIPPE.</label>
 <p><lb/><hi rend="italic">Vostre opiniastreté a surpassé la mienne ; mais la mienne aussi surmontera celle qui me contraint de vous advertir, que demain je parts, &amp; qu'aujourd'huy si vous me trouvez sur le chemin, où nous nous rencontrasmes avant-hier, &amp; que vostre Amour se puisse contenter de parole, elle aura occasion de l'estre, &amp; à Dieu.</hi><lb/></p>
 </quote>
 <p rend="indent">Il seroit trop long, Madame, de vous dire tout ce qui se passa particulierement entr'eux, outre que l'estat où je me trouve, m'empesche de le pouvoir faire. Ce me sera donc assez en abregeant, de vous dire qu'ils se rencontrerent au mesme endroit, &amp; que ce fut là le premier lieu où mon pere eut asseurance d'estre aimé d'Amarillis, &amp; qu'elle luy conseilla de laisser la vie champestre où il avoit esté nourry, par ce qu'elle la méprisoit comme indigne d'un noble courage, luy promettant qu'il n'y avoit rien d'assez fort pour la divertir de sa resolution. Apres qu'ils furent separez, Alcippe grava tels vers sur un arbre, le long du bois.</p>
 <pb xml:id="page_abs_86" n="page_ori_37"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET<lb/>
+<label><hi rend="rule"></hi>SONNET<lb/>
 D'Alcippe sur la constance de<lb/>
-son amitié.</title><lb/></p>
+son amitié.</label>
 <lg rend="italic">
 <l rend="indent">Amarillis toute pleine de grace,</l>
 <l>Alloit ces bors de ces fleurs despoüillant,</l>
@@ -551,8 +550,8 @@ son amitié.</title><lb/></p>
 <p rend="indent">Lors qu'elle fut partie, &amp; qu'il commença à bon escient de ressentir les déplaisirs de son absence, allant bien souvent sur le mesme lieu où il avoit pris congé de sa Bergere, il y souspira plusieurs fois tels vers.</p>
 <pb xml:id="page_abs_87" n="page_ori_37v"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET,<lb/>
-Sur l'Absence.</title><lb/></p>
+<label><hi rend="rule"></hi>SONNET,<lb/>
+Sur l'Absence.</label>
 <lg rend="italic">
 <l rend="indent">RIVIERE de Lignon dont la course eternelle</l>
 <l>Du gratieux FORETS va le sein arrousant,</l>
@@ -632,23 +631,23 @@ trait qu'il portoit au col, duquel il baisa la boite plusieurs fois : pour la b
 a-t'elle ce que je te demande ? Je croy (respondit-il) que c'est cela mesme, pour le moins je n'y ay trouvé qu'un petit sac plein de papier : &amp; ainsi que je le vous apportois, un peu avant que vous ayez voulu dormir, elle l'a veu, &amp; me l'a osté. O Dieux (dit alors le Berger) aillent toutes choses au pis qu'elles pourront : &amp; se tournant de l'autre costé, ne voulut luy parler davantage. Cependant Galathée lisoit les lettres de Celadon ; car il estoit fort vray, qu'elle les avoit ostées à Meril, suivant la curiosité ordinaire de ceux qui aiment : mais elle luy avoit fort deffendu de n'en rien dire, parce qu'elle avoit intention de les rendre, sans qu'il sçeust qu'elle les eust veuës. Pour lors Sylvie luy portoit un flambeau devant, &amp; Leonide estoit ailleurs, si bien qu'à ce coup il fallut qu'elle fust du secret. Nous verrons, disoit Sylvie, s'il est vray, que ce Berger soit si grossier comme il se feint, &amp; s'il n'est point amoureux : car je m'asseure que ces papiers en diront quelque chose : &amp; lors elle s'appuya un peu sur la table. Cependant Galathée desnoüoit le cordon, qui serroit si bien, que l'eau n'y avoit guiere fait de mal, toutefois il y avoit quelques papiers moüillez, qu'elle tira dehors le plus doucement qu'elle peut, pour ne les rompre : &amp; les ayant espanchez sur la table, le premier sur qui elle mit la main, fut une telle lettre.</p>
 <pb xml:id="page_abs_109" n="page_ori_48v"/>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE D'ASTREE<lb/>
-A CELADON.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE D'ASTREE<lb/>
+A CELADON.</label>
 <p rend="italic indent">Qu'est-ce que vous entreprenez Celadon ? en quelle confusion vous allez vous mettre ? croyez moy qui vous conseille en amye, laissez ce dessein de me servir, il est trop plein d'incommoditez : quel contentement y esperez vous ? je suis tant insuportable que ce n'est guere moins entreprendre que l'impossible ; il faudra servir, souffrir, &amp; n'avoir des yeux, ny de l'Amour que pour moy : car ne croyez point que je vueille avoir à partir avec quelqu'autre, ny que je reçoive une volonté à moitié mienne : je suis soupçonneuse, je suis jalouse, je suis difficile à gagner, &amp; facile à perdre ; &amp; puis aisée à offenser, &amp; tres-mal aisée à rappaiser ; la moindre doute est en moy une asseurance ; il faut que mes volontés soient des destinées, mes opinions des raisons, &amp; mes commandemens des loix inviolables. Croyez moy, encor un coup ; retirez vous, Berger, de ce dangereux labyrinthe, &amp; fuyez un dessein si ruïneux. Je me recognois mieux que vous, ne vous figurez de pouvoir à la fin changer mon naturel, je rompray plustost que de plier, &amp; ne vous plaignez à l'avenir de moy, si à ceste heure vous ne croyez ce que je vous en dis.</p>
 </quote>
 <pb xml:id="page_abs_110" n="page_ori_49"/>
 <p rend="indent">Ne me tenez jamais pour ce que je suis, dit Galathée, si ce Berger n'est amoureux, car en voicy un commencement qui n'est pas petit. Il n'en faut point douter, dit Silvie, estant si honneste homme. Et comment, repliqua Galathée, avez-vous opinion qu'il faille necessairement aimer pour estre tel ? Ouy, Madame, dit-elle, à ce que j'ay ouy dire : parce que l'Amant ne desire rien davantage, que d'estre aimé : pour estre aimé, il faut qu'il se rende aimable, &amp; ce qui rend aimable est cela mesme qui rend honneste homme. A ce mot Galathée luy donna une lettre qui estoit un peu moüillée pour la seicher au feu, &amp; ce pendant elle en prit une autre qui estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE D'ASTREE<lb/>
-A CELADON.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE D'ASTREE<lb/>
+A CELADON.</label>
 <p rend="italic indent">Vous ne voulez pas croire que je vous ayme, &amp; desirez que je croye que vous m'aimez : si je ne vous aime point, que vous profitera la creance que j'auray de vostre affection ? A faire peut estre, que ceste opinion m'y oblige ? A peine Celadon, ne pourra ceste foible consideration, si vos merites, &amp; les services que j'ay receus de vous ne l'ont peu encores. Or voyez en quel estat sont vos affaires : je ne veux pas seulement que vous sçachiez que je croy que vous
 <pb xml:id="page_abs_111" n="page_ori_49v"/>
 m'aymez ; mais je veux de plus, que vous soyez asseuré que je vous ayme, &amp; entre tant d'autres une chose seule, vous en doit rendre certain ; si je ne vous aimois point, qui me feroit mépriser le contentement de mes parens ? Si vous considerez combien je leur doy, vous cognoistrez en quelque sorte la qualité de mon amitié, puis que non seulement elle contre-pese, mais emporte de tant, un si grand poids : &amp; à Dieu ; ne soyez plus incredule.</p>
 </quote>
 <p rend="indent">En mesme temps Silvie rapporta la lettre, &amp; Galathée luy dit avec beaucoup de déplaisir, qu'il aimoit, &amp; que de plus il estoit infiniment aimé, &amp; luy releut la lettre, qui luy touchoit fort au cœur, voyant qu'elle avoit à forcer une place, où un si fort ennemy estoit desja victorieux : car par ces lettres, elle jugea que l'humeur de ceste Bergere n'estoit pas d'estre à moitié Maistresse, mais avec une tres-absoluë puissance commander à ceux qu'elle daignoit recevoir pour siens ; elle fortifia beaucoup ce jugement, quand elle leut la lettre qui avoit esté seichée : elle estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE D'ASTREE<lb/>
-A CELADON.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE D'ASTREE<lb/>
+A CELADON.</label>
 <p rend="italic indent">Lycidas a dit à ma Phillis que vous estiez aujourd'huy de mauvaise humeur, en suis
 <pb xml:id="page_abs_112" n="page_ori_50"/>
 je cause, ou vous ? Si c'est moy, c'est sans occasion, car ne veux-je pas tousjours vous aimer, &amp; estre aimée de vous ? &amp; ne m'avez vous mille fois juré, que vous ne desiriez que cela pour estre content ? Si c'est vous, vous me faites tort, de disposer sans que je le sçache, de ce qui est à moy : car par la donation que vous m'avez faite, &amp; que j'ay receuë, &amp; vous &amp; tout ce qui est de vous m'appartient. Advertissez-m'en donc, &amp; je verray si je vous en doy donner permission, &amp; ce pendant je vous le deffends.</p>
@@ -693,8 +692,8 @@ ne luy eschapast au lieu de response. Ce qui la fit entrer en opinion qu'Amour p
 <pb xml:id="page_abs_128" n="page_ori_58"/>
 luy mit devant les yeux. Pensez quelle fut sa surprise, recognoissant incontinant ce qu'il vouloit dire ; &amp; elle m'a depuis juré qu'elle croyoit au commencement que ce fust de Galathée de qui il vouloit parler. Ce pendant qu'il demeuroit ravy à la considerer, elle demeurera ravie à se considerer en sa simplicité ; en colere contre luy, mais beaucoup plus contre elle-mesme, voyant bien qu'elle luy avoit tiré par force, ceste declaration de la bouche. Toutesfois son courage altier ne permit pas qu'elle fist longue deffense, pour la justice de Ligdamon : car tout à coup elle se leva, &amp; sans parler à luy, partit pleine de despit que quelqu'un l'osast aimer. Orgueilleuse beauté qui ne juge rien digne de soy ! Le fidelle Ligdamon demeura : mais sans ame, &amp; comme une statuë insensible. En fin revenant à soy il se conduisist le mieux qu'il peust en son logis, d'où il ne partit de long-temps, par ce que la cognoissance qu'il eut du peu d'amitié de Silvie, le toucha si vivement qu'il en tomba malade ; de sorte que personne ne luy esperoit plus de vie, quand il se resolut de luy escrire une telle lettre.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE LIGDAMON<lb/>
-A SILVIE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE LIGDAMON<lb/>
+A SILVIE.</label>
 <p rend="italic indent">La perte de ma vie n'eust eu assez de force pour vous découvrir la temerité de vostre serviteur, sans vostre exprés commandement ; si toutefois vous jugez que je devois mourir, &amp;
 <pb xml:id="page_abs_129" n="page_ori_58v"/>
 me taire ; dites aussi que vos yeux devoient avoir moins absolüe puissance sur moy : car si à la premiere semonce, que leur beauté m'en fit, je ne peus me deffendre de leur donner mon ame ; comment en ayant esté si souvent requis, eusse-je refusé la recognoissance de ce don ? que si toutefois j'ay offensé en offrant mon cœur à vostre beauté, je veux bien pour la faute que j'ay commise de presenter à tant de merites chose de si peu de valeur, vous sacrifier encore ma vie, sans regretter la perte de l'un ny de l'autre, que d'autant qu'ils ne vous sont agreables.</p>
@@ -711,15 +710,15 @@ tant à vous faire bonne, que vous estiez belle, &amp; à mettre autant de douce
 je la pourray empescher. Vous dites fort bien Leonide (me dit-elle alors en colere) ce sont icy des offices que j'ay tousjours attendus de vostre amitié. Mon amitié (luy respondis-je) seroit toute telle envers vous contre luy, s'il avoit le tort. En ce point nous demeurasmes quelque temps sans parler ; en fin je luy demanday quelle estoit sa resolution. Telle que vous voudrez, me dit-elle, pourveu que vous ne me fassiez point ce déplaisir de publier les folies de Ligdamon : car encor que je n'en puisse estre taxée, il me fascheroit toutefois que l'on les sçeust. Voyez, m'escriay-je alors, quelle humeur est la vostre Silvie, vous craignez que l'on sçache qu'un homme vous ait aimée : &amp; vous ne craignez pas de faire sçavoir que vous luy ayez donné la mort. Par ce, respondit-elle, qu'on peut soupçonner le premier estre produit avec quelque consentement de mon costé : mais non point le dernier. Laissons cela, repliquay-je, &amp; vous resolvez, que je veux que Ligdamon soit à l'advenir traité d'autre sorte : &amp; puis je continuay qu'elle s'asseurast que je ne permettrois point qu'il mourust, &amp; que je voulois qu'elle luy escrivist en façon, qu'il ne se desesperast plus : que quand il seroit guery, je me contenterois qu'elle en usast comme elle voudroit, pourveu qu'elle luy laissast la vie. J'eus de la peine à obtenir cette grace d'elle, toutesfois je la menaçois à tous coups de le dire : ainsi apres un long debat, &amp; l'avoir fait recommencer deux ou trois fois, en fin elle luy escrivit de ceste sorte.</p>
 <pb xml:id="page_abs_134" n="page_ori_61"/>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>RESPONSE DE SILVIE<lb/>
-A LIGDAMON.</title><lb/></p>
+<label><hi rend="rule"></hi>RESPONSE DE SILVIE<lb/>
+A LIGDAMON.</label>
 <p rend="italic indent">S'il y a quelque chose en vous qui me plaise, c'est moins vostre mort que toute autre : la recognoissance de vostre faute m'a satisfaite, &amp; ne veux point d'autre vengeance de vostre temerité, que la peine que vous en aurez : recognoissez vous à l'advenir, &amp; me recognoissez : à Dieu, &amp; vivez.</p>
 </quote>
 <p rend="indent">Je luy escrivis ces mots au bas de la lettre, à fin qu'il esperast mieux ayant un si bon second.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>BILLET DE LEONIDE A<lb/>
+<label><hi rend="rule"></hi>BILLET DE LEONIDE A<lb/>
 Lygdamon, dans la response<lb/>
-[de] Silvie.</title><lb/></p>
+[de] Silvie.</label>
 <p rend="italic indent">Leonide a mis la plume en la main à ceste Nimphe ; Amour le vouloit, vostre justice l'y convyoit, son devoir le luy commandoit ; mais son opiniastreté avoit une grande deffense. Puis que ceste faveur est la premiere que j'ay obtenuë pour vous, guerissez vous, &amp; esperez.</p>
 </quote>
 <pb xml:id="page_abs_135" n="page_ori_61v"/>
@@ -751,8 +750,8 @@ mission, que je paracheveray ; &amp; lors faisant une grande reverence à Amasi
 <pb xml:id="page_abs_146" n="page_ori_67"/>
 té d'Aristandre, il reste que je poursuive sur son homicide sa cruelle mort : mais si autrefois l'offense m'avoit fait ce commandement, l'Amour à ceste heure m'ordonne, que ma plus belle vengeance soit le sacrifice de ma liberté, sur le mesme autel qui fume encores de celle de mon frere, qui m'estant ravie, lors que je ne respirois contre vous, que sang, &amp; mort, rendra tesmoignage que justement tout œil qui vous void, vous doit son cœur pour tribut, &amp; qu'injustement tout homme vid, qui ne vid en vostre service. Sylvie confuse un peu de ceste rencontre, demeura assez long temps à répondre ; de sorte qu'Amasis prit le papier qu'elle avoit en la main, &amp; ayant dit à Guyemants que Silvie luy feroit response, elle se tira à part avec quelques-unes de nous, &amp; rompant le cachet, leut telles paroles.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE D'ARISTANDRE<lb/>
-A SYLVIE</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE D'ARISTANDRE<lb/>
+A SYLVIE</label>
 <p rend="italic indent">Si mon affection ne vous a peu rendre mon service agreable, ny mon service mon affection ; que pour le moins, ou ceste affection vous rende ma mort pleine de pitié, ou ma mort vous asseure de la fidelité de mon affection : &amp; que comme nul n'ayma jamais tant de perfections, que nul aussi n'aima jamais
 <pb xml:id="page_abs_147" n="page_ori_67v"/>
 avec tant de passion. Le dernier tesmoignage que je vous en rendray, sera le don de ce que j'ay le plus cher apres vous, qui est mon frere : car je sçay bien que je le vous donne, puis que je luy ordonne de vous voir, sçachant assez par experience, qu'il est impossible que cela soit sans qu'il vous ayme. Ne vueillez pas, ma belle meurtriere, qu'il soit heritier de ma fortune, mais ouy bien de celle que j'eusse peu justement meriter envers toute autre que vous. Celuy qui vous escrit, c'est un serviteur, qui pour avoir eu plus d'Amour qu'un cœur n'estoit capable d'en concevoir, voulut mourir plustost que d'en diminuer.</p>
@@ -766,10 +765,10 @@ ction ; c'est pourquoy je declare ouvertement, que si on me deffend ce qui m'a 
 <pb xml:id="page_abs_150" n="page_ori_69"/>
 relever, &amp; accommoder le poil, &amp; voyant Clidaman assez pres d'elle, elle la luy donna pour la porter à sa Maistresse : mais il la garda tout le jour, afin de mettre Guyemantz en peine. Il ne se doutoit point de Ligdamon : &amp; voyez comme bien souvent on blesse l'un pour l'autre, car le poison qui fut preparé pour Guyemantz toucha tant au cœur à Ligdamon, que ne pouvant le dissimuler, afin de n'en donner cognoissance, il se retira en son logis, où apres avoir quelque temps envenimé son mal par ses pensers, il prit la plume &amp; m'escrivit tels vers :</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>MADRIGAL<lb/>
+<label><hi rend="rule"></hi>MADRIGAL<lb/>
 SUR L'ESPEE DE SILVIE<lb/>
 ENTRE LES MAINS<lb/>
-de Clidaman.</title><lb/></p>
+de Clidaman.</label>
 <lg rend="italic">
 <l rend="indent">Amour en trahison,</l>
 <l>D'une meurtriere espée,</l>
@@ -784,15 +783,15 @@ de Clidaman.</title><lb/></p>
 </lg>
 </quote>
 <pb xml:id="page_abs_151" n="page_ori_69v"/>
-<p><hi rend="rule"></hi><title>ET AU BAS DE CES VERS<lb/>
-il adjousta ces paroles.</title><lb/></p>
+<p><hi rend="rule"></hi>ET AU BAS DE CES VERS<lb/>
+il adjousta ces paroles.</p>
 <p><lb/><hi rend="italic">&#160;Il faut advoüer, belle Leonide, que Silvie fait comme le Soleil, qui jette indifferemment ses rayons sur les choses plus viles, aussi bien que sur les plus nobles.</hi><lb/></p>
 <p rend="indent">Luy mesme m'apporta ce papier, &amp; ne peus, quoy que je m'y estudiasse, y rien entendre, ny tirer de luy autre chose, sinon que Silvie luy avoit donné un grand coup d'espée : &amp; me laissant s'en alla le plus perdu homme de la terre. Voyez comme Amour est artificieux blesseur, qui avec de si petites armes fait de si grands coups : Il me fascha de le voir en cét estat, &amp; pour sçavoir s'il y avoit quelque chose de nouveau, j'allay trouver Silvie : mais elle me jura qu'elle ne sçavoit que ce pouvoit estre : en fin ayant demeuré quelque temps à relire ces vers, tout à coup elle porta la main à ses cheveux, &amp; n'y trouvant son poinçon elle se mit à sousrire, &amp; dit que son poinçon estoit perdu, que quelqu'un l'avoit trouvé, &amp; qu'il falloit que Ligdamon le luy eust recogneu. A peine m'avoit-elle dit cela que Clidaman entra dans la sale avec ceste meurtriere espée en la main. Je la suppliay de ne la luy laisser plus. Je verray, dit-elle, sa discretion, puis j'useray du pouvoir que je dois avoir sur luy. Elle
 <pb xml:id="page_abs_152" n="page_ori_70"/>
 ne faillit pas à son dessein : car d'abord elle luy dit ; Voila une espée qui est à moy. Il respondit. Aussi est bien celuy qui la porte. Je la veux avoir, dit-elle. Je voudrois, respondit-il, que vous voulussiez de mesme tout ce qui est à vous. Ne me la voulez-vous pas rendre ? dit la Nimphe. Comment, repliqua-t'il, pourrois-je vouloir quelque chose, puis que je n'ay point de volonté ? Et, luy dit-elle, qu'avez vous fait de celle que vous aviez ? Vous me l'avez ravie, dit-il, &amp; à cette heure elle est changée en la vostre. Puis donc, continua-t'elle, que vostre volonté n'est que la mienne, vous me rendrez ce poinçon, par ce que je le veux. Puis, dit-il, que je veux cela mesme que vous voulez, &amp; que vous voulez avoir ce poinçon, il faut par necessité que je le vueille avoir aussi. Silvie sousrit un peu : mais en fin dit-elle, je veux que vous me le donniez. Et moy aussi, dit-il, je veux que vous me le donniez. Alors la Nimphe estendit la main &amp; le prit. Je ne vous refuseray jamais, dit-il, quoy que vous vueillez m'oster, &amp; fust-ce le cœur encores une fois. Ainsi Silvie receut son espée, &amp; j'escrivis ce billet à Ligdamon.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>BILLET DE LEONIDE<lb/>
-à Ligdamon.</title><lb/></p>
+<label><hi rend="rule"></hi>BILLET DE LEONIDE<lb/>
+à Ligdamon.</label>
 <p rend="italic indent">Le bien, que sans le sçavoir on avoit fait à vostre rival, le sçachant luy a esté ravy : jugez en quel terme sont ses affaires, puis que
 <pb xml:id="page_abs_153" n="page_ori_70v"/>
 les faveurs qu'il a procedent d'ignorance : &amp; les défaveurs de deliberation.</p>
@@ -810,8 +809,8 @@ l'eussent pas fait perdre : car lors que je sçeus que Clidaman &amp; Guyemantz
 <p rend="indent">Un jour qu'il la rencontra qu'elle s'alloit promener seule avec moy, parce qu'il a la voix fort agreable, &amp; que je le priay de chanter, il dit tels vers.</p>
 <pb xml:id="page_abs_158" n="page_ori_73"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>CHANSON,<lb/>
-SUR UN DESIR.</title><lb/></p>
+<label><hi rend="rule"></hi>CHANSON,<lb/>
+SUR UN DESIR.</label>
 <lg rend="italic">
 <l rend="indent">Quel est ce mal qui me travaille,</l>
 <l>Et ne veut me donner loisir,</l>
@@ -856,7 +855,7 @@ celle-cy est bien plus grande, que c'est de vostre glace que procede ma chaleur,
 <pb xml:id="page_abs_163" n="page_ori_75v"/>
 Nimphe, &amp; des patiences de Ligdamon, &amp; plus il m'en revient en la memoire. Quand Clidamant s'en fut allé, comme je vous ay dit, Amasis voulut luy envoyer apres, la plus-part des jeunes Chevaliers de ceste contrée, sous la charge de Lindamor, afin qu'il fust tenu de Meroüée pour tel qu'il estoit. Entre autre Ligdamon comme tres-gentil Chevalier, n'y fut point oublié : mais ceste cruelle ne voulut jamais luy dire adieu, feignant de se trouver mal : luy toutefois qui ne s'en vouloit point aller sans qu'elle le sçeust en quelque sorte, m'escrivit tels vers.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SUR UN DEPART.</title><lb/></p>
+<label><hi rend="rule"></hi>SUR UN DEPART.</label>
 <lg rend="italic">
 <l rend="indent">Amour pourquoy, puis que tu veux</l>
 <l>Que je brusle de tant de feux,</l>
@@ -873,7 +872,7 @@ Nimphe, &amp; des patiences de Ligdamon, &amp; plus il m'en revient en la memoir
 <pb xml:id="page_abs_164" n="page_ori_76"/>
 cause de la continuation de ses folies, &amp; qu'il avoit plus à se plaindre de moy, que d'elle : Pour la fin elle luy escrivit.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>RESPONSE DE SILVIE.</title><lb/></p>
+<label><hi rend="rule"></hi>RESPONSE DE SILVIE.</label>
 <lg rend="italic">
 <l rend="indent">Le Phœnix de la cendre sort,</l>
 <l>Parce qu'en la flame il est mort.</l>
@@ -886,7 +885,7 @@ cause de la continuation de ses folies, &amp; qu'il avoit plus à se plaindre de
 <p rend="indent">Vous pouvez penser avec quel contentement il partit. Il fut fort à propos pour luy d'avoir accoustumé de longue main semblables coups, &amp; qu'il se ressouvint, que <q>"les deffaveurs qui partent de celles que l'on sert, doivent le plus souvent tenir lieu de faveurs".</q> Et me souvient que sur ce discours, il se disoit le plus heureux Amant du monde : puis que les ordinaires deffaveurs qu'il recevoit de Silvie, ne pouvoient le mettre en doute, qu'elle n'eust beaucoup de memoire de luy, &amp; qu'elle ne le recogneust pour son serviteur, &amp; que puis que elle ne traittoit point de ceste sorte avec les autres, qui ne luy estoient point particulierement affectionnez, il falloit croire que ceste monnoye estoit celle, dont elle payoit ceux qui estoient à elle, &amp; que telle qu'elle estoit il la falloit cherir, puis qu'elle avoit ceste marque : &amp; sur ce sujet il m'envoya ces vers avant que partir.</p>
 <pb xml:id="page_abs_165" n="page_ori_76v"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET.</title><lb/></p>
+<label><hi rend="rule"></hi>SONNET.</label>
 <lg rend="italic">
 <l>Elle le veut ainsi ceste beauté supréme,</l>
 <l rend="indent">Que ce soit l'impossible, &amp; non ce que je puis,</l>
@@ -991,8 +990,8 @@ impression d'Amour : mais cest esloignement y profita aussi peu que tous les aut
 rent qu'il avoit succedé à l'affection que son frere me portoit : cela fut cause qu'Alcippe apres l'avoir tenu trois ans hors de ceste contrée, le r'appella avec opinion qu'un si long terme auroit aisément effacé la legere impression qu'Amour avoit peu faire en une ame si jeune ; &amp; que devenu plus sage, il distrairoit mesme Lycidas de mon affection : mais son retour ne me fut qu'une extréme asseurance de sa fidelité : car la froideur des Alpes qu'il avoit passées par deux fois, ne peut en rien diminuer le feu de son Amour, ny les admirables beautez de ces Romaines le divertir tant soit peu de ce qu'il m'avoit promis. O Dieux ! avec quel contentement me vint-il retrouver ! il me supplia par son frere, que je luy donnasse commodité de me parler : je croy avoir encore sa lettre ; Helas ! j'ay plus cherement conservé ce qui venoit de luy, que luy-mesme : &amp; lors elle tira de sa poche un petit sac, semblable à celuy que Celadon portoit, où à son imitation elle conservoit curieusement les lettres qu'elle recevoit de luy, &amp; tirant la premiere (car elles estoient toutes d'ordre) apres s'estre essuyé les yeux, elle leut tels mots.</p>
 <pb xml:id="page_abs_202" n="page_ori_95"/>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE CELADON<lb/>
-à la Bergere Astrée.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE CELADON<lb/>
+à la Bergere Astrée.</label>
 <p rend="italic indent">Belle Astrée, mon exil a esté vaincu de ma patience ; fasse le Ciel qu'il l'ait aussi esté de vostre amitié : je suis party avec tant de regret, &amp; revenu avec tant de contentement, que n'estant mort, ny en allant ny en revenant, je tesmoigneray tousjours qu'on ne peut mourir de trop de plaisir, ny de trop de déplaisir. Permettez-moy donc que je vous voye, à fin que je puisse raconter ma fortune à celle qui est ma seule fortune.</p>
 </quote>
 <p rend="indent">Belle Diane, il est impossible que je me ressouvienne des discours, que nous eusmes alors, sans me reblesser ; de sorte que la moindre playe m'en est aussi douloureuse que la mort. Pendant l'absence de Celadon Artemis ma tante, &amp; mere de Phillis, vint visiter ses parens, &amp; mena avec elle ceste belle Bergere, dit-elle, monstrant Phillis, &amp; par ce que nostre façon de vivre luy sembla plus agreable que celle des Bergers d'Allier, elle resolut de demeurer avec nous, qui ne me fut pas peu de contentement : car par ce moyen nous vinsmes à nous pratiquer, &amp; quoy que l'amitié ne fust pas si estroitte qu'elle a esté depuis, toutefois son humeur me plaisoit de sorte, que je passois assez agreable
@@ -1002,7 +1001,7 @@ ment plusieurs heures fascheuses avec elle ; &amp; lors que Celadon fut de retou
 <pb xml:id="page_abs_204" n="page_ori_96"/>
 moy, ce fut à elle qu'il s'adressa premierement, mais avec tant de contrainte, que je ne pouvois quelquefois m'empescher d'en rire : &amp; d'autant que Phillis croyoit que ce fust à bon escient, &amp; qu'elle traittoit envers luy, comme on a de coustume d'user envers ceux qui commencent une recherche : je me souviens que s'en voyant assez rudement traitté, il chantoit fort souvent ceste chanson, qu'il avoit faite sur ce sujet.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>CHANSON.</title><lb/></p>
+<label><hi rend="rule"></hi>CHANSON.</label>
 <lg rend="italic">
 <l>Dessus les bords d'une fontaine,</l>
 <l>D'humide mousse revestus,</l>
@@ -1063,8 +1062,9 @@ avec le plus d'Amour, &amp; le moins de paroles qu'il pourroit : Belle Bergere,
 <pb xml:id="page_abs_208" n="page_ori_98"/>
 coup plus de faire croire à chacun qu'ils ont plusieurs bonnes fortunes, que presque de les avoir vrayement, ayant opinion que la gloire d'un Berger s'augmente par la diminution de nostre honneur"</q> : &amp; à fin que vous sçachiez que je connois bien l'humeur de Phillis, je prends la charge de mettre Lycidas en ses bonnes graces, pourveu qu'il continuë, &amp; qu'il ait un peu de patience : Mais il faut advoüer que quand j'en parlay la premiere fois à ceste Bergere, elle me renvoya si loin, que je ne sçavois presque qu'en esperer, si bien que je me resolus de la gagner avec le temps : mais Lycidas qui n'avoit point de patience, fit dessein plusieurs fois de ne l'aimer plus, &amp; en ce temps il alloit chantant d'ordinaire tels vers.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>STANCES,<lb/>
-Sur une resolution de ne plus aimer.</title><lb/></p>
+<hi rend="rule"></hi>
+<label>STANCES,<lb/>
+Sur une resolution de ne plus aimer.</label>
 <lg rend="italic">
 <l>Quand je vy ces beaux yeux nos superbes vainqueurs.</l>
 <l>Soudain je m'y sousmis comme aux Roys de nos cœurs,</l>
@@ -1094,9 +1094,9 @@ Sur une resolution de ne plus aimer.</title><lb/></p>
 <p rend="indent">Je croy que Lycidas n'eust pas si promptement mis fin à la cruauté dont Phillis refusoit son affection, si de fortune un jour, qu'elle &amp; moy, selon nostre coustume, nous allions promener le long de Lignon, nous n'eussions rencontré ce Berger dans une Isle de la riviere, en lieu fort escarté, &amp; où il n'y avoit pas apparance de fainte. Nous le vismes d'un des costez de la riviere, qui estoit bien assez large &amp; profonde pour nous empescher d'aller où il estoit, mais non pas d'ouyr les vers qu'il alloit plaignant, en traçant, à ce qu'il sembloit, quelques chiffres sur le sable avec le bout de sa houlette, que nous ne pouvions reconnoistre, pour la distance qu'il y avoit de luy à nous : mais les vers estoient tels.</p>
 <pb xml:id="page_abs_210" n="page_ori_99"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>MADRIGAL.<lb/>
+<label><hi rend="rule"></hi>MADRIGAL.<lb/>
 QU'IL NE DOIT POINT<lb/>
-esperer d'estre aimé.</title><lb/></p>
+esperer d'estre aimé.</label>
 <lg rend="italic">
 <l>Pensons nous en l'aimant,</l>
 <l>Que nostre Amour fidelle,</l>
@@ -1121,8 +1121,8 @@ ma recherche, je le tiens pour fort peu passionné : Et quoy ? estoit il point
 <pb xml:id="page_abs_213" n="page_ori_100v"/>
 avec moy, luy donna une lettre que son frere luy escrivoit par mon conseil.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE LYCIDAS<lb/>
-A PHILLIS.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE LYCIDAS<lb/>
+A PHILLIS.</label>
 <p rend="italic indent">Si je ne vous ay tousjours aimée, que jamais ne sois-je aimé de personne, &amp; si mon affection a jamais changé, que jamais le mal-heur où je suis ne se change. Il est vray que depuis quelque temps, j'ay plus caché d'Amour dans le cœur, que je n'en ay laissé paroistre en mes yeux, ny en mes paroles. Si j'ay failly en cela, accusez-en le respect que je vous porte, qui m'a ordonné d'en user ainsi. Que si vous ne croyez le serment que je vous en fay, tirez-en telle preuve que vous voudrez de moy, &amp; vous connoistrez que vous m'avez mieux acquis, que je ne sçay vous en asseurer par mes veritables, mais trop impuissantes paroles.</p>
 </quote>
 <p rend="indent">En fin, sage Diane, apres plusieurs repliques d'un costé &amp; d'autre, nous fismes en sorte que Lycidas fut receu ; &amp; dés lors nous commençasmes tous quatre une vie qui n'estoit point desagreable, nous favorisant l'un l'autre, avec le plus de discretion qu'il nous estoit possible ; &amp; à fin de mieux couvrir nostre des
@@ -1144,15 +1144,15 @@ n'alluma jamais la moindre estincelle d'Amour dans mon ame, &amp; que je support
 <pb xml:id="page_abs_221" n="page_ori_104v"/>
 premier, &amp; apres avoir longuement cherché, prenant garde à la fouleure que nous avions faite sur l'herbe pour y estre allez si souvent, il se laissa conduire, &amp; le trac le mena droit au pied de l'arbre, où il trouva une lettre que j'y avois mise le soir ; elle estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE D'ASTREE.<lb/>
-A CELADON</title></p>
+<label><hi rend="rule"></hi>LETTRE D'ASTREE.<lb/>
+A CELADON</label>
 <p rend="italic indent">Hier nous allasmes au Temple, où nous fusmes assemblés pour assister aux honneurs qu'on fait à Pan &amp; à Siringue en leur chommant ce jour ; j'eusse dit festoyant si vous y eussiez esté : mais l'amitié que je vous porte est telle, que ny mesmes les choses divines, s'il m'est permis de le dire ainsi, sans vous ne me peuvent plaire. Je me trouve tant incommodée de nos communs importuns, que sans la promesse que j'ay de vous escrire tous les jours, je ne sçay si aujourd'huy vous eussiez eu de mes nouvelles : recevez-les donc pour ce coup de ma promesse.</p>
 </quote>
 <p rend="indent">Quand Alcippe eust leu ceste lettre, il la remit au mesme lieu, &amp; se cachant pour voir la response, son fils ne tarda pas d'y venir, &amp; ne se trouvant point de papier rescrivit sur le dos de ma lettre, &amp; m'a dit depuis que la sienne estoit telle.</p>
 <pb xml:id="page_abs_222" n="page_ori_105"/>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE CELADON<lb/>
-A LA BERGERE ASTREE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE CELADON<lb/>
+A LA BERGERE ASTREE.</label>
 <p rend="italic indent">Vous m'obligez &amp; desobligez en mesme temps ; pardon si ce mot vous offense : Quand vous me dittes que vous m'aimez, puis-je avoir quelque plus grande obligation à tous les Dieux ? Mais l'offense n'est pas petite quand ceste fois vous ne m'escrivez que pour me l'avoir promis : car je dois ce bien à vostre promesse &amp; non pas à vostre amitié. Ressouvenez-vous je vous supplie, que je ne suis pas à vous par ce que je le vous ay promis, mais par ce que veritablement je suis vostre, &amp; que de mesme je ne veux pas des lettres pour les conditions qui sont entre nous : mais pour le seul tesmoignage de vostre bonne volonté, ne les cherissant pas pour estre marchandées : mais pour m'estre envoyées d'une entiere &amp; parfaicte affection.</p>
 </quote>
 <p rend="indent">Alcippe n'avoit peu recognoistre qui estoit la Bergere à qui ceste lettre s'adressoit : car il n'y avoit personne de nommé. Mais voyez que c'est d'un esprit qui veut contrarier, il ne plaignit pas sa peine d'attendre en ce mesme lieu plus de cinq ou six heures, pour voir qui seroit celle qui la viendroit querir : S'asseurant
@@ -1191,8 +1191,8 @@ pouvant souffrir le mespris qu'il faisoit de sa fille, en advertit Alcippe, à f
 <pb xml:id="page_abs_238" n="page_ori_113"/>
 </p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE CONTREFAITE,<lb/>
-d'Astrée à Celadon.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE CONTREFAITE,<lb/>
+d'Astrée à Celadon.</label>
 <p rend="italic indent">Celadon, puis que je suis contrainte par le commandement de mon pere, vous ne trouverez point estrange que je vous prie de finir cest Amour qu'autrefois je vous ay conjuré de rendre eternelle : Alcé m'a donnée à Corebe : &amp; quoy que le party me soit avantageux, si est-ce que je ne laisse de ressentir beaucoup la separation de nostre amitié. Toutefois puis que c'est folie de contrarier à ce qui ne peut arriver autrement, je vous conseille de vous armer de resolution, &amp; d'oublier tellement tout ce qui s'est passé entre-nous, que Celadon n'ait plus de memoire d'Astrée, comme Astrée est contrainte d'ores en là, de perdre pour son devoir tous les souvenirs de Celadon.</p>
 </quote>
 <p rend="indent">Ceste lettre fut portée assez finement à Celadon par un jeune Berger inconneu. Dieux ! quel devint-il d'abord, &amp; quel fut le déplaisir qui luy serra le cœur ! Donc, dit-il, Astrée, il est bien vray qu'il n'y a rien de durable au monde, puis que ceste ferme resolution que vous m'avez si souvent jurée, s'est changée si promptement ! Donc vous voulez que je sois
@@ -1201,9 +1201,9 @@ tesmoin, que quelque perfection qu'une femme puisse avoir, elle ne peut se dépo
 <p rend="indent">Or sur les bords de ceste fontaine, il bastit une petite cabane, où il vesquit retiré plus de six mois, durant lesquels, sa plus ordinaire nourriture estoient les pleurs, &amp; les plaintes : ce fut en ce temps qu'il fit ceste chanson.</p>
 <pb xml:id="page_abs_240" n="page_ori_114"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>CHANSON,<lb/>
+<label><hi rend="rule"></hi>CHANSON,<lb/>
 De Celadon, sur le changement<lb/>
-d'Astrée.</title><lb/></p>
+d'Astrée.</label>
 <lg rend="italic">
 <l rend="indent">Il faudroit bien que la constance,</l>
 <l>M'eust dérobé le sentiment,</l>
@@ -1284,8 +1284,8 @@ l'amitié que Corebe luy portoit ; &amp; par ce que Celadon &amp; moy, pour cac
 <pb xml:id="page_abs_246" n="page_ori_117"/>
 tre, en courant apres quelque loup, qui estoit venu passer aupres de nos troupeaux, je la laissay tomber si mal-heureusement pour moy, que Semire, qui venoit aupres, la releva, &amp; vit qu'elle estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE D'ASTREE<lb/>
-A CELADON.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE D'ASTREE<lb/>
+A CELADON.</label>
 <p rend="italic indent">Mon cher Celadon, j'ay receu vostre lettre, qui m'a esté autant agreable, que je sçay que les miennes le vous sont ; &amp; n'y ay rien trouvé qui ne me satisface, hor-mis les remerciements que vous me faites, qui ne me semblent à propos, ny pour mon amitié, ny pour ce Celadon qui dés long temps s'est desja tout donné à moy : car s'ils ne sont point vostres, ne sçavez-vous pas que ce qui n'a point ce titre ne sçauroit me plaire ? que s'ils sont à vous, pourquoy me donnez vous separé ce qu'en une fois j'ay receu, quand vous vous donnastes tout à moy ? n'en usez donc plus, je vous supplie, si vous ne me voulez faire croire, que vous avez plus de civilité que d'Amour.</p>
 </quote>
 <p rend="indent">Depuis qu'il eut trouvé ceste lettre, il fit dessein de ne me parler plus d'Amour qu'il ne m'eust mise mal avec Celadon, &amp; commença de ceste sorte. En premier lieu il me supplia
@@ -1301,10 +1301,10 @@ semble : mais quant à ses recherches elles m'estoient indifferentes. Or me res
 ce que l'amour y peut graver ; Mauvaise Bergere, repliqua mon Celadon, laissons ces raisons à part, ne me mesurez ny à l'aulne, ny au poids de nul autre ; honorez moy de vos bonnes graces, &amp; vous verrez si je ne les conserveray aussi cheres en mon ame, &amp; aussi longuement que ma vie. Celadon, Celadon, adjousta Aminthe, vous seriez bien puny, si vos faintes devenoient veritables, &amp; si le Ciel pour me venger vous faisoit aimer ceste Aminthe dont vous vous mocquez. Jusques icy il n'y avoit rien qui en quelque sorte ne fust supportable : mais, ô Dieux, pour faindre quelle fut la response qu'il luy fit ! Je prie Amour, luy dit-il, Belle Bergere, si je me mocque, qu'il fasse tomber la mocquerie sur moy, &amp; si j'ay merité d'obtenir quelque grace de luy, qu'il me donne la punition dont vous me menacez. Aminthe ne pouvant juger l'intention de ses discours, ne luy respondit qu'avec un sousris, &amp; avec une façon de la main, la luy passant &amp; repassant devant les yeux, que j'interpretois en mon langage qu'elle ne le refuseroit pas, si elle croyoit ses paroles veritables : mais ce qui me toucha bien vivement, fut que Celadon apres avoir esté quelque temps sans parler, jetta un grand souspir, qu'elle accompagna incontinent d'un autre. Et lors que le Berger se releva pour luy parler, elle se mit la main sur les yeux, &amp; rougit comme presque ayant honte que ce souspir luy fust eschappé : qui fut cause que Celadon se remettant en sa premiere place, peu apres chanta ces vers.</p>
 <pb xml:id="page_abs_252" n="page_ori_120"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET.<lb/>
+<label><hi rend="rule"></hi>SONNET.<lb/>
 QU'IL CONNOIST <lb/>
 QU'ON FAINT DE<lb/>
-l'aymer. </title><lb/></p>
+l'aymer.</label>
 <lg rend="italic">
 <l rend="indent">Elle faint de m'aimer pleine de mignardise,</l>
 <l>Souspirant apres moy, me voyant souspirer,</l>
@@ -1332,9 +1332,9 @@ l'aymer. </title><lb/></p>
 <pb xml:id="page_abs_253" n="page_ori_120v"/>
 sommes seuls ? Ah ! qu'elle se trompoit bien, &amp; que j'y estois bien pour ma part, &amp; aussi cherement qu'autre qui fust de la trouppe. Ce n'est aussi que vous, respondit Celadon, que je crains d'importuner : mais si vous me le commandez je continueray. Je n'oserois, repliqua la Bergere, user de commandement, où mesme la priere est trop indiscrette. Vous userez, reprit le Berger, des termes qu'il vous plaira : mais en fin je ne suis que vostre serviteur : &amp; lors il recommença de ceste sorte.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>MADRIGAL.<lb/>
+<label><hi rend="rule"></hi>MADRIGAL.<lb/>
 SUR LA RESSEMBLANCE DE SA DAME<lb/>
-&amp; de luy</title><lb/></p>
+&amp; de luy</label>
 <lg rend="italic">
 <l rend="indent">Je puis bien dire que nos cœurs,</l>
 <l>Sont tous deux faits de roche dure,</l>
@@ -1385,8 +1385,8 @@ en ce qui quelquefois peut estre changé : mais ce qui me contraint de parler à
 personne que l'on aime"</q> ; mais pour revenir à nostre propos, elle me répondit : Je veux bien que vous m'en disiez ce qu'il vous plaira : mais nous en croirons ce que nous voudrons, ce qu'elle disoit, comme estant un peu picquée de ce qu'elle le vouloit peut estre celer à ses compagnes. Je ne laissay de continuer : Or bien Leonide, vous en croirez ce qu'il vous plaira : car je m'asseure que je ne vous diray rien qu'en vostre ame vous ne l'avouyez pour vray. Vous luy répondites, comme faignant de n'entendre pas ce qu'il vouloit dire : Vous avez raison Agis, de ne point taire par dissimulation ce qui vous doit accompagner aussi longuement que vous vivrez, autrement ne pouvant estre qu'il ne se découvre, vous seriez tenu pour personne double ; nom qui n'est honorable à nulle sorte de gens : mais moins à ceux qui font la profession que vous faites. Ce conseil, donc, répondit-il, &amp; ma passion me contraindront de vous dire, belle Nimphe, que ny l'inégalité de vos merites à moy, ny le peu de bonne volonté, que j'ay reconneu en vous, n'ont peu empescher mon affection, ny ma temerité, qu'elles ne m'ayent eslevé jusques à vous ; que si toutefois <q>"non point la qualité du don : mais de la volonté doit estre recevable"</q>, je puis dire avec asseurance, que l'on ne vous sçauroit offrir un plus grand sacrifice : car ce cœur que je vous donne, je le donne avec toutes les affections, &amp; avec toutes les puissances de mon ame, &amp; tellement tout, que ce qui apres ceste dona<pb xml:id="page_abs_272" n="page_ori_130v ERR103v"/>
 tion, ne se trouvera vostre en moy, je le desavoüeray, &amp; renonceray comme ne m'appartenant pas : la conclusion fut que vous luy respondites ; Agis, je croiray ces paroles quand le temps, &amp; vos services me les auront dittes aussi bien que vostre bouche : Voila la premiere declaration d'amitié que vous eustes de luy, de laquelle il vous rendit par apres assez de preuve, tant par la recherche qu'il fit pour vous épouser, que par les querelles qu'il prit contre plusieurs, desquels il estoit jaloux : ce fut en ce temps que voulant vous friser les cheveux, vous vous bruslastes la jouë, sur quoy il fit tels vers.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>CHANSON,<lb/>
-D'Agis, sur la brusleure de la<lb/>joüe de Leonide.</title><lb/></p>
+<label><hi rend="rule"></hi>CHANSON,<lb/>
+D'Agis, sur la brusleure de la<lb/>joüe de Leonide.</label>
 <lg rend="italic">
 <l rend="indent">Cependant que l'Amour se jouë,</l>
 <l>Dedans l'or de vos beaux cheveux,</l>
@@ -1461,90 +1461,90 @@ DE STELLE, ET CORILAS.<lb/>
 STEL.</title><lb/></p>
 <p rend="italic indent">Voudriez vous estre mon Berger,<lb/>
 A faute d'Amour infidelle ?</p>
-<p><lb/><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">Pour suivre vostre esprit leger,<lb/>
 &#160;Il faut plustost une bonne ayle,<lb/>
 &#160;Que non pas un courage haut,<lb/>
 &#160;Mais vous suivre c'est un deffaut.</hi><lb/></p>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Vous n'avez pas tousjours pensé,<lb/>
 &#160;Que m'aimer fust erreur si grande.</hi><lb/></p>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">Ne parlons plus du temps passé,<lb/>
 &#160;Celuy vit mal, qui ne s'amende,<lb/>
 &#160;Le passé ne peut revenir,<lb/>
 &#160;Ny moy non plus m'en souvenir.</hi><lb/></p>
 <pb xml:id="page_abs_297" n="page_ori_142v"/>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Que c'est de ne sçavoir aymer,<lb/>
 &#160;Et se figurer le contraire ?</hi><lb/></p>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">Pourquoy me voulez vous blasmer,<lb/>
 &#160;De ce que vous ne sçavez faire ?<lb/>
 &#160;Vous aimez par opinion,<lb/>
 &#160;Et non pas par élection.</hi><lb/></p>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Je vous aime &amp; aimeray,<lb/>
 &#160;Quoy que vostre Amour soit changée.</hi><lb/></p>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">Moy, jamais je ne changeray,<lb/>
 &#160;Celle où mon ame est engagée :<lb/>
 &#160;Ne croyez point qu'à chaque jour<lb/>
 &#160;Je change comme vous d'Amour.</hi><lb/></p>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Vous vous estes donques resolu<lb/>
 &#160;De suivre une amitié nouvelle ?</hi><lb/></p>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">Si quelquefois vous m'avez plu,<lb/>
 &#160;Je vous jugeois estre plus belle :<lb/>
 &#160;J'ay depuis veu la verité,<lb/>
 &#160;Vous avez trop peu de beauté.</hi><lb/></p>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Infidelle ! vous destruisez<lb/>
 &#160;Une amitié qui fut si grande ?</hi><lb/></p>
 <pb xml:id="page_abs_298" n="page_ori_143"/>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">De vostre erreur vous m'accusez,<lb/>
 &#160;Le battu paye ainsi l'amende :<lb/>
 &#160;Mais dittes ce qu'il vous plaira,<lb/>
 &#160;Ce qui fut jamais ne sera.</hi><lb/></p>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Mais quoy, vous m'aimez en effet,<lb/>
 &#160;Qui vous fait estre si volage ?</hi><lb/></p>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">Quand on voit l'erreur qu'on a fait,<lb/>
 &#160;Changer d'advis, c'est estre sage :<lb/>
 &#160;Il vaut mieux tard se repentir,<lb/>
 &#160;Que jamais d'erreur ne sortir.</hi><lb/></p>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Le change oste donc d'entre nous,<lb/>
 &#160;Ceste amitié que je desire.</hi><lb/></p>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">Le change m'a fait estre à vous,<lb/>
 &#160;De vous le change me retire :<lb/>
 &#160;Mais si je plains changeant ainsi,<lb/>
 &#160;C'est d'avoir tardé jusqu'icy.</hi><lb/></p>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Et quoy, l'honneur ny le devoir<lb/>
 &#160;Ne sçauroient vaincre une humeur telle ?</hi><lb/></p>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">Qu'est-ce qu'en vous je puis plus voir,<lb/>
 &#160;Qui ceste amitié renouvelle,<lb/>
 <pb xml:id="page_abs_299" n="page_ori_143v"/>
 &#160;Dont vos faintes m'avoient espris,<lb/>
 &#160;Puis qu'en son lieu j'ay le mépris ?</hi><lb/></p>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Je vous verray pour me venger,<lb/>
 &#160;Sans estre aimé, servir quelqu'autre.</hi><lb/></p>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">Bien tost d'un tel mal, le changer<lb/>
 &#160;Me guerira comme du vostre :<lb/>
 &#160;Et si je fais onc autrement<lb/>
 &#160;J'auray perdu l'entendement.</hi><lb/></p>
-<p><title>STEL.</title><lb/>
+<p>STEL.<lb/>
 <hi rend="italic">Et n'aurez vous point de regret<lb/>
 &#160;D'une infidelité si grande ?</hi><lb/></p>
-<p><title>COR.</title><lb/>
+<p>COR.<lb/>
 <hi rend="italic">J'en ay prononcé le decret,<lb/>
 &#160;Celuy me doit qui me demande :<lb/>
 &#160;Mais demandez, &amp; plaignez vous,<lb/>
@@ -1562,8 +1562,8 @@ té. Cela fut cause que Saliam, son frere, tres-honneste, &amp; tres-advisé Ber
 le trouva tant à son gré, qu'apres plusieurs voyages &amp; plusieurs messages, ses affections passerent si avant que Lysis fit parler de mariage, à quoy elle fit toute telle réponse qu'il eust sçeu desirer. En ce temps-là Saliam fut contraint de faire un voyage si lointain qu'il ne sçeut rien de tout ce traitté, outre qu'elle s'estoit desja prise une si grande authorité sur soy-mesme, qu'elle ne luy communiquoit pas beaucoup de ses affaires : d'autre costé, Aminthe la voyant si tost resoluë à ce mariage, plusieurs fois luy demanda si c'estoit à bon escient, &amp; qu'il luy sembloit qu'en chose de si grande importance, il y falloit bien regarder. Ne vous en mettez point en peine, luy dit-elle, je sortiray aisément de cest affaire. Sur cela Lysis, qui poursuivoit fort vivement, prit jour assigné pour faire l'assemblée, &amp; se met aux dépenses accoustumées en semblable occasion, tenant son mariage pour asseuré. Mais <q>"l'humeur coustumiere de plusieurs femmes, de ne faire personne maistre de leur liberté"</q>, l'empescha de continuer son premier dessein, qu'elle taschea de rompre par des demandes, tant déraisonnables, qu'elle croyoit que les parents &amp; amis de Lysis n'y consentiroient jamais ; mais l'Amour qu'il luy portoit, estant plus fort que toutes ces difficultez, elle fut en fin contrainte de le rompre sans autre couverture que de son peu de bonne volonté. Si Lysis fut offensé, vous le pouvez juger, recevant un si grand outrage, toutefois il ne peust chasser cet Amour qu'il ne fust encor vainqueur ; &amp; me souvient <pb xml:id="page_abs_305" n="page_ori_146v"/>
 que sur ce discours il fit ces vers, que depuis, lors que nous fusmes amis, il me donna.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET<lb/>
-Sur un dépit d'Amour.</title><lb/></p>
+<label><hi rend="rule"></hi>SONNET<lb/>
+Sur un dépit d'Amour.</label>
 <lg rend="italic">
 <l rend="indent">Despit foible guerrier, parrain audacieux,</l>
 <l>Qui me conduis au camp sous de si foibles armes,</l>
@@ -1601,8 +1601,8 @@ combat. Avant qu'il commençast de parler, elle le voyant approcher, luy alla au
 je me loüe de vostre humeur : car si vous eussiez plus longuement fait paroistre de m'aimer, j'eusse plus long temps vescu en tromperie ; &amp; pleust à Dieu que la perte de vostre amitié ne m'eust r'apporté plus de regret que de dommage, vous n'auriez pas occasion de dire que je me plains, non plus que je ne vous injurie pas, puis que <q>"l'injure &amp; la verité ne peuvent non plus estre ensemble que vous &amp; la fidelité"</q> : mais il est tres-veritable que vous estes la plus trompeuse &amp; la plus ingratte Bergere de Forests. Il me semble, luy respondit Stelle, peu courtois Berger, que ces discours sieroient mieux en la bouche de quelqu'autre que de vous. Alors Lysis changeant un peu de façon. Jusques icy, dit-il, j'ay presté ma langue au juste dépit de Lysis, à ceste heure je la preste à un qui a bien plus affaire de vous, c'est un peu prudent Berger qui vous aime, &amp; qui n'a rien de cher au prix de vos bonnes graces. Elle croyant qu'il se mocquast, luy respondit : Laissons ce discours, &amp; qu'il vous suffise, Lysis, que vous m'avez aimée, sans à ceste heure vouloir renouveller le souvenir de vos erreurs. A la verité, repliqua soudain le Berger, c'estoient bien erreurs celles qui me poussoient à vous aimer : mais vous n'errez pas moins si vous avez opinion que je parle de moy : C'est du pauvre Corilas, qui s'est tellement laissé surprendre à ce qui se void de vous, que pour chose que je luy aye sceu dire de vostre humeur, il m'a esté impossible de l'en retirer : je luy ay dit ce que j'a<pb xml:id="page_abs_316" n="page_ori_152"/>
 vois esprouvé de vous, le peu d'amitié, &amp; le peu d'asseurance qu'il y a en vostre ame, &amp; en vos paroles : Je luy ay juré que vous le tromperiez, &amp; je sçay que vous m'empescherez d'estre parjure : mais le pauvre miserable est tant aveuglé, qu'il a opinion que où je n'ay pû attaindre ses merites le feront parvenir, &amp; toutefois pour le destromper je luy ay bien dit ; que le plus grand empeschement d'obtenir quelque chose de vous estoit le merite : &amp; afin que vous en croyez ce que je vous en dis, voicy une lettre qu'il vous escrit : j'ay opinion que s'il a failly, vous luy en ferez bien faire la penitence. Et par ce que Stelle ne vouloit lire ma lettre, Lysis l'ouvrant la luy leut tout haut.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE CORILAS<lb/>
-A STELLE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE CORILAS<lb/>
+A STELLE.</label>
 <p rend="italic indent">Il est bien impossible de vous voir sans vous aimer, mais plus encore de vous aimer sans estre extréme en telle affection : que si pour ma deffence il vous plaist de considerer ceste verité, quand ce papier se presentera devant vos yeux, je m'asseure que la grandeur de mon mal obtiendra par pitié autant de pardon envers vous, que l'outrecuidance qui m'esleve à tant de merites, pourroit meriter de juste <pb xml:id="page_abs_317" n="page_ori_152v"/>
  punition. Attendant le jugement que vous en ferez, permettez que je baise mille &amp; mille fois vos belles mains, sans pouvoir par tel nombre égaler celuy des morts, que le refus de ceste supplication me donnera, ny des felicitez qui m'accompagneront, si vous me recevez, comme veritablement je suis, pour vostre tres-affectionné &amp; fidele serviteur.</p>
 </quote>
@@ -1650,9 +1650,9 @@ peine, mais quoy qu'il advienne, si n'en serez vous pas du tout exempte. Elle av
 <pb xml:id="page_abs_335" n="page_ori_162"/>
 </p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>VILANELLE D'AMIDOR,<lb/>
+<label><hi rend="rule"></hi>VILANELLE D'AMIDOR,<lb/>
 REPROCHANT<lb/>
-une legereté.</title><lb/></p>
+une legereté.</label>
 <lg rend="italic">
 <l rend="indent">A la fin celuy l'aura,</l>
 <l>Qui dernier la servira.</l>
@@ -1689,8 +1689,8 @@ une legereté.</title><lb/></p>
 </quote>
 <p rend="indent">J'eusse bien eu assez d'authorité sur moy, pour m'empescher de donner connoissance du déplaisir que ceste chanson me r'apportoit, n'eust esté que chacun me regarda : Et sans Daphnis, je ne sçay quelle je fusse devenuë : mais elle pleine de discretion, sans attendre la fin de ceste Vilanelle, l'interrompit de ceste sorte, s'adressant à moy.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>Madrigal de Daphnis, sur l'amitié<lb/>
-qu'elle porte à Diane.</title><lb/></p>
+<label><hi rend="rule"></hi>Madrigal de Daphnis, sur l'amitié<lb/>
+qu'elle porte à Diane.</label>
 <lg rend="italic">
 <l rend="indent">Puis qu'en naissant, belle Diane,</l>
 <l>Amour des cœurs vous fit l'aimant,</l>
@@ -1708,7 +1708,7 @@ qu'elle porte à Diane.</title><lb/></p>
 <pb xml:id="page_abs_337" n="page_ori_163"/>
 visage, &amp; faire croire que je n'avois point pris garde aux paroles d'Amidor, aussi tost que Daphnis eut finy, je luy répondis ainsi.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>Madrigal, sur le mesme sujet.</title><lb/></p>
+<label><hi rend="rule"></hi>Madrigal, sur le mesme sujet.</label>
 <lg rend="italic">
 <l rend="indent">Pourquoy semble-t'il tant estrange,</l>
 <l>Que fille comme vous estant,</l>
@@ -1721,9 +1721,9 @@ visage, &amp; faire croire que je n'avois point pris garde aux paroles d'Amidor,
 </quote>
 <p rend="indent">Apres nous, chacun selon son rang, chanta quelques vers, &amp; mesme Filandre qui avoit la voix tres-bonne, quand ce vint à son tour, dit ceux-cy d'une fort bonne grace.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>STANCES,<lb/>
+<label><hi rend="rule"></hi>STANCES,<lb/>
 De Filandre, sur la naissance de<lb/>
-son affection.</title><lb/></p>
+son affection.</label>
 <lg rend="italic">
 <l rend="indent">Que ses desirs soient grands &amp; ses attentes vaines,</l>
 <l>Ses Amours pleins de feux, &amp; plus encor de peines,</l>
@@ -1807,8 +1807,8 @@ du mal à une personne en qui mesme je ne pense pas. C'est en quoy, me repliqua-
 <pb xml:id="page_abs_344" n="page_ori_166v"/>
 se baissant lentement, m'apporta la lettre toute moüillée des larmes qui trouvoient passage sous sa paupiere mal close, cette veuë me toucha de pitié : mais beaucoup plus sa lettre qui estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE FILANDRE<lb/>
-A DIANE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE FILANDRE<lb/>
+A DIANE.</label>
 <p rend="italic indent">Ceux qui ont l'honneur de vous voir courent une dangereuse fortune. S'ils vous aiment ils sont outrecuidez, &amp; s'ils ne vous aiment point, ils sont sans jugement ; vos perfections estant telles, qu'avec raison elles ne peuvent, ny estre aimées ny n'estre point aimées : &amp; moy estant contraint de tomber en l'une de ces deux erreurs, j'ay choisi celle qui a plus esté selon mon humeur, &amp; dont aussi bien il m'estoit impossible de me retirer. Ne trouvez donc mauvais, belle Diane, puis qu'on ne vous peut voir sans vous aimer, que vous ayant veuë je vous aime. Que si cette temerité merite chastiement, ressouvenez-vous que j'aime mieux vous aimer en mourant, que vivre sans vous aimer. Mais, que dis-je, j'aime mieux ? il n'est plus en mon choix : car il faut que par ne
 <pb xml:id="page_abs_345" n="page_ori_167"/>
 cessité je sois tant que je vivray, aussi veritablement vostre serviteur, que vous ne sçauriez estre telle que vous estes, sans estre la plus belle Bergere qui vive.</p>
@@ -1843,10 +1843,14 @@ amoureux de moy, avec autant de passion, &amp; plus encores que s'il eust esté 
 <p rend="indent">Douze ou quinze jours s'escoulerent ainsi, avec tant de plaisir pour Filandre qu'il m'a depuis juré n'avoir jamais passé des jours plus heureux, quoy que ses desirs luy donnassent d'extrémes impatiences, &amp; cela fut cause que
 <pb xml:id="page_abs_358" n="page_ori_173v"/>
 augmentant de jour à autre son affection, &amp; se plaisant en ses pensers, bien souvent il se retiroit seul pour les entretenir ; &amp; par ce que le jour il ne vouloit nous esloigner, quelquefois la nuit, quand il pensoit que chacun dormoit, il sortoit de sa chambre, &amp; s'en alloit dans un jardin, où sous quelques arbres il passoit une partie du temps en ses considerations ; &amp; d'autant que plusieurs fois il sortit de ceste sorte, Daphnis s'en prit garde, qui couchoit en mesme chambre, &amp; comme <q>"ordinairement on soupçonne plustost le mal que le bien"</q>, elle eut opinion de luy &amp; d'Amidor, pour la recherche que ce jeune Berger luy faisoit : &amp; pour s'en asseurer, elle veilla de façon, faignant de dormir, que voyant sortir la fainte Callirée du lict, elle la suivit de si pres, qu'elle fut presque aussi tost que ce jeune Berger, dans la basse court, n'ayant mis sur elle qu'une robe à la haste, &amp; le suivant pas à pas à la lueur de la Lune, elle le vid sortir de la maison, par une porte mal fermée, &amp; entrer dans un jardin, qui estoit sous les fenestres de ma chambre, &amp; passant jusques au milieu, le vid asseoir sous quelques arbres, &amp; tendant les yeux contre le Ciel, ouyt qu'il disoit fort haut.<lb/></p>
-<p><lb/><title><hi rend="italic">Ainsi ma Diane surpasse,<lb/>
-En beauté les autres beautez<lb/>
-Comme de nuict la Lune efface,<lb/>
-De clarté les autres clartez.</hi></title><lb/></p>
+<quote type="poem" rend="italic">
+<lg>
+<l>Ainsi ma Diane surpasse,</l>
+<l>En beauté les autres beautez</l>
+<l>Comme de nuict la Lune efface,</l>
+<l>De clarté les autres clartez.</l>
+</lg>
+</quote>
 <p rend="indent">Quoy que Filandre eust dit ces paroles assez
 <pb xml:id="page_abs_359" n="page_ori_174"/>
 haut, si est-ce que Daphnis n'en entre-ouït que quelques mots, pour estre trop esloignée : mais prenant le tour un peu plus long, elle s'approcha de luy sans estre veuë, le plus doucement qu'elle peut, quoy qu'il fust si attentif à son imagination, que quand elle eust esté devant luy, il ne l'eust pas apperceuë, à ce que depuis il m'a juré. A peine s'estoit-elle mise en terre pres de luy, qu'elle l'ouït souspirer fort haut, &amp; puis peu apres d'une voix assez abatuë dire. Et pourquoy ne veut ma fortune que je sois aussi capable de la servir, qu'elle est digne d'estre servie ? &amp; qu'elle ne reçoive aussi bien les affections de ceux qui l'ayment, qu'elle leur donne d'extresmes passions ? Ah, Callirée ! que vostre ruse a esté pernicieuse pour mon repos, &amp; que ma hardiesse est punie d'un tres-juste supplice : Daphnis escoutoit fort attentivement Filandre, &amp; quoy qu'il parlast assez clairement, si ne pouvoit-elle comprendre ce qu'il vouloit dire, abusée de l'opinion qu'il fust Callirée : cela fut cause que luy prestant l'oreille, encores plus curieuse, elle ouït que peu apres rehaussant la voix, il dit. Mais outrecuidé Filandre, qui pourra jamais excuser ta faute, ou quel assez grand chastiment esgalera ton erreur ? tu aimes ceste Bergere, &amp; ne voy tu pas qu'autant que sa beauté te le commande, autant te le deffend son honnesteté ? combien de fois t'en ay-je adverty ? &amp; si tu ne m'as voulu croire, n'accuse de ton mal que ton imprudence. A ce mot sa langue se teut,
@@ -1968,14 +1972,14 @@ la plus heureuse de toutes, ils virent venir du costé du pré deux Bergeres, &a
 <pb xml:id="page_abs_411" n="page_ori_200v"/>
 si triste, qu'il ne sort jamais propos de sa bouche, qui ne tienne de la melancolie de son ame. Et qu'est-ce, repliqua Leonide, qui les arreste en ceste contrée ? Sans mentir, dit-il, belle Nymphe, je n'ay pas encor eu ceste curiosité ; mais si vous voulez je le leur demanderay : car il me semble qu'ils viennent icy. A ce mot ils furent si pres, qu'ils oüyrent que Hylas venoit chantant tels vers.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>VILANELLE DE<lb/>
+<label><hi rend="rule"></hi>VILANELLE DE<lb/>
 HYLAS SUR SON<lb/>
-inconstance.</title><lb/></p>
+inconstance.</label>
 <lg rend="italic">
 <l rend="indent">La belle qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p><lb/><title>I.</title><lb/></p>
+<p>I.</p>
 <lg rend="italic">
 <l rend="indent">J'ayme à changer, c'est ma franchise,</l>
 <l>Et mon humeur m'y va portant :</l>
@@ -1984,7 +1988,7 @@ inconstance.</title><lb/></p>
 <l rend="indent">Tant s'en faut, qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p><lb/><title>II.</title><lb/></p>
+<p>II.</p>
 <lg rend="italic">
 <l rend="indent">Faire aimer une ame barbare.</l>
 <l>C'est signe de grande beauté,</l>
@@ -1995,7 +1999,7 @@ inconstance.</title><lb/></p>
 <l rend="indent">Beaucoup plus d'honneur en aura.
 </l>
 </lg>
-<p><lb/><title>III.</title><lb/></p>
+<p>III.</p>
 <lg rend="italic">
 <l rend="indent">Arrester un fais immobile,</l>
 <l>Qui ne le peut faire aisément ?</l>
@@ -2004,7 +2008,7 @@ inconstance.</title><lb/></p>
 <l rend="indent">C'est pourquoy qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p><lb/><title>IIII.</title><lb/></p>
+<p>IIII.</p>
 <lg rend="italic">
 <l rend="indent">Et pourquoy trouvez-vous estrange</l>
 <l>Que je change pour avoir mieux ?</l>
@@ -2013,7 +2017,7 @@ inconstance.</title><lb/></p>
 <l rend="indent">Mais celle qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p><lb/><title>V.</title><lb/></p>
+<p>V.</p>
 <lg rend="italic">
 <l rend="indent">On dira bien que cette belle,</l>
 <l>Qui rendra mon cœur arresté,</l>
@@ -2022,7 +2026,7 @@ inconstance.</title><lb/></p>
 <l rend="indent">Par ainsi qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p><lb/><title>VI.</title><lb/></p>
+<p>VI.</p>
 <lg rend="italic">
 <l rend="indent">Venez donques cheres Maistresses,</l>
 <pb xml:id="page_abs_413" n="page_ori_201v"/>
@@ -2048,7 +2052,7 @@ fortune : car dés lors que cette fille commença d'ouvrir les yeux, il sembla 
 plus de neuf ans, &amp; quand elle commença à croistre, &amp; qu'elle pût ressentir les traits d'Amour, elle se retira de sorte de luy, qu'il sembloit que cét esloignement estoit capable de la garentir de telles blesseures : Mais Amour plus fin qu'elle, sçeut en telle sorte approcher de son ame les merites, l'affection, &amp; les services de Tircis, qu'en fin elle se trouva au milieu, &amp; tellement entournée de toutes parts, que si de l'une elle évitoit d'estre blessée, la playe qu'elle recevoit de l'autre en estoit plus grande &amp; plus profonde. Si bien qu'elle ne pût recourre à nul meilleur remede qu'à la dissimulation, non pas pour ne recevoir les coups, mais seulement pour empescher que son ennemy ny autre les apperceut. Elle pût bien toutefois user de cette feinte quand elle ne commença que d'avoir la peau égratignée : mais quand la blesseure fut grande, il fallut se rendre, &amp; s'avoüer vaincuë. Ainsi voila Tircis aimé de sa Cleon, le voila qui joüyt de toutes les honnestes douceurs d'une amitié, quoy que du commencement il ne sçeust presque quel estoit son mal, ainsi que ces vers le tesmoignent qu'il fit en ce temps-là.</p>
 <pb xml:id="page_abs_418" n="page_ori_204"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET.</title><lb/></p>
+<label><hi rend="rule"></hi>SONNET.</label>
 <lg rend="italic">
 <l rend="indent">Mon Dieu quel est le mal dont je suis tourmenté ?</l>
 <l>Depuis que je la vis, ceste Cleon si belle,</l>
@@ -2096,8 +2100,8 @@ apres leur avoir fait de plus grandes offres encores, &amp; voyant qu'ils n'y vo
 <pb xml:id="page_abs_432" n="page_ori_211"/>
 avec un souspir qui sembloit luy mépartir l'estomach, je luy ouys proferer telles paroles.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>STANCES,<lb/>
-Sur la mort de Cleon.</title><lb/></p>
+<label><hi rend="rule"></hi>STANCES,<lb/>
+Sur la mort de Cleon.</label>
 <lg rend="italic">
 <l rend="indent">Pourquoy cacher nos pleurs ? il n'est plus temps de faindre,</l>
 <l>Un Amour que sa mort découvre par mon dueil,</l>
@@ -2209,8 +2213,8 @@ d'Astrée.</head>
 <pb xml:id="page_abs_455" n="page_ori_222v"/>
 estoit allé representant tous les discours, &amp; toutes les actions qu'il avoit veuës de Diane le jour auparavant, si bien que ne pouvant attendre la venuë de l'aurore dans le lit, il l'avoit devancée, &amp; avoit desja esté long temps pres de cet hameau, pour voir quand sa nouvelle Maistresse sortiroit, &amp; aussi tost qu'il l'avoit apperceuë s'en estoit venu à elle chantant ces vers.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>STANCES,<lb/>
-Des desirs trop élevez.</title><lb/></p>
+<label><hi rend="rule"></hi>STANCES,<lb/>
+Des desirs trop élevez.</label>
 <lg rend="italic">
 <l rend="indent">Espoirs Ixions en audace</l>
 <l>Du Ciel dédaignant la menace,</l>
@@ -2348,8 +2352,8 @@ va desgorgeant, par ce moyen, par deux voyes, car l'ancien cours a tousjours sui
 <pb xml:id="page_abs_498" n="page_ori_244"/>
 ter celle de la presomption, me semblant qu'il n'y avoit Pastre en toute Camargue, qui ne me deust respecter. Mais quand je fus un peu plus advancé, &amp; que l'Amour commença de se mesler avec ceste presomption, il me sembloit que toutes les Bergeres estoient amoureuses de moy, &amp; qu'il n'y en avoit une seule qui ne receust mon amitié avec obligation. Et ce qui me fortifia en ceste opinion, fut qu'une belle &amp; sage Bergere ma voisine nommée Carlis, me faisoit toutes les honnestes caresses, à quoy le voisinage la pouvoit convier. J'estois si jeune encores, que nulles des incommoditez qu'Amour a de coustume de r'apporter aux Amants par ses transports violents, ne me pouvoient atteindre, de sorte que je n'en ressentois que la douceur, &amp; sur ce sujet je me ressouviens que quelquefois j'allois chantant ces vers.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET,<lb/>
-Sur la douceur d'une amitié.</title><lb/></p>
+<label><hi rend="rule"></hi>SONNET,<lb/>
+Sur la douceur d'une amitié.</label>
 <lg rend="italic">
 <l rend="indent">Quand ma Bergere parle, ou bien quand elle chante,</l>
 <l>Ou que d'un doux clin d'œil elle ébloüit nos yeux</l>
@@ -2380,8 +2384,8 @@ soir ; je le trouvay encor au lit, &amp; par ce qu'il me vit bien agité : Et b
 <pb xml:id="page_abs_504" n="page_ori_247"/>
 courtoisie, &amp; il semble que leur sexe pour sa foiblesse oblige les hommes à les servir &amp; honorer : Et au contraire à la moindre apparence de haine que l'on leur rend, elles croyent fort aysément d'estre hayes, par ce que <q>"les amitiez sont naturelles, &amp; les inimitiez au contraire, &amp; ceux qui vont contre le naturel, il faut que ce soit par un dessein resolu, au lieu que ceux qui le suivent, il semble plutost que ce soit par coustume".</q> Par là Hylas, je veux dire que vous ferez bien plus aisément croire à Carlis que vous la hayssez, à la moindre mauvaise volonté que vous luy monstrerez, que vous ne persuaderez pas à Stilliane que vous l'aimez. Et par ce que vous voyez bien qu'elle a sur le cœur ceste affection de Carlis, croyez moy que ce que vous avez à faire de plus pressé, est de luy donner connoissance que vous n'aimez plus cette Carlis, ce que vous devez faire par quelque action connuë non seulement à Carlis, mais à Stilliane, &amp; à plusieurs autres. Bref, belle Bergere, il me sçeut tourner de tant de costez, qu'en fin j'escrivis à la pauvre Carlis une telle lettre.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE HYLAS<lb/>
-A CARLIS.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE HYLAS<lb/>
+A CARLIS.</label>
 <p rend="italic indent">Je ne vous escris pas à ce coup, Carlis, pour vous dire que je vous ay aimée, car vous ne l'avez que trop creu ; mais bien pour vous
 <pb xml:id="page_abs_505" n="page_ori_247v"/>
 asseurer que je ne vous aime plus : Je sçay asseurément que vous serez estonnée de ceste declaration, puis que vous m'avez tousjours plus aimé presque que je n'ay sceu desirer : mais ce qui me retire de vous, il faut par force advoüer que c'est vostre mal-heur qui ne vous veut continuer plus long temps le plaisir de nostre amitié, ou bien ma bonne fortune, qui ne me veut davantage arrester à si peu de chose. Et à fin que vous ne vous plaignez de moy je vous dis à-dieu, &amp; vous donne congé de prendre party où bon vous semblera, car en moy vous n'y devez plus avoir d'esperance.</p>
@@ -2389,8 +2393,8 @@ asseurer que je ne vous aime plus : Je sçay asseurément que vous serez estonn
 <p rend="indent">De fortune quand elle receut cette lettre, elle estoit en fort bonne compagnie, &amp; mesme Stilliane y estoit, qui des-apreuva de sorte cette action, qu'il n'y en eut point en toute la trouppe qui me blâmast davantage. Ce que Carlis recognoissant : Je vous supplie, leur dit-elle, obligez moy toutes de luy faire la response. Quant à moy, dit Stilliane, j'en seray bien le secretaire, &amp; lors prenant du papier &amp; de l'ancre, toutes les autres ensemble me rescrivirent ainsi, au nom de Carlis.</p>
 <pb xml:id="page_abs_506" n="page_ori_248"/>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>RESPONSE DE CARLIS<lb/>
-A HYLAS.</title><lb/></p>
+<label><hi rend="rule"></hi>RESPONSE DE CARLIS<lb/>
+A HYLAS.</label>
 <p rend="italic indent">Hylas, l'outrecuidance a esté celle qui vous a persuadé d'estre aimé de moy, &amp; la connoissance que j'ay eu de vostre humeur, &amp; ma volonté qui l'a tousjours trouvée fort desagreable, ont esté celles qui m'ont empesché de vous aimer, si bien que toute l'amitié que je vous ay portée, a esté seulement en vostre opinion, &amp; de mesme mon mal-heur, &amp; vostre bonne fortune, &amp; en cela il n'y a rien eu de certain, sinon que veritablement quand vous avez creu d'estre aimé de moy, vous avez esté trompé. Je vous le jure, Hylas, par tous les merites que vous pensez estre, &amp; qui ne sont pas en vous, qui sont en beaucoup plus grand nombre que ceux qui me deffaillent pour estre digne de vous. L'avantage que je pretens en tout cecy, c'est d'estre exempte à l'advenir de vos importunitez, &amp; pour n'estre point entierement ingratte du plaisir que vous me faites en cela, je ne sçay que vous souhaitter de plus avantageux, &amp; pour moy aussi, sinon que le Ciel vous fasse à jamais continuer ceste reso
 <pb xml:id="page_abs_507" n="page_ori_248v"/>
 lution, pour mon contentement, comme il vous donna la volonté de me rechercher, pour m'importuner. Cependant vivez content, &amp; si vous l'estes autant que moy, estant delivrée d'un fardeau si fascheux croyez, Hylas, que ce ne sera peu.</p>
@@ -2401,8 +2405,8 @@ Carlis, n'en fit difficulté, &amp; prenant le temps à propos qu'elle estoit se
 <pb xml:id="page_abs_509" n="page_ori_249v"/>
 nement, &amp; quant à la lettre que vous me presentez, je ne feray point de difficulté de la prendre, ayant de si bonnes deffenses contre ses armes, que je n'en redoute point les coups. A ce mot dépliant ma lettre, elle la leut tout haut ; ce n'estoit en fin qu'une asseurance de mon affection, par le congé que j'avois donné à Carlis à sa consideration, &amp; une tres-humble supplication de me vouloir aimer : Elle sousrit apres l'avoir leuë, &amp; s'adressant à Hermante luy demanda s'il vouloit qu'elle me fist response, &amp; luy ayant respondu qu'il le desiroit passionnément, elle luy dit qu'il eust un peu de patience, &amp; qu'elle l'alloit escrire, elle estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>RESPONSE DE STILLIANE<lb/>
-A HYLAS.</title><lb/></p>
+<label><hi rend="rule"></hi>RESPONSE DE STILLIANE<lb/>
+A HYLAS.</label>
 <p rend="italic indent">Hylas, voyez combien sont mal fondez vos desseins, vous voulez que pour la consideration de Carlis je vous aime, &amp; il n'y a rien qui me convie tant à vous haïr que la memoire que j'ay de Carlis. Vous dittes que vous m'aimez, si quelqu'autre plus veritable que vous me le disoit je le pourrois peut estre croire : car je connois bien que je le merite, mais moy qui ne mens jamais, je vous assure que je ne vous aime point, &amp; pour ce n'en doutez nullement ; aussi seroit-ce avoir bien peu de juge
 <pb xml:id="page_abs_510" n="page_ori_250"/>
 ment d'aymer une humeur si mesprisable. Si vous trouvez ces paroles un peu trop rudes, ressouvenez vous, Hylas, que j'y suis contrainte, afin que vous ne vous persuadiez pas d'estre aymé de moy. Carlis m'est tesmoin de la condition de Hylas, &amp; Hylas le sera de la mienne, si pour le moins il veut quelquesfois dire vray. Si ceste response vous plaist, remerciez-en la priere de Hermante, si elle vous desplaist, ressouvenez vous de n'en accuser que vous mesme.</p>
@@ -2512,7 +2516,7 @@ que vous souliez envers moy, à la naissance de vostre bonne volonté, &amp; lor
 <pb xml:id="page_abs_554" n="page_ori_272v"/>
 vous luy commandiez de celer son affection : ils estoient tels.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET.</title><lb/></p>
+<label><hi rend="rule"></hi>SONNET.</label>
 <lg rend="italic">
 <l rend="indent">Pourquoy si vous m'aimez, craignez vous qu'on le sçache ?</l>
 <l>Est-il rien de plus beau qu'une honneste amitié ?</l>
@@ -2564,8 +2568,8 @@ qui se sçavent mesurer, &amp; que pour preuve de cela, il avoit esté si outrec
 qui survint si promptement, y ayda beaucoup, par ce qu'Amasis l'envoya pour un affaire d'importance sur les rives du Rhin, mais son despart ne put estre si precipité, qu'il ne trouvast occasion de parler à Galathée, pour sçavoir la cause de son changement, &amp; apres l'avoir espiée quelque temps, le matin qu'elle alloit au Temple avec sa mere, il se trouva si pres d'elle, &amp; tellement au milieu de nous, que malaisément pouvoit-il estre apperceu d'Amasis ; Aussi tost qu'elle le vid elle voulut changer de place, mais la retenant par la robbe, il luy dit : Quelle offense est la mienne, ou quel changement est le vostre ? Elle respondit en s'en allant ; Ny offense, ny changement : car je suis tousjours Galathée, &amp; vous estes tousjours Lindamor, qui estes trop bas sujet pour me pouvoir offenser. Si ces paroles le toucherent, ses actions en rendirent tesmoignage : car quoy qu'il fust pres de son départ, si ne pût-il donner ordre à autre affaire, qu'à rechercher en soy mesme en quoy il avoit pû faillir. En fin ne se pouvant trouver coulpable, il luy escrivit une telle lettre.</p>
 <pb xml:id="page_abs_569" n="page_ori_280"/>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE LINDAMOR<lb/>
-A GALATHEE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE LINDAMOR<lb/>
+A GALATHEE.</label>
 <p rend="italic indent">Ce n'est pas pour me plaindre de Madame, que j'ose prendre la plume, mais pour déplorer ce malheur seulement qui me rend si mesprisé de celle qui autrefois ne me souloit pas traitter de ceste sorte : Si suis-je bien ce mesme serviteur, qui vous a tousjours servie avec toute sorte de respect &amp; de sousmission ; Et vous estes ceste mesme Dame, qui la premiere avez esté la mienne. Depuis que vous me receustes pour vostre, je ne suis point devenu moindre, ny vous plus grande ; si cela est, pourquoy ne me jugez-vous digne du mesme traittement ? J'ay demandé conte à mon ame de ses actions, quand il vous plaira je les vous déplieray toutes devant les yeux. Quant à moy, je n'en ay pû accuser une seule, si vous le jugez autrement m'ayant ouy, ce ne sera peu de consolation à ce pauvre condamné, de sçavoir pour le moins le sujet de son supplice.</p>
 </quote>
 <p rend="indent">Ceste lettre luy fut portée, comme de coustume par Fleurial, &amp; si à propos qu'encore qu'elle eust voulu, elle n'eust osé la refuser, à cause que nous estions toutes à l'entour : &amp;
@@ -2587,25 +2591,25 @@ le veut remettre aux loix de la justice, c'est luy oster sa principale authorit�
 ment, vous avez tout le tort du monde de le traitter de ceste façon, pour le moins si vous le vouliez condamner à tant de supplice, ce ne devoit estre sans le convaincre, ou pour le moins le faire rougir de son erreur. Elle demeura quelque temps à me respondre. En fin elle me dit : Et bien, bien, Leonide, le remede sera encor assez à temps quand il reviendra, non pas que je sois resoluë de l'aymer, ny luy permettre de m'aymer, mais ouy bien de luy dire en quoy il a failly, &amp; en cela je vous contenteray, &amp; je l'obligeray de ne me plus importuner, s'il n'est autant effronté que temeraire ? Peut-estre, Madame, luy dis-je, vous trompez vous bien, de croire qu'à son retour il sera assez temps : <q>"si vous sçaviez quelles sont les violences d'Amour, vous ne croiriez pas que les delais fussent semblables à ceux des autres affaires"</q>, pour le moins voyez ceste lettre. Cela, me repliqua-t'elle, ne servira de rien, car aussi bien doit-il estre party, &amp; à ce mot elle me la prit, &amp; vit qu'elle estoit telle.</p>
 <pb xml:id="page_abs_578" n="page_ori_284v"/>
 <quote type="letter">
-<p>
-<hi rend="rule"></hi><title>LETTRE DE LINDAMOR<lb/>
-A GALATHEE.</title><lb/></p>
+<label>
+<hi rend="rule"></hi>LETTRE DE LINDAMOR<lb/>
+A GALATHEE.</label>
 <p rend="italic indent">Autrefois l'Amour, à ceste heure le desespoir de l'Amour, me met ceste plume en la main, avec dessein, si elle ne me r'apporte point de soulagement, de la changer en fer, qui me promet une entiere, quoy que cruelle guerison : Ce papier blanc, que pour response vous m'avez envoyé, est bien un tesmoignage de mon innocence, puis que c'est à dire que vous n'avez rien trouvé pour m'accuser, mais ce m'est bien aussi une asseurance de vostre mespris, car d'où pourroit proceder ce silence, si ce n'estoit de là ? L'un me contente en moy-mesme, l'autre me desespere en vous. S'il vous reste quelque souvenir de mon fidelle service, par pitié je vous demande ou la vie, ou la mort : je parts le plus desesperé, qui jamais ait eu quelque sujet d'esperer.</p>
 </quote>
 <p rend="indent">Ce fut un effet d'Amour, que le changement du courage de Galathée, car je la vis toute attendrir, mais ce ne fut pas aussi petite preuve de son humeur altiere, puis que pour ne m'en donner connoissance, &amp; ne pouvant commander à son visage, qui estoit
 <pb xml:id="page_abs_579" n="page_ori_285"/>
 devenu pasle ; elle se lia de sorte la langue, qu'elle ne dit jamais parole qui la pût accuser d'avoir fléchy, &amp; partit de sa chambre pour aller au jardin sans dire un seul mot sur ceste lettre, car le Soleil commençoit à se baisser, &amp; son mal qui n'estoit qu'un travail d'esprit, se pouvoit mieux soulager hors la maison que dans le lit. Ainsi donc apres s'estre vestuë un peu legerement, elle descendit dans le jardin, &amp; ne voulut que moy avec elle. Par les chemins, je luy demanday s'il ne luy plaisoit pas de faire response, &amp; m'ayant dit que non : Vous permettez bien, luy dis-je, pour le moins, Madame, que je la fasse ? Voy, me dit-elle, &amp; que voudriez vous escrire ? Ce que vous me commanderez, luy dis-je. Mais ce que vous voudrez, me dit-elle, pourveu que vous ne parliez point de moy. Vous verrez, luy respondis-je, ce que j'escriray. Je n'en ay que faire, me dit-elle, je m'en rapporte bien à vous. Avec ce congé, cependant qu'elle se promenoit, j'escrivis dans l'allée mesme, sur des tablettes une response telle qu'il me sembloit plus à propos, mais elle qui ne la vouloit voir, ne peut avoir assez de patience de me la laisser finir, sans la lire, pendant que je l'escrivois.</p>
 <quote type="letter">
-<p><pb xml:id="page_abs_580" n="page_ori_285v"/>
-<hi rend="rule"></hi><title>RESPONSE<lb/>
+<pb xml:id="page_abs_580" n="page_ori_285v"/>
+<label><hi rend="rule"></hi>RESPONSE<lb/>
 DE LEONIDE A LINDAMOR,<lb/>
-pour Galathée.</title><lb/></p>
+pour Galathée.</label>
 <p rend="italic indent">Tirez de vostre mal la connoissance de vostre bien ; si vous n'eussiez point esté aymé, on n'eust pas ressenty peu de chose, vous ne pouvez sçavoir quelle est vostre offense que vous ne soyez present, mais esperez en vostre affection, &amp; en vostre retour.</p>
 </quote>
 <p rend="indent">Elle ne vouloit pas que ceste lettre fust telle : mais en fin je l'emportay sur son courage, &amp; donnay à Fleurial mes tablettes, avec la clef, luy commandant de les remettre entre les mains de Lindamor seulement. Et le tirant à part, je r'ouvris mes tablettes, &amp; y adjoutay ces paroles sans que Galathée le sceust.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>BILLET<lb/>
-de Leonide à Lindamor.</title><lb/></p>
+<label><hi rend="rule"></hi>BILLET<lb/>
+de Leonide à Lindamor.</label>
 <p rend="italic indent">Je viens de sçavoir que vous estes party : la pitié de vostre mal me contraint de vous dire l'occasion de vostre desastre : Polemas a publié que vous aimez Galathée, &amp; vous
 <pb xml:id="page_abs_581" n="page_ori_286"/>
 en alliez vantant : un grand courage comme le sien n'a peu souffrir une si grande offense sans ressentiment : que vostre prudence vous conduise en cet affaire avec la discretion qui vous a tousjours accompagné ; à fin que pour vous aimer, &amp; avoir pitié de vostre mal, je n'aye en eschange dequoy me douloir de vous, à qui je promets toute ayde &amp; faveur.</p>
@@ -2633,8 +2637,8 @@ stre amy, celuy qui par ses discours controuvez, a tasché finement d'offenser v
 <pb xml:id="page_abs_591" n="page_ori_291"/>
 lathée : il m'envoya Fleurial pour ce sujet, &amp; pour me donner un mot de lettre. Il fit son message si à propos, que Galathée ne s'en prit garde ; son billet estoit tel.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>BILLET<lb/>
-de Lindamor à Leonide.</title><lb/></p>
+<label><hi rend="rule"></hi>BILLET<lb/>
+de Lindamor à Leonide.</label>
 <p rend="italic indent">Madame, qui pourra douter de mon innocence, ne sera peu coulpable envers la verité : toutefois si les yeux serrez ne voyent point la lumiere, encor que sans ombre, elle leur esclaire, il m'est permis de douter que Madame, pour mon mal-heur, n'ait les yeux fermez à la clarté de ma justice ; obligez moy de l'assurer, que si le sang de mon ennemy ne peut laver la noirceur dont il a tasché de me salir, j'y adjousteray plus librement le mien, que je ne conserveray ma vie, qui est sienne, quelle que sa rigueur me la puisse rendre.</p>
 </quote>
 <p rend="indent">Je m'enquis particulierement de Fleurial, comment il se portoit, &amp; s'il n'y avoit personne qui l'eust reconnu ; &amp; sceus qu'il avoit beaucoup perdu de sang, &amp; que cela luy re
@@ -2657,15 +2661,15 @@ il avoit par ce combat acquis vostre haine. Il ne sera pas vray, dit-il, ô inju
 <pb xml:id="page_abs_599" n="page_ori_295"/>
 vostre ? Madame, luy respondis-je, je n'en ay rien sçeu, car Fleurial estoit demeuré pres de luy pour le servir, à cause qu'il n'a mené personne des siens, mais encor que je l'eusse sçeu, je croy que je ne vous en eusse point parlé, tant j'ay reconneu vostre volonté esloignée de luy sans sujet. A ce mot s'appuyant la teste sur la main, elle me commanda de la laisser seule, à fin, comme je croy, que je ne visse les larmes, qui desja empouloient ses paupieres, mais à peine estois-je sortie qu'elle me rappella, &amp; sans lever la teste, me dit, que je commandasse à Fleurial de luy faire porter ce que Lindamor luy envoyoit, qu'en toute façon elle le vouloit : &amp; incontinent je ressortis avec un espoir asseuré, que les affaires du Chevalier pour qui je plaidois, reüssiroient comme je les avois proposées. Cependant, quand Fleurial retourna vers Lindamor, il le trouva assez en peine pour le retardement qu'il avoit fait à Montbrison, mais ma lettre le resjouyt de sorte, que depuis à veuë d'œil on le voyoit amender, elle fut telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>RESPONSE DE LEONIDE<lb/>
-A LINDAMOR.</title><lb/></p>
+<label><hi rend="rule"></hi>RESPONSE DE LEONIDE<lb/>
+A LINDAMOR.</label>
 <p rend="italic indent">Vostre justice esclaire de sorte, que mesme les yeux les plus fermez ne peuvent en nier la clarté. Contentez-vous
 <pb xml:id="page_abs_600" n="page_ori_295v"/>
 que ceux que vous desirez qui la voyent par moy, ayant sceu vostre resolution, l'ont reconnuë pour tres-juste : Il est vray que <q>"tout ainsi que les blesseures du corps ne sont pas du tout gueries encor que le danger en soit osté, &amp; qu'il faut en cela du temps, celles de l'ame en sont de mesme"</q> : mais en ayant osté le danger par vostre valeur &amp; prudence, vous devez laisser au temps de faire ses actions ordinaires, vous ressouvenant que <q>"les playes qui se ferment trop promptement sont sujettes à faire sac"</q>, qui par apres est plus dangereux que n'estoit la blesseure. Esperez tout ce que vous desirez, car vous le pouvez faire avec raison.</p>
 </quote>
 <p rend="indent">Je luy escrivis de ceste sorte, à fin que la tristesse ne nuisist pas à ses blesseures, &amp; qu'il guerist plustost : il me rescrivit ainsi.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>REPLIQUE DE LINDAMOR A LEONIDE.</title><lb/></p>
+<label><hi rend="rule"></hi>REPLIQUE DE LINDAMOR A LEONIDE.</label>
 <p rend="italic indent">Ainsi, belle Nymphe, puissiez vous avoir toute sorte de contentement, comme tout le mien vient &amp; despend de vous seule, j'espere puis que vous me le commandez : toutefois <q>"Amour qui n'est jamais sans </q>
 <pb xml:id="page_abs_601" n="page_ori_296"/>
 <q>estre accompagné de doute"</q>, me commande que je tremble : mais fasse de moy le Ciel ce qu'il luy plaira, je sçay qu'il ne peut me refuser le tombeau.</p>
@@ -2738,9 +2742,9 @@ LEONIDE.</head>
 Amant, &amp; aimé ; toutefois ceste amitié estoit si honneste, qu'elle ne leur avoit permis de se l'oser declarer. Apres le sacrifice qu'Amasis fait tous les ans le jour qu'elle espousast Pymandre, il avint que l'aspres-disnée nous trouvant toutes dans les jardins de Mont-brison, pour passer plus joyeusement ceste heureuse journée, elle &amp; moy, pour nous garantir du Soleil, nous estions assises sous quelques arbres, qui faisoient un agreable ombrage. A peine y estions-nous, que Polemas se vint mettre parmy nous, feignant que ç'avoit esté par hazard qu'il nous eust rencontrées, quoy que j'eusse bien pris garde qu'il y avoit long temps qu'il nous accompagnoit de l'œil. Et par ce que nous demeurions sans dire mot, &amp; qu'il avoit la voix fort bonne, je luy dis, qu'il nous obligeroit fort s'il vouloit chanter. Je le feray, dit-il, si ceste belle, monstrant Leonide, me le commande. Un tel commandement, dit-elle, seroit une indiscretion, mais j'y employeray bien ma priere, &amp; mesmes si vous avez quelque chose de nouveau. Je le veux, respondit Polemas, &amp; de plus je vous asseureray, que ce que vous oïrez, n'a esté fait que durant le sacrifice, cependant que vous estiez en oraison. Et quoy, luy dis-je, ma compagne est donc le sujet de ceste chanson ? Ouy certes me respondit-il &amp; j'en suis tesmoing, &amp; lors il commença de ceste sorte.</p>
 <pb xml:id="page_abs_628" n="page_ori_310"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>STANCES,<lb/>
+<label><hi rend="rule"></hi>STANCES,<lb/>
 D'UNE DAME EN<lb/>
-DEVOTION.</title><lb/></p>
+DEVOTION.</label>
 <lg rend="italic">
 <l rend="indent">Dans le Temple sacré, les grands Dieux adoroit</l>
 <l>Celle que tous les cœurs adorent d'ordinaire :</l>
@@ -2893,8 +2897,8 @@ satisfaction pour l'un, &amp; pour l'autre, qu'ils avoient dequoy se loüer en c
 <pb xml:id="page_abs_664" n="page_ori_328"/>
 mée &amp; servie de quelque Berger, qui eust du merite, &amp; en ce point elle relut la lettre plusieurs fois, qui estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE CELION<lb/>
-A BELLINDE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE CELION<lb/>
+A BELLINDE.</label>
 <p rend="italic indent">Belle Bergere, si vos yeux estoient aussi pleins de verité, qu'ils le sont de cause d'Amour ; la douceur que d'abord ils promettent, me les feroit adorer avec autant de contentement, qu'elle a produit en moy de vaine esperance. Mais tant s'en faut qu'ils soient prests de satisfaire à leurs trompeuses promesses, que mesmes ils ne les veulent advoüer, &amp; sont si éloignez de guerir ma blessure, qu'ils ne s'en veulent pas seulement dire les autheurs. Si est-ce que mal-aisément la pourront-ils nier, s'ils considerent quelle elle est, n'y ayant pas apparance, qu'autre beauté que la leur, en puisse faire de si grandes. Et toutefois comme si vous aviez dessein d'égaler vostre cruauté à vostre beauté, vous ordonnez que l'affection que vous avez fait naistre, meure cruellement en moy. Dieux ! fut-il jamais une plus impitoyable mere ! Mais moy qui ay plus cher ce qui vient de vous, que ma propre vie, ne
 <pb xml:id="page_abs_665" n="page_ori_328v"/>
 pouvant souffrir une si grande injustice, je suis resolu de porter ceste affection avec moy dans le cercueil, esperant que le Ciel émeu en fin par ma patience, vous obligera à m'estre quelquefois aussi pitoyable, que vous m'estes chere maintenant, &amp; cruelle.</p>
@@ -2903,15 +2907,15 @@ pouvant souffrir une si grande injustice, je suis resolu de porter ceste affecti
 <pb xml:id="page_abs_666" n="page_ori_329"/>
 mais incontinent l'Amour surmontoit l'amitié, en fin la conclusion fut, qu'elle escrivit une telle lettre à Celion.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE D'AMARANTHE<lb/>
-A CELION.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE D'AMARANTHE<lb/>
+A CELION.</label>
 <p rend="italic indent">Vos perfections doivent excuser mon erreur, &amp; vostre courtoisie recevoir l'amitié que je vous offre : je me voudrois mal, si j'aymois quelque chose moindre que vous, mais pour vostre merite, je faits ma gloire, d'où ma honte procederoit pour un autre. Si vous refusez ce que je vous presente, ce sera faute d'esprit ou de courage, lequel que ce soit des deux, vous est aussi peu honorable, qu'à moy d'estre refusée.</p>
 </quote>
 <p rend="indent">Elle donna sa lettre elle mesme à Celion, qui ne pouvant imaginer ce qu'elle vouloit, aussi tost qu'il fut en lieu retiré, la leut, mais non point avec plus d'estonnement que de mespris, &amp; n'eust esté qu'il la sçavoit infiniment amie de sa Maistresse, il n'eust pas mesme daigné luy faire response, toutefois craignant qu'elle ne luy pût nuire, il luy renvoya ceste response par son frere.</p>
 <pb xml:id="page_abs_667" n="page_ori_329v"/>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>RESPONSE DE CELION<lb/>
-A AMARANTHE.</title><lb/></p>
+<label><hi rend="rule"></hi>RESPONSE DE CELION<lb/>
+A AMARANTHE.</label>
 <p rend="italic indent">Je ne sçay qu'il y a en moy, qui vous puisse esmouvoir à m'aimer, toutefois je m'estime autant heureux qu'une telle Bergere me daigne regarder, que je suis infortuné de ne pouvoir recevoir une telle fortune : Que pleut à ma destinée, que je me pusse aussi bien donner à vous, comme je n'en ay la puissance, Belle Amaranthe, je me croirois le plus heureux qui vive, de vivre en vostre service, mais n'estant plus en ma disposition, vous n'accuserez s'il vous plaist, mon esprit ny mon courage de ce à quoy la necessité me contraint. Ce me sera tousjours beaucoup de contentement d'estre en vos bonnes graces, mais à vous encor plus de regret de remarquer à tous momens l'impuissance de mon affection. Si bien que je suis forcé de vous supplier par vostre vertu mesme, de diminuer ceste trop ardante passion en une amitié moderée, que je recevray de tout mon cœur : car telle chose ne m'est impossible, &amp; ce qui ne l'est pas ne me peut estre trop difficile pour vostre service.</p>
 </quote>
 <pb xml:id="page_abs_668" n="page_ori_330"/>
@@ -2936,8 +2940,8 @@ estre que cela eust peu obtenir quelque chose sur sa resolution, n'eust esté qu
 <pb xml:id="page_abs_677" n="page_ori_334v"/>
 eu tant de peine pour si peu de chose : Luy remonstrant qu'en cela le remede estoit si aisé, qu'il auroit honte qu'on sceust que Celion, estimé de chacun pour sage, &amp; pour personne de courage, eut eu si peu d'entendement que de ne sçavoir prendre resolution en un accident si peu difficile ; qu'au pis aller il ne falloit que faindre : &amp; puis il continuoit. Toutefois il a esté tres à propos, qu'au commencement vous ayez fait ces difficultez, car elle croira que vostre affection est extréme, &amp; cela l'obligera à vous aimer davantage, mais puis que vous en avez fait tant de demonstration, il suffit que pour la contenter, vous faigniez ce qu'elle vous a commandé. Ce conseil fut en fin receu de Celion, &amp; executé comme il avoit esté proposé, il est vray qu'il escrivit auparavant ceste lettre à Bellinde.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE CELION<lb/>
-A BELLINDE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE CELION<lb/>
+A BELLINDE.</label>
 <p rend="italic indent">Si j'avois merité un traittement si rude que celuy que je reçois de vous, j'eslirois plustost la mort, que de le souffrir ; mais puis que c'est pour vostre contentement, je le reçois avec un peu plus de plaisir, que si en eschange vous m'ordonniez la mort ; toutefois puis que je me suis tout donné à vous, il est rai
 <pb xml:id="page_abs_678" n="page_ori_335"/>
 sonnable que vous en puissiez absolument disposer. J'essayeray donc de vous obeïr, mais ressouvenez-vous, qu'aussi long  temps que durera ceste contrainte, autant faudra-t'il rayer des jours de ma vie : car je ne nommeray jamais vie, ce qui rapporte plus de douleur que la mort : abregez le donc, rigoureuse Bergere, s'il y a encore en vous une seule estincelle, non pas d'amitié, mais de pitié seulement.</p>
@@ -2961,9 +2965,9 @@ plus avec elle pour augmenter mes ennuis ; considerez qu'il y a fort peu d'appa
 <pb xml:id="page_abs_686" n="page_ori_339 ERR336"/>
 son cruel desastre, quelque remonstrance que ses amis luy pussent faire : Il vesquit de ceste sorte plusieurs jours, durant lesquels il faisoit mesme pitié aux rochers ; &amp; à fin que celle qui estoit cause de son mal, en ressentist quelque chose, il luy envoya ces vers.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>STANCES<lb/>
+<label><hi rend="rule"></hi>STANCES<lb/>
 DE CELION, SUR LE MARIAGE<lb/>
-de Bellinde, &amp; d'Ergaste<lb/></title><lb/></p>
+de Bellinde, &amp; d'Ergaste</label>
 <lg rend="italic">
 <l>Doncques le Ciel consent, qu'apres tant d'amitié,</l>
 <l rend="indent">Qu'apres tant de services,</l>
@@ -3018,16 +3022,16 @@ de Bellinde, &amp; d'Ergaste<lb/></title><lb/></p>
 <pb xml:id="page_abs_688" n="page_ori_340"/>
 plomboit l'estomach de coups, bref, c'estoit une personne transportée, &amp; tellement hors de raison, qu'il partit plusieurs fois en dessein de tuer Ergaste. Mais quand il en estoit prest, quelque estincelle de consideration, qui parmy tant de fureur luy estoit encores restée, luy faisoit craindre d'offenser Bellinde ; à qui toutefois, transporté de passion, il escrivoit bien souvent des lettres si pleines d'Amour, &amp; de reproches, que mal-aisément les pouvoit elle lire sans larmes ; entre autres il luy en envoya une telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE CELION<lb/>
+<label><hi rend="rule"></hi>LETTRE DE CELION<lb/>
 A BELLINDE EN<lb/>
-son transport.</title><lb/></p>
+son transport.</label>
 <p rend="italic indent">Faut-il donc, inconstante Bergere, que ma peine survive mon affection ? Faut-il que sans vous aimer, j'aye tant de peine pour vous sçavoir entre les mains d'un autre ? N'est ce point que les Dieux me vueillent punir pour vous avoir plus aimée que je ne devois ? ou plustost n'est-ce point que je me figure de ne vous aimer plus, &amp; que toutefois j'aye plus d'Amour pour vous, que je n'euz jamais ? Toutefois, pourquoy vous aimerois-je, puis que vous estes, &amp; ne pouvez
 <pb xml:id="page_abs_689" n="page_ori_340v"/>
 estre à autre qu'à une personne que je n'ayme point ? Mais au contraire, pourquoy ne vous aimerois je point, puis que je vous ay tant aymée ? Il est vray, mais je ne vous dois point aymer ; car vous estes ingrate, une ame toute d'oubly, &amp; qui n'a nul ressentiment d'Amour. Toutefois quelle que vous soyez, si estes vous Bellinde, &amp; Bellinde peut-elle estre sans que Celion l'ayme ? Vous aime-je donc, ou si je ne vous ayme point ? Jugez en vous mesme, Bergere, car quand à moy j'ay l'esprit si troublé, que je n'en puis discerner autre chose, sinon que je suis la personne du monde la plus affligée.</p>
 </quote>
 <p rend="indent">Et au bas de la lettre, il y avoit ces vers :</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>STANCE.</title><lb/></p>
+<label><hi rend="rule"></hi>STANCE.</label>
 <lg rend="italic">
 <l>Je ne puis excuser cette extrême inconstance,</l>
 <l>Qui vous a fait si mal changer d'affection :</l>
@@ -3039,8 +3043,8 @@ estre à autre qu'à une personne que je n'ayme point ? Mais au contraire, pour
 <pb xml:id="page_abs_690" n="page_ori_341"/>
 roit contre elle : Elle ne pouvoit le souffrir qu'avec beaucoup de desplaisir, considerant combien cela donnoit d'occasion de parler, à ceux qui n'ont des oreilles que pour apprendre les nouvelles d'autruy, &amp; de langue, que pour les redire : Sa lettre estoit telle.<lb/></p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE BELLINDE<lb/>
-A CELION.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE BELLINDE<lb/>
+A CELION.</label>
 <p><lb/><hi rend="italic">Il m'est impossible de supporter d'avantage le tort que vostre estrange façon de vivre nous fait à tous deux. Je ne nie pas que vous n'ayez occasion de plaindre nostre fortune : Mais je dis bien qu'une personne sage n'en sçauroit avoir qui luy permette sans blasme de devenir fol. Quel transport est celuy qui vous empesche de voir, que donnant connoissance à tout le reste du monde, que vous mourez d'Amour pour moy, vous me contraignez toutefois de croire que veritablement vous ne m'aymez point. Car si vous m'aimiez voudriez vous me desplaire ? Et ne sçavez vous pas que la mort ne me sçauroit estre plus ennuyeuse que l'opinion que vous donnez à chacun de nostre amitié ? Cessez donc, mon frere, je vous supplie, &amp; par ce nom qui vous oblige
 <pb xml:id="page_abs_691" n="page_ori_341v"/>
 d'avoir soing de ce qui me touche. Je vous conjure, que si present vous ne pouvez supporter ce desastre sans donner connoissance de vostre ennuy, vous preniez pour le moins resolution de vous esloigner en sorte, que ceux qui vous oyront plaindre, ne connoissant point mon nom, ne fassent que regretter avec vous vos ennuis, sans pouvoir rien soupçonner à mon desadvantage. Si vous me contentez en ceste resolution, vous me ferez croire que c'est surabondance, &amp; non point deffaut d'affection, qui vous a fait errer contre moy : Et ceste consideration obligera Bellinde, outre l'amitié qu'elle vous porte, de conserver tousjours chere la memoire de ce frere qui l'ayme, &amp; qu'elle ayme parmy tous ces cruels &amp; insupportables desplaisirs.</hi><lb/></p>
@@ -3050,9 +3054,9 @@ d'avoir soing de ce qui me touche. Je vous conjure, que si present vous ne pouve
 veritablement l'aimoit, quoy qu'elle previst que cét à-dieu ne feroit que rengreger son desplaisir, ne voulut luy refuser ceste requeste, &amp; luy donna assignation le lendemain au matin à la fontaine des Sicomores.</p>
 <p rend="indent">Le jour ne commençoit que de poindre quand le desolé Berger sortant de sa cabane avec son trouppeau, le chassa droit à la fontaine, où s'estendant de son long &amp; les yeux sur le cours de l'onde, il commança, en attendant sa Bergere, de s'entretenir sur son prochain mal-heur, &amp; apres avoir esté quelque temps muet, il souspira ces vers.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>COMPARAISON D'UNE<lb/>
+<label><hi rend="rule"></hi>COMPARAISON D'UNE<lb/>
 FONTAINE A SON<lb/>
-desplaisir.</title><lb/></p>
+desplaisir.</label>
 <lg rend="italic">
 <l rend="indent">Cette source eternelle,</l>
 <l>Qui ne finit jamais,</l>
@@ -3116,7 +3120,7 @@ sçavoir que quelqu'autre jouït de son bien. En ceste rage il se remit en chemi
 <pb xml:id="page_abs_707" n="page_ori_349v"/>
 bien dire qu'il fust inspiré de quelque bon demon : car si d'abord Celion eust veu Ergaste, peut estre, suivant sa resolution luy eust-il fait du deplaisir. Or à l'heure mesme que Diamis s'en approcha, son frere s'esveilla, &amp; recommençant son ordinaire entretien, il se mit à plaindre de ceste sorte.</p>
 <quote>
-<p><hi rend="rule"></hi><title>PLAINTE.</title><lb/></p>
+<label><hi rend="rule"></hi>PLAINTE.</label>
 <lg rend="italic">
 <l>Outré par la douleur de mortelles attaintes,</l>
 <l rend="indent">Sans autre reconfort,</l>
@@ -3170,16 +3174,16 @@ vé, que Meroüé, &amp; Childeric l'estiment comme merite sa vertu : mais il y
 <pb xml:id="page_abs_713" n="page_ori_353"/>
 me dittes vous Fleurial, repliqua-t'elle, il est ainsi que je te le dis, &amp; ne croy point qu'il y ait du remede s'il ne vient de toy. De moy ? dit-il, s'il peut venir de moy, tenez le pour assuré, car il n'y a rien au monde que je ne fasse. Or, dit la Nymphe, sois donc secret, &amp; à ce soir je t'en diray davantage, mais pour ceste heure il faut que je sçache ce qu'escrit le pauvre absent. Il a envoyé, dit-il, ces lettres par un jeune homme, qui avoit charge de les porter chez ma tante, elle me les a incontinent envoyées, &amp; en voicy une qu'il vous escrit, elle l'ouvrit, &amp; vit qu'elle estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE LINDAMOR<lb/>
-A LEONIDE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE LINDAMOR<lb/>
+A LEONIDE.</label>
 <p rend="italic indent">Autant que l'esloignement a eu peu de puissance sur mon ame : autant ay-je peur qu'il n'en ait eu beaucoup sur celle que j'adore. Ma foy me dit bien que non : mais ma fortune me menace du contraire, toutefois l'assurance que j'ay en la prudence de ma confidente, me fait vivre avec moins de crainte, que si ma memoire y estoit seule. Ressouvenez-vous donc de ne tromper l'esperance que j'ay en vous, ny démentir les assurances de nostre amitié.</p>
 </quote>
 <p rend="indent">Or bien, dit la Nymphe, va t'en au lieu plus
 <pb xml:id="page_abs_714" n="page_ori_353v"/>
 proche d'icy, où tu dormiras ce soir, &amp; reviens icy de bon matin, puis je te feray sçavoir une histoire dont tu seras bien estonné. Là dessus elle appella ce jeune homme qui vouloit parler à Silvie, &amp; le conduisit avec elle jusques à l'antichambre de Galathée, où l'ayant fait attendre, elle entra dedans, &amp; fit sçavoir à la Nymphe ce qu'elle avoit fait de Fleurial. Il faut, dit la Nymphe, que vous lisiez la lettre que Lindamor m'escrit, &amp; lors elle vit qu'elle estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE LINDAMOR<lb/>
-A GALATHEE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE LINDAMOR<lb/>
+A GALATHEE.</label>
 <p rend="italic indent">Ny le retardement de mon voyage, ny les horreurs de la guerre, ny les beautez de ces nouvelles hostesses de la Gaule, ne peuvent tellement occuper le souvenir que vostre fidele serviteur a de vous, qu'il ne revole continuellement au bien-heureux sejour, où en vous esloignant je laissay toute ma gloire ; si bien que ne pouvant refuser à mon affection la curiosité de sçavoir comme Madame se porte, apres vous avoir mille fois baisé la robbe, je vous presente toutes les bonnes fortunes dont les armes m'ont voulu favoriser, &amp; les offre à vos pieds, comme à la divinité dont je les re
 <pb xml:id="page_abs_715" n="page_ori_354 ERR358"/>
 connois. Si vous les recevez pour vostres, la renommée les vous donnera de ma part, qui me l'a promis ainsi, aussi bien que vous l'honneur de vos bonnes graces à vostre tres-humble serviteur.</p>
@@ -3238,16 +3242,16 @@ comme vengeur des cruautez dont elle a tourmenté ce pauvre Amant, &amp; les rep
 <pb xml:id="page_abs_739" n="page_ori_366"/>
 Dieux, &amp; à ma destinée, mais je ne cesseray d'aimer le souvenir de Ligdamon, de cherir son amitié, &amp; d'honorer ses vertus. Galathée cependant ouvrit la lettre qui estoit demeurée entre les mains de Leonide, elle trouva qu'elle estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE DE LIGDAMON<lb/>
-A SYLVIE.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE DE LIGDAMON<lb/>
+A SYLVIE.</label>
 <p rend="italic indent">Si vous avez esté offensée de l'outrecuidance qui m'a poussé à vous aimer, ma mort qui s'en est ensuivie vous vengera. Que si elle vous est indifferente, je m'assure que ce dernier acte de mon affection, me gaignera quelque chose de plus advantageux en vostre ame : s'il advient ainsi, je cheris la ressemblance de Lydias, plus que ma naissance, puis que par elle je vins au monde pour vous estre ennuyeux, &amp; que par celle-cy j'en sors vous estant agreable.</p>
 </quote>
 <p rend="indent">Ce sont sans mentir, dit Celadon, de grandes vengeances que celles d'Amour, &amp; je me ressouviens qu'un Pasteur des nostres, fit dernierement sur le tombeau d'un mary jaloux, tels vers.</p>
 <pb xml:id="page_abs_740" n="page_ori_366v"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SONNET,<lb/>
+<label><hi rend="rule"></hi>SONNET,<lb/>
 SUR LE TOMBEAU D'UN<lb/>
-MARY JALOUX.</title><lb/></p>
+MARY JALOUX.</label>
 <lg rend="italic">
 <l rend="indent">Dessous son pasle effroy ceste tombe relante</l>
 <l>Tient enclos l'ennemy du grand Dieu Cupidon,</l>
@@ -3294,20 +3298,20 @@ tour en façon de ceinture, r'atachoit ces tableaux, &amp; de diverses pieces n'
 &amp; de Fortune.</head>
 <p><lb/><q>"Tout ainsi que l'ouvrier se joüe de son œuvre, &amp; en fait comme il luy plaist : de mesme les grands Dieux, de la main desquels nous sommes formez, prennent plaisir à nous faire joüer sur le theatre du monde, le personnage qu'ils nous ont esleu. Mais entre tous, il n'y en a point qui ait des imaginations si bigearres qu'Amour, car il rajeunit les vieux, &amp; envieillit les jeunes, en aussi peu de temps que dure l'esclair d'un bel œil"</q>, &amp; ceste histoire qui est plus veritable que je ne voudrois, en rend une preuve, que mal-aisément peut-on contredire ; comme par la suitte de mon discours vous advoüerez.</p>
 <pb xml:id="page_abs_748" n="page_ori_370v"/>
-<p><hi rend="rule"></hi><title>TABLEAU PREMIER.</title><lb/></p>
+<p><hi rend="rule"></hi>TABLEAU PREMIER.</p>
 <p rend="indent">Voyez vous en premier lieu, ce Berger assis en terre, le dos appuyé contre ce chesne, les jambes croisées, qui jouë de la cornemuse ? C'est le beau Berger Damon, qui eut ce nom de beau, pour la perfection de son visage. Ce jeune Berger paissoit ses brebis le long de vostre doux Lignon, estant nay d'une des meilleures familles de Mont-verdun, &amp; non point trop éloigné parent de la vieille Cleontine, &amp; de la mere de Leonide, &amp; par consequent en quelque sorte mon allié, prenez garde comme ce visage, outre qu'il est beau, represente bien naïfvement une personne qui n'a soucy que de se contenter : car vous y voyez je ne sçay quoy d'ouvert, &amp; de serain, sans trouble ny nuage de fâcheuses imaginations : &amp; au contraire, tournez les yeux sur ces Bergeres qui sont autour de luy, vous jugerez bien à la façon de leur visage, qu'elles ne sont pas sans peine, car autant que Damon a l'esprit libre, &amp; reposé, autant ont ces Bergeres les cœurs passionnez pour luy, encor comme vous voyez qu'il ne daigne tourner les yeux sur elles, &amp; c'est pourquoy on a paint tout aupres, à costé droit, en l'air, ce petit enfant nud, avec l'arc &amp; le flambeau en la main, les yeux bandez, le dos aylé, l'espaule chargée d'un carquois, qui le menace de l'autre main. C'est Amour, qui offensé du mépris
 <pb xml:id="page_abs_749" n="page_ori_371"/>
 que ce Berger fait de ces Bergeres, jure qu'il se vengera de luy. Mais pour l'embellissement du tableau, prenez garde comme l'art de la painture y est bien observé ; soit aux racourcissemens, soit aux ombrages, ou aux proportions. Voyez comme il semble que le bras du Berger s'enfonce un peu dans l'enfleure de cet instrument, &amp; comme la cane par où il souffle, semble en haut avoir un peu perdu de sa tainture, c'est parce que la bouche moitte la luy a ostée. Regardez à main gauche comme ses brebis paissent, voyez-en les unes couchées à l'ombre, les autres qui se leichent la jambe, les autres comme estonnées qui regardent ces deux Belliers, qui se viennent heurter de toute leur force. Prenez garde au tour que cestuy cy fait du col, car il baisse la teste en sorte, que l'autre l'attaquant rencontre seulement ses cornes, mais le racourcissement du dos de l'autre est bien aussi artificiel, car la nature qui luy apprend que la vertu unie a plus de force, le fait tellement resserrer en un monceau, qu'il semble presque rond. Le devoir mesme des chiens n'y est pas oublié, qui pour s'opposer aux courses des loups, se tiennent sur les ayles du costé du bois. Et semble qu'ils se soient mis comme trois sentinelles, sur des lieux relevez, à fin de voir de plus loin, ou comme je pense, à fin de se voir l'un l'autre, &amp; se secourir en la necessité. Mais considerez la soigneuse industrie du paintre ; Au lieu que les chiens qui dorment sans soucy, ont accoustumé de se mettre en
 <pb xml:id="page_abs_750" n="page_ori_371v"/>
 rond, &amp; bien souvent se cachent la teste soubs les pattes, presque pour se desrober la clarté, ceux qui sont paints icy sont couchez d'une autre sorte, pour monstrer qu'ils ne dorment pas, mais reposent seulement : car ils sont couchez sur leurs quatre pieds, &amp; ont le nez tout le long des jambes de devant, tenans tousjours les yeux ouverts aussi curieusement qu'un homme sçauroit faire. Mais voyons l'autre tableau.</p>
-<p><hi rend="rule"></hi><title>TABLEAU DEUXIESME.</title><lb/></p>
+<p><hi rend="rule"></hi>TABLEAU DEUXIESME.</p>
 <p rend="indent">Voicy le second Tableau qui est bien contraire au precedent, car si celuy-là est plein de mespris, cestuy-cy l'est d'Amour, s'il ne monstre qu'orgueil, cestuy-cy ne fait paroistre que douceur, &amp; sousmission, &amp; en voyez-vous icy la cause. Regardez ceste Bergere assise contre ce buisson, comme elle est belle, &amp; proprement vestuë : ses cheveux relevez par devant, s'en vont folastrant en liberté sur ses espaules, &amp; semble que le vent à l'envy de la nature par son souffle les aille recrespant en onde, mais c'est que jaloux des petits Amours qui s'y trouvent cachez, &amp; qui vont y tendant leurs las, il les en veut chasser ; &amp; de fait voyez en quelques uns emportez par force, d'autres qui se tiennent aux nœuds qu'ils y ont faits, &amp; d'autres qui essayent d'y retourner : mais ils ne
 <pb xml:id="page_abs_751" n="page_ori_372 ERR472"/>
 peuvent, tant leur ayle encor foiblette est contrariée de l'importunité de Zephir. C'est la belle Bergere Fortune, de qui l'Amour se veut servir pour faire la vengeance promise contre Damon, qui est ce Berger que vous voyez debout prez d'elle appuyé sur sa houlette. Considerez ces petits Amours qui sont tous embesoignez autour d'eux, &amp; comme chacun est attentif à ce qu'il fait. En voicy un qui prend la mesure des sourcils de la Bergere, &amp; la donne à l'autre, qui avec un cousteau escarre son arc, afin de le compasser semblable à leur tour. Et voicy un autre qui ayant dérobé quelques cheveux de ceste Belle, de si beau larrecin veut faire la corde de l'arc de son compagnon. Voyez comme il s'est assis en terre, comme il a lié le commencement de sa corde au gros arteil, qui se renverse un peu pour estre trop tiré ; prenez garde que pour mieux cordonner, un autre luy porte sa pleine main de larmes de quelque Amant, pour luy moüiller les doigts : considerez comme il tient les reins je ne sçay comment pliez, que dessous le bras droit vous luy voyez paroistre la moitié du devant, encor qu'il monstre tout à plain le derriere de l'espaule droite. En voicy un autre qui ayant mis la corde à un des bouts de l'arc, afin de la mettre en l'autre, baisse ce costé en terre, &amp; du genoüil gauche plie l'arc en dedans, de l'estomac il s'appuie dessus, &amp; de la main gauche, &amp; de la droite il tasche de faire glisser la corde jusques en bas. Cupidon est un peu plus haut, de qui la main
 <pb xml:id="page_abs_752" n="page_ori_372v ERR472v"/>
 gauche tient son arc, ayant la droitte encor derriere l'aureille, comme s'il venoit de lascher son trait, car voyez luy le coude levé, le bras retiré, les trois premiers doigts entr'ouverts, &amp; presque estendus, &amp; les autres deux retirez dans la main, &amp; certes son coup ne fut point en vain, car le pauvre Berger en fut tellement blessé que la mort seule le pût guerir. Mais regardez un peu de l'autre costé, &amp; voyez cet Anteros, qui avec des chaisnes de roses, &amp; de fleurs, lye les bras, &amp; le col de la belle Bergere Fortune, &amp; puis les remet aux mains du Berger, c'est pour nous faire entendre, que les merites, l'Amour, &amp; les services de ce beau Berger, qui sont figurez par ces fleurs, obligerent Fortune à une Amour reciproque envers luy. Que si vous trouvez estrange que Anteros soit icy representé plus grand que Cupidon, sçachez que c'est pour vous faire entendre que l'Amour qui naist de l'Amour, est tousjours plus grande que celle dont elle procede. Mais passons au troisiesme.</p>
-<p><hi rend="rule"></hi><title>TROISIESME<lb/>
-Tableau.</title><lb/></p>
+<p><hi rend="rule"></hi>TROISIESME<lb/>
+Tableau.</p>
 <p rend="indent">Lors Adamas continua. Voicy vostre belle riviere de Lignon, voyez comme elle prend une double source, l'une venant des
 <pb xml:id="page_abs_753" n="page_ori_373"/>
 montagnes de Cervieres, &amp; l'autre de celles de Chalmasel, qui viennent se joindre un peu par dessus la marchande ville de Boing. Que tout ce païsage est bien fait, &amp; les bords tortueux de ceste riviere, avec ces petits aulnes qui la bornent ordinairement ! Ne connoissez vous point icy le bois qui confine ce grand pré, où le plus souvent les Bergers paresseux paissent leurs trouppeaux ? Il me semble que ceste grosse touffe d'arbres à main gauche, ce petit bié qui serpente sur le côté droit, &amp; cette demie lune que fait la riviere en cét endroit, vous le doit bien remettre devant les yeux : que s'il n'est à ceste heure du tout semblable, ce n'est que le Tableau soit faux : mais c'est que quelques arbres depuis ce temps-là sont morts, &amp; d'autres creus, que la riviere en des lieux s'est advancée, &amp; reculée en d'autres, &amp; toutefois il n'y a guiere de changement. Or regardez un peu plus bas le long de Lignon, voicy une trouppe de brebis qui est à l'ombre, voyez comme les unes ruminent laschement, &amp; les autres tiennent le nez en terre pour en tirer la fraischeur : c'est le trouppeau de Damon, que vous verrez si vous tournez la veuë en ça dans l'eau jusques à la ceinture. Considerez comme ces jeunes arbres courbez le couvrent des rayons du Soleil, &amp; semblent presque estre [jaloux] qu'autre qu'eux le voye : Et toutefois la curiosité du Soleil est si grande, qu'encores entre les diverses fueilles il trouve passage à quelques-uns de ses rayons.
@@ -3315,7 +3319,7 @@ montagnes de Cervieres, &amp; l'autre de celles de Chalmasel, qui viennent se jo
 Prenez garde comme ceste ombre &amp; ceste clairté y sont bien representées. Mais certes il faut aussi advoüer que ce Berger ne peut estre surpassé en beauté. Considerez les traits delicats &amp; proportionnez de son visage, sa taille droite &amp; longue ; ce flanc arrondy, cét estomac relevé, &amp; voyez s'il y a rien qui ne soit en perfection, &amp; encor qu'il soit un peu courbé pour mieux se servir de l'eau, &amp; que de la main droitte il frotte le bras gauche : si est-ce qu'il ne fait action qui empesche de reconnoistre sa parfaite beauté. Or jettez l'œil de l'autre côté du rivage si vous ne craignez d'y voir le laid en sa perfection, comme en la sienne vous avez veu le beau, car entre ces ronces effroyables, vous verrez la magicienne Mandrague contemplant le Berger en son bain. La voicy vestuë presque en despit de ceux qui la regardent, eschevelée, un bras nud, &amp; la robbe d'un costé retroussée plus haut que le genoüil. Je croy qu'elle vient de faire quelque sortilege ; mais jugez icy l'effet d'une beauté. Ceste vieille que vous voyez si ridée, qu'il semble que chaque moment de sa vie ait mis un sillon en son visage, maigre, petite, toute chenuë, les cheveux à moitié tondus, toute accrouppie, &amp; selon son âge plus propre pour le cercueil que pour la vie, n'a honte de s'esprendre de ce jeune Berger : Si <q>"l'Amour vient de la simpathie"</q>, comme on dit, je ne sçay pas bien où l'on la pourra trouver entre Damon &amp; elle. Voyez quelle mine elle fait en son extaze. Elle estend
 <pb xml:id="page_abs_755" n="page_ori_374"/>
 la teste, allonge le col, serre les espaules, tient les bras joints le long des costez, &amp; les mains assemblées en son gyron ; &amp; le meilleur est, que pensant sousrire, elle fait la mouë. Si est-ce que telle qu'elle est, elle ne laisse de rechercher l'amour du beau Berger. Or haussez un peu les yeux, &amp; voyez dans ceste nuë Venus &amp; Cupidon, qui regardant ceste nouvelle Amante, semblent esclater de rire : C'est que sans doute ce petit Dieu, pour quelque gageure peut estre qu'il avoit faite avec sa mere, n'a pas plaint un traict, qui toutefois devoit estre tout usé de vieillesse, pour faire un si beau coup. Que si ce n'est par gageure, c'est pour faire voir en ceste vieille, que le bois sec brusle mieux, &amp; plus aisément que le verd, ou bien que pour monstrer sa puissance sur ceste vieille hostesse des tombeaux, il luy plaist de faire preuve de l'ardeur de son flambeau, avec lequel il semble qu'il luy redonne une nouvelle ame ; &amp; pour dire en un mot, qu'il la fasse ressusciter, &amp; sortir du cercueil.</p>
-<p><hi rend="rule"></hi><title>TABLEAU QUATRIESME.</title><lb/></p>
+<p><hi rend="rule"></hi>TABLEAU QUATRIESME.</p>
 <p rend="indent">Mais passons à cét autre, voicy une nuict fort bien representée, voyez comme sous l'obscur de ses ombres, ces montagnes paroissent en sorte qu'elles se montrent un peu, &amp; si en effet on ne sçauroit bien juger que c'est. Prenez garde comme ces estoilles semblent tre
 <pb xml:id="page_abs_756" n="page_ori_374v"/>
 mousser, voyez comme ces autres sont si bien disposées, que l'on les peut reconnoistre. Voila la grande Ourse, voyez comme le judicieux ouvrier, encor qu'elle ait vingt sept estoiles, toutefois n'en represente clairement que douze, &amp; de ces douze encores n'y en fait-il que sept bien esclatantes. Voyez la petite Ourse, &amp; considerez que d'autant que jamais ses sept estoilles ne se cachent, encores qu'il y en ait une de la troisiesme grandeur, &amp; quatre de la quatriesme, toutefois il nous les fait voir toutes, observant leur proportion. Voyla le Dragon, auquel il a bien mis les trente &amp; une estoiles, mais si n'en monstre-t'il bien que treize, dont les cinq comme vous voyez, sont de la quatriesme grandeur, &amp; les huit de la troisiesme. Voicy la couronne d'Ariadne, qui a bien ses huit estoilles, mais il n'y en a que six qui soient bien voyantes, &amp; encore en voicy une qui est la plus reluysante de toutes. Voyez vous de ce costé la voye de laict, par où les Romains tiennent que les Dieux descendent en terre, &amp; remontent au Ciel. Mais que ces nuages sont bien representez, qui en quelques lieux couvrent le Ciel avec espaisseur, en d'autres seulement comme une legere fumée, &amp; ailleurs point du tout, &amp; selon qu'ils sont plus ou moins eslevez, ils sont plus ou moins clairs. Or considerons l'histoire de ce Tableau, voicy Mandrague au milieu d'un cerne, une baguette en la main droitte, un livre tout crasseux en l'autre, avec une chandelle de cire vierge, des
@@ -3325,7 +3329,7 @@ lunettes fort troubles au nez, voyez comme il semble qu'elle marmotte, &amp; com
 servez les effets que ceste chandelle fait en ces demons ; car les uns &amp; les autres selon qu'ils sont tournez sont esclairez ou obscurcis. Or voicy un autre grand artifice de la painture, qui est cét esloignement, car la perspective y est si bien observée, que vous diriez que cét autre accident, qu'il veut representer de deça, est hors de ce Tableau &amp; bien esloigné d'icy, &amp; c'est Mandrague encores qui est à la fonteine de la verité d'Amour. Mais pour vous faire mieux entendre le tout, sçachez que quelque temps auparavant une belle Bergere, fille d'un Magicien tres-sçavant, s'éprit si secrettement d'un Berger, que son pere ne s'en apperceut point : Soit que <q>"les charmes de la magie ne puissent rien sur les charmes d'Amour"</q>, ou soit qu'attentif à ses estudes, il ne jettast point l'œil sur elle. Tant y a qu'apres une tres-ardente amitié : d'autant qu'<q>"en Amour il n'y a rien de plus insupportable que le desdain"</q>, &amp; que ce Berger la méprisoit pour s'estre dés long temps voüé ailleurs, elle fut reduitte à tel terme, que peu à peu son feu croissant, &amp; ses forces diminuant, elle vint à mourir, sans que le sçavoir de son pere la pûst secourir. Dequoy le Magicien estant fort marry, quand il en sceut l'occasion, à fin d'en marquer la memoire à jamais, changea son tombeau en fonteine, qu'il nomma verité d'Amour, par ce que qui aime, s'il y regarde, y void sa Dame, &amp; s'il en est aimé, il s'y void aupres, ou bien celuy qu'elle aime ; que si elle n'aime rien, elle paroist toute seule :
 <pb xml:id="page_abs_759" n="page_ori_376"/>
 &amp; c'est ceste vertu que Mandrague veut changer, afin que Damon y venant voir, &amp; trouvant que sa Maistresse en aime un autre, il perde aussi l'affection qu'il luy porte, &amp; qu'elle ait ainsi la place libre ; &amp; voyez comme elle l'enchante, quels caracteres elle fait tout autour, quels triangles, quels carrez enlacez avec ses ronds, croyez qu'elle n'y oublie rien qui y soit necessaire : car cét affaire luy touche de trop pres. Auparavant elle avoit par ses sortileges, assemblé tous ses demons pour trouver remede à son mal, mais d'autant qu'Amour est plus fort que tous ceux-cy, ils n'oserent entreprendre contre luy, mais seulement luy conseillerent de faire ceste trahison à ces deux fideles Amants. Et d'autant que la vertu de la fonteine luy venoit par les enchantemens d'un Magicien, Mandrague qui a surmonté en cette science tous ses devanciers, la luy pût bien oster pour quelque temps. Mais passons au Tableau qui suit.</p>
-<p><hi rend="rule"></hi><title>TABLEAU CINQUIESME.</title><lb/></p>
+<p><hi rend="rule"></hi>TABLEAU CINQUIESME.</p>
 <p rend="indent">Ce cinquiesme Tableau, continua Adamas, a deux actions. La premiere quand Damon vint à ceste fonteine, pour sortir de la peine où l'avoit mis un songe fâcheux. L'autre, quand trompé par l'artifice de Mandrague, ayant veu dans la fonteine que la Bergere Fortune aimoit un autre, de desespoir
 <pb xml:id="page_abs_760" n="page_ori_376v"/>
 il se tua. Or voyons comme elles sont bien representées. Voicy Damon avec son espieu, car il est au mesme équipage qu'il souloit estre allant à la chasse. Voicy son chien qui le suit, prenez garde avec quel soing ce fidele animal considere son maistre, car cependant qu'il regarde dans la fonteine, il semble, tant il a les yeux tendus sur luy, d'estre desireux de sçavoir qui le rend si esbahy, que si vous considerez l'estonnement qui est peint en son visage, vous jugerez bien qu'il en doit avoir une grande occasion. Mandrague luy avoit fait voir en songe Maradon jeune Berger, qui prenant une fleche à Cupidon, en ouvroit le sein à Fortune, &amp; luy ravissoit le cœur : luy qui suivant l'ordinaire des Amants, estoit tousjours en doute, s'en vint aussi tost qu'il fut jour courant à ceste fonteine, pour sçavoir si sa Maistresse l'aimoit. Je vous supplie considerez son esbahïssement, car si vous comparez les visages des autres Tableaux à cestuy-cy, vous y verrez bien les mesmes traits, quoy que le trouble en quoy il est peint le change de beaucoup. De ces deux figures que vous voyez dans la fonteine, l'une, comme vous pouvez connoistre, est celle de la Bergere Fortune, &amp; l'autre du Berger Maradon, que la magicienne avoit fait representer plutost qu'un autre, pour sçavoir que cestuy-cy avoit esté dés long temps serviteur de ceste Bergere, &amp; quoy qu'elle n'eust jamais daigné le regarder, toutefois Amour qui croit facilement ce qu'il craint, persuada incon
@@ -3333,7 +3337,7 @@ il se tua. Or voyons comme elles sont bien representées. Voicy Damon avec son e
 tinent le contraire à Damon ; creance qui le fit resoudre à la mort. Remarquez, je vous supplie que ceste eau semble trembler, c'est que la painture a voulu representer l'effet des larmes du Berger qui tomboient dedans. Mais passons à la seconde action, voyez comme la continuation de ceste caverne est bien faite, &amp; comme il semble que vrayement cela soit plus enfoncé. Ce mort que vous y voyez au fond, c'est le pauvre Damon, qui desesperé, se met l'espieu au travers du corps. L'action qu'il fait est bien naturelle, vous luy voyez une jambe toute estenduë, l'autre retirée comme de douleur, un bras engagé sous le corps, y ayant esté surpris par la promptitude de la cheute, &amp; n'ayant eu la force de le ravoir : l'autre languissant le long du corps, quoy qu'il serre encor mollement l'espieu de la main, la teste penchée sur l'espaule droite, les yeux à demy fermez, &amp; demy tournez, &amp; en tel estat, qu'à les voir on juge bien que c'est un homme aux trances de la mort, la bouche entre-ouverte, les dents en quelques endroits un peu descouvertes, &amp; l'entre-deux du nez fort retiré, tous signes d'une prompte mort. Aussi ne le figure-t'il pas icy pour mort entierement, mais pour estre entre la mort &amp; la vie, si entre-elles il y a quelque separation ; voicy l'espieu bien representé, voyez comme ceste espaisseur de son fer est à moitié cachée dans la playe, &amp; la houppe d'un costé toute sanglante, &amp; de l'autre blanche encores comme estoit sa premiere
 <pb xml:id="page_abs_762" n="page_ori_377v"/>
 couleur. Mais quelle a esté la diligence du peintre ! il n'a pas mesme oublié les cloux qui vont comme serpentant à l'entour de la hante, car les plus pres de la lame, aussi bien que le bois, sont tachez de sang, il est vray que par dessous le sang on ne laisse pas de reconnoistre la doreure. Or considerons le rejallissement du sang, en sortant de la playe : Il semble à la fontaine, qui conduite par longs canaux, de quelque lieu fort relevé, lors qu'elle a esté quelque temps contrainte &amp; retenuë en bas, aussi tost qu'on luy donne ouverture, saute de furie çà &amp; là : car voyez ces rayons de sang, comme ils sont bien representez, considerez ces boüillons, qui mesme semblent se souslever à eslents, je croy que la Nature ne sçauroit rien representer de plus naïf. Mais voyons cét autre Tableau.</p>
-<p><hi rend="rule"></hi><title>TABLEAU SIXIESME.</title><lb/></p>
+<p><hi rend="rule"></hi>TABLEAU SIXIESME.</p>
 <p rend="indent">Or voicy le sixiesme &amp; dernier Tableau, qui contient quatre actions de la Bergere Fortune. La premiere, c'est un songe que Mandrague luy fait faire, l'autre comme elle va à la fontaine pour s'en esclaircir, la troisiesme, comme elle se plaint de l'inconstance de son Berger, &amp; la derniere comme elle meurt, qui est la conclusion de ceste tragedie. Or voyons toutes choses particulierement. Voicy le lever du Soleil, prenez garde à la longueur
 <pb xml:id="page_abs_763" n="page_ori_378"/>
 de ses ombres, &amp; comme d'un costé le Ciel est encor un peu moins clair. Voyez ces nuës qui sont à moitié air, comme il semble que peu à peu elles s'aillent eslevant, ces petits oyseaux qui semblent en montant chanter, &amp; trémousser de l'ayle, sont des alloüettes qui se vont seichant de la rosée au nouveau Soleil : ces oyseaux mal formez, qui d'un vol incertain se vont cachant, sont des chat-huants, qui fuient le Soleil, dont la montaigne couvre encores une partie, &amp; l'autre reluit si claire qu'on ne sçauroit juger que ce fust autre chose qu'une grande &amp; confuse clairté. Passons plus outre : Voicy la Bergere Fortune qui dort, elle est dans le lict, où le Soleil qui entre par la fenestre ouverte par mesgarde, luy donne sur le sein à demy descouvert. Elle a un bras negligemment estendu sur le bois du lict, la teste un peu panchée le long du chevet, l'autre main estenduë le long de la cuisse par le dehors du lict, &amp; par ce que la chemise s'est par hazard retroussée, vous la voyez par dessus le coude sans qu'elle cache nulle des beautez du bras ; voicy autour d'elle les demons de Morphée, dont Mandrague s'est servie, pour luy donner volonté d'aller à la fonteine des veritez d'Amour. De fait la voicy à ce costé qui y regarde, car ayant songé que son Berger estoit mort, &amp; prenant sa mort pour la perte de son amitié, elle en venoit sçavoir la verité : voyez comme ce visage triste par sa douceur esmeut à pitié &amp; fait participer à son desplaisir, par ce
@@ -3435,7 +3439,7 @@ mour ne se peut payer que par Amour"</q>, vous seriez obligé de me satisfaire e
 <pb xml:id="page_abs_804" n="page_ori_399"/>
 quefois la chaleur trop aspre du Soleil : bref cette veuë luy remit devant les yeux la plus part des contentements qu'il payoit à cet'heure si cherement, &amp; en ceste consideration s'estant assis au pied d'un arbre, il souspira tels vers.</p>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>RESSOUVENIRS.</title></p>
+<label><hi rend="rule"></hi>RESSOUVENIRS.</label>
 <lg rend="italic">
 <l rend="indent">Icy mon beau Soleil repose,</l>
 <l>Quand l'autre paresseux s'endort :</l>
@@ -3551,8 +3555,8 @@ quefois la chaleur trop aspre du Soleil : bref cette veuë luy remit devant les
 <p rend="indent">Ces pensers eussent plus longuement retenu Celadon en ce lieu, n'eust esté la survenuë du Berger desolé, qui plaignant continuellement sa perte, s'en venoit souspirant ces vers.</p>
 <pb xml:id="page_abs_808" n="page_ori_401"/>
 <quote type="poem">
-<p><hi rend="rule"></hi><title>SUR UNE TROP<lb/>
-prompte mort.</title><lb/></p>
+<label><hi rend="rule"></hi>SUR UNE TROP<lb/>
+prompte mort.</label>
 <lg rend="italic">
 <l rend="indent">Vous qui voyez mes tristes pleurs,</l>
 <l>Si vous sçaviez de quels mal-heurs</l>
@@ -3616,8 +3620,8 @@ fois cause de mon contentement, &amp; maintenant occasion de rengreger mes doule
 <pb xml:id="page_abs_819" n="page_ori_406v"/>
 fassiez paroistre à tous ceux qui vous verront de quelle qualité estoit l'amitié du plus infortuné Berger qui ait jamais aimé : Et peut-estre adviendra-il, si pour le moins les Dieux n'ont perdu tout souvenir de moy, qu'apres ma mort pour ma satisfaction, ceste belle vous pourroit retrouver, &amp; que vous considerant, elle connoistra qu'elle eut autant de tort de m'esloigner d'elle, qu'elle avoit eu de raison de vous lier ensemble. A ce mot il s'assit sur une grosse pierre, qu'il avoit traisnée de la riviere à l'entrée de sa grotte, &amp; là apres avoir essuyé ses larmes, il leut la lettre, qui estoit telle.</p>
 <quote type="letter">
-<p><hi rend="rule"></hi><title>LETTRE D'ASTREE<lb/>
-A CELADON.</title><lb/></p>
+<label><hi rend="rule"></hi>LETTRE D'ASTREE<lb/>
+A CELADON.</label>
 <p rend="italic indent">Dieu permette Celadon, que l'asseurance que vous me faites de vostre amitié, me puisse estre aussi longuement continuée, comme d'affection je vous en supplie, &amp; de croire que je vous tiens plus cher, que si vous m'estiez frere, &amp; qu'au tombeau mesme je seray vostre.</p>
 </quote>
 <p rend="indent">Ce peu de mots d'Astrée, furent cause de beaucoup de maux à Celadon, car apres les avoir maintefois releus, tant s'en faut qu'il y retrouvast quelque allegement, qu'au contraire
