@@ -5,63 +5,58 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="astree_1610">
 <teiHeader>
  <fileDesc>
- <titleStmt>
- <title>L'Astrée, deuxième partie</title>
- <author>Honoré d'Urfé</author>
+ <titleStmt><title>L'Astrée, deuxième partie, édition de 1610</title>
+ <author key="Urfé, Honoré (d') (1567-1625)">Honoré d'Urfé</author>
+ </titleStmt>
+ <editionStmt>
+ <edition>
+ <date>1612</date>
+ </edition>
  <respStmt>
  <resp>numérisation par </resp>
  <name>l'équipe Astrée</name>
  </respStmt>
- </titleStmt>
- <editionStmt>
- <edition>
-<date></date>
-</edition>
  </editionStmt>
  <publicationStmt>
+ <address><addrLine>
+ Delphine Denis, Université Paris 4-Sorbonne, 1, rue V. Cousin, Paris, 75005, FRANCE
+ </addrLine></address>
+ <idno></idno>
+ <availability status="restricted">
+ <licence target="Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France"></licence>
+ </availability>
+ <date when="2013"/>
+ <publisher>Dir. Delphine Denis et Alexandre Gefen</publisher>
  <distributor>ACI Astrée (Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France)</distributor>
- <address>
- <addrLine>Delphine Denis, Université Paris 4-Sorbonne, 1, rue V. Cousin, Paris, 75005, FRANCE</addrLine>
- </address>
  </publicationStmt>
- <notesStmt>
- <note>
-<p>Edition de 1610
-</p>
-<p>Le texte de cette édition (Paris, Jean Micard, in-8°) a été établi sur l’exemplaire sur l'exemplaire conservé à la bibliothèque municipale du Mans sous la cote [BL 8° 3194 (2).
-Nous avons signalé les éventuelles erreurs de foliotation.</p>
-</note>
- </notesStmt>
  <sourceDesc>
  <bibl>
-<editor>Dir. Delphine Denis et Alexandre Gefen</editor>
-<title>L'Astrée</title>
-<title type="sub">L'Astrée de messire Honoré d'Urfé</title>
-<author>D'Urfé, Honoré</author>
+ <title>L'Astrée de ùessire Honoré d'Urfé Seconde partie</title>
+ <author>D'Urfé, Honoré</author>
  <date>1610</date>
-</bibl>
+ <edition>Le texte de cette édition (Paris, Jean Micard, in-8°) a été établi sur l’exemplaire sur l'exemplaire conservé à la bibliothèque municipale du Mans sous la cote [BL 8° 3194 (2), sous la direction de Delphine Denis et d'Alexandre Gefen.
+ Nous avons signalé les éventuelles erreurs de foliotation.</edition>
+ </bibl>
  </sourceDesc>
  </fileDesc>
- <encodingDesc>
- <samplingDecl>
-<p>Graphie mise aux normes modernes, orthographe conservée
-</p>
- </samplingDecl>
- </encodingDesc>
  <profileDesc>
  <creation>
-<date></date>
+<date when="1610">1610</date>
 </creation>
  <langUsage>
  <language ident="FR">Français.</language>
  </langUsage>
  </profileDesc>
- <revisionDesc>
- <change>
-<name>AG<date>17/04/2009</date>
-</name>
- </change>
- </revisionDesc>
+<encodingDesc>
+<samplingDecl>
+<p>Graphie mise aux normes modernes, orthographe conservée</p>
+</samplingDecl>
+</encodingDesc>
+<revisionDesc>
+<change when="2009" who="Gefen, Alexandre"><date>17/04/2009</date>
+<name>Alexandre Gefen éd. Diverses corrections pour conformité TEI</name>
+</change>
+</revisionDesc>
 </teiHeader>
 <text>
 <front>
@@ -614,9 +609,7 @@ sa Maistresse.
 <pb xml:id="page_abs_127" n="page_ori_61v"/>
 past presque contre quelque chose si ne se pouvoit-il distraire de ses agreables pensées. Tout ce qu'il voyoit, &amp; tout ce qui se presentoit devant luy, ne servoit qu'à l'entretenir en cette imagination. Si, comme j'ay dit, il bronchoit contre quelque chose : Je trouve bien encores, disoit-il, plus de contrarietez à mes desirs. S'il oyoit trembler les fueilles des arbres, esmeuës par quelque souffle de vent, O que je tremble bien mieux de crainte, disoit-il, quand je suis pres d'elle, &amp; que je luy veux dire les veritables passions qu'elle pense estre feintes ! Que s'il leuoit quelquesfois les yeux en haut, considerant la Lune, il s'escrioit.
 </p>
-<p><hi rend="italic">
-&#160;La Lune au Ciel, &amp; ma Diane en Terre.
-</hi>
+<p rend="italic indent">La Lune au Ciel, &amp; ma Diane en Terre.
 </p>
 <p rend="indent">Le lieu solitaire, le silence, &amp; l'agreable lumiere de cette nuit, eussent esté cause que le Berger eut longuement continué, &amp; son promenoir, &amp; le doux entretien de ses pensées, sans que s'estant enfoncé dans le plus espais du bois, il perdit en partie la clarté de la Lune qui estoit empeschée par les branches, &amp; par les fueilles des arbres, &amp; que revenant en luy mesme, voulant sortir de cet endroit incommode, il n'eust pas si tost jetté les yeux d'un costé &amp; d'autre pour choisir un bon sentier, qu'il ouyt quelqu'un qui parloit aupres de luy. Encor qu'il s'entretint en ce lieu separé de chascun pour estre tout à luy mesme, si ne laissa-t'il d'avoir la curiosité de sçavoir qui estoient
 <pb xml:id="page_abs_128" n="page_ori_62"/>
@@ -686,9 +679,7 @@ d'Astrée.</head>
 <label>
 A la plus aymée &amp; plus belle Bergere de l'univers, le plus infortuné &amp; plus fidelle de ses serviteurs envoye le salut que la fortune luy denie.
 </label>
-<p><hi rend="italic">
-&#160;Mon extreme affection ne consentira jamais que je donne le nom de peine &amp; de supplice à ce que vostre commandement m'a fait ressentir, ny ne souffrira jamais, que la plainte sorte de cette bouche, qui n'a esté destinée que pour vostre loüange. Mais elle me permettra bien de dire que l'estat où je suis, qu'un autre treuveroit peut estre insupportable, me contente d'autant que je sçay que vous le voulez &amp; l'ordonnez ainsi. Ne faites donc point de difficulté d'estendre plus outre encor, s'il se peut, vos commandemens, &amp; je continueray en mon obeyssance, à fin que si durant ma vie je n'ay peu vous assurer de ma fidelité, les champs Elisées pour le moins, &amp; les ames bien-heureuses qui y sont, recognoissent que je suis le plus fidelle, comme le plus infortuné de vos serviteurs.
-</hi>
+<p rend="italic indent">Mon extreme affection ne consentira jamais que je donne le nom de peine &amp; de supplice à ce que vostre commandement m'a fait ressentir, ny ne souffrira jamais, que la plainte sorte de cette bouche, qui n'a esté destinée que pour vostre loüange. Mais elle me permettra bien de dire que l'estat où je suis, qu'un autre treuveroit peut estre insupportable, me contente d'autant que je sçay que vous le voulez &amp; l'ordonnez ainsi. Ne faites donc point de difficulté d'estendre plus outre encor, s'il se peut, vos commandemens, &amp; je continueray en mon obeyssance, à fin que si durant ma vie je n'ay peu vous assurer de ma fidelité, les champs Elisées pour le moins, &amp; les ames bien-heureuses qui y sont, recognoissent que je suis le plus fidelle, comme le plus infortuné de vos serviteurs.
 </p>
 <pb xml:id="page_abs_161" n="page_ori_79"/>
 <p rend="indent">Ah ma soeur! interrompit Astrée, que c'est bien Celadon, qui a escrit ces paroles : je le reconnois à la façon d'escrire &amp; de parler : mais y a-t'il long temps ? Elle n'est point dattée, respondit Diane, qui la tenoit entre les mains : mais à l'escriture je jugerois, comme je vous ay dit, qu'elle est fort fresche : &amp; de fait voicy encor de la poussiere qui tient contre l'ancre. Ma sœur, adjousta Philis, ce qu'il faudroit sçavoir de Silvandre, mais avec discretion, c'est le lieu où il l'a trouvée, ou qui la luy a donnée. Si vous pouvez, respondit Diane, s'adressant à la triste Bergere, remettre un peu vostre visage, à fin qu'il n'y connoisse point de changement, je m'asseure que nous sçaurons de luy tout ce que nous voudrons. Et parce qu'il vous seroit difficile de le pouvoir faire si prontement, je m'en vay seule luy en parler, &amp; puis vous nous viendrez trouver. A ce mot elle s'en alla vers Silvandre, qui s'estoit arresté au premier arbre qu'il avoit trouvé pour y graver avec la pointe d'un cousteau les chifres de sa Maistresse &amp; de luy ; mais ayant du temps de reste &amp; rencontrant par hazard une pierre assez tendre au pied de l'arbre, il y grava un quadran dont l'esguille tremblante tournoit du costé de la Tramontane avec ce mot. J'EN SUIS TOUCHE. Voulant signifier que tout ainsi que l'eguille du quadran estant touchée de l'Aimant se tourne tousjours
@@ -1399,15 +1390,13 @@ MADRIGAL.</label>
 <p rend="indent">Ces choses qui estoient selon la coustume de leur religion (car ils adoroient Dieu sous les tyges des chesnes) ne les estonnerent point, mais si fit bien ce qu'ils apperceurent à main gauche. C'estoit un autre autel qui estoit aussi de Gazons, avec deux grands vazes de terre dans lesquels estoit deux tyges de mirte. Au milieu l'on voyoit un tableau, par dessus
 <pb xml:id="page_abs_313" n="page_ori_152"/> lequelles deux Mirtes pliant les branches, sembloient luy faire une couronne; &amp; cela estoit bien recogneu pour n'estre pas naturel, mais entortillé de ceste sorte par artifice. Le tableau representoit une Bergere de sa hauteur, &amp; au plus haut du tableau il y avoit,
 </p>
-<p><hi rend="italic">
+<p rend="italic">
 C'est la Déesse Astrée,
-</hi>
 </p>
 <p> &amp; au bas on voyoit ce vers,
 </p>
-<p><hi rend="italic">
+<p rend="italic">
 Plus digne de nos Vœux que nos Vœux ne sont d'elle
-</hi>
 </p>
 <p rend="indent">Si tost que Diane jetta les yeux dessus, elle se tourna vers Philis. N'avez vous jamais veu (luy dit-elle) mon serviteur personne à qui ce pourtrait ressemble ? Philis le considerant d'avantage, Voila, luy respondit-elle, le pourtrait d'Astrée. Je n'en vis jamais un mieux fait ny qui luy ressemblast d'avantage : mais, continua-t'elle, vous sembloit-t'il qu'on ne l'ait pas voulu rendre recognoissable ? na-t'elle pas en la main la mesme houlette qu'elle porte : &amp; lors prenant celle qu'Astrée tenoit. Voyez ma Maistresse ces doubles C. &amp; ces doubles A. entrelassez de mesme sorte tout à l'entour; &amp; comme l'endroit où elle la prend quand elle la porte est garni de mesme façon, &amp; les fers d'en bas de cuivre, avec les mesmes chiffres : &amp; le sifflet qui est en haut, representant la moitié d'un serpent, comme il se tourne de mesmes. Vous avez raison, dit Diane, mesme que je vois icy Melampe couché
 <pb xml:id="page_abs_314" n="page_ori_152v"/> à ses pieds. Il est bien recognoissable aux marques qu'il porte. Voyez la moitié de la teste comme il l'a blanche, &amp; l'autre noire, &amp; sur l'aureille noire la marque blanche. Si l'autre aureille n'estoit cachée, il y a apparence que nous y verrions la marque noire : car le peu qui s'en voit au haut de la teste, &amp; au dessus paroist estre blanc. Voyez aussi cette marque blanche tout au tour du col en façon de colier, &amp; l'eschancrure du poil noir qui se tournant en demy lune dessus les espaules, finit de mesme sur la crouppe où le blanc recommence. On n'y a pas mesme oublié ceste bande noire &amp; blanche tout le long des jambes. Silvandre s'approchant d'elle; Et moy, dit-il, j'y recognois entre ce trouppeau la brebis qu'Astrée ayme le plus. La voila toute blanche sinon les aureilles qu'elle a noires, le nez, le tour des yeux, le bout de la queuë, &amp; l'extrémité des quatres jambes : &amp; à fin qu'elle ne fust pas mescogneuë, regardez les nœuds que je luy ay veu porter plusieurs fois à l'entour des cornes en façon de Guirlande. Astrée oyant tous ces discours, demeuroit estonnée &amp; muette, sans faire autre chose que regarder avec admiration ce qu'elle voyoit. Toutesfois s'avançant pres de l'Autel, &amp; voyant plusieurs petits roulleaux de papier espars dessus, elle en prit un, &amp; le desliant toute tremblante, y trouva ces vers :
