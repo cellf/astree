@@ -14,7 +14,7 @@
 </edition>
  <respStmt>
  <resp>numérisation par </resp>
- <name>l' équipe Astrée</name>
+ <name>l'équipe Astrée</name>
  </respStmt>
  </editionStmt>
  <publicationStmt>
@@ -34,9 +34,9 @@
 <title>L'ASTREE DE MESSIRE Honoré d'Urfé Premiere partie édition 1612</title>
 <author>D'Urfé, Honoré</author>
  <date>1612</date>
+ <edition>Le texte de cette édition (Paris, Toussaint du Bray, in-8°) a été établi sur l’exemplaire conservé à la BnF, département Littérature et art, sous la cote [8° Y2. 8801. Il est consultable en ligne :
+ <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1191689">http://gallica.bnf.fr/ark:/12148/bpt6k1191689</ref> Nous avons signalé les éventuelles erreurs de foliotation.</edition>
 </bibl>
- <p>Le texte de cette édition (Paris, Toussaint du Bray, in-8°) a été établi sur l’exemplaire conservé à la BnF, département Littérature et art, sous la cote [8° Y2. 8801. Il est consultable en ligne :
- <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1191689">http://gallica.bnf.fr/ark:/12148/bpt6k1191689</ref> <lb/>Nous avons signalé les éventuelles erreurs de foliotation.</p>
  </sourceDesc>
  </fileDesc>
  <profileDesc>
@@ -54,8 +54,8 @@
 </encodingDesc>
 <revisionDesc>
    <change when="2007" who="Gefen, Alexandre"><date>25/06/2007</date>
-   <name>Alexandre Gefen éd.</name>
-     <p>Diverses corrections pour conformité TEI</p></change>
+   <name>Alexandre Gefen éd. Diverses corrections pour conformité TEI</name>
+</change>
 </revisionDesc>
  </teiHeader>
  <text>
