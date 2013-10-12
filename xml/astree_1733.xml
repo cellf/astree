@@ -6,7 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>L'Astrée de M. d’Urfé, Pastorale allégorique, avec la clé, nouvelle édition, Où sans toucher ni au fonds ni aux épisodes, on s’est contenté de corriger le langage, et d’abréger les conversations, édition de 1733</title>
+           <!-- Faut-il ajouter auteur et date dans le titre ? Redondance avec d’autres infos -->
+            <title>L'Astrée<!-- de M. d’Urfé-->, Pastorale allégorique, avec la clé, nouvelle édition, Où sans toucher ni au fonds ni aux épisodes, on s’est contenté de corriger le langage, et d’abréger les conversations<!--, édition de 1733--></title>
             <author>Honoré d'Urfé</author>
             <respStmt>
                <resp>numérisation par</resp>
