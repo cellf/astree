@@ -124,7 +124,7 @@ bien paroistre qu'il change &amp; le langage &amp; les conceptions, quand il dit
 <lb/>
 <lb/>
 <quote type="poem">
-<lg>
+<lg rend="italic">
 <l>&#160;&#160;Queste selve hoggi raggionar d'Amore</l>
 <l rend="indent">Sudranno in nova guisa, è ben parrassi</l>
 <l rend="indent">Che la mia deità sia qui presente</l>
@@ -254,39 +254,57 @@ SUR LA MORT DE CLEON.</label>
 <l rend="indent">La dépoüillant si tost de son humanité,</l>
 <l rend="indent">Passa comme un esclair, &amp; brusla comme un foudre</l>
 <l rend="indent">Tant elle eust peu de vie, &amp; beaucoup de beauté.</l>
+</lg>
+<lg rend="italic">
 <l>Ces yeux jadis auteurs des douces entreprises,</l>
 <l rend="indent">Des plus cheres Amours sont à jamais fermez,</l>
 <l rend="indent">Beaux yeux qui furent pleins de tant de mignardises,</l>
 <l rend="indent">Qu'on ne les vit jamais sans qu'ils fussent aimez.</l>
+</lg>
+<lg rend="italic">
 <l>S'il est vray, la beauté d'entre nous est ravie,</l>
 <l rend="indent">Amour pleure vaincu qui fut tousjours vaincueur,</l>
 <l rend="indent">Et celle qui donnoit à mile cœurs la vie,</l>
 <l rend="indent">Est morte, si ce n'est qu'elle vive en mon cœur.</l>
+</lg>
+<lg rend="italic">
 <l>Et quel bien desormais peut estre desirable,</l>
 <l rend="indent">Puis que le plus parfait est le plustost ravy ?</l>
 <l rend="indent">Et qu'ainsi que du corps l'ombre est inseparable,</l>
 <l rend="indent">Il faut qu'un bien tousjours soit d'un malheur suivy ?</l>
+</lg>
+<lg rend="italic">
 <l>Il semble, ma Cleon, que vostre destinée,</l>
 <l rend="indent">Ayt dés son Orient vostre jour achevé,</l>
 <l rend="indent">Et que vostre beauté morte aussitost que née</l>
 <l rend="indent">Au lieu de son berceau son cercueil ait trouvé.</l>
+</lg>
+<lg rend="italic">
 <l>Non, vous ne mourez pas, mais c'est plustost moy-mesme,</l>
 <l rend="indent">Puis que vivant je fus de vous seule animé :</l>
 <pb xml:id="page_abs_41" n="page_ori_14v"/>
 <l rend="indent">Et si l'Amant a vie en la chose qu'il aime,</l>
 <l rend="indent">Vous revivez en moy m'ayant tousjours aimé.</l>
+</lg>
+<lg rend="italic">
 <l>Que si je vis Amour veut donner cognoissance,</l>
 <l rend="indent">Que mesme sur la mort il a commandement,</l>
 <l rend="indent">Ou comme estant un Dieu pour monstrer sa puissance,</l>
 <l rend="indent">Que sans ame &amp; sans cœur faire vivre un Amant.</l>
+</lg>
+<lg rend="italic">
 <l>Mais Cleon, si du Ciel l'ordonnance fatale</l>
 <l rend="indent">D'un trépas inhumain vous fait sentir l'effort,</l>
 <l rend="indent">Amour à vos destins rend ma fortune égale,</l>
 <l rend="indent">Vous mourez par mon dueil, &amp; moy par vostre mort.</l>
+</lg>
+<lg rend="italic">
 <l>Je regrettois ainsi mes douleurs immortelles,</l>
 <l rend="indent">Sans que par mes regrets la mort pust s'attendrir,</l>
 <l rend="indent">Et mes deux yeux changez en sources eternelles,</l>
 <l rend="indent">Qui pleurerent mon mal ne sceurent l'amoindrir.</l>
+</lg>
+<lg rend="italic">
 <l>Quand Amour avec moy d'une si belle morte,</l>
 <l rend="indent">Ayant plaint le mal-heur qui cause mes travaux,</l>
 <l rend="indent">Sechons, dit-il, nos yeux, pleignons d'une autre sorte,</l>
@@ -372,19 +390,25 @@ elle en souspirant, que je te responde là dessus, sinon qu'il y a long temps qu
 <milestone unit="rule"/>
 <quote type="poem">
 <label>SONNET.</label>
-<lg>
+<lg rend="italic">
 <l rend="indent">Puis qu'il faut arracher la profonde racine,</l>
 <l>Qu'Amour en vous voyant me planta dans le cœur,</l>
 <l>Et que tant de desir avec tant de longueur,</l>
 <l>Ont si soigneusement nourrie en ma poitrine.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Puis qu'il faut que le temps qui vid son origine,</l>
 <l>Triomphe de sa fin, &amp; s'en nomme vainqueur,</l>
 <pb xml:id="page_abs_50" n="page_ori_19"/>
 <l>Faisons un beau dessein, &amp; sans vivre en langueur,</l>
 <l>Ostons-en tout d'un coup, &amp; la fleur &amp; l'espine.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Chassons tous ces desirs, esteignons tous ces feux,</l>
 <l>Rompons tous ces liens, serrez de tant de nœuds,</l>
 <l>Et prenons de nous mesme un congé volontaire.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Nous le vaincrons ainsi, cet Amour indompté,</l>
 <l>Et ferons sagement de nostre volonté,</l>
 <l>Ce que le temps en fin nous forceroit de faire.</l>
@@ -485,18 +509,18 @@ Sur les contraintes de l'honneur.</label>
 <l rend="indent">Et laissez à l'envy renouvellez par eux,</l>
 <l rend="indent">Ores vos douces paix, or' vos douces querelles.</l>
 </lg>
-<lg>
+<lg rend="italic">
 <l>Quand je vous voy languir, &amp; trémousser des aisles,</l>
 <l rend="indent">Comme ravis de l'aise où vous estes tous deux :</l>
 <l rend="indent">Mon Dieu, qu'à nostre égard je vous estime heureux !</l>
 <l rend="indent">De jouïr librement de vos Amours fidelles.</l>
 </lg>
-<lg>
+<lg rend="italic">
 <l>Vous estes fortunez de pouvoir franchement</l>
 <l rend="indent">Monstrer ce qu'il nous faut cacher si finement,</l>
 <l rend="indent">Par les injustes loix que cest honneur nous donne :</l>
 </lg>
-<lg>
+<lg rend="italic">
 <l>Honneur feint qui nous rend de nous mesme ennemis :</l>
 <l rend="indent">Car le cruel qu'il est, sans raison il ordonne</l>
 <l rend="indent">Qu'en Amour seulement le larcin soit permis.</l>
@@ -919,13 +943,19 @@ cause de la continuation de ses folies, &amp; qu'il avoit plus à se plaindre de
 <l rend="indent">Que ce soit l'impossible, &amp; non ce que je puis,</l>
 <l rend="indent">Qui luy fasse l'essay de ce que je luy suis ;</l>
 <l rend="indent">Et bien, elle le veut, &amp; je le veux de mesme.</l>
+</lg>
+<lg rend="italic">
 <l>En fin elle verra que mon amour extréme,</l>
 <l rend="indent">En sa source ressemble à la source du puis,</l>
 <l rend="indent">Car plus elle voudra m'espuiser par ennuis,</l>
 <l rend="indent">Et plus elle verra qu'infiniment je l'ayme.</l>
+</lg>
+<lg rend="italic">
 <l>La source qui produit ma belle affection,</l>
 <l rend="indent">Est celle-là sans plus de sa perfection,</l>
 <l rend="indent">Eternelle en effet, comme elle est eternelle.</l>
+</lg>
+<lg rend="italic">
 <l>Donc essays rigoureux de mon cruel destin,</l>
 <l rend="indent">Puisez incessamment, mon amour est sans fin,</l>
 <l rend="indent">Et plus vous puiserez plus elle sera belle.</l>
@@ -1502,116 +1532,116 @@ pas le regret qui m'afflige. Et apres s'estre l'un &amp; l'autre teus pour quelq
 <milestone unit="rule"/>
 <quote rend="indent">
 <label rend="noindent">DIALOGUE<lb/>
-DE STELLE, ET CORILAS.<lb/>
-STEL.</label>
+DE STELLE, ET CORILAS.</label>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l>Voudriez vous estre mon Berger,</l>
 <l>A faute d'Amour infidelle ?</l>
 </lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">Pour suivre vostre esprit leger,</l>
 <l>Il faut plustost une bonne ayle,</l>
 <l>Que non pas un courage haut,</l>
 <l>Mais vous suivre c'est un deffaut.</l></lg>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Vous n'avez pas tousjours pensé,</l>
 <l>Que m'aimer fust erreur si grande.</l></lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">Ne parlons plus du temps passé,</l>
 <l>Celuy vit mal, qui ne s'amende,</l>
 <l>Le passé ne peut revenir,</l>
 <l>Ny moy non plus m'en souvenir.</l></lg>
 <pb xml:id="page_abs_297" n="page_ori_142v"/>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Que c'est de ne sçavoir aymer,</l>
 <l>Et se figurer le contraire ?</l></lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">Pourquoy me voulez vous blasmer,</l>
 <l>De ce que vous ne sçavez faire ?</l>
 <l>Vous aimez par opinion,</l>
 <l>Et non pas par élection.</l></lg>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Je vous aime &amp; aimeray,</l>
 <l>Quoy que vostre Amour soit changée.</l></lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">Moy, jamais je ne changeray,</l>
 <l>Celle où mon ame est engagée :</l>
 <l>Ne croyez point qu'à chaque jour</l>
 <l>Je change comme vous d'Amour.</l></lg>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Vous vous estes donques resolu</l>
 <l>De suivre une amitié nouvelle ?</l></lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">Si quelquefois vous m'avez plu,</l>
 <l>Je vous jugeois estre plus belle :</l>
 <l>J'ay depuis veu la verité,</l>
 <l>Vous avez trop peu de beauté.</l></lg>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Infidelle ! vous destruisez</l>
 <l>Une amitié qui fut si grande ?</l></lg>
 <pb xml:id="page_abs_298" n="page_ori_143"/>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">De vostre erreur vous m'accusez,</l>
 <l>Le battu paye ainsi l'amende :</l>
 <l>Mais dittes ce qu'il vous plaira,</l>
 <l>Ce qui fut jamais ne sera.</l></lg>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Mais quoy, vous m'aimez en effet,</l>
 <l>Qui vous fait estre si volage ?</l></lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">Quand on voit l'erreur qu'on a fait,</l>
 <l>Changer d'advis, c'est estre sage :</l>
 <l>Il vaut mieux tard se repentir,</l>
 <l>Que jamais d'erreur ne sortir.</l></lg>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Le change oste donc d'entre nous,</l>
 <l>Ceste amitié que je desire.</l></lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">Le change m'a fait estre à vous,</l>
 <l>De vous le change me retire :</l>
 <l>Mais si je plains changeant ainsi,</l>
 <l>C'est d'avoir tardé jusqu'icy.</l></lg>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Et quoy, l'honneur ny le devoir</l>
 <l>Ne sçauroient vaincre une humeur telle ?</l></lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">Qu'est-ce qu'en vous je puis plus voir,</l>
 <l>Qui ceste amitié renouvelle,</l>
 <pb xml:id="page_abs_299" n="page_ori_143v"/>
 <l>Dont vos faintes m'avoient espris,</l>
 <l>Puis qu'en son lieu j'ay le mépris ?</l></lg>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Je vous verray pour me venger,</l>
 <l>Sans estre aimé, servir quelqu'autre.</l></lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">Bien tost d'un tel mal, le changer</l>
 <l>Me guerira comme du vostre :</l>
 <l>Et si je fais onc autrement</l>
 <l>J'auray perdu l'entendement.</l></lg>
-<p>STEL.</p>
+<p rend="center">STEL.</p>
 <lg rend="italic">
 <l rend="noindent">Et n'aurez vous point de regret</l>
 <l>D'une infidelité si grande ?</l></lg>
-<p>COR.</p>
+<p rend="center">COR.</p>
 <lg rend="italic">
 <l rend="noindent">J'en ay prononcé le decret,</l>
 <l>Celuy me doit qui me demande :</l>
@@ -1923,7 +1953,7 @@ amoureux de moy, avec autant de passion, &amp; plus encores que s'il eust esté 
 <pb xml:id="page_abs_358" n="page_ori_173v"/>
 augmentant de jour à autre son affection, &amp; se plaisant en ses pensers, bien souvent il se retiroit seul pour les entretenir ; &amp; par ce que le jour il ne vouloit nous esloigner, quelquefois la nuit, quand il pensoit que chacun dormoit, il sortoit de sa chambre, &amp; s'en alloit dans un jardin, où sous quelques arbres il passoit une partie du temps en ses considerations ; &amp; d'autant que plusieurs fois il sortit de ceste sorte, Daphnis s'en prit garde, qui couchoit en mesme chambre, &amp; comme <q>"ordinairement on soupçonne plustost le mal que le bien"</q>, elle eut opinion de luy &amp; d'Amidor, pour la recherche que ce jeune Berger luy faisoit : &amp; pour s'en asseurer, elle veilla de façon, faignant de dormir, que voyant sortir la fainte Callirée du lict, elle la suivit de si pres, qu'elle fut presque aussi tost que ce jeune Berger, dans la basse court, n'ayant mis sur elle qu'une robe à la haste, &amp; le suivant pas à pas à la lueur de la Lune, elle le vid sortir de la maison, par une porte mal fermée, &amp; entrer dans un jardin, qui estoit sous les fenestres de ma chambre, &amp; passant jusques au milieu, le vid asseoir sous quelques arbres, &amp; tendant les yeux contre le Ciel, ouyt qu'il disoit fort haut.<lb/></p>
 <quote type="poem" rend="italic">
-<lg>
+<lg rend="italic">
 <l>Ainsi ma Diane surpasse,</l>
 <l>En beauté les autres beautez</l>
 <l>Comme de nuict la Lune efface,</l>
@@ -2059,7 +2089,7 @@ inconstance.</label>
 <l rend="indent">La belle qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p>I.</p>
+<p rend="center">I.</p>
 <lg rend="italic">
 <l rend="indent">J'ayme à changer, c'est ma franchise,</l>
 <l>Et mon humeur m'y va portant :</l>
@@ -2068,7 +2098,7 @@ inconstance.</label>
 <l rend="indent">Tant s'en faut, qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p>II.</p>
+<p rend="center">II.</p>
 <lg rend="italic">
 <l rend="indent">Faire aimer une ame barbare.</l>
 <l>C'est signe de grande beauté,</l>
@@ -2079,7 +2109,7 @@ inconstance.</label>
 <l rend="indent">Beaucoup plus d'honneur en aura.
 </l>
 </lg>
-<p>III.</p>
+<p rend="center">III.</p>
 <lg rend="italic">
 <l rend="indent">Arrester un fais immobile,</l>
 <l>Qui ne le peut faire aisément ?</l>
@@ -2088,7 +2118,7 @@ inconstance.</label>
 <l rend="indent">C'est pourquoy qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p>IIII.</p>
+<p rend="center">IIII.</p>
 <lg rend="italic">
 <l rend="indent">Et pourquoy trouvez-vous estrange</l>
 <l>Que je change pour avoir mieux ?</l>
@@ -2097,7 +2127,7 @@ inconstance.</label>
 <l rend="indent">Mais celle qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p>V.</p>
+<p rend="center">V.</p>
 <lg rend="italic">
 <l rend="indent">On dira bien que cette belle,</l>
 <l>Qui rendra mon cœur arresté,</l>
@@ -2106,7 +2136,7 @@ inconstance.</label>
 <l rend="indent">Par ainsi qui m'arrestera</l>
 <l rend="indent">Beaucoup plus d'honneur en aura.</l>
 </lg>
-<p>VI.</p>
+<p rend="center">VI.</p>
 <lg rend="italic">
 <l rend="indent">Venez donques cheres Maistresses,</l>
 <pb xml:id="page_abs_413" n="page_ori_201v"/>
@@ -2140,13 +2170,19 @@ plus de neuf ans, &amp; quand elle commença à croistre, &amp; qu'elle pût res
 <l>Depuis que je la vis, ceste Cleon si belle,</l>
 <l>J'ay senty dans le cœur une douleur nouvelle,</l>
 <l>Encores que son œil me l'ait soudain osté.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Depuis d'un chaut desir je me sens agité,</l>
 <l>Si toutefois desir tel mouvement s'appelle,</l>
 <l>De qui le jugement tellement s'ensorcelle,</l>
 <l>Qu'il joint à son dessein ma propre volonté.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">De ce commencement mon mal a pris naissance,</l>
 <l>Car depuis le desir accreut sa violance,</l>
 <l>Et soudain je perdis &amp; repos &amp; repas.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Au lieu de ce repos nâquit l'inquietude</l>
 <l>Qui serve du desir bâtit ma servitude :</l>
 <l>C'est le mal que je sens &amp; que je n'entens pas.</l>
@@ -2459,14 +2495,20 @@ Sur la douceur d'une amitié.</label>
 <l>Ou que d'un doux clin d'œil elle ébloüit nos yeux</l>
 <l>Amour parle avec elle, &amp; d'un son gratieux,</l>
 <l>Nous ravit par l'oreille, &amp; des yeux nous enchante.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">On ne le voit point tel, quand cruel il tourmente,</l>
 <l>Les cœurs passionnez de desirs furieux ;</l>
 <l>Mais bien lors qu'enfantin, il s'en court tout joyeux,</l>
 <l>Dans le sein de sa mere, &amp; mille amours enfante.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Ny jamais se joüant aux vergers de Paphos,</l>
 <l>Ny prenant au giron des graces son repos,</l>
 <pb xml:id="page_abs_499" n="page_ori_244v"/>
 <l>Nul ne l'a veu si beau qu'aupres de ma Bergere :</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Mais quand il blesse aussi, le doit-on dire Amour ?</l>
 <l>Il l'est quand il se joüe, &amp; qu'il fait son sejour</l>
 <l>Dans le sein de Carlis, comme au sein de sa mere.</l>
@@ -2627,13 +2669,19 @@ vous luy commandiez de celer son affection : ils estoient tels.</p>
 <l>Est-il rien de plus beau qu'une honneste amitié ?</l>
 <l>Les esprits vertueux l'un à l'autre elle attache</l>
 <l>Et loing des cœurs humains bannit l'inimitié :</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Si vostre eslection est celle qui vous fasche,</l>
 <l>Et que vous me jugiez trop indigne moitié,</l>
 <l>Orgueilleuse beauté qu'à chacun on le cache,</l>
 <l>Sans que jamais en vous se monstre la pitié.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Mais toutefois Didon d'un corsaire n'a honte,</l>
 <l>Paris jeune Berger, son Œnone surmonte,</l>
 <l>Et Diane s'esmeut pour son Endimion.</l>
+</lg>
+<lg rend="italic">
 <l rend="indent">Amour n'a point d'égard à la grandeur Royale,</l>
 <l>Au Sceptre le plus grand la houlette il égale,</l>
 <l>Et sans plus luy suffit la pure affection.</l>
@@ -3251,27 +3299,39 @@ bien dire qu'il fust inspiré de quelque bon demon : car si d'abord Celion eust
 <l rend="indent">Sans autre reconfort,</l>
 <l rend="indent">Que celuy de mes plaintes,</l>
 <l rend="indent">Je souspire à la mort.</l>
+</lg>
+<lg rend="italic">
 <l>Ma deffense est sans plus, l'impossible esperance,</l>
 <l rend="indent">Mais le glaive aceré,</l>
 <l rend="indent">Dont le mal-heur m'offense,</l>
 <l rend="indent">Est un mal asseuré.</l>
+</lg>
+<lg rend="italic">
 <l>J'espere quelquefois en ma longue misere,</l>
 <l rend="indent">De voir finir mon dueil :</l>
 <l rend="indent">Mais quoy ! je ne l'espere</l>
 <l rend="indent">Sinon dans le cercueil.</l>
+</lg>
+<lg rend="italic">
 <l>Celuy ne doit-il point s'estimer miserable,</l>
 <l rend="indent">Et les Dieux ennemis</l>
 <l rend="indent">Dont l'espoir favorable</l>
 <l rend="indent">En la mort est remis ?</l>
+</lg>
+<lg rend="italic">
 <l>Mais où sont les desseins de ce courage extréme,</l>
 <l rend="indent">En mon mal resolus ?</l>
 <l rend="indent">Mais où suis-je moy-mesme ?</l>
 <l rend="indent">Je ne me connois plus. </l>
+</lg>
 <pb xml:id="page_abs_708" n="page_ori_350"/>
+<lg rend="italic">
 <l>Mon ame en sa douleur est tellement confuse,</l>
 <l rend="indent">Que ce qu'ore elle veut</l>
 <l rend="indent">Soudain elle refuse</l>
 <l rend="indent">Alors qu'elle le peut.</l>
+</lg>
+<lg rend="italic">
 <l>Reduitte en cet estat, elle ne peut connoistre,</l>
 <l rend="indent">Qu'elle a, ny quelle elle est :</l>
 <l rend="indent">O pourquoy faut-il estre,</l>
