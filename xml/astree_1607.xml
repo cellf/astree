@@ -7,59 +7,55 @@
   <fileDesc>
    <titleStmt>
     <title>L'Astrée, première partie, édition de 1607</title>
-    <author>Honoré d'Urfé</author>
+   <author key="Urfé, Honoré (d') (1567-1625)">Honoré d'Urfé</author>
+   </titleStmt>
+  <editionStmt>
+  <edition>
+  <date>1607</date>
+  </edition>
     <respStmt>
      <resp>numérisation par </resp>
      <name>l' équipe Astrée</name>
     </respStmt>
-   </titleStmt>
-   <editionStmt>
-    <edition>
-     <date>1607</date>
-    </edition>
    </editionStmt>
-   <publicationStmt>
-    <distributor>ACI Astrée (Université Paris 4/Ministère de l'Education nationale, de
-     l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France)</distributor>
-    <address>
-     <addrLine>Delphine Denis, Université Paris-Sorbonne, 1, rue V. Cousin, Paris, 75005,
-     FRANCE</addrLine>
-    </address>
-   </publicationStmt>
-   <notesStmt>
-    <note>
-     <p>Edition de 1607</p>
-     <p>Le texte de cette édition (Paris, Toussaint du Bray, in-8°) a été établi sur l’exemplaire conservé à la BnF, Réserve des livres rares, sous la cote [Rés. p. Y2. 261. Nous avons signalé les éventuelles erreurs de foliotation. </p>
-    </note>
-   </notesStmt>
+  <publicationStmt>
+  <address><addrLine>
+ Delphine Denis, Université Paris 4-Sorbonne, 1, rue V. Cousin, Paris, 75005, FRANCE
+ </addrLine></address>
+  <idno></idno>
+  <availability status="restricted">
+  <licence target="Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France"></licence>
+  </availability>
+  <date when="2013"/>
+  <publisher>Dir. Delphine Denis et Alexandre Gefen</publisher>
+  <distributor>ACI Astrée (Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France)</distributor>
+  </publicationStmt>
    <sourceDesc>
     <bibl>
-     <editor>Dir. Delphine Denis et Alexandre Gefen</editor>
-     <title type="sub">L'ASTREE DE MESSIRE Honoré d'Urfé Premiere partie 1607</title>
+     <title>L'ASTREE DE MESSIRE Honoré d'Urfé Premiere partie 1607</title>
      <author>D'Urfé, Honoré</author>
       <date>1607</date>
+    <edition>Le texte de cette édition (Paris, Toussaint du Bray, in-8°) a été établi sur l’exemplaire conservé à la BnF, Réserve des livres rares, sous la cote Rés. p. Y2. 261, sous la direction de Delphine Denis et Alexandre Gefen. Nous avons signalé les éventuelles erreurs de foliotation.</edition>
     </bibl>
    </sourceDesc>
   </fileDesc>
-  <encodingDesc>
-   <samplingDecl>
-    <p>Orthographe conservée</p>
-   </samplingDecl>
-  </encodingDesc>
   <profileDesc>
    <creation>
-    <date>1607</date>
+    <date when="1607">1607</date>
    </creation>
    <langUsage>
     <language ident="FR">Français.</language>
    </langUsage>
   </profileDesc>
+ <encodingDesc>
+ <samplingDecl>
+ <p>Orthographe conservée</p>
+ </samplingDecl>
+ </encodingDesc>
   <revisionDesc>
-   <change>
-    <date>25/06/2007</date>
-    <name>Alexandre Gefen éd.</name> 
-    <p>Diverses corrections pour conformité TEI</p>
-   </change>
+  <change when="2007" who="Gefen, Alexandre"><date>25/06/2007</date>
+  <name>Alexandre Gefen éd. Diverses corrections pour conformité TEI</name>
+  </change>
   </revisionDesc>
  </teiHeader>
  <text>
@@ -82,9 +78,8 @@
   </front>
   <body>
    <div n="1" xml:id="auteur_a_la_bergere" type="texte-preliminaire">
-     <head><hi rend="bold">L'AUTHEUR <lb/>A LA BERGERE <lb/>ASTREE <lb/></hi></head>
-     <p rend="indent">
-      <lb/><lb/><hi rend="italic">Il n'y a donc rien, ma Bergere, qui te puisse plus
+     <head><hi rend="bold">L'AUTHEUR <lb/>A LA BERGERE <lb/>ASTREE</hi></head>
+     <p rend="italic indent">Il n'y a donc rien, ma Bergere, qui te puisse plus
        longuement arrester pres de moy ? Il te fasche, dis-tu, de demeurer plus long temps
        prisonniere dans les recoins d'un solitaire Cabinet, &amp; de manger ainsi ton âge
        inutilement. Il ne sied pas bien, mon cher enfant, à une fille bien née de courre de cette
@@ -146,9 +141,8 @@
        redire. Et qu'outre cela, la pluspart de ta trouppe est remplie d'Amour, qui est, comme dit
        Platon, un ravissement qui esleve les esprits abaissez, &amp; éveille les endormis : Et que
        ce mesme Amour dans l'Aminte fait bien paroistre qu'il change &amp; le langage &amp; les
-       conceptions, quand il dit.</hi>
-      <lb/></p>
-     <p><lb/><lb/>&#160;&#160;Queste selve hoggi raggionar d'Amore <lb/>&#160;S'udranno in nova
+       conceptions, quand il dit.</p>
+     <p rend="indent">Queste selve hoggi raggionar d'Amore <lb/>&#160;S'udranno in nova
       guisa, e ben paresse <lb/>&#160;Che la mia deità sia qui presente <pb xml:id="page_abs_7"
        n="page_ori_aiiij"/>
       <lb/>&#160;In se medesma, non ne['] suoi [min]istri <lb/>&#160;Spirerò nobil senzi a' rozi
