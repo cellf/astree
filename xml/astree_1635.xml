@@ -1,154 +1,164 @@
-<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../teipub/tei2html.xsl"?>
+<?xml-model href="../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="astree.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="astree_1635">
 <teiHeader>
  <fileDesc>
  <titleStmt>
  <title>L'Inconstance d'Hylas</title>
- <author>André Mareschal</author>
- <respStmt>
- <resp>numérisation par </resp>
- <name>l' équipe Astrée et Chrystelle Barbillon</name>
- </respStmt>
+ <author key="Mareschal, André">André Mareschal</author>
  </titleStmt>
  <editionStmt>
  <edition>
 <date>1635</date>
 </edition>
+ <respStmt>
+ <resp>numérisation par </resp>
+ <name>l'équipe Astrée et Chrystelle Barbillon</name>
+ </respStmt>
  </editionStmt>
  <publicationStmt>
+ <address><addrLine>
+ Delphine Denis, Université Paris 4-Sorbonne, 1, rue V. Cousin, Paris, 75005, FRANCE
+ </addrLine></address>
+ <idno></idno>
+ <availability status="restricted">
+ <licence target="Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France"></licence>
+ </availability>
+ <date when="2013"/>
+ <publisher>Dir. Delphine Denis et Alexandre Gefen</publisher>
  <distributor>ACI Astrée (Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France)</distributor>
- <address>
- <addrLine>Delphine Denis, Université Paris-Sorbonne, 1, rue V. Cousin, Paris, 75005, FRANCE</addrLine>
- </address>
  </publicationStmt>
- <notesStmt>
- <note>
-<p>A préciser</p>
-</note>
- </notesStmt>
  <sourceDesc>
  <bibl>
-<editor>Dir. Delphine Denis et Alexandre Gefen</editor>
-<title type="sub">L'Inconstance d'Hylas</title>
+<edition>Dir. Delphine Denis et Alexandre Gefen</edition>
+<title>L'Inconstance d'Hylas</title>
 <author>André Mareschal</author>
-<imprint>
- <pubPlace></pubPlace>
- <publisher></publisher>
- <date></date>
- </imprint>
 </bibl>
  </sourceDesc>
  </fileDesc>
- <encodingDesc>
- <samplingDecl>
- <p>Orthographe conservée</p>
- </samplingDecl>
- </encodingDesc>
  <profileDesc>
  <creation>
-<date>1635</date>
+<date when="1635">1635</date>
 </creation>
  <langUsage>
- <language id="FR" usage="100">Français.</language>
+ <language ident="FR">Français.</language>
  </langUsage>
  </profileDesc>
- <revisionDesc>
-   <change><date>06/02/2009</date>
-     <respStmt>
-     <name>Alexandre Gefen</name><resp>éd.</resp>
-     </respStmt>
-     <item>Saisie Datactivity/Chrystelle Barbillon</item></change>
+<encodingDesc>
+<samplingDecl>
+<p>Orthographe conservée</p>
+</samplingDecl>
+</encodingDesc>
+<revisionDesc>
+<change when="2009" who="Gefen, Alexandre"><date>06/02/2009</date>
+<name>Alexandre Gefen éd. Diverses corrections pour conformité TEI ; saisie Datactivity/Chrystelle Barbillon</name>
+</change>
 </revisionDesc>
  </teiHeader>
 <text>
-<body>
-<div0 n="Pages liminaires" id="page_lim" type="liminaires">
-<div1 n="Page de titre" id="page_titre1" type="titre">
-<pb id="page_abs_1" n="page_ori_LIM1"/>
-<title><hi rend="italic">L'INCONSTANCE D'HYLAS</hi></title>
-<lb/><title><hi rend="italic">TRAGE-COMEDIE Pastorale.</hi></title><lb/>
-<p><lb/>Par le Sieur MARESCHAL.<lb/></p>
-<p><lb/>A PARIS,<lb/></p>
-<p><lb/>Che[z] FRANCOIS TARGA, au<lb/>
+<front>
+<pb xml:id="page_abs_1" n="page_ori_LIM1"/>
+<titlePage>
+<docTitle>
+<titlePart>L'INCONSTANCE D'HYLAS</titlePart>
+<titlePart>TRAGE-COMEDIE Pastorale.</titlePart>
+</docTitle>
+<docAuthor>Par le Sieur MARESCHAL.</docAuthor>
+<docImprint>A PARIS,<lb/> Che[z] FRANCOIS TARGA, au<lb/>
 premier pilier de la grand'Salle du Palais,<lb/>
-devant la Chapelle, au Soleil d'or.<lb/></p>
-<hi rend="rule"></hi>
-<p><lb/>M. DC. XXXV.<lb/></p>
-<p><lb/><hi rend="italic">Avec Privilege du Roy.</hi><lb/></p>
-</div1>
-<div1 n="Epître dédicatoire" id="page_titre2" type="epitre">
-<pb id="page_abs_2" n="page_ori_LIM2"/>
-<p><lb/>A TRES-HAUT ET PUISSANT PRINCE MONSEIGNEUR HENRY DE LORRAINE, Archevesque &amp; Duc de Rheims, premier Pair de France, Legat né du S. Siege Apostolique, Abbé de S. Denys en France, S. Remy, Fécamp, Occamp, Corbie, Montierander, S. Martin lez Ponthoise, &amp; c.<lb/></p>
-<hi rend="italic">
-<p><lb/>MONSEIGNEUR,<lb/></p>
-<p><lb/>&nbsp;Si j'avois à traiter avec un esprit moindre que le vostre, je rechercherois quelques vaines flatteries &amp; ces beaux mots affectez, qui sont le plus souvent tous les ornemens
-<pb id="page_abs_3" n="page_ori_LIM3"/>
+devant la Chapelle, au Soleil d'or.<lb/>
+</docImprint>
+<milestone unit="hr"/>
+<docDate>M. DC. XXXV.</docDate>
+<docImprint rend="i">Avec Privilege du Roy.</docImprint>
+</titlePage>
+<div n="1" xml:id="epitre" type="page_preliminaire">
+<pb xml:id="page_abs_2" n="page_ori_LIM2"/>
+<head>A TRES-HAUT ET PUISSANT PRINCE MONSEIGNEUR HENRY DE LORRAINE, Archevesque &amp; Duc de Rheims, premier Pair de France, Legat né du S. Siege Apostolique, Abbé de S. Denys en France, S. Remy, Fécamp, Occamp, Corbie, Montierander, S. Martin lez Ponthoise, &amp; c.</head>
+<p>MONSEIGNEUR,</p>
+<p rend="i indent">Si j'avois à traiter avec un esprit moindre que le vostre, je rechercherois quelques vaines flatteries &amp; ces beaux mots affectez, qui sont le plus souvent tous les ornemens
+<pb xml:id="page_abs_3" n="page_ori_LIM3"/>
 d'une Lettre ; &amp; ne demanderois que les portes de vos oreilles pour entrer en vostre cœur.
 Mais comme je sçay que c'est un Autel qui ne reçoit point de fumée en sacrifice, &amp; qu'on ne peut gagner vos affections sans parler à vostre jugement, qui est un Juge qu'on ne peut corrompre, je m'addresse à luy sans pompe &amp; sans fard, &amp; ne le veux tenter que par la verité, qui parle mieux que le mensonge le plus eloquent. Je n'yray pas la chercher dans l'Histoire, ni dans le Tombeau venerable de tant de Heros qui ont remply &amp; l'un &amp; l'autre ; puis qu'on vous peut loüer à moins de bruit que d'éveiller les Morts, &amp; de faire sonner les plus claires trompettes de la plus vieïlle &amp; nouvelle Renommée. Je laisse donc à part cette illustre Maison, qui est venuë par tant de triomphes &amp; d'honneur des premiers siecles jusqu'au nostre, qui malgré tous les vents ne doit tomber qu'en la cheute du Monde, &amp; qu'on ne sçauroit ignorer tant qu'il y aura des Aigles à Rome, des Lys en France, &amp; des Croix dans la Palestine. Que d'autres se plaisent à l'ombre ; cette vieïlle Souche en a
-<pb id="page_abs_4" n="page_ori_LIM4"/>
+<pb xml:id="page_abs_4" n="page_ori_LIM4"/>
 fait une si grande qu'elle a couvert l'Europe &amp; l'Asie : Pour moy je ressemblée [à] ces Œconomes plus ménagers que voluptueux, j'estime l'arbre par le fruict[.] Je regarde vostre merite plustost que cét éclat que vous tirez de vostre naissance ; Vous avez vos vertus [à] part aussi bien que tous vos Ayeulz : ils vous ont moins laissé que vous ne leur avez déja rendu ; &amp; pour vous estimer plus noblement, j'admire vostre Grandeur seulement du côté qu'elle vient de vous. Voila, MONSEIGNEUR, comme je vous traite : Je ne veux point vous donner de loüanges empruntées ; &amp; si je voulois croire vostre modestie, je ne vous en donnerois point du tout. Mais il est impossible, à moins que de se taire ; &amp; parler simplement de vous, c'est loüer, c'est benir, c'est exalter ; puis que vous n'avez point de qualitez ni de perfections de qui l'on puisse discourir en d'autres termes. C'est par où je me treuve dans cette contrainte glorieuse qui fait la plus douce felicité des Esprits celestes ; qui n'ayant pour objet de leurs pensées &amp; de leurs paroles que des vertus &amp; 
-<pb id="page_abs_5" n="page_ori_LIM5"/>
+<pb xml:id="page_abs_5" n="page_ori_LIM5"/>
 des graces, n'ont de voix aussi que pour adorer, &amp; qui ne soient en effect des loüanges &amp; des hymnes. Toutesfois, MONSEIGNEUR, pour obeïr à la secrette &amp; severe deffense que vostre discretion me fait de passer outre, &amp; de peur de vous donner sur un bon dessein de mauvaises paroles, mon respect les finiroit &amp; me fermeroit la bouche ; n'estoit qu'Hylas dedans son humeur libre se plaint hautement que je l'ay oublié, &amp; semble me faire un juste reproche, de ce qu'en le presentant à vostre Grandeur, il ne m'est pas échapé seulement un mot en sa faveur. C'est contre la coûtume je l'avouë, il faut estimer le present qu'on donne, quand ce ne seroit que pour le faire treuver, &amp; plus digne &amp; plus agreable. Ce dessein est fort juste : Mais outre que l'on en abuse, &amp; qu'en vantant ces dons d'esprit on se regarde plustost que ceux à qui on les offre ; de peur de tomber dans ce vice si commun, je me suis tellement attaché à vous seul, &amp; vos vertus ont si fort remply ma pensée, qu'en vous admirant je n'ay pû la tourner vers un autre. Qu'Hylas s'en offense autant qu'il voudra :
-<pb id="page_abs_6" n="page_ori_LIM6"/>
+<pb xml:id="page_abs_6" n="page_ori_LIM6"/>
 Il m'estoit impossible de parler à vous, &amp; de songer à luy ; je ne l'ay point abandonné, mais je vous ay suivy : je n'ay point manqué d'amitié pour luy, mais j'ay plus eu encore de respect pour vous. Ce luy est un tesmoignage asseuré de mon amour de ce que je m'oblige peut estre à rougir pour luy, &amp; que je ne feints point de l'offrir à vostre Grandeur, à qui l'on ne devroit donner que l'Ecarlate, &amp; la Thyâre. Qu'il vienne pare de ses graces naturelles, qui l'ont fait souvent admirer sur le Theatre, &amp; dans les plus beaux Cabinets ; qu'il se serve, afin de vous aborder plus honorablement, des applaudissemens qu'il a receus de tous Paris, &amp; d'une vieïlle reputation continuée de cinq à six ans : mais qu'il n'attende de moy ni de vanité pour le loüer, ni d'ambition &amp; d'effronterie à le produire. C'est assez MONSEIGNEUR, que je luy aye donné connoissance des lumieres &amp; des rares perfections dont vostre esprit est remply, à qui il n'est rien de caché en ce genre d'écrire ; où vous-mesme excellez, &amp; dont vous avez donné depuis peu de nouveaux témoignages, qui sont trop beaux pour
-<pb id="page_abs_7" n="page_ori_LIM7"/>
-demeurer entierement secrets : Il est suffisamment instruit de ce qu'il doit ou esperer ou craindre de vostre capacité ; il sçait que vous connoissez également le bien &amp; le mal ; qu'il n'est point de defauts si cachez qu'un traict d'œil ne vous decouvre ; &amp; qu'en un lieu où il cherche son Protecteur, il treuvera son Juge. Cela devoit l'avoir intimide, &amp; ne luy a toutefois qu'enflé le courage : Il ne seroit pas cet Hylas, de qui l'humeur &amp; l'esprit ont paru si agreables à toute la Cour, s'il craignoit l'entretien du plus poli &amp; plus parfait des Princes : &amp; sur la foy qu'on peut tirer de tant de douces inclinations qui vous portent à aymer les honestes gens, j'ay bien osé tout discret que je suis, luy faire esperer de vostre bonté un accueil favorable, si sa reputation n'est point fausse, &amp; s'il est de vray aussi honeste homme que je suis parfaitement,<lb/></p>
-</hi>
-<p><lb/>&nbsp;MONSEIGNEUR,<lb/></p>
-<p><lb/>&nbsp;&nbsp;<hi rend="italic">De vostre Grandeur,</hi><lb/></p>
-<p><lb/>&nbsp;&nbsp;&nbsp;Le tres-humble &amp; tres-obeïssant serviteur,<lb/>
-&nbsp;&nbsp;&nbsp;&nbsp;A. MARESCHAL<lb/></p>
-</div1>
-<div1 n="Au lecteur" id="page_titre3" type="au_lecteur">
-<pb id="page_abs_8" n="page_ori_LIM8"/>
-<p><lb/><title><hi rend="italic">AU LECTEUR.</hi></title><lb/></p>
-<p><lb/>&nbsp;N'attends point de longue Preface au front de cette Piece, pour la rendre plus recommandable, ou pour me faire loüer hautement par un Amy. Aprës l'appl[a]udissement general &amp; l'honneur qu'elle a receu dessus un Theatre de cinq ans, je m'imagine que son titre luy sert de recommandation ; &amp; je ne suis pas assez vain, pour faire tomber un Amy dans cette lâcheté de me flatter. C'est tout dire en deux mots : VOICY HYLAS. Tous ceux qui l'ont connu l'attendent depuis un long temps avec impatience ; &amp; ceux qui ne l'attendent point ne pouront s'empecher de le connoistre, s'ils se hazardent de le regarder ou de l'écouter un moment. Ce n'est pas qu'il ait l'esprit excellent, il touche de trop prés au mien : mais c'est qu'il est de bonne humeur : espreuve-le, si tu ne m'en veux croire, &amp; ne crains point de t'ennuyer.<lb/></p>
-</div1>
-<div1 n="Argument" id="page_titre4" type="argument">
-<pb id="page_abs_9" n="page_ori_LIM9"/>
-<p><lb/><title><hi rend="italic">ARGUMENT<lb/>de l'Inconstance d'Hylas.</hi></title><lb/></p>
-<p><lb/>&nbsp;HYLAS, le plus gentil esprit de la Province des Romains, &amp; sorti de la meilleure famille de ces anciens Pâtres qui habitoient l'Isle de Camargues, passa les premiers ans de sa jeunesse dans la ville d'Arles ; d'où l'amour la liberté &amp; son inconstance le tirerent, ou plustost une honte d'avoir manqué Styliane, aprés avoir quitté Carlys sa premiere Maistresse. Pour aller à Lyon il se mit sur le Rône dans un Bâteau de convoy, avecque nombre de personnes : où selon son humeur, moins par amour que par divertissement il en conta à Aymée, qu'il treuva plus severe qu'il ne se l'estoit persuadé. Ce convoy branlant prés d'une Isle, on les dechargea sur le Pré, où apres avoir attaint à la course ; Floriante qui l'y avoit attiré par jeu, il la foüetta, &amp; dans la gentillesse de cette folâtre oublia la severité d'Aymée. Celle là ne dura pas plus que celle-cy en son esprit : Il se figura des appas dans la tristesse de Cloris ; dont les regrets qu'elle faisoit sur le
-<pb id="page_abs_10" n="page_ori_LIM10"/>
+<pb xml:id="page_abs_7" n="page_ori_LIM7"/>
+demeurer entierement secrets : Il est suffisamment instruit de ce qu'il doit ou esperer ou craindre de vostre capacité ; il sçait que vous connoissez également le bien &amp; le mal ; qu'il n'est point de defauts si cachez qu'un traict d'œil ne vous decouvre ; &amp; qu'en un lieu où il cherche son Protecteur, il treuvera son Juge. Cela devoit l'avoir intimide, &amp; ne luy a toutefois qu'enflé le courage : Il ne seroit pas cet Hylas, de qui l'humeur &amp; l'esprit ont paru si agreables à toute la Cour, s'il craignoit l'entretien du plus poli &amp; plus parfait des Princes : &amp; sur la foy qu'on peut tirer de tant de douces inclinations qui vous portent à aymer les honestes gens, j'ay bien osé tout discret que je suis, luy faire esperer de vostre bonté un accueil favorable, si sa reputation n'est point fausse, &amp; s'il est de vray aussi honeste homme que je suis parfaitement,</p>
+<p rend="indent">MONSEIGNEUR,</p>
+<p rend="indent"> <hi rend="italic">De vostre Grandeur,</hi></p>
+<p rend="indent">  Le tres-humble &amp; tres-obeïssant serviteur,<lb/>
+    A. MARESCHAL</p>
+</div>
+<div n="2" xml:id="au_lecteur" type="page_preliminaire">
+<pb xml:id="page_abs_8" n="page_ori_LIM8"/>
+<head>AU LECTEUR.</head>
+<p rend="indent">N'attends point de longue Preface au front de cette Piece, pour la rendre plus recommandable, ou pour me faire loüer hautement par un Amy. Aprës l'appl[a]udissement general &amp; l'honneur qu'elle a receu dessus un Theatre de cinq ans, je m'imagine que son titre luy sert de recommandation ; &amp; je ne suis pas assez vain, pour faire tomber un Amy dans cette lâcheté de me flatter. C'est tout dire en deux mots : VOICY HYLAS. Tous ceux qui l'ont connu l'attendent depuis un long temps avec impatience ; &amp; ceux qui ne l'attendent point ne pouront s'empecher de le connoistre, s'ils se hazardent de le regarder ou de l'écouter un moment. Ce n'est pas qu'il ait l'esprit excellent, il touche de trop prés au mien : mais c'est qu'il est de bonne humeur : espreuve-le, si tu ne m'en veux croire, &amp; ne crains point de t'ennuyer.</p>
+</div>
+<div n="3" xml:id="argument" type="page_preliminaire">
+<pb xml:id="page_abs_9" n="page_ori_LIM9"/>
+<head>ARGUMENT<lb/>de l'Inconstance d'Hylas.</head>
+<p rend="indent">HYLAS, le plus gentil esprit de la Province des Romains, &amp; sorti de la meilleure famille de ces anciens Pâtres qui habitoient l'Isle de Camargues, passa les premiers ans de sa jeunesse dans la ville d'Arles ; d'où l'amour la liberté &amp; son inconstance le tirerent, ou plustost une honte d'avoir manqué Styliane, aprés avoir quitté Carlys sa premiere Maistresse. Pour aller à Lyon il se mit sur le Rône dans un Bâteau de convoy, avecque nombre de personnes : où selon son humeur, moins par amour que par divertissement il en conta à Aymée, qu'il treuva plus severe qu'il ne se l'estoit persuadé. Ce convoy branlant prés d'une Isle, on les dechargea sur le Pré, où apres avoir attaint à la course ; Floriante qui l'y avoit attiré par jeu, il la foüetta, &amp; dans la gentillesse de cette folâtre oublia la severité d'Aymée. Celle là ne dura pas plus que celle-cy en son esprit : Il se figura des appas dans la tristesse de Cloris ; dont les regrets qu'elle faisoit sur le
+<pb xml:id="page_abs_10" n="page_ori_LIM10"/>
 mal heur de son Mary, qu'elle croyoit bien plus blessé qu'il n'estoit en effect, furent le fondement d'une autre amour, que la compassion avoit fait naistre, &amp; qui finit aussi tost que le sujet de ses plaintes. Ses plaintes en effect, ni la passion d'Hylas qui sembloyent devoir estre eternelles, n'allerent que jusqu'à Lyon ; où la guerison de son mary commencea sa joye, sa joye termina l'affection d'Hylas[.] Il devint depuis amoureux de la voix de Cyrcéne dans le Temple, où il s'estoit laissé enfermer la nuict avecque les filles, bien que la loy en deffendist l'entrée aux hommes sous punition de mort ; &amp; qu'il eust sans doute encouruë, si Palinice à qui il se découvrit par mégarde ne l'en eust retiré par pitié, en le cachant dessous son voile. Cette discrette charité sembla obliger Hylas à une autre, qui sur de luy donner son cœur, que Cyrcéne ne tenoit qu'à demy, &amp; qu'elle eut tout entier, lors que l'abordant quelque temps aprés pour parler en faveur de Clorian frere de Palinice, Hylas à son visage reconnut que c'estoit celle qu'il avoit oüy chanter dedans le Temple, &amp; luy addressa pour soy mesme les prieres qu'il devoit porter pour son Amy. Une avanture depuis luy ravit Cyrcéne, plustost que son intention : Luy, pour témoigner son amour pour elle, en un tournoy avoit fait peindre pour devise une
-<pb id="page_abs_11" n="page_ori_LIM11"/>
+<pb xml:id="page_abs_11" n="page_ori_LIM11"/>
 Syréne, afin de faire quelque rapport au nom de Cyrcéne, &amp; Ulisse attaché dans son vaisseau. Cette Syréne fut prise pour Parthenope jeune fille de Lyon, sur la rencontre de son nom avecque celuy d'une des Syrénes qui s'appelle ainsi ; &amp; Hylas qui n'y avoit pas songé, ne fut point mary de confirmer la creance qu'on en avoit prise, par les paroles d'amour qu'il luy tint à la premiere veuë. Il les perdit toutes deux par la jalousie de Cyrcéne, qui l'obligea de retourner à Palinice qu'il ne garda pas long-temps, pour se jetter dans l'amour de Florice qui dura quelque peu davantage. Elle fit toutesfois un si grand bruit parmi toutes les compagnies de Lyon, que pour l'ésteindre &amp; appaiser les plaintes de son pere Alcandre, Florice conjura Hylas de feindre d'en aymer une autre. Dorinde fut choisie à cét effect, qui pour lors estoit recherchée d'un Amant appellé Periande, à qui Hylas sous couleur d'amitié qu'ils vont jurer ensemble dessus le Tombeau des deux Amis, ravit cette Maistresse presque avant que d'avoir eu le loisir de l'aymer. Son dessein rëussit par l[']artifice d'un miroir, qu'il avoit fait vendre à Dorinde, &amp; qu'il fait croire à Periandre estre porté par elle en sa faveur, comme un present qu'elle avoit desiré, avecque son portrait qu'il luy avoit envoyé dedans ce miroir. Periandre
-<pb id="page_abs_12" n="page_ori_LIM12"/>
+<pb xml:id="page_abs_12" n="page_ori_LIM12"/>
 le casse, voit le portrait d'Hylas, dit adieu à Dorinde, &amp; par desespoir se retire dans un bois, tant pour ne troubler point son Amy dedans la possession des faveurs de Dorinde, que pour füir les lieux &amp; les objets de son mal-heur. Dorinde éclatte contre Hylas : Il l'appaise &amp; la jette dans l'amour ; dont Florice devient jalouse par la connoissance que luy en donne une lettre qu'elle dérobe à Hylas, comme ils s'entretiennent tous trois dedans un cabinet. Elle communique à Dorinde cette lettre, avecque beaucoup d'autres qu'Hylas luy avoit données d'elle au commencement de sa feinte ; &amp; ne pouvant par ce moyen ni le perdre auprés de Dorinde, dont il rabbat la colere, ni le porter à revenir par jalousie, elle est enfin mariée à Theombre, de qui elle avoit feint d'agréer la recherche, afin de reveiller l'amour d'Hylas par l'opposition de ce Rival. Son amour continue dans son mariage : Hylas qui n'apprehendoit que ce seul lyen, apres s'estre vangé revient à elle qui l'appelle, &amp; qui l'oblige comme il[s] sont remis en bonne intelligence, de faire un affront à Dorinde, tant pour assouvir sa haine contre elle, que pour asseurer son amour auprés de luy. C'est ce qu'il fait en la presence de son Amy Periandre, qui n'ayant pû souffrir l'absence de Dorinde estoit déja retourné à Lyon, &amp; 
-<pb id="page_abs_13" n="page_ori_LIM13"/>
+<pb xml:id="page_abs_13" n="page_ori_LIM13"/>
 avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se vanger de cét affront &amp; rendre le mesme à Florice, Dorinde en fait tenir une lettre à Theombre, qui l'allarme à un poinct qu'il emmeine sa femme aux champs. Ainsi Hylas les ayant perdu[es] toutes deux, &amp; depuis Chryseide aussi, qui le laisse au commencement d'une nouvelle amour, il quitte Lyon comme un sejour odieux : &amp; sur le chemin pour aller dans le Forests, fait reconnoistre son inconstance à Laonice &amp; Madonthe qu'il ayme l'une apres l'autre. Berger, il est pris, &amp; commence par Phyllis ; continuë sa façon d'aymer avec Alexis, qui estoit Celadon déguisé en fille, Druide, se picque d'amour pour le mesme dessous les habits d'Astrée ; &amp; finit le cours de ses diverses amours par les vœux qu'il addresse à Stelle la plus inconstante des Bergeres de Forests. Il la reçoit des mains de Corylas, qu'elle avoit autrefois aymé, par consequent trompé, le laissant pour les mesmes Lyzis &amp; Semyre qu'elle avoit quittez pour luy. Ce pair d'Inconstans autorise ses amours sous des conditions les plus estranges que la liberté puisse donner à leur humeur ; qui les joint sans lyen par un Oracle qu'Amour rend, &amp; qu'Adamas explique dans l'esprit d'Hylas ; qui s'accorde à la volonté des Dieux ; pourveu qu'elle ne soit pas contraire à la sienne.</p>
-</div1>
-<div1 n="Envoi" id="page_titre5" type="envoi">
-<pb id="page_abs_14" n="page_ori_LIM14"/>
-<p><title>A MONSIEUR<lb/>MARESCHAL.<lb/>Sur son Inconstance d'Hylas,<lb/>Par son intime Amy.</title></p>
-<p><hi rend="italic">&nbsp;Qu'Hylas a de raison, tout Inconstant qu'il est !<lb/>
-Que sa façon d'aymer est aymable, &amp; me plaist !<lb/>
-Peut-on voir, MARESCHAL, une plus douce vie ?<lb/>
-Tes vers &amp; son humeur ravissent mes esprits,<lb/>
-&nbsp;Et me donnent l'envie<lb/>
-De pouvoir l'imiter comme tu la décrits.</hi><lb/></p>
-</div1>
-<div1 n="Les acteurs" id="page_titre6" type="personnel">
-<pb id="page_abs_15" n="page_ori_LIM15"/>
-<p><lb/><hi rend="italic">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LES ACTEURS.</hi><lb/></p>
-<p>HYLAS. Amant de toutes.<lb/>
-PERIANDRE. Amant de Dorinde.<lb/>
-DORINDE.<lb/>
-FLORICE. Compagnes.<lb/>
-ALCANDRE. Pere de Florice.<lb/>
-PAGE.<lb/>
-CORYLAS. Berger.<lb/>
-STELLE. Bergere.<lb/>
-ADAMAS. Druide.<lb/>
-<lb/>TROUPPE DE BERGERS.<lb/></p>
-<p><lb/>La Scene est à Lyon.<lb/></p>
-</div1>
-</div0>
-<div0 n="Texte de la pièce" id="page_ori" type="texte">
-<div1 id="1" n="Acte I" type="acte">
-<p><title>L'INCONSTANCE D'HYLAS.<lb/>COMEDIE-PASTORALE.</title></p>
+</div>
+<div n="4" xml:id="envoi" type="page_preliminaire">
+<pb xml:id="page_abs_14" n="page_ori_LIM14"/>
+<head>A MONSIEUR<lb/>MARESCHAL.<lb/>Sur son Inconstance d'Hylas,<lb/>Par son intime Amy.</head>
+<lg rend="italic">
+<l rend="indent">Qu'Hylas a de raison, tout Inconstant qu'il est !</l>
+<l>Que sa façon d'aymer est aymable, &amp; me plaist !</l>
+<l>Peut-on voir, MARESCHAL, une plus douce vie ?</l>
+<l>Tes vers &amp; son humeur ravissent mes esprits,</l>
+<l>Et me donnent l'envie</l>
+<l>De pouvoir l'imiter comme tu la décrits.</l>
+</lg>
+</div>
+<div n="5" xml:id="acteurs" type="page_preliminaire">
+<pb xml:id="page_abs_15" n="page_ori_LIM15"/>
+<head rend="center">LES ACTEURS.</head>
+<castList>
+<castItem>
+<role>HYLAS.</role><roleDesc>Amant de toutes.</roleDesc></castItem>
+<castItem>
+<role>PERIANDRE.</role><roleDesc>Amant de Dorinde.</roleDesc></castItem>
+<castItem>
+<role>DORINDE.</role></castItem>
+<castItem>
+<role>FLORICE.</role><roleDesc>Compagnes.</roleDesc></castItem>
+<castItem>
+<role>ALCANDRE.</role><roleDesc>Pere de Florice.</roleDesc></castItem>
+<castItem>
+<role>PAGE.</role></castItem>
+<castItem>
+<role>CORYLAS.</role><roleDesc>Berger.</roleDesc></castItem>
+<castItem>
+<role>STELLE.</role><roleDesc>Bergere.</roleDesc></castItem>
+<castItem>
+<role>ADAMAS.</role><roleDesc>Druide.</roleDesc></castItem>
+<castItem>
+<role>TROUPPE DE BERGERS.</role></castItem>
+</castList>
+<stage>La Scene est à Lyon.</stage>
+</div>
+</front>
+<body>
+<head>L'INCONSTANCE D'HYLAS.<lb/>COMEDIE-PASTORALE.</head>
+<div xml:id="acte_1" n="1" type="acte">
 <head>Acte premier.</head>
-<div2 type="scene" n="1">
-<pb id="page_abs_16" n="page_ori_1"/>
+<div xml:id="scene_1" type="scene" n="1">
+<pb xml:id="page_abs_16" n="page_ori_1"/>
 <head>Scène premiere.</head>
 <stage type="personnage">Periandre, Dorinde</stage>
 <sp who="Periandre">
@@ -159,14 +169,14 @@ ADAMAS. Druide.<lb/>
 <l>Quelque lustre emprunté que recherche un visage,</l>
 <l>Le Soleil est plus beau quand il est sans nüage.</l>
 </sp>
-<pb id="page_abs_17" n="page_ori_2"/>
+<pb xml:id="page_abs_17" n="page_ori_2"/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Qu'entendez-vous de là ?</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Qu'un masque injurieux</l>
+<l rend="indent">Qu'un masque injurieux</l>
 <l>Offence vos appas, &amp; fait tort à nos yeux ;</l>
 <l>Qu'il se montre indiscrét en trahissant nostre aise,</l>
 <l>Il nous cache ce front, &amp; pourtant il le baise :</l>
@@ -183,14 +193,13 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;A mes vœux innocens :</l>
+<l rend="indent">A mes vœux innocens :</l>
 <l>Dans le respect qu'on porte à la plus retenuë</l>
 <l>L'on peut en cet endroit voir une Dame nuë ;</l>
 <l>C'est assez qu'une loy nous retienne caché</l>
 <l>Ce que sans vostre faute on eust vû sans peché ;</l>
 <l>Il est vray que l'erreur en est plus grande à l'homme</l>
-<l>D'avoir ainsi quitté ce fruict pour une pomme ;</l>
-<pb id="page_abs_18" n="page_ori_3"/>
+<l>D'avoir ainsi quitté ce fruict pour une pomme ; <pb xml:id="page_abs_18" n="page_ori_3"/></l>
 <l>Voila nostre defaite, &amp; suivant ce dessein</l>
 <l>Les Dames ont depuis deux pommes dans le sein ;</l>
 <l>Nostre douceur a mis leur rigueur en usage,</l>
@@ -212,15 +221,14 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Que je n'ay pas aprise :</l>
+<l rend="indent">Que je n'ay pas aprise :</l>
 <l>De quel art supposé pouvez-vous m'accuser ?</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
 <l>D'avoir tant de beautez, &amp; si mal en user,</l>
 <l>Qu'on cache tant de trais par une humeur fantasque</l>
-<l>Les unes sous le fard, et vous dessous le masque :</l>
-<pb id="page_abs_19" n="page_ori_4"/>
+<l>Les unes sous le fard, et vous dessous le masque : <pb xml:id="page_abs_19" n="page_ori_4"/></l>
 <l>Pour voir en son éclat un visage si beau</l>
 <l>Vos yeux feroient quitter à l'amour son bandeau ;</l>
 <l>Et vous, pour le cacher à celuy qui vous ayme</l>
@@ -246,7 +254,7 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Ah ! si vous le craignez,</l>
+<l rend="indent">Ah ! si vous le craignez,</l>
 <l>Vrayment c'est la raison qu'un masque vous le cache.</l>
 </sp>
 <sp who="Periandre">
@@ -257,10 +265,10 @@ ADAMAS. Druide.<lb/>
 <speaker>Dorinde</speaker>
 <l>C'est doncques sans dessein.</l>
 </sp>
-<pb id="page_abs_20" n="page_ori_5"/>
+<pb xml:id="page_abs_20" n="page_ori_5"/>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Comme sont tous vos coups.</l>
+<l rend="indent">Comme sont tous vos coups.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
@@ -273,7 +281,7 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Ne l'est pas, si tel on ne l'avouë.</l>
+<l rend="indent">Ne l'est pas, si tel on ne l'avouë.</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
@@ -289,12 +297,12 @@ ADAMAS. Druide.<lb/>
 <l>Vous ne m'entendrez plus parler de mon martire,</l>
 <l>Ma perte seulement vous doit montrer un jour</l>
 <l>Ma foy dans vos rigueurs, vos traits dans mon amour.</l>
-<lb/><stage type="didascalie">Il s'en va.</stage>
+<stage type="didascalie">Il s'en va.</stage>
 </sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div xml:id="scene_2" type="scene" n="2">
 <head>Scène II.</head>
-<pb id="page_abs_21" n="page_ori_6"/>
+<pb xml:id="page_abs_21" n="page_ori_6"/>
 <stage type="personnage">Dorinde, Hylas</stage>
 <sp who="Dorinde">
 <speaker>Dorinde,</speaker>
@@ -306,11 +314,11 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Vous mesme.</l>
+<l rend="indent">Vous mesme.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;&nbsp;Et si fort échauffé ?</l>
+<l rend="indent"> Et si fort échauffé ?</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -324,7 +332,7 @@ ADAMAS. Druide.<lb/>
 <speaker>Hylas</speaker>
 <l>De vray, vos yeux mettroient en feu la glace &amp; l'onde.</l>
 </sp>
-<pb id="page_abs_22" n="page_ori_7"/>
+<pb xml:id="page_abs_22" n="page_ori_7"/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Donques vous renvoyez cette force à mes yeux.</l>
@@ -340,7 +348,7 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Un visage aussi beau que le vostre.</l>
+<l rend="indent">Un visage aussi beau que le vostre.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
@@ -361,8 +369,7 @@ ADAMAS. Druide.<lb/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Qu'en cela leur defaut accuse la nature ;</l>
-<l>Et de moy, je pardonne à leurs esprits jaloux,</l>
-<pb id="page_abs_23" n="page_ori_8"/>
+<l>Et de moy, je pardonne à leurs esprits jaloux, <pb xml:id="page_abs_23" n="page_ori_8"/></l>
 <l>Puis que leur seul mal-heur m'a fait venir à vous.</l>
 </sp>
 <sp who="Dorinde">
@@ -396,16 +403,16 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Achevez. Que sa bouche est riante !</l>
+<l rend="indent">Achevez. Que sa bouche est riante !</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Je vous parle de fleurs.</l>
 </sp>
-<pb id="page_abs_24" n="page_ori_9"/>
+<pb xml:id="page_abs_24" n="page_ori_9"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Ou bien de Floriante.</l>
+<l rend="indent">Ou bien de Floriante.</l>
 <l>Ah, que vous avez d'art à me faire avoüer</l>
 <l>Un juste changement dont on doit me loüer :</l>
 <l>Floriante, il est vray, par son affetterie</l>
@@ -427,12 +434,12 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Je diray qu'elle avoit plus de charmes ;</l>
+<l rend="indent">Je diray qu'elle avoit plus de charmes ;</l>
 <l>Mais j'estois amoureux seulement de ses larmes :</l>
 <l>Comme elle avoit gagne mon cœur par la pitié,</l>
 <l>Elle devint plus gaye, &amp; moy sans amitié.</l>
 </sp>
-<pb id="page_abs_25" n="page_ori_10"/>
+<pb xml:id="page_abs_25" n="page_ori_10"/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Vostre justice égale, à trois fut exemplaire :</l>
@@ -468,8 +475,7 @@ ADAMAS. Druide.<lb/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Epargnez moy ce deüil, &amp; ne me forcez pas</l>
-<l>De croire en vostre mort funestes mes appas ;</l>
-<pb id="page_abs_26" n="page_ori_11"/>
+<l>De croire en vostre mort funestes mes appas ; <pb xml:id="page_abs_26" n="page_ori_11"/></l>
 <l>Elle me causeroit un déplaisir extréme.</l>
 </sp>
 <sp who="Hylas">
@@ -483,11 +489,11 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Et de l'esprit.</l>
+<l rend="indent">Et de l'esprit.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;&nbsp;Je crains peu ces lyens ...</l>
+<l rend="indent">Je crains peu ces lyens ...</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -501,8 +507,7 @@ ADAMAS. Druide.<lb/>
 <l>Toute humeur me déplaist qui dure trop longtemps ;</l>
 <l>Le Soleil à mes yeux auroit perdu sa grace</l>
 <l>S'il nous montroit toûjours ce que la nuict efface,</l>
-<l>Elle donne à la terre &amp; l'ombre &amp; la fraischeur ;</l>
-<pb id="page_abs_27" n="page_ori_12"/>
+<l>Elle donne à la terre &amp; l'ombre &amp; la fraischeur ; <pb xml:id="page_abs_27" n="page_ori_12"/></l>
 <l>Le noir a ses appas, ainsi que la blancheur :</l>
 <l>J'ayme qu'une maistresse entretienne mon ame</l>
 <l>Tantost dedans la glace, &amp; tantost dans la flame,</l>
@@ -537,8 +542,7 @@ ADAMAS. Druide.<lb/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Rien que la mienne aussi ne luy donna mon cœur</l>
-<l>Qui soûpiroit déja sous un autre vainqueur :</l>
-<pb id="page_abs_28" n="page_ori_13"/>
+<l>Qui soûpiroit déja sous un autre vainqueur : <pb xml:id="page_abs_28" n="page_ori_13"/></l>
 <l>Cyrcene l'eut dedans, Palynice à la porte ;</l>
 <l>L'une d'un temps le charme, &amp; l'autre me l'emporte :</l>
 <l>Mais il revint depuis à son premier objet,</l>
@@ -555,7 +559,7 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Hylas cette douceur,</l>
+<l rend="indent">Hylas cette douceur,</l>
 <l>Qu'il offença le frere, &amp; delaissa la sœur.</l>
 </sp>
 <sp who="Hylas">
@@ -566,17 +570,16 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Que Parthenope ...</l>
+<l rend="indent">Que Parthenope ...</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;A la fin les vengea,</l>
+<l rend="indent">A la fin les vengea,</l>
 <l>Quand une erreur de nom sous ses loix me rangea.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>Qu'elle mesme depuis ne fut pas mieux traitée,</l>
-<pb id="page_abs_29" n="page_ori_14"/>
+<l>Qu'elle mesme depuis ne fut pas mieux traitée, <pb xml:id="page_abs_29" n="page_ori_14"/></l>
 <l>Et qu'à toutes Florice a la place emportée.</l>
 </sp>
 <sp who="Hylas">
@@ -592,18 +595,17 @@ ADAMAS. Druide.<lb/>
 <l>Pour attendre en ce lieu ma perte ni vos coups ;</l>
 <l>Je serviray pourtant d'objet à vostre gloire,</l>
 <l>Ma fuite vous sera la dixiéme victoire.</l>
-<lb/><stage type="didascalie">Dorinde s'en va.</stage>
+<stage type="didascalie">Dorinde s'en va.</stage>
 </sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3" xml:id="scene_3">
 <head>Scène III.</head>
 <stage type="personnage">Hylas, Florice</stage>
 <sp who= "Hylas">
 <speaker>Hylas,</speaker>
 <stage type="didascalie">demeuré seul sur le Theatre.</stage>
 <l>Bien que j'eusse au discours un tout contraire vœu,</l>
-<l>Sa franchise me plaist, elle me touche un peu ;</l>
-<pb id="page_abs_30" n="page_ori_15"/>
+<l>Sa franchise me plaist, elle me touche un peu ; <pb xml:id="page_abs_30" n="page_ori_15"/></l>
 <l>Il est vray que je n'[e]û pour elle aucune attainte,</l>
 <l>Que tout cet entretien ne servoit que de feinte ;</l>
 <l>Florice, qui me tient en de plus beaux lyens,</l>
@@ -630,7 +632,7 @@ ADAMAS. Druide.<lb/>
 <l>Perdre tous mes plaisirs, pour en feindre auprés d'elle,</l>
 <l>Pour preuve de ma foy que je sois infidelle.</l>
 </sp>
-<pb id="page_abs_31" n="page_ori_16"/>
+<pb xml:id="page_abs_31" n="page_ori_16"/>
 <sp who="Florice">
 <speaker>Florice</speaker>
 <l>Mon cœur, tous ces effects qui suivent vostre foy</l>
@@ -649,13 +651,12 @@ ADAMAS. Druide.<lb/>
 <l>Gardez le bien pour vous, &amp; nous laissez nos maux :</l>
 <l>J'ay senty, belle bouche, une pointe divine,</l>
 <l>Icy j'ayme la rose, à cause de l'épine.</l>
-<lb/><stage type="didascalie">Allant au bout du Theatre.</stage>
+<stage type="didascalie">Allant au bout du Theatre.</stage>
 <l>Hors de mon cœur, Dorinde, &amp; tant d'autres portrais,</l>
 <l>Vous ne me tenez plus dedans vos faux attrais,</l>
 <l>En toute liberté revoyez vos Compagnes,</l>
 <l>Retournez sur les eaux, reprenez les campagnes ;</l>
-<l>Mon cœur fermant la porte à tous vos vains desirs</l>
-<pb id="page_abs_32" n="page_ori_17"/>
+<l>Mon cœur fermant la porte à tous vos vains desirs <pb xml:id="page_abs_32" n="page_ori_17"/></l>
 <l>Y reçoit seulement Florice, &amp; mes plaisirs ;</l>
 <l>Sçavez-vous pas qu'enfin je suis à la plus belle ?</l>
 <l>Vieux objets effacez, qu'estes-vous au prés d'elle ?</l>
@@ -674,7 +675,7 @@ ADAMAS. Druide.<lb/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Dittes à mon suplice, à mes tourments offers</l>
-<lb/><stage type="didascalie">Apres l'avoir baisée.</stage>
+<stage type="didascalie">Apres l'avoir baisée.</stage>
 <l>Peut-on si doucement aller dans les Enfers.</l>
 </sp>
 <sp who="Florice">
@@ -682,10 +683,10 @@ ADAMAS. Druide.<lb/>
 <l>Cependant je vivray de douleur &amp; de flame ;</l>
 <l>Puis que dans ce baiser il emporte mon ame.</l>
 </sp>
-</div2>
-<div2 type="scene" n="4">
+</div>
+<div type="scene" n="4" xml:id="scene_4">
 <head>Scène IIII.</head>
-<pb id="page_abs_33" n="page_ori_18"/>
+<pb xml:id="page_abs_33" n="page_ori_18"/>
 <stage type="personnage">Alcandre, Florice</stage>
 <sp who="Alcandre">
 <speaker>Alcandre, Pere de Florice.</speaker>
@@ -700,8 +701,7 @@ ADAMAS. Druide.<lb/>
 <l>Quoy ? ne sçauriez-vous suivre un chemin si battu,</l>
 <l>Que la raison prescrit, que montre la vertu ?</l>
 <l>Etouffez tous ces bruits, de qui la violence</l>
-<l>Tient vostre honneur encore &amp; ma vie en balance ;</l>
-<pb id="page_abs_34" n="page_ori_19"/>
+<l>Tient vostre honneur encore &amp; ma vie en balance ; <pb xml:id="page_abs_34" n="page_ori_19"/></l>
 <l>Vous rendrez ce ruisseau dans sa course tary,</l>
 <l>Pour chasser un Amant cho[i]sissez un Mary.</l>
 </sp>
@@ -727,10 +727,10 @@ ADAMAS. Druide.<lb/>
 <l>Ma Fille, vous verrez mes feux se r'alumer,</l>
 <l>Que je ne me suis plaint que pour vous trop aymer.</l>
 </sp>
-</div2>
-<div2 type="scene" n="5">
+</div>
+<div type="scene" n="5" xml:id="scene_5">
 <head>Scène V.</head>
-<pb id="page_abs_35" n="page_ori_20"/>
+<pb xml:id="page_abs_35" n="page_ori_20"/>
 <stage type="personnage">Periandre, Hylas</stage>
 <sp who="Periandre">
 <speaker>Periandre,</speaker>
@@ -749,7 +749,7 @@ ADAMAS. Druide.<lb/>
 <l>Nous les allons jurer au Tombeau des Amants :</l>
 <l>Dorinde, ne croy pas que cela diminuë ...</l>
 </sp>
-<pb id="page_abs_36" n="page_ori_21"/>
+<pb xml:id="page_abs_36" n="page_ori_21"/>
 <sp who="Hylas">
 <speaker>Hylas,</speaker>
 <stage type="didascalie">l'appellant de loin.</stage>
@@ -767,7 +767,7 @@ ADAMAS. Druide.<lb/>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
 <l>C'est assez qu'en ces lieux ils se joigennt l'un l'autre :</l>
-<lb/><stage type="didascalie">Icy se découvre le Tombeau des deux Amants dans une Grotte toute en dueil &amp; remplie de lampes ardantes.</stage>
+<stage type="didascalie">Icy se découvre le Tombeau des deux Amants dans une Grotte toute en dueil &amp; remplie de lampes ardantes.</stage>
 <l>Lieux sacrez à la nuict, qui donnent sans terreur</l>
 <l>La lumiere à nos sens par une saincte horreur,</l>
 <l>Diroit on pas, Hylas, que cet espace enserre</l>
@@ -778,13 +778,12 @@ ADAMAS. Druide.<lb/>
 <l>Il enclôt deux Amants qui sont des Dieux eux mesmes ;</l>
 <l>Le Ciel en rougiroit s'il n'avoit pas compris</l>
 <l>Au nombre des heureux ces fidelles Esprits.</l>
-<lb/><stage type="didascalie">Il se met à genoux.</stage>
-<pb id="page_abs_37" n="page_ori_22"/>
+<stage type="didascalie">Il se met à genoux. <pb xml:id="page_abs_37" n="page_ori_22"/></stage>
 <l>Venerable Tombeau, Tutelaires Genies,</l>
 <l>Qui conservez la foy de deux Ames unies,</l>
 <l>Qui n'eûtes &amp; n'avez, par un si doux accord,</l>
 <l>Qu'un esprit pour la vie, un Tombeau pour la mort.</l>
-<lb/><stage type="didascalie">Il prend la main d'Hylas qui est à genoux aussi.</stage>
+<stage type="didascalie">Il prend la main d'Hylas qui est à genoux aussi.</stage>
 <l>Donnez à deux Amis dont la foy vous reclame</l>
 <l>Et son ame à mon cœur, &amp; mon cœur à son ame ;</l>
 <l>Faites nous sur monter tous les efforts humains,</l>
@@ -796,7 +795,7 @@ ADAMAS. Druide.<lb/>
 <l>Vous fideles Amis, que j'estime adorables,</l>
 <l>Oyez la voix d'Hylas qui confirme ces veux,</l>
 <l>Rendez son amitié memorable aux Neveux.</l>
-<lb/><stage type="didascalie">Puis se relevant.</stage>
+<stage type="didascalie">Puis se relevant.</stage>
 <l>Allons, veux tu coucher dedans un cymetiere ?</l>
 <l>Parler avec les Morts, &amp; toucher une biere,</l>
 <l>C'est un froid entretien, je n'ayme pas ce lieu,</l>
@@ -807,10 +806,10 @@ ADAMAS. Druide.<lb/>
 <l>Un mot sera la fin de ce sacré mistere :</l>
 <l>Oyez, divins Esprits ...</l>
 </sp>
-<pb id="page_abs_38" n="page_ori_23"/>
+<pb xml:id="page_abs_38" n="page_ori_23"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Il vaut autant nous taire,</l>
+<l rend="indent">Il vaut autant nous taire,</l>
 <l>Et quoy ? ne sçais-tu pas qu'ils lisent dedans nous ?</l>
 </sp>
 <sp who="Periandre">
@@ -823,12 +822,12 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Arrestez ...</l>
+<l rend="indent">Arrestez ...</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre,</speaker>
 <stage type="didascalie">continuant.</stage>
-<l>&nbsp;&nbsp;L'infracteur de la foy.</l>
+<l rend="indent">L'infracteur de la foy.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas,</speaker>
@@ -846,7 +845,7 @@ ADAMAS. Druide.<lb/>
 <speaker>Periandre</speaker>
 <l>Ce que j'ay pris d'Hylas il me le faut tenir.</l>
 </sp>
-<pb id="page_abs_39" n="page_ori_24"/>
+<pb xml:id="page_abs_39" n="page_ori_24"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>J'ayme ainsi que traité, de traiter en franchise ;</l>
@@ -863,11 +862,11 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;O Dieux !</l>
+<l rend="indent">O Dieux !</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;&nbsp;Et quoy ? cher Amy, tu pâlis ;</l>
+<l rend="indent">Et quoy ? cher Amy, tu pâlis ;</l>
 <l>Que ferois-tu, voyant ses roses &amp; ses lys ?</l>
 </sp>
 <sp who="Periandre">
@@ -878,14 +877,13 @@ ADAMAS. Druide.<lb/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Ton sort comme le mien seroit trop glorieux,</l>
-<l>Toy mourant pour son nom, &amp; moy pour ses beaux yeux :</l>
-<pb id="page_abs_40" n="page_ori_25"/>
+<l>Toy mourant pour son nom, &amp; moy pour ses beaux yeux : <pb xml:id="page_abs_40" n="page_ori_25"/></l>
 <l>Mais si tu t'es rendu sensible à ma fortune.</l>
 <l>Que je sçache la tienne.</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Ah ! demande importune !</l>
+<l rend="indent">Ah ! demande importune !</l>
 <l>Acheve, &amp; tu sçauras par le tien mon soucy.</l>
 </sp>
 <sp who="Hylas">
@@ -894,7 +892,7 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Et c'est la mienne aussi.</l>
+<l rend="indent">Et c'est la mienne aussi.</l>
 <l>Dieux ! que vous avez mis d'épines sous la rose !</l>
 <l>L'amitié veut mon cœur, &amp; l'amour en dispose ;</l>
 <l>Je leur ôte, &amp; le rends : Ah ! je confons mes veux !</l>
@@ -914,8 +912,7 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>Je me puis prevaloir d'un tout semblable bien,</l>
-<pb id="page_abs_41" n="page_ori_26"/>
+<l>Je me puis prevaloir d'un tout semblable bien, <pb xml:id="page_abs_41" n="page_ori_26"/></l>
 <l>Mon tourment te doit peu, s'il ne passe le tien.</l>
 <l>Or puis qu'elle nous est également contraire,</l>
 <l>Et qu'aucune raison ne nous en peut distraire,</l>
@@ -947,8 +944,7 @@ ADAMAS. Druide.<lb/>
 <l>T'en chasse, mal-heureux, &amp; me met en sa grace,</l>
 <l>Le moyen m'est aisé, comme je l'ay conceu.</l>
 <l>Mais puis-je sans regret voir un Amy deceu ?</l>
-<l>Pourquoy ? s'il me dispute un bien que je demande :</l>
-<pb id="page_abs_42" n="page_ori_27"/>
+<l>Pourquoy ? s'il me dispute un bien que je demande : <pb xml:id="page_abs_42" n="page_ori_27"/></l>
 <l>Le demandé-je aussi ? la doute est assez grande.</l>
 <l>Ouy, Dorinde ; un soupir qui vient m'entretenir</l>
 <l>Me dit bas que je t'ayme &amp; qu'il faut t'obtenir ;</l>
@@ -957,13 +953,13 @@ ADAMAS. Druide.<lb/>
 <l>Montrons luy qu'en amour tout effort est permis,</l>
 <l>Qu'Hylas, pour estre Amant, ne connoist point d'Amy.</l>
 </sp>
-</div2>
-</div1>
-<div1 id="2" n="Acte II" type="acte">
+</div>
+</div>
+<div xml:id="acte_2" n="2" type="acte">
 <head>Acte deuxiesme.</head>
-<div2 type="scene" n="1">
+<div type="scene" n="1" xml:id="scene_1">
 <head>Scène premiere.</head>
-<pb id="page_abs_43" n="page_ori_28"/>
+<pb xml:id="page_abs_43" n="page_ori_28"/>
 <stage type="personnage">Periandre, Hylas</stage>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
@@ -977,8 +973,7 @@ ADAMAS. Druide.<lb/>
 <l>Fut constant seulement pour me faire mourir :</l>
 <l>J'apreuve vôtre choix, quelque mal que j'en tire</l>
 <l>Et vous blâme par tout horsmis en mon martire,</l>
-<l>J'accuse &amp; loüe ensemble un aveugle destin</l>
-<pb id="page_abs_44" n="page_ori_29"/>
+<l>J'accuse &amp; loüe ensemble un aveugle destin <pb xml:id="page_abs_44" n="page_ori_29"/></l>
 <l>Qui donne à vos erreurs une si belle fin,</l>
 <l>Qui purge ainsi vos feux, &amp; m'en fait la victime.</l>
 </sp>
@@ -1004,8 +999,7 @@ ADAMAS. Druide.<lb/>
 <speaker>Periandre</speaker>
 <l>J'estime le succez, j'en blâme le voyage,</l>
 <l>Et j'admire ce cœur que tout objet engage ;</l>
-<l>Avoüez, aprés tout, qu'un dessein bien conduit</l>
-<pb id="page_abs_45" n="page_ori_30"/>
+<l>Avoüez, aprés tout, qu'un dessein bien conduit <pb xml:id="page_abs_45" n="page_ori_30"/></l>
 <l>S'il donne plus de peine, apporte plus de fruict.</l>
 </sp>
 <sp who="Hylas">
@@ -1034,7 +1028,7 @@ ADAMAS. Druide.<lb/>
 <l>Méconnoistre soy mesme, en tout se transformer ;</l>
 <l>Voila tout ce que fait l'Inconstant pour aymer</l>
 </sp>
-<pb id="page_abs_46" n="page_ori_31"/>
+<pb xml:id="page_abs_46" n="page_ori_31"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Il n'a qu'un seul objet, que la raison appreuve,</l>
@@ -1076,8 +1070,7 @@ ADAMAS. Druide.<lb/>
 <l>La mine qui le pert, &amp; te peut contenter ;</l>
 <l>Sortez respects, devoirs, amitié, deference,</l>
 <l>Vous tâchez d'affoiblir en vain mon asseurance.</l>
-<lb/><stage type="didascalie">Relevant sa voix.</stage>
-<pb id="page_abs_47" n="page_ori_32"/>
+<stage type="didascalie">Relevant sa voix. <pb xml:id="page_abs_47" n="page_ori_32"/></stage>
 <l>En effet, cher Amy, je crains que les travaux,</l>
 <l>Vous demeurent enfin pour le fruit de vos maux,</l>
 <l>Qu'aprés beaucoup de soins que vôtre amour vous donne</l>
@@ -1099,14 +1092,14 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Et la Parque me laisse ?</l>
+<l rend="indent">Et la Parque me laisse ?</l>
 <l>Et je ne mourray pas ? &amp; j'ay si peu de cœur ?</l>
 <l>Et mon ame s'entend avecque ma langueur ?</l>
 <l>Sorts enfin de mon sein, esprit lâche &amp; rebelle :</l>
 <l>Attends, vy pour la voir &amp; mourir auprés d'elle,</l>
 <l>C'est le lieu seulement où tu dois expirer.</l>
 </sp>
-<pb id="page_abs_48" n="page_ori_33"/>
+<pb xml:id="page_abs_48" n="page_ori_33"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Et vous croyez, Amy, que je puis l'endurer ?</l>
@@ -1133,8 +1126,7 @@ ADAMAS. Druide.<lb/>
 <l>Mais plûtost mon portrait, qu'elle cache au dedans</l>
 <l>Qui sous la glace tient ses feux les plus ardens ?</l>
 <l>C'est où sa passion à la mienne s'assemble,</l>
-<l>Où j'attache son cœur &amp; ses yeux tout ensemble :</l>
-<pb id="page_abs_49" n="page_ori_34"/>
+<l>Où j'attache son cœur &amp; ses yeux tout ensemble : <pb xml:id="page_abs_49" n="page_ori_34"/></l>
 <l>Ce present qu'elle a pris m'asseure de sa foy,</l>
 <l>Elle ne le cherit que pour l'amour de moy :</l>
 <l>Allez prendre auprés d'elle &amp; mon heure &amp; ma place,</l>
@@ -1162,10 +1154,10 @@ ADAMAS. Druide.<lb/>
 <l>Je gaigne une victoire aujourd'huy sans seconde</l>
 <l>Mesme par un appuy le plus foible du monde.</l>
 </sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2" xml:id="scene_2">
 <head>Scène II.</head>
-<pb id="page_abs_50" n="page_ori_35"/>
+<pb xml:id="page_abs_50" n="page_ori_35"/>
 <stage type="personnage">Dorinde, Periandre</stage>
 <sp who="Dorinde">
 <speaker>Dorinde,</speaker>
@@ -1183,13 +1175,12 @@ ADAMAS. Druide.<lb/>
 <l>Hylas est quelque fois entré dans la balance ;</l>
 <l>Mais il ne se peut taire, &amp; j'ayme le silence ;</l>
 <l>L'autre a plus de conduite &amp; de discretion</l>
-<l>Le voicy, tout réveur &amp; dans sa passion.</l>
-<pb id="page_abs_51" n="page_ori_36"/>
+<l>Le voicy, tout réveur &amp; dans sa passion. <pb xml:id="page_abs_51" n="page_ori_36"/></l>
 <l>A quoy songez-vous tant ?</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;A vous seule, à ma perte.</l>
+<l rend="indent">A vous seule, à ma perte.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
@@ -1211,7 +1202,7 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Un Dieu sur mon visage,</l>
+<l rend="indent">Un Dieu sur mon visage,</l>
 <l>Qui blâmant vos douleurs vous en deffend l'usage.</l>
 </sp>
 <sp who="Periandre">
@@ -1219,11 +1210,11 @@ ADAMAS. Druide.<lb/>
 <l>C'est luy qui les nourit sans dire quel il est ;</l>
 <l>On ne voit là d'objet ...</l>
 </sp>
-<pb id="page_abs_52" n="page_ori_37"/>
+<pb xml:id="page_abs_52" n="page_ori_37"/>
 <sp who="Dorinde">
 <speaker>Dorinde,</speaker>
-<lb/><stage type="didascalie">Luy passant le Miroir devant les yeux pour se voir.</stage>
-<l>&nbsp;Que celuy qui me plaist.</l>
+<stage type="didascalie">Luy passant le Miroir devant les yeux pour se voir.</stage>
+<l rend="indent">Que celuy qui me plaist.</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
@@ -1238,7 +1229,7 @@ ADAMAS. Druide.<lb/>
 <speaker>Periandre,</speaker>
 <stage type="didascalie">prenant le Miroir.</stage>
 <l>Ah ! les miens malgré moy vous sont obeissans :</l>
-<lb/><stage type="didascalie">Parlant bas au bout du Theatre.</stage>
+<stage type="didascalie">Parlant bas au bout du Theatre.</stage>
 <l>Mon cœur vient dans mes yeux, il perce cette glace ;</l>
 <l>Hylas est là dessous, il faut que je l'en chasse :</l>
 <l>Que me sert un effort dont la raison se rit ?</l>
@@ -1254,8 +1245,7 @@ ADAMAS. Druide.<lb/>
 <l>Cassons le toutefois ; Non c'est trop de rigueur ;</l>
 <l>Contre un si foible écueil que j'ay peu de vigueur.</l>
 <l>Mon respect, qui soûtient une cruelle guerre,</l>
-<l>Treuve mille ennemis à combatre en un verre ;</l>
-<pb id="page_abs_53" n="page_ori_38"/>
+<l>Treuve mille ennemis à combatre en un verre ; <pb xml:id="page_abs_53" n="page_ori_38"/></l>
 <l>Je cherche &amp; n'ose voir mon suplice fatal,</l>
 <l>Je fay naufrage en terre &amp; contre du cristal :</l>
 <l>Dorinde eut ce present d'un amy si fidelle ;</l>
@@ -1280,24 +1270,24 @@ ADAMAS. Druide.<lb/>
 <sp who="Periandre">
 <speaker>Periandre,</speaker>
 <stage type="didascalie">ayant cassé le miroir</stage>
-<l>&nbsp;O destins inhumains !</l>
+<l rend="indent">O destins inhumains !</l>
 <l>Qu'ay-je fait ? ce miroir m'est échappé des mains :</l>
 <l>Pardon.</l>
 </sp>
-<pb id="page_abs_54" n="page_ori_39"/>
+<pb xml:id="page_abs_54" n="page_ori_39"/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Le voudriez-vous ? &amp; de si peu de chose ?</l>
+<l rend="indent">Le voudriez-vous ? &amp; de si peu de chose ?</l>
 </sp>
-<speaker>Periandre </speaker>
 <sp who="Periandre">
+<speaker>Periandre </speaker>
 <stage type="didascalie">[bas.]</stage>
 <l>Ces épines en fin nous monstreront la rose ;</l>
 <l>Reliques d'un tresor...</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Ne les ramassez pas.</l>
+<l rend="indent">Ne les ramassez pas.</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre </speaker>
@@ -1306,11 +1296,11 @@ ADAMAS. Druide.<lb/>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;En faire tant de cas ?</l>
+<l rend="indent">En faire tant de cas ?</l>
 <l>C'est où mon amitié d'un vain respect s'offence.</l>
 </sp>
-<speaker>Periandre </speaker>
 <sp who="Periandre">
+<speaker>Periandre </speaker>
 <stage type="didascalie">[bas.]</stage>
 <l>Que son dessein paroist dedans cette deffense !</l>
 <l>Inuti[l]e pourtant. Mais quel poison ? ô Dieux !</l>
@@ -1321,10 +1311,9 @@ ADAMAS. Druide.<lb/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Quel monstre, quel objet le fait ainsi fuïr ?</l>
-<lb/><stage type="didascalie">Puis regardant le portrait d'Hylas en sa main.</stage>
+<stage type="didascalie">Puis regardant le portrait d'Hylas en sa main.</stage>
 <l>Que voy-je donc ? helas ! &amp; que viens je d'oüir ?</l>
-<l>Voicy le Basilic qui luy blesse la veuë,</l>
-<pb id="page_abs_55" n="page_ori_40"/>
+<l>Voicy le Basilic qui luy blesse la veuë, <pb xml:id="page_abs_55" n="page_ori_40"/></l>
 <l>Je tiens entre mes mains le serpent qui le tuë ;</l>
 <l>Tygre, rends moy ce cœur qu'on me vient d'emporter :</l>
 <l>On diroit qu'il en rit &amp; qu'il veut m'accoster,</l>
@@ -1339,10 +1328,10 @@ ADAMAS. Druide.<lb/>
 <l>Doncque sur un chemin si noir &amp; difficile,</l>
 <l>Avant que d'y passer, consultons ma Sybille.</l>
 </sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3" xml:id="scene_3">
 <head>Scène III.</head>
-<pb id="page_abs_56" n="page_ori_41"/>
+<pb xml:id="page_abs_56" n="page_ori_41"/>
 <stage type="personnage">Hylas, Page, Dorinde</stage>
 <sp who="Hylas">
 <speaker>Hylas,</speaker>
@@ -1360,7 +1349,7 @@ ADAMAS. Druide.<lb/>
 <l>Si j'ay choisi le mieux, s'il a treuvé le pire,</l>
 <l>Doit-on ? Voicy son Page ; oyons ce qu['i]l veut dire.</l>
 </sp>
-<pb id="page_abs_57" n="page_ori_42"/>
+<pb xml:id="page_abs_57" n="page_ori_42"/>
 <sp who="Page">
 <speaker>Page</speaker>
 <l>Prest de quitter la vie, aussi bien que ce lieu,</l>
@@ -1373,9 +1362,9 @@ ADAMAS. Druide.<lb/>
 <l>Que n'a-t'il aujourd'huy mon cœur &amp; mon esprit !</l>
 <l>Mais laissons le moins sage, &amp; lisons cét écrit.</l>
 </sp>
-<p><lb/><hi rend="italic">Lettre de Periande à Hylas.</hi><lb/></p>
-<p><lb/>&nbsp;Vous seriez le plus heureux homme du monde aujourd'huy, Hylas, si je n'y estois point ; pource que l'amitié vous fera partager ma peine, &amp; que la joye qui vous doit revenir de vostre victoire, sera troublée par la perte de celuy sur qui vous l'avez emportée. Je ne puis hayr mon malheur, puis qu'il cause vostre felicité : mais bien les lieux qui en sont les témoins, &amp; ces yeux ingrats qui en furent les complices. De mesme que je ne veux point toucher à vostre gloire, je vous conjure
-<pb id="page_abs_58" n="page_ori_43"/>
+<p rend="italic">Lettre de Periande à Hylas.</p>
+<p rend="indent">Vous seriez le plus heureux homme du monde aujourd'huy, Hylas, si je n'y estois point ; pource que l'amitié vous fera partager ma peine, &amp; que la joye qui vous doit revenir de vostre victoire, sera troublée par la perte de celuy sur qui vous l'avez emportée. Je ne puis hayr mon malheur, puis qu'il cause vostre felicité : mais bien les lieux qui en sont les témoins, &amp; ces yeux ingrats qui en furent les complices. De mesme que je ne veux point toucher à vostre gloire, je vous conjure
+<pb xml:id="page_abs_58" n="page_ori_43"/>
 de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desire que tous vos contentements soient purs, puis qu'en perdant les miens je ne vous ay pas voulu donner le regret de me voir triste. Croiriez-vous que j'ay peine encore de vous envoyer l'adieu dans ce papier, de peur que cela vous afflige. Si vous me continuez vostre affection, je n'ay pas tout perdu, &amp; il y a encore quelque chose au monde qui peut consoler le miserable. Periandre</p>
 <sp who="Hylas ">
 <speaker>Hylas</speaker>
@@ -1383,7 +1372,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 </sp>
 <sp who="Page">
 <speaker>Page</speaker>
-<l>&nbsp;Seul, &amp; depuis une heure.</l>
+<l rend="indent">Seul, &amp; depuis une heure.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -1391,11 +1380,10 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Je n'aurois fait jamais ce que tu me deffends :</l>
 <l>Ce beau coup a rendu tous mes veux triomphans,</l>
 <l>Dans la felicité dont ma gloire est suivie</l>
-<l>Un Dieu me feroit plus de pitié que d'envie.</l>
-<pb id="page_abs_59" n="page_ori_44"/>
+<l>Un Dieu me feroit plus de pitié que d'envie. <pb xml:id="page_abs_59" n="page_ori_44"/></l>
 <l>Il fuit donc ? Et voicy Dorinde qui me suit.</l>
 <l>Page, retirez-vous ; mon ombre icy me nuit :</l>
-<lb/><stage type="didascalie">Le Page s'en va.</stage>
+<stage type="didascalie">Le Page s'en va.</stage>
 <l>Ses regards en fureur me vont reduire en poudre ;</l>
 <l>J'en ay souffert l'éclat, soûtenons en la foudre.</l>
 </sp>
@@ -1428,8 +1416,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>C'est un leger effect qui suit vostre rigueur,</l>
 <l>D'offencer mon portrait m'ayant brûlé le cœur :</l>
 <l>Connoissez mon travail, &amp; qu'un si bon office</l>
-<l>Vous oste un importun, vous offrant mon service ;</l>
-<pb id="page_abs_60" n="page_ori_45"/>
+<l>Vous oste un importun, vous offrant mon service ; <pb xml:id="page_abs_60" n="page_ori_45"/></l>
 <l>Que perdez-vous en luy, que vous n'ayez en moy ?</l>
 <l>Ce coup vous monstre assez mon amour &amp; ma foy ;</l>
 <l>Doutez-vous d'elle encore ? ah ! regardez ma peine,</l>
@@ -1457,14 +1444,14 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>L'artifice aux Amants n'est pas un jeu nouveau,</l>
 <l>Pour ne voir point leur fourbe Amour porte un bandeau.</l>
 </sp>
-<pb id="page_abs_61" n="page_ori_46"/>
+<pb xml:id="page_abs_61" n="page_ori_46"/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Mais trahir un Amy ?</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Pour vous estre fidelle.</l>
+<l rend="indent">Pour vous estre fidelle.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
@@ -1472,7 +1459,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Tout, pour gagner une gloire si belle.</l>
+<l rend="indent">Tout, pour gagner une gloire si belle.</l>
 <l>L'excuse de ma faute est dedans son sujet,</l>
 <l>Peut-on faillir, ô Dieux ! pour un si bel objet ?</l>
 <l>Dorinde connoistroit, lisant dans mon courage,</l>
@@ -1487,8 +1474,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Icy le châtiment tourneroit en salaire :</l>
-<l>Je ne puis pardonner ni tenir ma colere ;</l>
-<pb id="page_abs_62" n="page_ori_47"/>
+<l>Je ne puis pardonner ni tenir ma colere ; <pb xml:id="page_abs_62" n="page_ori_47"/></l>
 <l>Qu[']estes-vous devenus transport, hayne, dedain ?</l>
 <l>Ils ne m'écoutent plus, je les appelle en vain,</l>
 <l>Mes propres sentimens à ce coup me trahissent.</l>
@@ -1515,63 +1501,70 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <speaker>Hylas</speaker>
 <l>Que je ne vous trompay que pour vous mieux aymer.</l>
 </sp>
-</div2>
-<div2 type="scene" n="4">
+</div>
+<div type="scene" n="4" xml:id="scene_4">
 <head>Scène IIII.</head>
-<pb id="page_abs_63" n="page_ori_48"/>
+<pb xml:id="page_abs_63" n="page_ori_48"/>
 <sp who="Periandre">
 <speaker>Periandre,</speaker>
 <stage type="didascalie">dans un bois.</stage>
-<p><lb/>Stances<lb/></p>
-<hi rend="italic">
-<p><lb/>&nbsp;Triste retraite du silence,<lb/>
-Où le seul desespoir [à] la fin m'a conduit,<lb/>
-Dont la profonde paix ne connoist d'autre bruit<lb/>
-&nbsp;Que celuy des cris que j'élance :<lb/>
-Grands chénes qui cachez à mes yeux le Soleil,<lb/>
-Et découvrez là haut ce qu'on fait dans les nuës,<lb/>
-&nbsp;Luy rendant mes peines connuës<lb/>
-Demandez luy s'il vit jamais rien de pareil.<lb/></p>
-<pb id="page_abs_64" n="page_ori_49"/>
-<p><lb/>&nbsp;Dans ce bois solitaire &amp; sombre<lb/>
-J'aurois déja dressé mon tombeau de mes mains,<lb/>
-N'estoit qu'en cette nuit tous les objets sont vains,<lb/>
-&nbsp;Et qu'il n'en faut point pour un[e] Ombre :<lb/>
-J'érre comme un fantôme &amp; sans yeux &amp; sans choix,<lb/>
-Mes soûpirs font sçavoir ma vie en cet ombrage ;<lb/>
-&nbsp;Et les Oyseaux sous ce feüillage<lb/>
-Ne se connoissent plus, comme moy, qu'à la voix.<lb/></p>
-<p><lb/>&nbsp;Sur les bors de cette fontaine,<lb/>
-Où je contrains Amour d'étaindre son flambeau,<lb/>
-Je luy fay raconter aux Nymphes de cette eau<lb/>
-&nbsp;Le cruel sujet de ma peine :<lb/>
-Devant elles ce Dieu se plaint à l'amitié<lb/>
-Des maux que le respect me livre en cette absence ;<lb/>
-&nbsp;Toutes plaignent mon innocence,<lb/>
-Et leurs pleurs font grossir ce ruisseau de moitié :<lb/></p>
-<pb id="page_abs_65" n="page_ori_50"/>
-<p><lb/>&nbsp;Echo mesme s'en treuve attainte ;<lb/>
-O Dieux ! qu'elle voudroit pouvoir me consoler !<lb/>
-Elle me suit par tout, &amp; je ne puis parler<lb/>
-&nbsp;Qu'elle ne réponde à ma plainte :<lb/>
-Quelque pitié pourtant que je treuve en ces lieux,<lb/>
-Mon esprit me fait voir Dorinde à mon dommage<lb/>
-&nbsp;Aussi cruelle en son image,<lb/>
-Que je fus mal-heureux quand je quittay ses yeux.<lb/></p>
-<p><lb/>&nbsp;Depuis ce mal-heur sans exemple<lb/>
-Je pense à tous moments luy parler, &amp; la voir ;<lb/>
-De ce lieu solitaire, &amp; si triste, &amp; si noir<lb/>
-&nbsp;Mon desespoir luy fait un Temple ;<lb/>
-Ma douleur, mes soûpirs, mes larmes, &amp; mon sort<lb/>
-Demandent vainement à la Parque des armes<lb/>
-&nbsp;Pour me delivrer de ses charmes,<lb/>
-Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
-</hi>
+<p>Stances</p>
+<lg rend="italic">
+<l rend="indent">Triste retraite du silence,</l>
+<l>Où le seul desespoir [à] la fin m'a conduit,</l>
+<l>Dont la profonde paix ne connoist d'autre bruit</l>
+<l rend="indent">Que celuy des cris que j'élance :</l>
+<l>Grands chénes qui cachez à mes yeux le Soleil,</l>
+<l>Et découvrez là haut ce qu'on fait dans les nuës,</l>
+<l rend="indent">Luy rendant mes peines connuës</l>
+<l>Demandez luy s'il vit jamais rien de pareil. <pb xml:id="page_abs_64" n="page_ori_49"/></l>
+</lg>
+<lg>
+<l rend="indent">Dans ce bois solitaire &amp; sombre</l>
+<l>J'aurois déja dressé mon tombeau de mes mains,</l>
+<l>N'estoit qu'en cette nuit tous les objets sont vains,</l>
+<l rend="indent">Et qu'il n'en faut point pour un[e] Ombre :</l>
+<l>J'érre comme un fantôme &amp; sans yeux &amp; sans choix,</l>
+<l>Mes soûpirs font sçavoir ma vie en cet ombrage ;</l>
+<l rend="indent">Et les Oyseaux sous ce feüillage</l>
+<l>Ne se connoissent plus, comme moy, qu'à la voix.</l>
+</lg>
+<lg>
+<l rend="indent">Sur les bors de cette fontaine,</l>
+<l>Où je contrains Amour d'étaindre son flambeau,</l>
+<l>Je luy fay raconter aux Nymphes de cette eau</l>
+<l rend="indent">Le cruel sujet de ma peine :</l>
+<l>Devant elles ce Dieu se plaint à l'amitié</l>
+<l>Des maux que le respect me livre en cette absence ;</l>
+<l rend="indent">Toutes plaignent mon innocence,</l>
+<l>Et leurs pleurs font grossir ce ruisseau de moitié :</l>
+<pb xml:id="page_abs_65" n="page_ori_50"/>
+</lg>
+<lg>
+<l rend="indent">Echo mesme s'en treuve attainte ;</l>
+<l>O Dieux ! qu'elle voudroit pouvoir me consoler !</l>
+<l>Elle me suit par tout, &amp; je ne puis parler</l>
+<l rend="indent">Qu'elle ne réponde à ma plainte :</l>
+<l>Quelque pitié pourtant que je treuve en ces lieux,</l>
+<l>Mon esprit me fait voir Dorinde à mon dommage</l>
+<l rend="indent">Aussi cruelle en son image,</l>
+<l>Que je fus mal-heureux quand je quittay ses yeux.</l>
+</lg>
+<lg>
+<l rend="indent">Depuis ce mal-heur sans exemple</l>
+<l>Je pense à tous moments luy parler, &amp; la voir ;</l>
+<l>De ce lieu solitaire, &amp; si triste, &amp; si noir</l>
+<l rend="indent">Mon desespoir luy fait un Temple ;</l>
+<l>Ma douleur, mes soûpirs, mes larmes, &amp; mon sort</l>
+<l>Demandent vainement à la Parque des armes</l>
+<l rend="indent">Pour me delivrer de ses charmes,</l>
+<l>Je ne la puis fuïr, ni rencontrer la mort.</l>
+</lg>
 </sp>
-</div2>
-<div2 type="scene" n="5">
+</div>
+<div type="scene" n="5" xml:id="scene_5">
 <head>Scène V.</head>
-<pb id="page_abs_66" n="page_ori_51"/>
+<pb xml:id="page_abs_66" n="page_ori_51"/>
 <stage type="personnage">Florice, Dorinde</stage>
 <sp who="Florice">
 <speaker>Florice,</speaker>
@@ -1594,8 +1587,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Florice.</l>
-<pb id="page_abs_67" n="page_ori_52"/>
+<l rend="indent">Florice. <pb xml:id="page_abs_67" n="page_ori_52"/></l>
 <l>J'ay bien son entretien, mais elle a son service ;</l>
 <l>Je ne voudrois pas faire un larcin soupçonné</l>
 <l>De ce qu'un bruit commun déja vous a donné.</l>
@@ -1627,7 +1619,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Les pieds suivent le cœur où l'on va chaque jour,</l>
 <l>On ne s'entretient pas si souvent sans amour.</l>
 </sp>
-<pb id="page_abs_68" n="page_ori_53"/>
+<pb xml:id="page_abs_68" n="page_ori_53"/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Il parle sans dessein, &amp; vient par habitude.</l>
@@ -1636,8 +1628,8 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Florice</speaker>
 <l>Sans dessein ? qui vous suit &amp; n'a plus d'autre estude.</l>
 </sp>
-</div2>
-<div2 type="scene" n="6">
+</div>
+<div type="scene" n="6" xml:id="scene_6">
 <head>Scène VI.</head>
 <stage type="personnage">Hylas, Florice, Dorinde</stage>
 <sp who="Hylas">
@@ -1656,11 +1648,11 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Reculer ? un Hylas ? quand l'ennemy se treuve ?</l>
 <l>Mais quoy ?</l>
 </sp>
-<pb id="page_abs_69" n="page_ori_54"/>
+<pb xml:id="page_abs_69" n="page_ori_54"/>
 <sp who="Florice">
 <speaker>Florice,</speaker>
 <stage type="didascalie">sortant du cabinet.</stage>
-<l>&nbsp;Voicy Dorinde ; en vain vous reculez,</l>
+<l rend="indent">Voicy Dorinde ; en vain vous reculez,</l>
 <l>On connoist bien, Hylas, à qui vous en voulez.</l>
 </sp>
 <sp who="Hylas">
@@ -1671,7 +1663,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Florice">
 <speaker>Florice,</speaker>
-<lb/><stage type="didascalie">Elle parle bas.</stage>
+<stage type="didascalie">Elle parle bas.</stage>
 <l>Entrez. Elle rougit pourtant à son aspect.</l>
 </sp>
 <sp who="Hylas">
@@ -1697,9 +1689,8 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;O contrainte fâcheuse !</l>
-<l>De souffrir l'entretien d'une telle Réveuse !</l>
-<pb id="page_abs_70" n="page_ori_55"/>
+<l rend="indent">O contrainte fâcheuse !</l>
+<l>De souffrir l'entretien d'une telle Réveuse ! <pb xml:id="page_abs_70" n="page_ori_55"/></l>
 <l>Ah ! Dorinde, mon mal ne demande que vous.</l>
 </sp>
 <sp who="Dorinde">
@@ -1708,21 +1699,21 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Mauvaise, de vos coups :</l>
+<l rend="indent">Mauvaise, de vos coups :</l>
 <l>Il faudroit emprunter, affin que je guerisse,</l>
 <l>O[u] la main.</l>
 </sp>
 <sp who="Florice">
 <speaker>Florice</speaker>
-<l>&nbsp;De Dorinde.</l>
+<l rend="indent">De Dorinde.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;&nbsp;Ou celle ...</l>
+<l rend="indent">Ou celle ...</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;&nbsp;&nbsp;De Florice.</l>
+<l rend="indent">De Florice.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -1734,8 +1725,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Le destin ne peut rien dessus ma volonté ;</l>
-<l>En ce combat douteux je l'aurois surmonté,</l>
-<pb id="page_abs_71" n="page_ori_56"/>
+<l>En ce combat douteux je l'aurois surmonté, <pb xml:id="page_abs_71" n="page_ori_56"/></l>
 <l>Où mon esprit se plaist à garder ma franchise.</l>
 </sp>
 <sp who="Hylas">
@@ -1750,17 +1740,17 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Florice">
 <speaker>Florice,</speaker>
-<lb/><stage type="didascalie">Ayant pris la lettre de la poche d'Hylas, &amp; parlant bas.</stage>
+<stage type="didascalie">Ayant pris la lettre de la poche d'Hylas, &amp; parlant bas.</stage>
 <l>Sa trahison paroist : Ah ! ma Sœur.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Qu[e]lle est blesme !</l>
+<l rend="indent">Qu[e]lle est blesme !</l>
 <l>Voyez, Hylas.</l>
 </sp>
 <sp who="Florice">
 <speaker>Florice</speaker>
-<l>&nbsp;J'en tiens un témoignage clair :</l>
+<l rend="indent">J'en tiens un témoignage clair :</l>
 <stage type="didascalie">puis relevant sa voix.</stage>
 <l>Demeurez, ma Compagne, il me faut prendre l'air ;</l>
 <l>Permettez qu'un moment seule icy je vous laisse.</l>
@@ -1769,7 +1759,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Dorinde</speaker>
 <l>Jusques à ce retour vostre peine me blesse.</l>
 </sp>
-<pb id="page_abs_72" n="page_ori_57"/>
+<pb xml:id="page_abs_72" n="page_ori_57"/>
 <sp who="Florice">
 <speaker>Florice,</speaker>
 <stage type="didascalie">hors du cabinet.</stage>
@@ -1792,9 +1782,8 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <sp who="Florice">
 <speaker>Florice,</speaker>
 <stage type="didascalie">bas.</stage>
-<l>Vangeons nous, &amp; sortons afin d'y penser mieux.</l>
-<pb id="page_abs_73" n="page_ori_58"/>
-<lb/><stage type="didascalie">Elle sort.</stage>
+<l>Vangeons nous, &amp; sortons afin d'y penser mieux. <pb xml:id="page_abs_73" n="page_ori_58"/></l>
+<stage type="didascalie">Elle sort.</stage>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -1816,12 +1805,12 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>N'est-ce pas pour Hylas un accident funeste</l>
 <l>De ces deux entretiens que pas un ne luy reste ?</l>
 </sp>
-</div2>
-</div1>
-<div1 id="3" n="Acte III" type="acte">
+</div>
+</div>
+<div xml:id="acte_3" n="3" type="acte">
 <head>Acte troisiesme.</head>
-<div2 type="scene" n="1">
-<pb id="page_abs_74" n="page_ori_59"/>
+<div type="scene" n="1" xml:id="scene_1">
+<pb xml:id="page_abs_74" n="page_ori_59"/>
 <head>Scène premiere.</head>
 <stage type="personnage">Florice, Dorinde,</stage>
 <stage type="didascalie">dans un cabinet.</stage>
@@ -1842,12 +1831,12 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Dorinde</speaker>
 <l>Vous me feriez rougir.</l>
 </sp>
-<pb id="page_abs_75" n="page_ori_60"/>
+<pb xml:id="page_abs_75" n="page_ori_60"/>
 <sp who="Florice">
 <speaker>Florice</speaker>
-<l>&nbsp;Il est certain pourtant ;</l>
+<l rend="indent">Il est certain pourtant ;</l>
 <l>Ces témoins asseurez vous en diront autant ;</l>
-<lb/><stage type="didascalie">elle luy donne les lettres qu'elle avoit euës d'Hylas, &amp; celle qu'elle luy avoit prise.</stage>
+<stage type="didascalie">elle luy donne les lettres qu'elle avoit euës d'Hylas, &amp; celle qu'elle luy avoit prise.</stage>
 <l>Je ne les produy point contre vous par reproche,</l>
 <l>Mais pour vous faire voir vostre rüine proche.</l>
 </sp>
@@ -1874,8 +1863,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Qui ne merite pas une telle fureur ;</l>
 <l>Croyez qu'en cas pareil son inconstance extréme</l>
 <l>Ne traiteroit pas mieux une autre ni moy mesme,</l>
-<l>Et loüez le destin, qui pour vôtre bon-heur</l>
-<pb id="page_abs_76" n="page_ori_61"/>
+<l>Et loüez le destin, qui pour vôtre bon-heur <pb xml:id="page_abs_76" n="page_ori_61"/></l>
 <l>A remis en mes mains son crime, &amp; vostre honneur ;</l>
 <l>Ce coup plûtost merite un mépris que des larmes,</l>
 <l>Et pour vous en vanger je vous laisse ces armes.</l>
@@ -1905,11 +1893,11 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>La derniere faveur que tu receus de moy</l>
 <l>Tu l'exposes ainsi, perfide ? Ah ! je le voy.</l>
 </sp>
-<lb/><stage type="didascalie">Hylas entre.</stage>
-</div2>
-<div2 type="scene" n="2">
+<stage type="didascalie">Hylas entre.</stage>
+</div>
+<div type="scene" n="2" xml:id="scene_2">
 <head>Scène II.</head>
-<pb id="page_abs_77" n="page_ori_62"/>
+<pb xml:id="page_abs_77" n="page_ori_62"/>
 <stage type="personnage">Dorinde, Hylas</stage>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
@@ -1934,8 +1922,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Tromper, assassiner, ô Dieux ! qu[e]lle licence !</l>
-<l>Sous des noms de pitié, d'amour, &amp; d'innocence ?</l>
-<pb id="page_abs_78" n="page_ori_63"/>
+<l>Sous des noms de pitié, d'amour, &amp; d'innocence ? <pb xml:id="page_abs_78" n="page_ori_63"/></l>
 <l>Le méchant a trahy depuis peu son Rival,</l>
 <l>Aujourd'huy sa Maistresse ; &amp; ne fait point de mal.</l>
 </sp>
@@ -1955,7 +1942,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Dy plustost la verité palpable.</l>
+<l rend="indent">Dy plustost la verité palpable.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -1967,8 +1954,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Je vous vy pour luy plaire, elle en tira ce fruict</l>
 <l>Que vostre amour amis la sienne hors du bruit ;</l>
 <l>Folle, qui ne crut pas qu'en me donnant ce voile</l>
-<l>Je prendrois le Soleil, &amp; quitterois l'Estoile.</l>
-<pb id="page_abs_79" n="page_ori_64"/>
+<l>Je prendrois le Soleil, &amp; quitterois l'Estoile. <pb xml:id="page_abs_79" n="page_ori_64"/></l>
 <l>Dans les premiers efforts de mes vœux incertains</l>
 <l>Vos lettres luy tomboient toutes entr[e] les mains,</l>
 <l>Vous n'aviez que mes yeux, elle tenoit mon ame,</l>
@@ -1990,11 +1976,11 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Hier seulement ; regarde.</l>
+<l rend="indent">Hier seulement ; regarde.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;&nbsp;Ah ? l'importune !</l>
+<l rend="indent">Ah ? l'importune !</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
@@ -2002,10 +1988,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Qu'elle me la vola,</l>
+<l rend="indent">Qu'elle me la vola,</l>
 <l>Lors que je vous parlois, &amp; qu'elle s'en alla.</l>
 </sp>
-<pb id="page_abs_80" n="page_ori_65"/>
+<pb xml:id="page_abs_80" n="page_ori_65"/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>C'est toy qui l'as volée à mon ame surprise,</l>
@@ -2035,8 +2021,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Qui ne croit qu'un hazard luy donna celle-cy ?</l>
 <l>Les autres, que ma foy tient en reserve encore,</l>
 <l>Meritent d'obtenir la grace que j'implore ;</l>
-<l>Et sans plus rejetter cette faute sur moy</l>
-<pb id="page_abs_81" n="page_ori_66"/>
+<l>Et sans plus rejetter cette faute sur moy <pb xml:id="page_abs_81" n="page_ori_66"/></l>
 <l>Punissez le destin, &amp; caressez ma foy.</l>
 </sp>
 <sp who="Dorinde">
@@ -2070,12 +2055,11 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Qui la punit afin de vous vanger ;</l>
+<l rend="indent">Qui la punit afin de vous vanger ;</l>
 <l>Sans moy tout vostre effort legerement la blesse,</l>
 <l>Souffrez que mon amour aide à vostre foiblesse,</l>
 <l>Ma passion pour vous tient son supplice prest,</l>
-<l>Qui s'offre à ma faveur moins qu'à vôtre interest ;</l>
-<pb id="page_abs_82" n="page_ori_67"/>
+<l>Qui s'offre à ma faveur moins qu'à vôtre interest ; <pb xml:id="page_abs_82" n="page_ori_67"/></l>
 <l>Conservez moy, Dorinde, afin de la détruire,</l>
 <l>Et plûtost ne m'aymez qu'à dessein de luy nuire.</l>
 </sp>
@@ -2095,7 +2079,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Et bien, je vous promets ...</l>
+<l rend="indent">Et bien, je vous promets ...</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
@@ -2104,7 +2088,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Qui de son jour vous estime l'Aurore.</l>
+<l rend="indent">Qui de son jour vous estime l'Aurore.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
@@ -2112,13 +2096,13 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Qui seule vous adore.</l>
+<l rend="indent">Qui seule vous adore.</l>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Je tâche de vous croire, &amp; vous me tromperez.</l>
 </sp>
-<pb id="page_abs_83" n="page_ori_68"/>
+<pb xml:id="page_abs_83" n="page_ori_68"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Ouy, mais en vous aymant plus que vous n'esperez.</l>
@@ -2138,7 +2122,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Moy toûjours vos desirs, mon amour &amp; vos loix.</l>
-<lb/><stage type="didascalie">Puis estant seul.</stage>
+<stage type="didascalie">Puis estant seul.</stage>
 <l>Ma bouche, dis-tu vray ? sans parler à mon ame</l>
 <l>Ose-tu bien promettre une constante flame ?</l>
 <l>Ouy, Dorinde est passable, &amp; merite un serment,</l>
@@ -2148,10 +2132,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Quand je n'aymerois pas, je le faindrois pourtant,</l>
 <l>Damour ou de dépit l'on me verra constant.</l>
 </sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3" xml:id="scene_3">
 <head>Scène III.</head>
-<pb id="page_abs_84" n="page_ori_69"/>
+<pb xml:id="page_abs_84" n="page_ori_69"/>
 <stage type="personnage">Florice, Alcandre</stage>
 <sp who="Florice">
 <speaker>Florice</speaker>
@@ -2172,7 +2156,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Il semble refuser un doux fruict accordé,</l>
 <l>N'avez-vous pas enfin ce qu'il a demandé ?</l>
 </sp>
-<pb id="page_abs_85" n="page_ori_70"/>
+<pb xml:id="page_abs_85" n="page_ori_70"/>
 <sp who="Florice">
 <speaker>Florice</speaker>
 <l>Ouy, si vous ajoûtez un peu de temps encore,</l>
@@ -2191,7 +2175,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Je sçauray prevenir ce courage inhumain :</l>
 <l>Theombre m'en fera la raison dans demain ;</l>
 <l>Ce terme le rendra vostre Epoux legitime.</l>
-<lb/><stage type="didascalie">Il s'en va.</stage>
+<stage type="didascalie">Il s'en va.</stage>
 </sp>
 <sp who="Florice">
 <speaker>Florice</speaker>
@@ -2201,10 +2185,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Mais puis qu'en son endroit la jalousie est vaine,</l>
 <l>Un mot luy montrera son devoir, &amp; ma peine.</l>
 </sp>
-</div2>
-<div2 type="scene" n="4">
+</div>
+<div type="scene" n="4" xml:id="scene_4">
 <head>Scène IV.</head>
-<pb id="page_abs_86" n="page_ori_71"/>
+<pb xml:id="page_abs_86" n="page_ori_71"/>
 <stage type="personnage">Periandre, Hylas, Florice</stage>
 <sp who="Periandre">
 <speaker>Periandre </speaker>
@@ -2218,15 +2202,15 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>La force de l'amour excuse cét outrage,</l>
 <l>Dorinde a trop d'appas, moy trop peu de courage,</l>
 <l>Et toy trop de pitié pour ne pardonner pas ...</l>
-<lb/><stage type="didascalie">Hylas paroist tenant une Lettre.</stage>
+<stage type="didascalie">Hylas paroist tenant une Lettre.</stage>
 <l>Les Dieux qui m'ont oüy le jettent sur mes pas :</l>
 <l>La honte à son abord tient mon ame en contrainte,</l>
 <l>Je luy parle d'envie, &amp; je me tay de crainte.</l>
 </sp>
-<pb id="page_abs_87" n="page_ori_72"/>
+<pb xml:id="page_abs_87" n="page_ori_72"/>
 <sp who="Hylas">
 <speaker>Hylas,</speaker>
-<lb/><stage type="didascalie">Lisant une Lettre de Florice.</stage>
+<stage type="didascalie">Lisant une Lettre de Florice.</stage>
 <l>Florice, on te marie ? &amp; moy je t'ayme ainsi ;</l>
 <l>Cét importun lyen m'ôte autant de soucy,</l>
 <l>Mes plaisirs asseurez auront meilleure yssuë ...</l>
@@ -2239,7 +2223,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Dieux ! quel contentement !</l>
+<l rend="indent">Dieux ! quel contentement !</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
@@ -2251,7 +2235,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;O demande sensible !</l>
+<l rend="indent">O demande sensible !</l>
 <l>C'est un Ingrat, qui rend sa trahison visible ;</l>
 <l>Je ne suis plus moy-mesme estant hors du devoir,</l>
 <l>Et pour me méconnoistre il ne faut que me voir :</l>
@@ -2259,7 +2243,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Excusez ma foiblesse, accusez sa puissance ;</l>
 <l>Vous la ravir n'est pas le dessein que je prends.</l>
 </sp>
-<pb id="page_abs_88" n="page_ori_73"/>
+<pb xml:id="page_abs_88" n="page_ori_73"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Ni moy, de plus garder un bien que je vous rends :</l>
@@ -2284,7 +2268,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Moins que moy vous oblige,</l>
+<l rend="indent">Moins que moy vous oblige,</l>
 <l>Et m'épargne des pas pour qui je les neglige ;</l>
 <l>Vous dechargez d'autant mon cœur &amp; mes esprits,</l>
 <l>Je vous quitte des pleurs, des souspirs, &amp; des cris.</l>
@@ -2293,7 +2277,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Periandre</speaker>
 <l>Vous meritez sans doute une gloire immortelle</l>
 </sp>
-<pb id="page_abs_89" n="page_ori_74"/>
+<pb xml:id="page_abs_89" n="page_ori_74"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Allez tous employer ces beaux mots auprés d'elle</l>
@@ -2319,11 +2303,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Ni de prison non plus si douce que la mienne,</l>
 <l>Je suis dans les appas, Theombre dans les fers,</l>
 <l>Je n'ay d'autres lyens ...</l>
-<lb/><stage type="didascalie">Florice entre.</stage>
-<l>&nbsp;Que ses beaux yeux offerts.</l>
+<stage type="didascalie">Florice entre.</stage>
+<l rend="indent">Que ses beaux yeux offerts.</l>
 <l>Aprés mes feux étains n'en craignez plus la cendre,</l>
-<l>Florice, j'ay rendu Dorinde à Periandre ;</l>
-<pb id="page_abs_90" n="page_ori_75"/>
+<l>Florice, j'ay rendu Dorinde à Periandre ; <pb xml:id="page_abs_90" n="page_ori_75"/></l>
 <l>Le voila de retour, &amp; ce change si doux</l>
 <l>Le montre moins heureux que je ne suis à vous.</l>
 </sp>
@@ -2336,7 +2319,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Autant que ma fidelité.</l>
+<l rend="indent">Autant que ma fidelité.</l>
 </sp>
 <sp who="Florice">
 <speaker>Florice</speaker>
@@ -2344,7 +2327,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;En vostre connoissance,</l>
+<l rend="indent">En vostre connoissance,</l>
 <l>Non pas dedans ce cœur ouvert à l'innocence.</l>
 </sp>
 <sp who="Florice">
@@ -2360,7 +2343,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Je vous témoigneray l'une &amp; l'autre à ce jour ;</l>
 <l>Ne faut-il que cela ? j'yray jusqu'à l'outrage.</l>
 </sp>
-<pb id="page_abs_91" n="page_ori_76"/>
+<pb xml:id="page_abs_91" n="page_ori_76"/>
 <sp who="Florice">
 <speaker>Florice</speaker>
 <l>Vous joüirez du calme aprés un tel orage.</l>
@@ -2373,8 +2356,8 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Florice</speaker>
 <l>Souvenez-vous qu'Hylas me gagne en la perdant.</l>
 </sp>
-</div2>
-<div2 type="scene" n="5">
+</div>
+<div type="scene" n="5" xml:id="scene_5">
 <head>Scène V.</head>
 <stage type="personnage">Dorinde, Periandre</stage>
 <sp who="Dorinde">
@@ -2389,7 +2372,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>O Dieux ! qu'ay-je entendu ? ses ruses nompareilles</l>
 <l>Qui tromperent mes yeux, étonnent mes oreilles.</l>
 </sp>
-<pb id="page_abs_92" n="page_ori_77"/>
+<pb xml:id="page_abs_92" n="page_ori_77"/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Il nous blessa tous deux par un si mauvais tour.</l>
@@ -2423,10 +2406,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Mais le voicy qui vient ; vous retirant un peu</l>
 <l>Vous pourez découvrir &amp; sa mine, &amp; son jeu.</l>
 </sp>
-</div2>
-<div2 type="scene" n="6">
+</div>
+<div type="scene" n="6" xml:id="scene_6">
 <head>Scène VI.</head>
-<pb id="page_abs_93" n="page_ori_78"/>
+<pb xml:id="page_abs_93" n="page_ori_78"/>
 <stage type="personnage">Hylas, Dorinde, Periandre</stage>
 <sp who="Hylas">
 <speaker>Hylas,</speaker>
@@ -2437,7 +2420,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Un effort troublera son repos, &amp; le mien ;</l>
 <l>Ne vous étonnez point de ce que je vay faire,</l>
 <l>Mais admirez un coup étrange &amp; necessaire.</l>
-<lb/><stage type="didascalie">Puis regardant Dorinde,</stage>
+<stage type="didascalie">Puis regardant Dorinde,</stage>
 <l>Dorinde, vous craignez, vous combattez de loin ;</l>
 <l>Venez, &amp; r'appellez vostre force au besoin.</l>
 </sp>
@@ -2445,7 +2428,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Dorinde</speaker>
 <l>La gloire du combat n'en vaudroit pas la peine.</l>
 </sp>
-<pb id="page_abs_94" n="page_ori_79"/>
+<pb xml:id="page_abs_94" n="page_ori_79"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Un peu plus de beauté vous rendroit bien plus vaine ;</l>
@@ -2470,12 +2453,11 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Beaucoup, &amp; cette medecine</l>
-<l>Rongera son amour jusques à la racine ;</l>
-<pb id="page_abs_95" n="page_ori_80"/>
+<l rend="indent">Beaucoup, &amp; cette medecine</l>
+<l>Rongera son amour jusques à la racine ; <pb xml:id="page_abs_95" n="page_ori_80"/></l>
 <l>Ou si c'est un poison, il vous doit estre doux ;</l>
 <l>Tirez le bien, du mal que j'ay commis pour vous.</l>
-<lb/><stage type="didascalie">Il sort.</stage>
+<stage type="didascalie">Il sort.</stage>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
@@ -2500,8 +2482,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Que vous prendrez pour vous ce qu'il donne à Florice ;</l>
 <l>C'est ainsi qu'il me traitte afin de l'obliger ;</l>
 <l>Et c'est d'elle &amp; de luy que je me veux vanger :</l>
-<l>Elle l'ayme, elle écrit ; &amp; vous en pouvez mettre</l>
-<pb id="page_abs_96" n="page_ori_81"/>
+<l>Elle l'ayme, elle écrit ; &amp; vous en pouvez mettre <pb xml:id="page_abs_96" n="page_ori_81"/></l>
 <l>assez facilement en mes mains une Lettre.</l>
 </sp>
 <sp who="Periandre">
@@ -2511,7 +2492,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;M'oblige, &amp; portera plus loin.</l>
+<l rend="indent">M'oblige, &amp; portera plus loin.</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre </speaker>
@@ -2526,16 +2507,16 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Je vay perdre Florice en l'esprit de Theombre,</l>
 <l>Qui croit tenir un corps, &amp; n'embrasse qu'une ombre.</l>
 </sp>
-</div2>
-</div1>
-<div1 id="4" n="Acte IV" type="acte">
+</div>
+</div>
+<div xml:id="acte_4" n="4" type="acte">
 <head>Acte quatriesme.</head>
-<div2 type="scene" n="1">
+<div type="scene" n="1" xml:id="scene_1">
 <head>Scène premiere.</head>
-<pb id="page_abs_97" n="page_ori_82"/>
+<pb xml:id="page_abs_97" n="page_ori_82"/>
 <stage type="personnage">Stelle, Corylas.</stage>
-<lb/><stage type="didascalie">Icy la Scene change de face, &amp; represente les boccages du Forests.</stage>
-<p><lb/>Dialogue<lb/></p>
+<stage type="didascalie">Icy la Scene change de face, &amp; represente les boccages du Forests.</stage>
+<p>Dialogue</p>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
 <l>Rejettez-vous ainsi mes vœux les plus constans ?</l>
@@ -2552,7 +2533,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Corylas</speaker>
 <l>Le Crocodile ainsi pleure quand il devore.</l>
 </sp>
-<pb id="page_abs_98" n="page_ori_83"/>
+<pb xml:id="page_abs_98" n="page_ori_83"/>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
 <l>Stelle, qu'on voit pour vous d'amour se consommer ...</l>
@@ -2589,7 +2570,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Stelle</speaker>
 <l>Vous sçauriez le pouvoir qu'elle a sur mes esprits.</l>
 </sp>
-<pb id="page_abs_99" n="page_ori_84"/>
+<pb xml:id="page_abs_99" n="page_ori_84"/>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
 <l>Stelle ne donne rien qu'elle n'ait tost repris.</l>
@@ -2630,7 +2611,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Stelle</speaker>
 <l>Comme eux, vous avez eu des sentimens semblables.</l>
 </sp>
-<pb id="page_abs_100" n="page_ori_85"/>
+<pb xml:id="page_abs_100" n="page_ori_85"/>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
 <l>Ouy, je fus mal-heureux, comme ils sont miserables.</l>
@@ -2667,7 +2648,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Corylas</speaker>
 <l>Et je jure aujourd'huy de faire le contraire.</l>
 </sp>
-<pb id="page_abs_101" n="page_ori_86"/>
+<pb xml:id="page_abs_101" n="page_ori_86"/>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
 <l>Aprés tant d'amitié vous pour[r]iez me haïr ?</l>
@@ -2708,10 +2689,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Corylas</speaker>
 <l>Je vous feray bien-tost arpenter le Forests.</l>
 </sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2" xml:id="scene_2">
 <head>Scène II.</head>
-<pb id="page_abs_102" n="page_ori_87"/>
+<pb xml:id="page_abs_102" n="page_ori_87"/>
 <sp who="Hylas">
 <speaker>Hylas </speaker>
 <stage type="didascalie">(en berger.)</stage>
@@ -2728,8 +2709,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Elles ne m'ont laissé d'amour, ny de regrets,</l>
 <l>Leur perte ne m'a point jetté dans le Forests ;</l>
 <l>En donne qui voudra la gloire à Chryseïde,</l>
-<l>Un Demon plus puissant me gouverne &amp; me guide ;</l>
-<pb id="page_abs_103" n="page_ori_88"/>
+<l>Un Demon plus puissant me gouverne &amp; me guide ; <pb xml:id="page_abs_103" n="page_ori_88"/></l>
 <l>Non, je n'y suis porté que d'un juste desir</l>
 <l>De goûter en tout lieu l'amour &amp; le plaisir,</l>
 <l>De promener mes sens, parler à la Nature</l>
@@ -2749,8 +2729,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Dans le dessein d'aymer de toutes les façons</l>
 <l>J'en ay pris auprés d'elle &amp; donné des leçons,</l>
 <l>Et mon amour, qui suit tout objet qui recrée,</l>
-<l>Monte de la prophane à la beauté sacrée :</l>
-<pb id="page_abs_104" n="page_ori_89"/>
+<l>Monte de la prophane à la beauté sacrée : <pb xml:id="page_abs_104" n="page_ori_89"/></l>
 <l>Mais mon esprit en fin craint sa severité,</l>
 <l>Et s'en lasse bien fort, s'il n'en est irrité ;</l>
 <l>Elle est pour mon humeur trop superbe &amp; sçavante,</l>
@@ -2762,10 +2741,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Qui dans le mesme vœu que j'auray pû former</l>
 <l>Ne sçaura de tout art que celuy de m'aymer.</l>
 </sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3" xml:id="scene_3">
 <head>Scène III.</head>
-<pb id="page_abs_105" n="page_ori_90"/>
+<pb xml:id="page_abs_105" n="page_ori_90"/>
 <stage type="personnage">Corylas, Hylas, Stelle</stage>
 <sp who="Corylas">
 <speaker>Corylas </speaker>
@@ -2778,7 +2757,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
-<l>&nbsp;Qui fuit une Importune.</l>
+<l rend="indent">Qui fuit une Importune.</l>
 </sp>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
@@ -2790,10 +2769,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Hylas</speaker>
 <l>Quoy ? vous tenez ainsi ? ...</l>
 </sp>
-<pb id="page_abs_106" n="page_ori_91"/>
+<pb xml:id="page_abs_106" n="page_ori_91"/>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
-<l>&nbsp;L'inconstance reduite :</l>
+<l rend="indent">L'inconstance reduite :</l>
 <l>Stelle, comme vos pas ces mots sont superflus,</l>
 <l>Attendez à demain, vous n'y penserez plus.</l>
 </sp>
@@ -2803,7 +2782,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
-<l>&nbsp;Une humeur incertaine,</l>
+<l rend="indent">Une humeur incertaine,</l>
 <l>Et constante aujourdhuy seulement pour ma peine.</l>
 </sp>
 <sp who="Hylas">
@@ -2820,17 +2799,16 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
-<l>&nbsp;D'un fardeau qui me nuit &amp; me pese.</l>
+<l rend="indent">D'un fardeau qui me nuit &amp; me pese.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>Voila comme on se plaint quelque fois de trop d'aise ;</l>
-<pb id="page_abs_107" n="page_ori_92"/>
+<l>Voila comme on se plaint quelque fois de trop d'aise ; <pb xml:id="page_abs_107" n="page_ori_92"/></l>
 <l>Vous appellez fardeau ...</l>
 </sp>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
-<l>&nbsp;Ce qui peut tourmenter :</l>
+<l rend="indent">Ce qui peut tourmenter :</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas </speaker>
@@ -2844,12 +2822,12 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Et qu'importe ? elle est belle :</l>
+<l rend="indent">Et qu'importe ? elle est belle :</l>
 <l>Avec que tant d'appas ...</l>
 </sp>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
-<l>&nbsp;Elle n'a point de foy.</l>
+<l rend="indent">Elle n'a point de foy.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -2865,7 +2843,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Hylas</speaker>
 <l>Parle en amy, n'as-tu que ce point à blâmer ?</l>
 </sp>
-<pb id="page_abs_108" n="page_ori_93"/>
+<pb xml:id="page_abs_108" n="page_ori_93"/>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
 <l>Hylas prest de montrer un amour qui le touche,</l>
@@ -2874,8 +2852,8 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Dy qu'il est échapé :</l>
-<lb/><stage type="didascalie">(puis se presentant à Stelle)</stage>
+<l rend="indent">Dy qu'il est échapé :</l>
+<stage type="didascalie">(puis se presentant à Stelle)</stage>
 <l>Parmy tous ses mépris, vos beaux yeux m'ont frapé ;</l>
 <l>Une pareille humeur que reprend ce Novice</l>
 <l>Vous doit faire agréer Hylas, &amp; son service.</l>
@@ -2891,7 +2869,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
-<l>&nbsp;Ajoustez un Parjure ;</l>
+<l rend="indent">Ajoustez un Parjure ;</l>
 <l>Plustost que vostre amour je souffre toute injure.</l>
 </sp>
 <sp who="Hylas">
@@ -2903,7 +2881,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Corylas</speaker>
 <l>Stelle, croyez Hylas ; voicy l'heure propice ...</l>
 </sp>
-<pb id="page_abs_109" n="page_ori_94"/>
+<pb xml:id="page_abs_109" n="page_ori_94"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Où naissent mes plaisirs.</l>
@@ -2911,7 +2889,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <sp who="Stelle">
 <speaker>Stelle </speaker>
 <stage type="didascalie">(se rendant,)</stage>
-<l>&nbsp;Où finit mon supplice.</l>
+<l rend="indent">Où finit mon supplice.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -2923,7 +2901,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Et qu'il fait recevoir.</l>
+<l rend="indent">Et qu'il fait recevoir.</l>
 </sp>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
@@ -2939,8 +2917,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Et méprisant l'appas d'un bon-heur asseuré</l>
 <l>N'aymeroient pas un bien s'ils ne l'avoient pleuré ;</l>
 <l>Ils pensent que l'amour n'est pas de bonne marque</l>
-<l>Si ce n'est sous des mots de soûpirs, &amp; de parque :</l>
-<pb id="page_abs_110" n="page_ori_95"/>
+<l>Si ce n'est sous des mots de soûpirs, &amp; de parque : <pb xml:id="page_abs_110" n="page_ori_95"/></l>
 <l>Nostre effort n'en sera ni plus ni moins ardent ;</l>
 <l>Laissons les tous mourir, &amp; vivons cependant.</l>
 </sp>
@@ -2970,8 +2947,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
-<l>Pour la rendre entre nous &amp; facile &amp; commune,</l>
-<pb id="page_abs_111" n="page_ori_96"/>
+<l>Pour la rendre entre nous &amp; facile &amp; commune, <pb xml:id="page_abs_111" n="page_ori_96"/></l>
 <l>Et n'avoir en nos vœux rien qui les importune,</l>
 <l>Arrestons nostre amour sous des conditions</l>
 <l>Qui levent toute geine à nos affections.</l>
@@ -2983,7 +2959,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
 <l>A tous les Inconstans qui vous feront un Temple.</l>
-<lb/><stage type="didascalie">(Les conditions sous lesquelles Hylas &amp; Stelle promettent de s'aymer.)</stage>
+<stage type="didascalie">(Les conditions sous lesquelles Hylas &amp; Stelle promettent de s'aymer.)</stage>
 </sp>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
@@ -3013,7 +2989,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Stelle</speaker>
 <l>Qu'ils banniront ces noms de servage &amp; de peine.</l>
 </sp>
-<pb id="page_abs_112" n="page_ori_97"/>
+<pb xml:id="page_abs_112" n="page_ori_97"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Tiendront indifferens, ou l'amour, ou la haine.</l>
@@ -3052,7 +3028,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Mais, pour les publier, il nous les faut écrire :</l>
 <l>Allons mettre la main au dessein entrepris.</l>
 </sp>
-<pb id="page_abs_113" n="page_ori_98"/>
+<pb xml:id="page_abs_113" n="page_ori_98"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Qui détruira l'erreur de tous ces faux Esprits.</l>
@@ -3062,10 +3038,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Dieux ! qu'ils sont échauffez ! leur Demon les inspire,</l>
 <l>Et nous prepare à tous mille sujets de rire.</l>
 </sp>
-</div2>
-<div2 type="scene" n="4">
+</div>
+<div type="scene" n="4" xml:id="scene_4">
 <head>Scène IV.</head>
-<pb id="page_abs_114" n="page_ori_99"/>
+<pb xml:id="page_abs_114" n="page_ori_99"/>
 <stage type="personnage">Periandre, Dorinde </stage>
 <stage type="didascalie">(en bergere)</stage>
 <sp who="Periandre">
@@ -3083,8 +3059,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Dorinde</speaker>
 <l>Vous donnez au reproche, &amp; perdez en vos cris</l>
 <l>D'une belle action le merite &amp; le prix,</l>
-<l>Je connoy que sans vous je serois enlevée ;</l>
-<pb id="page_abs_115" n="page_ori_100"/>
+<l>Je connoy que sans vous je serois enlevée ; <pb xml:id="page_abs_115" n="page_ori_100"/></l>
 <l>Mais c'est à Sigismond que vous m'avez sauvée ;</l>
 <l>La grandeur de celuy que l'on oblige en moy</l>
 <l>Me dégage envers vous de tout ce que je doy.</l>
@@ -3115,15 +3090,14 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>O parole, d'un temps pitoyable, &amp; mortelle !</l>
 <l>En me donnant la mort, (consolez vous) dit-elle.</l>
 <l>Il le faut, &amp; mourir, son destin &amp; mon cœur</l>
-<l>N'ont remis qu'en ma fin celle de sa rigueur,</l>
-<pb id="page_abs_116" n="page_ori_101"/>
+<l>N'ont remis qu'en ma fin celle de sa rigueur, <pb xml:id="page_abs_116" n="page_ori_101"/></l>
 <l>Les Dieux à ce malheur n'ont point fait de remede,</l>
 <l>Et veulent qu'à mes yeux Sygismond la possede :</l>
 <l>O Dieux ! que sa grandeur est contraire à mes vœux !</l>
 <l>Ne voy-je pas Hylas ? quel rencontre à tous deux !</l>
 </sp>
-</div2>
-<div2 type="scene" n="5">
+</div>
+<div type="scene" n="5" xml:id="scene_5">
 <head>Scène [V].</head>
 <stage type="personnage">Hylas, Stelle, Periandre, Dorinde, Florice, Corylas. Troupe de Bergers.</stage>
 <sp who="Hylas">
@@ -3137,7 +3111,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Puis que la liberté les dicta par sa voix,</l>
 <l>Et n'a pour les siner employé que nos doigts.</l>
 </sp>
-<pb id="page_abs_117" n="page_ori_102"/>
+<pb xml:id="page_abs_117" n="page_ori_102"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Afin que nos Neveux puissent mieux les apprendre</l>
@@ -3157,7 +3131,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Encore me nommer ?</l>
+<l rend="indent">Encore me nommer ?</l>
 <l>Vous avez en Berger appris à mieux aymer.</l>
 </sp>
 <sp who="Hylas">
@@ -3167,8 +3141,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>Pource qu'Hylas trop foible &amp; pauvre en leurs esprits</l>
-<pb id="page_abs_118" n="page_ori_103"/>
+<l>Pource qu'Hylas trop foible &amp; pauvre en leurs esprits <pb xml:id="page_abs_118" n="page_ori_103"/></l>
 <l>N'a point assez de fonds pour aller à ce prix.</l>
 </sp>
 <sp who="Hylas">
@@ -3181,14 +3154,14 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Je luy donne l'essor, &amp; des plumes nouvelles :</l>
 <l>Voyez dans ce papier comme nous le traittons,</l>
 <l>Et les plaisirs aussi que par luy nous goûtons.</l>
-<lb/><stage type="didascalie">Periandre prenant les conditions que luy presente Hylas les lit tout haut ainsi.</stage>
+<stage type="didascalie">Periandre prenant les conditions que luy presente Hylas les lit tout haut ainsi.</stage>
 </sp>
-<p><lb/>Les 12. conditions sous lesquelles nous Hylas &amp; Stelle, promettons de nous aymer à l'avenir, par accord fait entre nous.<lb/></p>
+<p>Les 12. conditions sous lesquelles nous Hylas &amp; Stelle, promettons de nous aymer à l'avenir, par accord fait entre nous.</p>
 <hi rend="italic">
 <p>1. Que châque cœur en nous soit l'Amant &amp; l'Aymé.</p>
 <p>2. Qu'aucun ne soit sur l'autre un Tyran estimé.</p>
 <p>3. Que l'on ne parle point de soûpirs ni de larmes.</p>
-<pb id="page_abs_119" n="page_ori_104"/>
+<pb xml:id="page_abs_119" n="page_ori_104"/>
 <p>4 Que nos esprits n'auront de lyens que les charmes.</p>
 <p>5 Qu'ils se puissent quitter, sans infidelité.</p>
 <p>6 S'aymer beaucoup ou peu, sans terme limité.</p>
@@ -3199,13 +3172,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <p>11 Chacun deux relâcher ou tenir son courage.</p>
 <p>12 Ni flatté, ni piqué de faveur ou d'outrage.</p>
 </hi>
-<pb id="page_abs_120" n="page_ori_105"/>
-<p><lb/>Article XIII. Ajouté par avis et conseil aux conditions, sous lesquelles nous Hylas &amp; Stelle, promettons de nous aymer à l'avenir, &amp; duquel nous sommes tombez d'accord, comme des autres.<lb/></p>
-<p>
-<lb/><hi rend="italic">Ajoûtant par avis cét Article commun,</hi><lb/>
-</p>
-<p><hi rend="italic">De les oublier tous, &amp; n'en tenir pas un.</hi><lb/>
-</p>
+<pb xml:id="page_abs_120" n="page_ori_105"/>
+<p>Article XIII. Ajouté par avis et conseil aux conditions, sous lesquelles nous Hylas &amp; Stelle, promettons de nous aymer à l'avenir, &amp; duquel nous sommes tombez d'accord, comme des autres.</p>
+<p rend="italic">Ajoûtant par avis cét Article commun,</p>
+<p rend="italic">De les oublier tous, &amp; n'en tenir pas un.</p>
 <p>Si[g]né Hylas, Stelle.</p>
 <lb/>
 <sp who="Hylas">
@@ -3221,8 +3191,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>Et j'offre à son humeur, qui la rend adorable,</l>
-<pb id="page_abs_121" n="page_ori_106"/>
+<l>Et j'offre à son humeur, qui la rend adorable, <pb xml:id="page_abs_121" n="page_ori_106"/></l>
 <l>Des cœurs que j'ay brûlez la fumée honorable.</l>
 </sp>
 <sp who="Stelle">
@@ -3251,7 +3220,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Ou pour la plus heureuse, &amp; qui reconnoist mieux</l>
 <l>La faveur qu'elle tient &amp; de vous &amp; des Cieux.</l>
 </sp>
-<pb id="page_abs_122" n="page_ori_107"/>
+<pb xml:id="page_abs_122" n="page_ori_107"/>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
 <l>Qu'ainsi vostre desir sans peine s'accomplisse.</l>
@@ -3259,12 +3228,12 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Et qu'en a dit Florice ?</l>
+<l rend="indent">Et qu'en a dit Florice ?</l>
 <l>Dorinde ? ...</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Elle est icy ; quoy ? vous ne sçavez-pas</l>
+<l rend="indent">Elle est icy ; quoy ? vous ne sçavez-pas</l>
 <l>Tous les sanglans effects qu'ont causé ses appas,</l>
 <l>Que du Pere &amp; du Fils à l'égal adorée</l>
 <l>Elle s'est en Bergere en ces champs retirée ?</l>
@@ -3279,8 +3248,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>Que tes desseins, Amy, sont injustes &amp; faux !</l>
-<pb id="page_abs_123" n="page_ori_108"/>
+<l>Que tes desseins, Amy, sont injustes &amp; faux ! <pb xml:id="page_abs_123" n="page_ori_108"/></l>
 <l>Un peu de mon humeur adouciroit tes maux ;</l>
 <l>On diroit que les Dieux t'ôtent leur assistance,</l>
 <l>Qu'ils ont, pour te punir, établi la Constance,</l>
@@ -3289,8 +3257,8 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Languir pour une Ingrate, &amp; qui rit de ta peine ?</l>
 <l>Mais Dieux ! je l'apperçoy ; la voicy l'Inhumaine.</l>
 </sp>
-</div2>
-<div2 type="scene" n="6">
+</div>
+<div type="scene" n="6" xml:id="scene_6">
 <head>Scène VI.</head>
 <stage type="personnage">Hylas, Stelle, Dorinde, Florice, Periandre</stage>
 <sp who="Hylas">
@@ -3301,7 +3269,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Des flames de l'Amour, et des feux de la guerre ?</l>
 <l>Et quel Demon de sang l'a conduite en ces lieux ?</l>
 </sp>
-<pb id="page_abs_124" n="page_ori_109"/>
+<pb xml:id="page_abs_124" n="page_ori_109"/>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
 <l>Ou quel Astre fatal montre Hylas à mes yeux ?</l>
@@ -3339,7 +3307,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Hylas</speaker>
 <l>Florice ? a-t'elle esté ? c'est un nom de Romant,</l>
 <l>Toutefois il m'en vient, me l'estant retracée,</l>
-<pb id="page_abs_125" n="page_ori_110"/>
+<pb xml:id="page_abs_125" n="page_ori_110"/>
 <l>Quelque idée en l'esprit, mais beaucoup effacée.</l>
 </sp>
 <sp who="Dorinde">
@@ -3377,12 +3345,12 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Il est mort.</l>
+<l rend="indent">Il est mort.</l>
 </sp>
-<pb id="page_abs_126" n="page_ori_111"/>
+<pb xml:id="page_abs_126" n="page_ori_111"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Qu'on responde</l>
+<l rend="indent">Qu'on responde</l>
 <l>Qu'il n'est plus aujourd'huy de jalousie au monde.</l>
 </sp>
 <sp who="Periandre">
@@ -3402,7 +3370,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Hylas</speaker>
 <l>J'eus par vous ce travail ; mais j'en ay bien donné ;</l>
 <l>Il ne m'en souvient plus, je vous l'ay pardonné.</l>
-<lb/><stage type="didascalie">(Corylas &amp; sa troupe entre)</stage>
+<stage type="didascalie">(Corylas &amp; sa troupe entre)</stage>
 <l>Mais que veut Corylas, &amp; sa troupe animée,</l>
 <l>D'épieux, de javelots, &amp; de fourches armée ?</l>
 <l>Voudroit-il vous r'avoir les armes à la main ?</l>
@@ -3412,10 +3380,10 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <speaker>Stelle</speaker>
 <l>Hylas n'est asseuré de moy ni de sa force.</l>
 </sp>
-</div2>
-<div2 type="scene" n="7">
+</div>
+<div type="scene" n="7" xml:id="scene_7">
 <head>Scène VII.</head>
-<pb id="page_abs_127" n="page_ori_112"/>
+<pb xml:id="page_abs_127" n="page_ori_112"/>
 <stage type="personnage">Corylas, Dorinde, Periandre, Hylas, Stelle</stage>
 <sp who="Corylas">
 <speaker>Corylas </speaker>
@@ -3434,7 +3402,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 <l>Qui menace un hameau pour vous seule assailly,</l>
 <l>Nous venons vous offrir retraitte à Marcelly.</l>
 </sp>
-<pb id="page_abs_128" n="page_ori_113"/>
+<pb xml:id="page_abs_128" n="page_ori_113"/>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
 <l>Madame, ce dessein est du tout necessaire</l>
@@ -3461,7 +3429,7 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Nous tenons la victoire certaine.</l>
+<l rend="indent">Nous tenons la victoire certaine.</l>
 </sp>
 <sp who="Corylas">
 <speaker>Corylas</speaker>
@@ -3469,44 +3437,51 @@ Je ne la puis fuïr, ni rencontrer la mort.<lb/></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Corylas Capitaine.</l>
+<l rend="indent">Corylas Capitaine.</l>
 </sp>
-</div2>
-</div1>
-<div1 id="5" n="Acte V" type="acte">
+</div>
+</div>
+<div xml:id="acte_5" n="5" type="acte">
 <head>Acte cinquiesme.</head>
-<div2 type="scene" n="1">
+<div type="scene" n="1" xml:id="scene_1">
 <head>Scène premiere.</head>
-<pb id="page_abs_129" n="page_ori_114"/>
+<pb xml:id="page_abs_129" n="page_ori_114"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<p><lb/>Chanson<lb/></p>
-<p><lb/><hi rend="italic">&nbsp;Quel sujet prolonge la nuict ?<lb/>
-Que sa course déplaist à mon ame enflamée !<lb/>
-Qui retient la clarté tant de fois reclamée ?<lb/>
-&nbsp;Je la demande, elle me fuit.<lb/>
-&nbsp;O Dieux ! quelle merveille.<lb/>
-Dans le sein du repos chacun dort ; &amp; je veille.<lb/></hi></p>
-<p><hi rend="italic"><lb/>&nbsp;Alidor sur un beau teton<lb/>
-Prend l'aise du sommeil, aprés d'autres delices :<lb/>
-L'Aurore, qui tenoit le lict pour ses supplices,<lb/>
-&nbsp;S'oublie, &amp; dort prés de Tython.<lb/>
-&nbsp;O Dieux ! quelle merveille !<lb/>
-Dans le sein du repos chacun dort, &amp; je veille.<lb/></hi></p>
-<pb id="page_abs_130" n="page_ori_115"/>
-<p><hi rend="italic"><lb/>&nbsp;L'ombre passe, &amp; tout change en fin ;<lb/>
-Les Astres vont dormir, &amp; tombent de paresse ;<lb/>
-L'Aurore pleure moins à faute de caresse<lb/>
-&nbsp;Que de se lever si matin :<lb/>
-&nbsp;O Dieux ! quelle merveille !<lb/>
-Dans le sein du repos chacun dort, &amp; je veille.<lb/></hi></p>
-<p><hi rend="italic"><lb/>&nbsp;L'oyseau s'éveille dans les bois<lb/>
-Sur un lict naturel ou de fueïlle ou de plume,<lb/>
-Et regarde en chantant tout le Ciel qui s'allume<lb/>
-&nbsp;Et se réjouït à sa voix.<lb/>
-&nbsp;O Dieux ! quelle merveille !<lb/>
-Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
-<p>
+<p>Chanson</p>
+<lg rend="italic">
+<l rend="indent">Quel sujet prolonge la nuict ?</l>
+<l>Que sa course déplaist à mon ame enflamée !</l>
+<l>Qui retient la clarté tant de fois reclamée ?</l>
+<l rend="indent">Je la demande, elle me fuit.</l>
+<l rend="indent">O Dieux ! quelle merveille.</l>
+<l>Dans le sein du repos chacun dort ; &amp; je veille.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">Alidor sur un beau teton</l>
+<l>Prend l'aise du sommeil, aprés d'autres delices :</l>
+<l>L'Aurore, qui tenoit le lict pour ses supplices,</l>
+<l rend="indent">S'oublie, &amp; dort prés de Tython.</l>
+<l rend="indent">O Dieux ! quelle merveille !</l>
+<l>Dans le sein du repos chacun dort, &amp; je veille.</l>
+</lg>
+<lg rend="italic">
+<pb xml:id="page_abs_130" n="page_ori_115"/>
+<l rend="indent">L'ombre passe, &amp; tout change en fin ;</l>
+<l>Les Astres vont dormir, &amp; tombent de paresse ;</l>
+<l>L'Aurore pleure moins à faute de caresse</l>
+<l rend="indent">Que de se lever si matin :</l>
+<l rend="indent">O Dieux ! quelle merveille !</l>
+<l>Dans le sein du repos chacun dort, &amp; je veille.</l>
+</lg>
+<lg rend="italic">
+<l rend="indent">L'oyseau s'éveille dans les bois</l>
+<l>Sur un lict naturel ou de fueïlle ou de plume,</l>
+<l>Et regarde en chantant tout le Ciel qui s'allume</l>
+<l rend="indent">Et se réjouït à sa voix.</l>
+<l rend="indent">O Dieux ! quelle merveille !</l>
+<l>Je pleure cependant, je soûpire, &amp; je veille.</l>
+</lg>
 <l>Je soûpire ? &amp; pourquoy ? quel si puissant objet</l>
 <l>A mes feux violens peut servir de sujet ?</l>
 <l>Ne suis-je plus Hylas ? &amp; ne sçaurois-je apprendre</l>
@@ -3514,8 +3489,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Cét envieux Demon de constance &amp; d'ennuy</l>
 <l>Voudroit il me punir &amp; me changer en luy ?</l>
 <l>Non, c'en est un d'amour, qui me figure Stelle</l>
-<l>Avecque tous les traits qui la rendent si belle.</l>
-<pb id="page_abs_131" n="page_ori_116"/>
+<l>Avecque tous les traits qui la rendent si belle. <pb xml:id="page_abs_131" n="page_ori_116"/></l>
 <l>Qu'il la peigne Divine, &amp; par de faux appas</l>
 <l>Luy donne des beautez que mesme elle n'a pas ;</l>
 <l>Qu'elle ait sur mes esprits un souverain Empire :</l>
@@ -3540,10 +3514,10 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Tout ce que m'auroit pû ta haine procurer ?</l>
 </p>
 </sp>
-</div2>
-<div2 type="scene" n="2">
+</div>
+<div type="scene" n="2" xml:id="scene_2">
 <head>Scène II.</head>
-<pb id="page_abs_132" n="page_ori_117"/>
+<pb xml:id="page_abs_132" n="page_ori_117"/>
 <stage type="personnage">Periandre, Hylas</stage>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
@@ -3575,7 +3549,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <stage type="didascalie">(le poussant.)</stage>
 <l>Ne répondrez-vous point ? je croy que vous songez.</l>
 </sp>
-<pb id="page_abs_133" n="page_ori_118"/>
+<pb xml:id="page_abs_133" n="page_ori_118"/>
 <sp who="Hylas">
 <speaker>Hylas </speaker>
 <stage type="didascalie">(l'entendant)</stage>
@@ -3584,7 +3558,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Beaucoup de réverie :</l>
+<l rend="indent">Beaucoup de réverie :</l>
 <l>Quelle humeur vous a mis cette nuit en furie ?</l>
 </sp>
 <sp who="Hylas">
@@ -3593,7 +3567,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Où croire ce qu'il dit ?</l>
+<l rend="indent">Où croire ce qu'il dit ?</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -3605,11 +3579,11 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Dedans mon lict.</l>
+<l rend="indent">Dedans mon lict.</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;&nbsp;Et j'en estois si proche ?</l>
+<l rend="indent">Et j'en estois si proche ?</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -3621,16 +3595,16 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Chassée.</l>
+<l rend="indent">Chassée.</l>
 </sp>
-<pb id="page_abs_134" n="page_ori_119"/>
+<pb xml:id="page_abs_134" n="page_ori_119"/>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;&nbsp;O Dieux !</l>
+<l rend="indent">O Dieux !</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;&nbsp;&nbsp;En me levant.</l>
+<l rend="indent">En me levant.</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
@@ -3638,7 +3612,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;D'un fantosme, &amp; du vent :</l>
+<l rend="indent">D'un fantosme, &amp; du vent :</l>
 <l>Joüit-on d'un objet qu'on ne tient qu'en pensée ?</l>
 </sp>
 <sp who="Periandre">
@@ -3663,10 +3637,10 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Mais Stelle en doit répondre ;</l>
+<l rend="indent">Mais Stelle en doit répondre ;</l>
 <l>Quoy ? ne charge-t'on pas le maistre comme auteur</l>
 <l>D'un dom[m]age important que cause un serviteur ?</l>
-<pb id="page_abs_135" n="page_ori_120"/>
+<pb xml:id="page_abs_135" n="page_ori_120"/>
 <l>N'osant pas y venir, dans mon lict elle envoye</l>
 <l>Tout ce qui peut troubler mon repos &amp; ma joye,</l>
 <l>Un portrait qui me blesse en montrant sa beauté.</l>
@@ -3678,17 +3652,17 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Je luy veux faire entendre</l>
+<l rend="indent">Je luy veux faire entendre</l>
 <l>D'une noire action, ce qu'elle en doit attendre.</l>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
 <l>L'action fut bien noire, estant faite la nuict.</l>
 </sp>
-</div2>
-<div2 type="scene" n="3">
+</div>
+<div type="scene" n="3" xml:id="scene_3">
 <head>Scène III.</head>
-<pb id="page_abs_136" n="page_ori_121"/>
+<pb xml:id="page_abs_136" n="page_ori_121"/>
 <stage type="personnage">Periandre, Corilas, Stelle, H[y]las</stage>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
@@ -3710,7 +3684,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Si vous croyez qu'Hylas y treuve vostre image,</l>
 <l>Bergere, vous allez chercher vostre dommage.</l>
 </sp>
-<pb id="page_abs_137" n="page_ori_122"/>
+<pb xml:id="page_abs_137" n="page_ori_122"/>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
 <l>Que craindrois-je ? l'aymant, je sçay qu'il la verra.</l>
@@ -3725,7 +3699,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Comme un objet funeste.</l>
+<l rend="indent">Comme un objet funeste.</l>
 </sp>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
@@ -3733,7 +3707,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Periandre">
 <speaker>Periandre</speaker>
-<l>&nbsp;Et c'est contre eux qu'il peste.</l>
+<l rend="indent">Et c'est contre eux qu'il peste.</l>
 </sp>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
@@ -3747,8 +3721,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Et le troubler autant qu'a fait vostre peinture ?</l>
 <l>Qu'est-il, ce beau portrait, qu'il le falle adorer,</l>
 <l>Et souffrir dedans moy ses coups sans murmurer ?</l>
-<l>Est-ce un Dieu ? mais plustost un Tyran de mon ame ?</l>
-<pb id="page_abs_138" n="page_ori_125"/>
+<l>Est-ce un Dieu ? mais plustost un Tyran de mon ame ? <pb xml:id="page_abs_138" n="page_ori_125"/></l>
 <l>Qu'il entre malgré moy, la tourmente, &amp; l'enflame ?</l>
 <l>Sans respect violer tous nos sermens escrits,</l>
 <l>C'est chercher un congé qu'on devroit avoir pris,</l>
@@ -3761,7 +3734,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Corilas">
 <speaker>Corilas</speaker>
-<l>&nbsp;Laissez le Ciel sans plus loin recourir</l>
+<l rend="indent">Laissez le Ciel sans plus loin recourir</l>
 <l>Vos humeurs ont dequoy se blesser &amp; guerir.</l>
 </sp>
 <sp who="Stelle">
@@ -3782,7 +3755,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Sans aller plus avant consulter la Fontaine,</l>
 <l>Vous voyez de son cœur une image certaine.</l>
 </sp>
-<pb id="page_abs_139" n="page_ori_124"/>
+<pb xml:id="page_abs_139" n="page_ori_124"/>
 <sp who="Corilas">
 <speaker>Corilas</speaker>
 <l>Nous verrons qu'il rendra ce qu'il a refusé,</l>
@@ -3792,7 +3765,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <sp who="Hylas">
 <speaker>Hylas </speaker>
 <stage type="didascalie">(Hylas allant d'un bout du Theatre à l'autre.)</stage>
-<l>&nbsp;Tu vois, je me promeine.</l>
+<l rend="indent">Tu vois, je me promeine.</l>
 </sp>
 <sp who="Corilas">
 <speaker>Corilas</speaker>
@@ -3800,7 +3773,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Peu de peine.</l>
+<l rend="indent">Peu de peine.</l>
 </sp>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
@@ -3816,7 +3789,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Sur un poinct que tu pouras apprendre ;</l>
+<l rend="indent">Sur un poinct que tu pouras apprendre ;</l>
 <l>Je songe à qui donner ce que je viens de prendre.</l>
 </sp>
 <sp who="Corilas">
@@ -3824,7 +3797,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Où treuveroit son cœur enfin de lieux certains,</l>
 <l>S'il ne peut demeurer un moment dans ses mains ?</l>
 </sp>
-<pb id="page_abs_140" n="page_ori_125"/>
+<pb xml:id="page_abs_140" n="page_ori_125"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Il me péze déja, je cherche à m'en défaire ;</l>
@@ -3841,7 +3814,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Corilas">
 <speaker>Corilas</speaker>
-<l>&nbsp;A l'objet le plus proche &amp; plus digne,</l>
+<l rend="indent">A l'objet le plus proche &amp; plus digne,</l>
 <l>Et qui doit esperer cette faveur insigne,</l>
 <l>A Stelle, dont l'amour apres un bien perdu</l>
 <l>Le conservera mieux se le voyant rendu.</l>
@@ -3852,15 +3825,14 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Corilas">
 <speaker>Corilas</speaker>
-<l>&nbsp;Il le faut : cét accord sans contrainte</l>
+<l rend="indent">Il le faut : cét accord sans contrainte</l>
 <l>Vous tire de reproche, &amp; luy ravit la plainte.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Allons. Mais doy je croire &amp; suivre ton conseil ?</l>
 <l>C'est Amour qui m'inspire un mouvement pareil.</l>
-<lb/><stage type="didascalie">Il se jette à genoux devant Stelle.</stage>
-<pb id="page_abs_141" n="page_ori_126"/>
+<stage type="didascalie">Il se jette à genoux devant Stelle. <pb xml:id="page_abs_141" n="page_ori_126"/></stage>
 <l>Nostre feu sortira plus beau de ces fumées,</l>
 <l>Par cette épreuve Amour a nos loix confirmées,</l>
 <l>Le plus beau prix, Bergere, est celuy qu'on debat,</l>
@@ -3894,8 +3866,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <sp who="Corilas">
 <speaker>Corilas</speaker>
 <l>Et ne vous laisse pas d'aucun moment joüir,</l>
-<l>Ou le temps de vous plaindre, ou de vous réjoüir.</l>
-<pb id="page_abs_142" n="page_ori_127"/>
+<l>Ou le temps de vous plaindre, ou de vous réjoüir. <pb xml:id="page_abs_142" n="page_ori_127"/></l>
 <l>Tandis qu'un tel accord a vos ames unies,</l>
 <l>Et pour voir à jamais vos querelles finies,</l>
 <l>La Fontaine d'Amour qui déja nous attend</l>
@@ -3914,10 +3885,10 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Soit : au moins ce miroir, que je tiens impuissant,</l>
 <l>Vous montrera mes vœux en vous obeyssant.</l>
 </sp>
-</div2>
-<div2 type="scene" n="4">
+</div>
+<div type="scene" n="4" xml:id="scene_4">
 <head>Scène IIII.</head>
-<pb id="page_abs_143" n="page_ori_128"/>
+<pb xml:id="page_abs_143" n="page_ori_128"/>
 <sp who="Adamas">
 <speaker>Adamas</speaker>
 <l>Depuis ce jour fatal si rempli de miracles,</l>
@@ -3933,8 +3904,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Avecque le Soleil je paroy dans ces lieux,</l>
 <l>Pour augmenter ma joye &amp; rendre grace aux Dieux,</l>
 <l>Qui tirant du destin toute chose prospere</l>
-<l>Du malheur de mon fils me firent heureux Pere :</l>
-<pb id="page_abs_144" n="page_ori_129"/>
+<l>Du malheur de mon fils me firent heureux Pere : <pb xml:id="page_abs_144" n="page_ori_129"/></l>
 <l>Je pense encore voir le bucher &amp; l'Autel ;</l>
 <l>Amour icy rendit un Oracle mortel,</l>
 <l>Là Sylvandre parut prest de choir en victime,</l>
@@ -3946,10 +3916,10 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Enfin tout le Forests dans ces lieux assemblé</l>
 <l>Fut témoin du bon-heur dont le Ciel m'a comblé.</l>
 </sp>
-</div2>
-<div2 type="scene" n="5">
+</div>
+<div type="scene" n="5" xml:id="scene_5">
 <head>Scène V.</head>
-<pb id="page_abs_145" n="page_ori_130"/>
+<pb xml:id="page_abs_145" n="page_ori_130"/>
 <stage type="personnage">Dorinde, Adamas, Hylas, Corylas, Stelle, Periandre</stage>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
@@ -3957,7 +3927,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Adamas">
 <speaker>Adamas</speaker>
-<l>&nbsp;La paix aprés la guerre ;</l>
+<l rend="indent">La paix aprés la guerre ;</l>
 <l>Et le Soleil du Ciel, &amp; celuy de la terre :</l>
 <l>Les rayons du premier embellissent ces lieux,</l>
 <l>Mais ils les touchent moins que l'éclat de vos yeux.</l>
@@ -3967,8 +3937,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Vous estes l'un &amp; l'autre en ce siecle où nous sommes,</l>
 <l>Vostre esprit vint du Ciel pour éclairer les hommes.</l>
 <l>Mais remettant à part l'esprit, la qualité,</l>
-<l>Sans méler nos plaisirs à vostre dignité,</l>
-<pb id="page_abs_146" n="page_ori_131"/>
+<l>Sans méler nos plaisirs à vostre dignité, <pb xml:id="page_abs_146" n="page_ori_131"/></l>
 <l>Rirez-vous pas d'Hylas, que cette trouppe ameine</l>
 <l>Le dernier des Amants consulter la Fontaine ?</l>
 </sp>
@@ -3984,7 +3953,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Comme toy par tes larmes :</l>
+<l rend="indent">Comme toy par tes larmes :</l>
 <l>Je tiens dedans l'erreur tous ces enchantemens.</l>
 </sp>
 <sp who="Stelle">
@@ -4001,7 +3970,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Ne vous en troublez point ; par un change plus doux</l>
 <l>Je sortiray de moy pour estre auprés de vous,</l>
 </sp>
-<pb id="page_abs_147" n="page_ori_132"/>
+<pb xml:id="page_abs_147" n="page_ori_132"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Ah ! vous me jetterez dans une peine extreme ;</l>
@@ -4023,7 +3992,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Et chacune pour soy.</l>
+<l rend="indent">Et chacune pour soy.</l>
 </sp>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
@@ -4041,7 +4010,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Et vous, gentil Berger, voulez vous pas de mesme</l>
 <l>Y regarder aussi la Beauté qui vous aime ?</l>
 </sp>
-<pb id="page_abs_148" n="page_ori_133"/>
+<pb xml:id="page_abs_148" n="page_ori_133"/>
 <sp who="Corilas">
 <speaker>Corilas</speaker>
 <l>M'aymer ? le sort n'est pas si contraire à mon bien ;</l>
@@ -4077,7 +4046,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <speaker>Adamas</speaker>
 <l>Faut-il se deffier ainsi de son bon heur ?</l>
 </sp>
-<pb id="page_abs_149" n="page_ori_134"/>
+<pb xml:id="page_abs_149" n="page_ori_134"/>
 <sp who="Corilas">
 <speaker>Corilas</speaker>
 <l>Je remets toute amour dedans l'indifference.</l>
@@ -4117,17 +4086,17 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Qui donc ; une Bergere ?</l>
+<l rend="indent">Qui donc ; une Bergere ?</l>
 </sp>
-<pb id="page_abs_150" n="page_ori_135"/>
+<pb xml:id="page_abs_150" n="page_ori_135"/>
 <sp who="Adamas">
 <speaker>Adamas,</speaker>
-<lb/><stage type="didascalie">Luy montrant Amour sur une Colomne de marbre au milieu de la Fontaine.</stage>
+<stage type="didascalie">Luy montrant Amour sur une Colomne de marbre au milieu de la Fontaine.</stage>
 <l>Craignez-vous pas ce Dieu ?</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Ma peur seroit legere.</l>
+<l rend="indent">Ma peur seroit legere.</l>
 </sp>
 <sp who="Adamas">
 <speaker>Adamas</speaker>
@@ -4135,20 +4104,20 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Vallent peu dans la main d'un Enfant,</l>
+<l rend="indent">Vallent peu dans la main d'un Enfant,</l>
 <l>Foible.</l>
 </sp>
 <sp who="Adamas">
 <speaker>Adamas</speaker>
-<l>&nbsp;Puissant.</l>
+<l rend="indent">Puissant.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;&nbsp;Tout nu.</l>
+<l rend="indent">Tout nu.</l>
 </sp>
 <sp who="Adamas">
 <speaker>Adamas</speaker>
-<l>&nbsp;&nbsp;&nbsp;Mais par tout triomphant.</l>
+<l rend="indent">Mais par tout triomphant.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -4164,8 +4133,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>Stelle, vous paroissez ? ô Dieux ! je l'apperçoy</l>
-<pb id="page_abs_151" n="page_ori_136"/>
+<l>Stelle, vous paroissez ? ô Dieux ! je l'apperçoy <pb xml:id="page_abs_151" n="page_ori_136"/></l>
 <l>Douce, pleine d'appas, divine, incomparable,</l>
 <l>Toute belle &amp; parfaite ; en un mot, adorable.</l>
 <l>Les Graces &amp; l'Amour font rire ce tableau ;</l>
@@ -4184,14 +4152,14 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Et pour baiser son front se coulent à lentour :</l>
 <l>O merveille ! je voy trembler cette Colonne,</l>
 <l>Que le Marbre s'anime, &amp; la terre s'étonne.</l>
-<pb id="page_abs_152" n="page_ori_[137]"/>
-<p><lb/>Oracle<lb/></p>
-<p><lb/>Que rend l'Amour au dessus d'une Colonne elevée au milieu de la Fontaine.
+<pb xml:id="page_abs_152" n="page_ori_[137]"/>
+<p>Oracle</p>
+<p>Que rend l'Amour au dessus d'une Colonne elevée au milieu de la Fontaine.
 <lb/>
 <lb/>
 <hi rend="italic"><l>Que la fin de tes feux soit leur commencement ;</l>
 <l>Stelle t'ayme, Berger, rien ne t'en doit distraire :</l>
-<l>&nbsp;Pour le punir, ou pour salaire,</l>
+<l rend="indent">Pour le punir, ou pour salaire,</l>
 <l>Je veux qu'Hylas ayme eternellement.</l></hi>
 </p></sp>
 <sp who="Stelle">
@@ -4211,8 +4179,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <sp who="Adamas">
 <speaker>Adamas</speaker>
 <l>Gardez la, vostre humeur, aussi bien que la vie ;</l>
-<l>Il semble que l'Oracle à cela vous convie ;</l>
-<pb id="page_abs_153" n="page_ori_138"/>
+<l>Il semble que l'Oracle à cela vous convie ; <pb xml:id="page_abs_153" n="page_ori_138"/></l>
 <l>Ses mots les plus aisez ont vos sens confondus,</l>
 <l>Et vous font peur, Hylas, faute d'estre entendus ;</l>
 <l>La voix des Dieux est haute, &amp; non pas mensongere :</l>
@@ -4227,20 +4194,19 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <speaker>Adamas</speaker>
 <l>Justement, &amp; voila ce que l'Oracle ordonne,</l>
 <l>Et qu'on peut voir encore écrit sur la Colonne.</l>
-<hi rend="italic"><l>Que la fin de tes feux soit leur commencement.</l></hi>
+<l rend="italic">Que la fin de tes feux soit leur commencement.</l><
 <l>Prestez icy l'esprit avec le jugement ?</l>
 <l>Finir, pour commencer une flame nouvelle,</l>
 <l>N'est ce pas vous remettre aux choix de la plus belle ?</l>
 <l>De tant d'objets qu'Amour vous fit suivre autre fois,</l>
 <l>Retournez-y par ordre, &amp; r'entrez sous leurs loix ;</l>
-<l>Styliane, Cloris, &amp; Dorinde sans honte</l>
-<pb id="page_abs_154" n="page_ori_139"/>
+<l>Styliane, Cloris, &amp; Dorinde sans honte <pb xml:id="page_abs_153" n="page_ori_138"/></l>
 <l>Viendront aprés Phyllis, Laonice, &amp; Madonthe ;</l>
 <l>Et pour Stelle ...</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
-<l>&nbsp;Arrestez, jusques-là tout va bien,</l>
+<l rend="indent">Arrestez, jusques-là tout va bien,</l>
 <l>Je luy promets leur cœur, en leur donnant le mien ;</l>
 <l>Je la veux pour compagne en ces diverses routes,</l>
 <l>Je l'aymeray toûjours, &amp; les aymeray toutes.</l>
@@ -4266,7 +4232,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <l>Luy peut donner autant que prendre d'exercice :</l>
 <l>Il sera bien leger, s'il la passe à courir.</l>
 </sp>
-<pb id="page_abs_155" n="page_ori_[140]"/>
+<pb xml:id="page_abs_155" n="page_ori_[140]"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>Et plus sage que toy, qui pensas en mourir.</l>
@@ -4278,7 +4244,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Qui cherche des visages.</l>
+<l rend="indent">Qui cherche des visages.</l>
 <l>De tout lieu, de tout âge, &amp; de toute saison.</l>
 </sp>
 <sp who="Hylas">
@@ -4301,7 +4267,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <speaker>Corylas</speaker>
 <l>Et devenir enfin amoureux des atômes.</l>
 </sp>
-<pb id="page_abs_156" n="page_ori_[141]"/>
+<pb xml:id="page_abs_156" n="page_ori_[141]"/>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
 <l>C'est, Berger ignorant, ce que tu n'entends pas :</l>
@@ -4314,7 +4280,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Dorinde">
 <speaker>Dorinde</speaker>
-<l>&nbsp;Et constant par miracle.</l>
+<l rend="indent">Et constant par miracle.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -4323,7 +4289,7 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 </sp>
 <sp who="Stelle">
 <speaker>Stelle</speaker>
-<l>&nbsp;Et j'y consens aussi.</l>
+<l rend="indent">Et j'y consens aussi.</l>
 </sp>
 <sp who="Hylas">
 <speaker>Hylas</speaker>
@@ -4338,25 +4304,24 @@ Je pleure cependant, je soûpire, &amp; je veille.<lb/></hi></p>
 <speaker>Hylas</speaker>
 <l>Ainsi les Dieux &amp; moy sommes tombez d'accord.</l>
 </sp>
-<p><lb/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FIN<lb/></p>
-</div2>
-</div1>
-</div0>
-<div0 n="Pages de fin" id="page_fin" type="fin">
-<div1 n="Privilège" id="page_fin1" type="colophon">
-<pb id="page_abs_157" n="page_ori_LIM"/>
-<hi rend="rule"></hi>
-<p><lb/><hi rend="italic">Extraict du Privilege du Roy.</hi><lb/></p>
-<p><lb/>&nbsp;Par Privilege du Roy donné à Paris le 28. jour de Mars 1635. signé FARDOIL, &amp; scellé du grand sceau, il est permis à François Targa marchand Libraire à Paris, d'imprimer ou faire imprimer, &amp; mettre en vente un livre intitulé, <hi rend="italic">L'Inconstance d'Hylas, Comedie-Pastorale, fait par Maistre Anthoine Mareschal, Advocat en nostre Cour de Parlement de Paris</hi>. Faisant defenses à tous Imprimeurs &amp; Libraires, d'imprimer ou faire imprimer, vendre ny debiter ledit livre, sans le consentement dudit Targa, durant le temps de cinq ans, sur peine aux contrevenans de cinq cens livres d'amende, de tous despens, dommages &amp; interests, &amp; de confiscation desdits exemplaires, comme il est plus amplement contenu en l'original dudit Privilege.<lb/></p>
-<p><lb/><hi rend="italic">Achevé d'imprimer le troisiesme jour de Juillet 1635.</hi><lb/></p>
-</div1>
-<div1 n="Errata" id="page_fin2" type="errata">
-<pb id="page_abs_158" n="page_ori_LIM"/>
-<p><lb/><hi rend="italic">Er[r]ata</hi><lb/></p>
-<p><lb/>Page 3. vers 12. lisez que. Pag. 4. v.9. lisez seroit-ce eux 
-Pag. 5. v. 3. lisez orgüeïl. Pag. 10. v.5. lisez amitié. Pag. 112 v.7. lisez Marcilly.</p>
-</div1>
-</div0>
+<p rend="center">FIN</p>
+</div>
+</div>
 </body>
+<back>
+<div n="1" xml:id="privilege" type="page_liminaire">
+<pb xml:id="page_abs_157" n="page_ori_LIM"/>
+<milestone unit="hr"/>
+<head>Extraict du Privilege du Roy.</head>
+<p rend="indent">Par Privilege du Roy donné à Paris le 28. jour de Mars 1635. signé FARDOIL, &amp; scellé du grand sceau, il est permis à François Targa marchand Libraire à Paris, d'imprimer ou faire imprimer, &amp; mettre en vente un livre intitulé, <hi rend="italic">L'Inconstance d'Hylas, Comedie-Pastorale, fait par Maistre Anthoine Mareschal, Advocat en nostre Cour de Parlement de Paris</hi>. Faisant defenses à tous Imprimeurs &amp; Libraires, d'imprimer ou faire imprimer, vendre ny debiter ledit livre, sans le consentement dudit Targa, durant le temps de cinq ans, sur peine aux contrevenans de cinq cens livres d'amende, de tous despens, dommages &amp; interests, &amp; de confiscation desdits exemplaires, comme il est plus amplement contenu en l'original dudit Privilege.</p>
+<p rend="italic">Achevé d'imprimer le troisiesme jour de Juillet 1635.</p>
+</div>
+<div n="2" xml:id="errata" type="page_liminaire">
+<pb xml:id="page_abs_158" n="page_ori_LIM"/>
+<head>Er[r]ata</head>
+<p>Page 3. vers 12. lisez que. Pag. 4. v.9. lisez seroit-ce eux 
+Pag. 5. v. 3. lisez orgüeïl. Pag. 10. v.5. lisez amitié. Pag. 112 v.7. lisez Marcilly.</p>
+</div>
+</back>
 </text>
-</TEI.2>
+</TEI>
