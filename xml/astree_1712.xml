@@ -1,64 +1,61 @@
-<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../teipub/tei2html.xsl"?>
+<?xml-model href="../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="astree.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xml:id="astree_1712" xml:lang="français" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
  <fileDesc>
  <titleStmt>
  <title>La Nouvelle Astrée</title>
- <author>attribuée à l'abbé de Choisy</author>
- <respStmt>
- <resp>numérisation par </resp>
- <name>l' équipe Astrée</name>
- </respStmt>
+ <author key="Choisy, François-Timoléon (de) 1644-1724)">attribuée à l'abbé de Choisy</author>
  </titleStmt>
  <editionStmt>
  <edition>
 <date>1712</date>
 </edition>
+ <respStmt>
+ <resp>numérisation par</resp>
+ <name>l'équipe Astrée</name>
+ </respStmt>
  </editionStmt>
  <publicationStmt>
+ <address><addrLine>
+ Delphine Denis, Université Paris 4-Sorbonne, 1, rue V. Cousin, Paris, 75005, FRANCE
+ </addrLine></address>
+ <idno></idno>
+ <availability status="restricted">
+ <licence target="Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France"></licence>
+ </availability>
+ <date when="2013"/>
+ <publisher>Dir. Delphine Denis et Alexandre Gefen</publisher>
  <distributor>ACI Astrée (Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France)</distributor>
- <address>
- <addrLine>Delphine Denis, Université Paris-Sorbonne, 1, rue V. Cousin, Paris, 75005, FRANCE</addrLine>
- </address>
  </publicationStmt>
- <notesStmt>
- <note>
-<p>Edition de 1712</p>
-<p>Version I</p>
-</note>
- </notesStmt>
  <sourceDesc>
  <bibl>
-<editor>Dir. Delphine Denis et Alexandre Gefen</editor>
-<title type="sub">La Nouvelle Astrée</title>
-<author>D'Urfé, Honoré</author>
-<imprint>
- <pubPlace></pubPlace>
- <publisher></publisher>
+ <title>La Nouvelle Astrée</title>
+ <author>D'Urfé, Honoré</author>
  <date>1712</date>
- </imprint>
-</bibl>
+ <edition>Dir. Delphine Denis et Alexandre Gefen</edition>
+ </bibl>
  </sourceDesc>
  </fileDesc>
- <encodingDesc>
- <samplingDecl>
- <p>Orthographe conservée</p>
- </samplingDecl>
- </encodingDesc>
- <profileDesc>
- <creation>
-<date>1712</date>
+<profileDesc>
+<creation>
+<date when="1712">1712</date>
 </creation>
- <langUsage>
- <language id="FR" usage="100">Français.</language>
- </langUsage>
- </profileDesc>
- <revisionDesc>
-   <change><date>30/05/2008</date>
-     <respStmt>
-     <name>Alexandre Gefen</name><resp>éd.</resp>
-     </respStmt>
-     <item>Version 1</item></change>
+<langUsage>
+<language ident="FR">Français.</language>
+</langUsage>
+</profileDesc>
+<encodingDesc>
+<samplingDecl>
+<p>Orthographe conservée</p>
+</samplingDecl>
+</encodingDesc>
+<revisionDesc>
+<change when="2008" who="Gefen, Alexandre"><date>30/05/2008</date>
+<name>Alexandre Gefen éd. Version 1</name>
+</change>
 </revisionDesc>
  </teiHeader>
  <text>
