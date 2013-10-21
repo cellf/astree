@@ -80,10 +80,10 @@ MADAME.</titlePart>
  <body> 
  <div n="1" xml:id="dedicace" type="piece_preliminaire">
 <pb xml:id="page_abs_2" n="page_ori_LIM3"/>
-<p><title><hi rend="bold">A<lb/>
+<head>A<lb/>
 SON ALTESSE<lb/>
 ROYALE<lb/>
-MADAME.</hi></title></p>
+MADAME.</head>
 <p>MADAME,</p>
 <p rend="indent italic">Le Manuscrit de la nouvelle Astrée m'étant tombé entre les mains, j'ose le mettre sous la protection de votre ALTESSE ROYALE ; elle ne dédaignera pas de jetter les yeux sur un 
 <pb xml:id="page_abs_3" n="page_ori_LIM4"/>
@@ -95,7 +95,7 @@ petit Ouvrage composé par une persone du beau sexe, qui a trouvé le moyen de l
 <p rend="right">Le tres-humble, tres-obéïssant,<lb/> &amp; tres-fidele serviteur, Pepié.</p>
 </div>
 <div n="2" xml:id="avertissement" type="piece_preliminaire">
-<p>AVERTISSEMENT.</p>
+<head>AVERTISSEMENT.</head>
 <p rend="indent">Une Dame que la naissance &amp; les biens de la fortune rendent moins recommandable que les qualitez personelles, m'a donné sans y penser, la premiere idée de ce petit Ouvrage : Elle avoit oüi dire, qu'une jeune persone, qui veut avoir de l'esprit, doit lire &amp; relire le Roman d'Astrée, &amp; cependant, malgré sa prévention &amp; son courage, elle n'avoit jamais pu aller jusqu'à la fin du premier Volume. Les Episodes continuels, l'affectation d'u
 <pb xml:id="page_abs_4" n="page_ori_LIM"/>
 ne vaine science, dont elle ne s'imaginoit pas avoir grand besoin, l'étalage de la Doctrine profonde des Anciens Druides, les Poësies frequentes &amp; froides, tout cela l'avoit assez rebutée, pour ne pas continuer une lecture qu'elle trouvoit ennuïeuse : mais en même temps la défiance de soi-même, qui accompagne d'ordinaire les bons esprits, lui faisoit croire que l'aprobation du Public devoit prévaloir à son sentiment particulier, &amp; que l'Ouvrage ne laissoit pas d'être fort bon, quoiqu'il ne l'eut pas divertie. Elle me fit l'honneur de 
@@ -108,32 +108,20 @@ assez aux mots antiques, &amp; encore mieux à la beauté des sentimens. Un homm
 <p rend="indent">Voilà, mon cher Lecteur, ce qui a fait naître la petite Histoire d'Astrée &amp; de Celadon. L'accüeil favorable que vous avez fait à quelques bagatelles qui me sont échapées, m'a enhardie à vous faire ce petit present. Il ne tiendra qu'à vous, de vous en attirer bien-tôt un autre.
 </p>
 </div>
- <div n="3" xml:id="approbation" type="piece_preliminaire">
+<div n="3" xml:id="approbation" type="piece_preliminaire">
 <pb xml:id="page_abs_8" n="page_ori_LIM"/>
-<p>
 <milestone unit="hr"/>
-<title>APPROBATION</title>
-</p>
+ <head>APPROBATION</head>
 <p rend="indent">J'ay lû par ordre de Monseigneur le Chancelier, <hi rend="italic">La nouvelle Astrée</hi>, &amp; j'ai cru que le Public en verroit l'impression avec plaisir. Fait à Paris ce douziéme Mai mil sept cent douze.
 </p>
-<p rend="right">FONTENELLE./p>
+<p rend="right">FONTENELLE.</p>
 </div>
 <div xml:id="premiere_partie" n="1" type="partie">
-<div xml:id="page_ASTREE0101" n="premier" type="livre">
 <pb xml:id="page_abs_9" n="page_ori_1"/>
-<p>
-<title>
-<hi rend="bold">
-LA NOUVELLE<lb/>
-ASTREE</hi></title>
-<lb/>
-</p>
-<p>
-<title>
-<hi rend="bold">LIVRE PREMIER.
-</hi>
-</title>
-</p>
+<head>LA NOUVELLE<lb/>
+ASTREE</head>
+<div xml:id="livre_1" n="1" type="livre">
+<head>LIVRE PREMIER.</head>
 <p rend="indent">La nature avoit rendu le petit païs de Forêt, le plus délicieux des Gaules : les montagnes, les plaines, les bois &amp; les ruisseaux y formoient une agréable diversité ; &amp; quoique les bords du Lignon ne fussent pas si fameux que ceux du Tibre, les Bergers &amp; les Bergeres, qui pouvoient s'y voir tous les jours, y vivoient contens, sans porter envie au reste de l'Univers : heureuse tranquillité, si l'amour ne l'avoit point troublée.</p>
 <pb xml:id="page_abs_10" n="page_ori_2"/>
 <p rend="indent">Le Soleil n'étoit point encore levé, quand Celadon, le plus beau &amp; le plus amoureux des Bergers, laissant le soin de son troupeau à la fidélité de ses chiens, vint s'assoir sur les bords du Lignon, pour y attendre la Bergere Astrée. Il n'y attendit pas long temps, l'amour &amp; la jalousie l'avoient éveillée. Il vit d'abord Melampe son chien bien-aimé, qui lui vint faire cent carresses. Il vit aussi sa brebis favorite, mais qui ce jour-là n'avoit point de rubans à l'ordinaire ; Astrée avoit bien autre chose à l'esprit. Elle suivoit son troupeau d'un air si triste, &amp; rêvant si profondément, qu'elle passa assez près de Celadon sans le voir. Il se flatta qu'elle l'alloit chercher, où il avoit accoûtumé d'aller presque tous les jours. Il la suivit, sans songer à un mal
@@ -163,13 +151,11 @@ ce moment-là les Bergers qui étoient allé chercher des nouvelles de Celadon, 
 prenant le chapeau de Celadon, elle s'en alla seule rêver à son malheur. La solitude est toûjours le premier appareil de la douleur : tantôt sur le témoignage de Licidas, elle croyoit son Berger innocent ; son cœur, sa beauté, la bonne opinion d'elle-même, qui est si naturelle, lui disoient sans cesse, qu'on ne pouvoit point lui être infidele : &amp; puis se souvenant des discours que Celadon tenoit à la Bergere Aminte, elle ne vouloit plus douter de son inconstance. Ces diverses pensées la conduisirent jusques dans le bois ; où se voyant seule, elle tourna &amp; retourna le chapeau de Celadon, &amp; trouva dans la doublure le billet suivant.
 </p>
 <pb xml:id="page_abs_22" n="page_ori_14"/>
-<p>
-<hi rend="italic">
-<title>CELADON A ASTREE.</title>
-</hi>
-</p>
+<quote type="letter">
+<label>CELADON A ASTREE.</label>
 <p rend="indent">« Finissez mes peines, ma Bergere, il est temps que vous me permettiez d'être Celadon, ayant si long-temps, &amp; avec tant de peine, representé auprès des autres Bergeres, un personage qui m'est si contraire. »
 </p>
+</quote>
 <p rend="indent">Hô, que terribles furent ces paroles qui la firent ressouvenir du commandement qu'elle avoit fait à Celadon, &amp; de la résolution qu'ils avoient prise ensemble, de cacher leur intelligence par cette dissimulation. Mais, ô Dieux ! quels sont les enchantements de l'amour ; elle étoit au désespoir de la mort de son Amant ; &amp; toutefois elle sentoit une secrette joïe, en reconnoissant qu'il lui avoit été fidele. Cette consolation passagere ne dura pas ; 
 <pb xml:id="page_abs_23" n="page_ori_15"/>
 l'amour propre l'avoit fait naître ; &amp; dès que tant de preuves eurent dissipé les nuages de sa jalousie, toutes ces considérations se joignirent ensemble, pour avoir plus de force à l'affliger.
@@ -236,32 +222,25 @@ dans ses habits. Meril lui aïant dit que non ; <hi rend="italic">hà</hi>, dit 
 <p rend="indent">Galathée avoit effectivement pris les lettres qu'on avoit trouvées dans les poches de Celadon, &amp; s'étoit enfermée avec Silvie, pour les lire à loisir. <hi rend="italic">Voïons</hi>, disoit-elle, <hi rend="italic">si ce Berger n'est point amoureux, peut-être que ces lettres nous en apprendront quelque chose. </hi>La premiere Lettre étoit telle.
 </p>
 <pb xml:id="page_abs_47" n="page_ori_39"/>
-<p>
-<hi rend="italic">
-<title>ASTREE A CELADON.</title>
-</hi>
-</p>
+<quote type="letter"><label>ASTREE A CELADON.</label>
 <p rend="indent">Qu'est-ce que vous entreprenez, Celadon, vous voulez m'aimer, &amp; vous avez bien la mine de vouloir que je vous aime ? Croïez-moi, c'est tenter l'impossible. Je suis fiere, il faudra servir, soufrir, &amp; n'avoir des yeux que pour moi. Je suis jalouse, difficile à gagner, facile à perdre, on m'offense aisément, je ne pardonne jamais, le moindre doute est pour moi une assurance. Je prétendrai que mes volontez fassent vos destinées, mes opinions vos raisons, mes commandemens vos loix les plus inviolables. Voilà, Berger, quelle je suis, &amp; quelle je serai toûjours ; reglez vous là-dessus, &amp; puisque vous me connoissez presentement, ne vous plai
 <pb xml:id="page_abs_48" n="page_ori_40"/>
 gnez jamais de moi.</p>
+</quote>
 <p rend="indent"><hi rend="italic">Hé bien,</hi> dit Galathée, <hi rend="italic">Celadon n'est-il pas amoureux ? « Madame, </hi>reprit Silvie, il est trop honnête homme pour ne pas aimer. J'ai oüi dire à ma mere, que l'Amant qui veut être aimé, doit songer à se rendre aimable, &amp; c'est cela même qui rend honnête homme. » Galathée qui ne l'écoutoit pas, lui donna une lettre un peu moüillée pour la secher, &amp; cependant elle en prit une autre, &amp; y lut ces paroles.</p>
-<p>
-<title><hi rend="italic">
-ASTREE A CELADON</hi>
-</title>
-</p>
+<quote type="letter"><label>
+ASTREE A CELADON</label>
 <p rend="indent">Vous ne voulez pas croire que je vous aime, &amp; vous voulez que je croïe que vous m'aimez ; si je ne vous aime point, Celadon, que vous importe que je croïe que vous m'aimez ? afin peut-être que cette pensée 
 <pb xml:id="page_abs_49" n="page_ori_41"/>
 m'oblige à vous aimer à mon tour. A peine (mon Berger) le pourra cette foible consideration, si votre merite &amp; vos services ne l'ont pû encore. Or, voïez en quel état sont vos affaires. Je ne veux pas seulement que vous sachiez que je croi que vous m'aimez ; mais je veux de plus que vous soïez assuré que je vous aime. Pour cela, Celadon, je méprise les volontez de ceux à qui je dois toutes choses ; jugez par-là de mon amitié, &amp; ne soïez plus incredule.</p>
+</quote>
 <p rend="indent"><hi rend="italic">Helas ! Silvie,</hi> dit Galathée, <hi rend="italic">il aime &amp; il est aimé.</hi> Mais voïons la lettre que tu viens de secher.</p>
-<p><title>
-<hi rend="italic">
-ASTREE A CELADON.
-</hi></title>
-</p>
+<quote type="letter"><label>
+ASTREE A CELADON.</label>
 <p rend="indent">Licidas a dit à Philis, que vous étiez aujourd'hui de mauvaise humeur. En suis-je cause, 
 <pb xml:id="page_abs_50" n="page_ori_42"/>
 ou vous ? Si c'est moi, vous avez tort, Celadon, je vous aime, &amp; je veux que vous m'aimiez. Ne m'avez-vous pas juré mille fois qu'il ne vous faloit que cela pour être content ? Et si c'est vous qui causez vous-même votre chagrin ; avez-vous oublié, mon Berger, qu'en me donnant votre cœur, vous m'avez tout donné. Pourquoi donc osez-vous disposer sans moi, d'une chose qui ne vous appartient plus. Que je sache au plûtôt le sujet de votre mauvaise humeur, je verrai si je dois vous donner la permission de vous affliger, &amp; en attendant je vous le défens.</p>
+</quote>
 <p rend="indent"><hi rend="italic">Avec quel empire,</hi> dit Galathée, <hi rend="italic">cette Bergere traite son Berger. Madame,</hi> répondit Silvie, « cette Astrée est la plus belle &amp; la plus vertueuse de nos Bergeres, la fierté lui sied bien. » 
 <pb xml:id="page_abs_51" n="page_ori_43"/>
 Pendant que la Nimphe lisoit avec chagrin les lettres d'Astrée à Celadon ; ce Berger sans songer au petit Meril qui ne l'abandonnoit jamais, s'écria avec transport : <hi rend="italic">Helas ! belle Astrée, </hi>« le banissement devoit-il être la récompense de mes services ? Si vous ne m'aimiez plus, falloit-il m'accuser de perfidie, pour excuser votre inconstance ; &amp; si je vous ai véritablement offensée, que ne m'aprenez-vous mon crime ? »</p>
@@ -284,21 +263,15 @@ faite, elles ne se disoient jamais ce qu'elles pensoient véritablement. Celadon
 d'envoïer chercher le Druide Adamas, qui étoit fort savant dans la conoissance des simples, &amp; de se confier en lui. Il étoit oncle de Leonide, qui partit sur le champ pour l'aller chercher à Marsilly ; mais comme Celadon se trouva beaucoup mieux dès le même soir, Galathée fit partir en diligence la Nimphe Silvie, pour contremander le Druide, dont la présence eut été incommode, dès qu'elle n'étoit pas nécessaire.
 </p>
 </div>
-<div xml:id="page_ASTREE0102" n="deuxiesme" type="livre">
+<div xml:id="livre_2" n="2" type="livre">
 <pb xml:id="page_abs_58" n="page_ori_50"/>
-<p><hi rend="bold">
-<title>LA NOUVELLE<lb/>
-ASTREE</title></hi><lb/></p>
-<p><hi rend="bold">
-<title>LIVRE SECOND.</title></hi>
-</p>
+<head>LA NOUVELLE<lb/>
+ASTREE <lb/>LIVRE SECOND.</head>
 <p rend="indent">Pandant que les choses se passoient ainsi dans le Château d'Issoure, tout étoit en pleurs dans la Cabane d'Astrée ; son pere Alcé &amp; sa mere Hippolite étoient morts en quatre jours : mais quoique la Bergere fut de bon naturel, elle fut moins touchée qu'elle ne l'auroit été dans un autre temps. La douleur qu'elle avoit de la mort de Celadon, ne lui permettoit pas d'être sensible à autre chose. Philis &amp; Diane ne la quittoient point. Ces deux Bergeres ses bonnes amies, 
 <pb xml:id="page_abs_59" n="page_ori_51"/>
 ignoroient une partie de ses avantures ; Astrée n'avoit jamais dit son secret qu'au cœur de Celadon. Elles la presserent extrêmement de leur aprendre jusqu'aux moindres particularitez de sa vie ; persuadées qu'en leur parlant souvent de ce qu'elle avoit tant aimé, elle soulageroit sa douleur ; elle s'y resolut enfin, &amp; le fit en ces termes.</p>
-<p>
-<hi rend="italic">
-<title>HISTOIRE D'ASTREE</title></hi>
-</p>
+<div>
+<head>HISTOIRE D'ASTREE</head>
 <p rend="indent">Celadon m'aimoit, helas ! je l'avoüerai sans rougir, j'aimois Celadon ; la haine de nos parens avoit fait naître nôtre amitié ; nous nous aimions presque avant que de nous connoître, &amp; parce qu'il nous étoit defendu de nous voir, nous mourrions d'envie d'être ensemble. A notre premiere en
 <pb xml:id="page_abs_60" n="page_ori_52"/>
 trevûë Celadon avoit quinze ans, j'en avois douze. Ce fut à une danse, où ce jeune Berger s'étant approché de moi, je sentis des mouvemens qui m'étoient inconnus. Il me dit tout bas avec la confiance d'un enfant, qu'il vouloit m'aimer ; je le crus pourtant, &amp; depuis ce jour-là, quoiqu'il ait été assez long-temps sans connoître son bonheur, il ne laissoit pas d'être heureux.</p>
@@ -336,12 +309,10 @@ je fis semblant de dormir ; pour lui donner la hardiesse d'aprocher ; il n'y man
 il sait tout ce qui se passe dans mon cœur ; promettez-moi de lui parler quelquefois du pauvre Celadon. » Helas ! j'étois aussi affligée que lui. Je lui promis tout ce qu'il voulut. Il partit, visita toutes les villes d'Italie, &amp; fut trois ans à son voïage. Alcippe croïant que l'âge &amp; la raison l'auroient gueri d'un amour d'enfant, le fit revenir dans nos hameaux. O Dieux ! avec quelle joie me vint-il retrouver ? Il me fit demander une entrevûë particuliere par son frere Licidas ; qui pendant son absence m'avoit rendu bien de petits services, &amp; m'écrivit une lettre, qui me fit connoître que les beautez d'Italie n'avoient pas changé son cœur. Je crois l'avoir sur moi, il faut que je vous la montre. Helas ! j'ai eu plus de soin de ce qui venoit de lui, 
 <pb xml:id="page_abs_75" n="page_ori_67"/>
 que de lui-même. Alors Astrée aiant tiré un petit porte-lettres où elle mettoit toutes les lettres de Celadon, &amp; aiant trouvé celle qu'elle cherchoit, elle y lût ces paroles.</p>
-<p>
-<hi rend="italic">
-<title>CELADON A ASTREE.</title>
-</hi>
-</p>
+<quote type="letter">
+<label>CELADON A ASTREE.</label>
 <p rend="indent">Belle Astrée vous m'aimiez avant mon exil, fasse le Ciel que vous m'aimiez encore à mon retour. Je partis avec tant de chagrin, &amp; je suis revenu avec tant de plaisir, que vous voiez bien que n'étant point mort ni en allant ni en revenant, on ne meurt ni de joie ni de douleur. Permettez donc que je vous voie, donnez-m'en le moyen, &amp; qu'au moins après une si longue absence, je puisse vous consulter sur l'état present de ma fortune.</p>
+</quote>
 <p rend="indent">Je fus ravie d'aprendre par 
 <pb xml:id="page_abs_76" n="page_ori_68"/>
 la lecture de cette lettre, que Celadon m'étoit fidele. Je le vis, il me jura qu'il m'aimeroit toujours ; je n'épargnai pas les sermens de mon côté, mais comme il avoit dix-huit ans, &amp; que j'en avois quinze, nous commençâmes à prendre des mesures pour cacher notre intelligence. Je lui recommandai sur-tout de rendre des devoirs à toutes les belles persones ; afin que ne faisant rien de particulier pour moi, ses parens ni les miens ne pussent pas soupçonner ce qui se passoit entre nous.</p>
@@ -366,12 +337,10 @@ fils, remarqua qu'il alloit tous les jours à la même heure du côté d'un vieu
 <pb xml:id="page_abs_84" n="page_ori_76"/>
 lettre, où il n'y avoit ni suscription, ni signature, il la remit au même endroit, &amp; se cacha pour voir le Berger qui la viendroit prendre. Un moment après il vit son fils, &amp; ne douta plus de notre intelligence. Il connut que malgré toutes ses précautions, nous nous aimions plus que jamais. Il fit faire un second voyage à Celadon, &amp; l'envoya chez le Berger Fertelle, dans l'esperance qu'il deviendroit amoureux de sa fille Malthée, ou qu'au moins il ne me verroit plus. Quelque tems après Alcippe ayant apris qu'on parloit de me marier au Berger Corebe, il fit contrefaire mon écriture, &amp; fit écrire à Celadon en mon nom, la lettre que voici.</p>
 <pb xml:id="page_abs_85" n="page_ori_77"/>
-<p>
-<hi rend="italic">
-<title>ASTREE A CELADON.</title>
-</hi>
-</p>
+<quote type="letter">
+<label>ASTREE A CELADON.</label>
 <p rend="indent">Mon pere me donne à Corebe, j'obéïs avec peine, mais j'obéïs. Oubliez Astrée, qui vous veut oublier, parce que son devoir l'y oblige.</p>
+</quote>
 <p rend="indent">Qui pourroit exprimer que devint Celadon, quand il crut lire ma lettre. Il quitta Forelle sans dire adieu à Malthée ; le plus affreux desert lui parut le plus propre à son désespoir, &amp; il se retira dans une forêt à la source du Lignon. Là tous les jours il ne songeoit qu'à sa chere Astrée ; &amp; quoi qu'il se la figurât entre les bras d'un autre, il ne laissoit pas de l'aimer encore, toute infidelle qu'elle étoit dans son imagination.</p>
 <p rend="indent">Six mois étoient déjà passez depuis la perte de Celadon ; Alcippe au désespoir le faisoit 
 <pb xml:id="page_abs_86" n="page_ori_78"/>
@@ -387,9 +356,10 @@ en va augmentant la source.</hi> Elles la prierent ensuite de recommencer sa nar
 <p rend="indent">Puis qu'il faut donc que j'acheve un recit si douloureux, je vous dirai que Corebe avoit un ami nommé Semire, qui l'accompagnoit toûjours lors qu'il venoit chez nous. Corebe paroissoit assez froid, parce qu'il vit bien-tôt qu'il ne me plaisoit pas ; je le traitois pourtant fort honnêtement, mais avec tant d'égard, tant de civilitez, qu'il ne lui étoit pas difficile de voir que mon cœur n'y avoit aucun[e] part. Semire au contraire, sous les apparences d'un ami, avoit tous les empressemens d'un Amant. Il m'aimoit aussi, &amp; s'aperçût que j'avois un commerce caché avec Celadon. La jalousie le rendit attentif à mes actions, &amp; un 
 <pb xml:id="page_abs_90" n="page_ori_82"/>
 jour que je courois après un loup qui emportoit une de mes brebis, je laissai tomber une lettre que j'avois écrite à Celadon, il la ramassa, &amp; y lût ces mots.</p>
-<p><hi rend="italic">
-<title>ASTREE A CELADON.</title></hi></p>
+<quote type="letter">
+<label>ASTREE A CELADON.</label>
 <p rend="indent">Que j'ai de plaisir à vous écrire, &amp; que je suis aise, quand je reçois de vos lettres ; mais pourquoi me remerciez-vous tant, aimez-moi seulement, l'amour haït les complimens.</p>
+</quote>
 <p rend="indent">Quand Semire eut vû cette lettre, il songea à me broüiller avec Celadon, avant que de rien tenter pour lui-même. Il s'attacha à me faire mille petits plaisirs, &amp; affecta de me dire toûjours du bien de mon Amant. Je le crus véritablement de mes amis. Alors le traître prit 
 <pb xml:id="page_abs_91" n="page_ori_83"/>
 son temps pour me trahir. <hi rend="italic">Astrée</hi>, me dit-il un jour, <hi rend="italic">on vous trompe, j'y ai été trompé moi-même, je croyois que Celadon vous aimoit, &amp; il aime Aminte. Il ne tiendra qu'à vous de vous en convaincre par vos yeux, il ne s'en contraint pas trop.</hi> Il m'offrit de me faire cacher dans un cabinet de verdure, rendez-vous ordinaire d'Aminte &amp; de Celadon. Je le pris au mot. Helas ! je vis Celadon &amp; Aminthe qui parloient avec beaucoup de vivacité. Je n'entendis pas ce qu'ils se disoient, mais je vis qu'Aminte, dont le visage étoit tourné de mon côté, lui faisoit de temps en temps des mines fort gracieuses. Celadon se mit une fois à genoux, comme pour la remercier. La jalousie m'aveugla dans ce moment ; j'oubliai qu'en parlant d'amour à toutes les Bergeres, Celadon m'obéïssoit. Je 
@@ -397,14 +367,11 @@ son temps pour me trahir. <hi rend="italic">Astrée</hi>, me dit-il un jour, <hi
 quittai Semire sans lui dire une parole, &amp; mon malheur m'aïant fait rencontrer mon Berger, dans le temps que je n'avois plus de raison, au lieu de l'entendre avant que de le condamner, je lui parlai avec tant de colere &amp; tant de mépris, que désespéré, il se précipita dans le Lignon, &amp; me donna le coup de la mort.</p>
 <p rend="indent">Astrée ne put achever son recit sans verser bien des larmes. Les deux Bergeres attendiries pleurerent avec elle, &amp; soulagerent sa douleur en la partageant.</p>
 </div>
-<div xml:id="page_ASTREE0103" n="deuxiesme" type="livre">
+</div>
+<div xml:id="livre_3" n="3" type="livre">
 <pb xml:id="page_abs_93" n="page_ori_85"/>
-<p><hi rend="bold">
-<title>LA NOUVELLE<lb/>
-ASTREE</title><lb/></hi>
-</p>
-<p>
-<hi rend="bold"><title>LIVRE TROISIEME.</title></hi></p>
+<head>LA NOUVELLE<lb/>
+ASTREE <lb/>LIVRE TROISIEME.</head>
 <p rend="indent">Leonide poursuivoit son chemin, pour aller chez le Druide Adamas, &amp; n'étoit plus qu'à une lieuë de Marsilly, lors qu'en se retournant elle vit venir sur le chemin d'Issoure une Nimphe qui marchoit fort vîte. Elle reconnut bien-tôt Silvie, &amp; trembla pour la vie de Celadon. <hi rend="italic">Ha ma chere,</hi> lui cria-t-elle d'assez loin, <hi rend="italic">ce pauvre Berger est-il mort ? Non</hi> lui dit Silvie, <hi rend="italic">il se porte beaucoup mieux, il n'a plus de fiévre, &amp; Galathée m'a fait partir en diligence pour vous dire, de ne point faire venir 
 <pb xml:id="page_abs_94" n="page_ori_86"/>
 à Issoure le Druide votre oncle, puisque sa presence n'y est plus nécessaire. Elle ne veut point augmenter le nombre des témoins de sa foiblesse.</hi> Les deux Nimphes s'embrasserent tendrement, &amp; voïant qu'il étoit presque nuit, qu'il y avoit encore loin à Marsilly, &amp; que les portes de la Ville seroient fermées avant qu'elles y pussent arriver, elles prirent le parti de s'enfoncer dans le bois des Vestales, qui étoit fort proche, &amp; d'y passer la nuit. C'étoit dans la plus belle saison de l'année, &amp; dans un païs où les Nimphes ne craignoient ni les Chevaliers errans, qui ne songeoient qu'à rendre service aux Dames, ni les loups qui avoient accoûtumé de fuïr devant elles. Elles se couchereont sur l'herbe dans un endroit du bois fort épais, &amp; se mirent à raisonner sur leur voyage. <hi rend="italic">L'en
@@ -484,7 +451,9 @@ toutefois, suivant la doctrine des Druides, que le grand Dieu Thautate[s], premi
 avec la lettre qu'il avoit écrite. Il la porta huit jours durant, sans songer seulement à l'envoyer à Astrée ; il eut cru l'offenser, &amp; manquer à l'Arrêt de son bannissement. Mais un jour qu'il faisoit sa promenade ordinaire, il aperçût sous des arbres un Berger qui dormoit profondément. Il le reconut pour Silvandre, distingué entre tous les Bergers du Lignon pour son esprit, &amp; encore plus pour son insensibilité. Celadon ne le conoissoit que sur ce pied-là ; mais depuis son absence, Silvandre avoit payé le tribut au fils de Venus. La Bergere Diane l'avoit mis à la raison, &amp; il n'étoit venu dans le fond de ce bois, que pour parler aux arbres &amp; aux rochers de la cruauté de sa Bergere. Il avoit bien chanté &amp; pleuré, (l'amour fait faire toutes sortes de per
 <pb xml:id="page_abs_127" n="page_ori_119"/>
 sonages,) &amp; s'étoit endormi. Celadon mit sa lettre sur le bras de Silvandre, dans l'esperance qu'elle parviendroit peut-être jusqu'à sa Bergere. Il ne se trompa pas. Silvandre éveillé fut surpris de se trouver entre les mains, une lettre adressée à la plus belle &amp; à la plus aimée Bergere de l'Univers. Il retourna au Hameau, &amp; conta aux Bergeres ce qui lui étoit arrivé. Astrée, Philis, Diane, voulurent voir la lettre, qui étoit telle.</p>
-<p rend="indent"><hi rend="italic">A la plus aimée &amp; la plus belle Bergere de l'Univers, le plus infortuné &amp; le plus fidele de ses serviteurs.</hi></p>
+<quote type="letter" rend="italic indent">
+<p>A la plus aimée &amp; la plus belle Bergere de l'Univers, le plus infortuné &amp; le plus fidele de ses serviteurs.</p>
+</quote>
 <p rend="indent">Mon amour ne consentira jamais à donner le nom de suplice à ce que votre commandement me fait souffrir, &amp; ma 
 <pb xml:id="page_abs_128" n="page_ori_120"/>
 bouche qui n'est destinée qu'à vos loüanges, ne s'ouvrira jamais à la plainte. L'état où je suis, qui seroit peut-être insuportable à tout autre, me fait plaisir, parce que vous voulez que je souffre. Ne faites donc point de difficulté de perseverer dans vos rigueurs, je persevererai dans mon obéïssance ; afin que si durant ma vie je n'ai pû vous convaincre de ma fidelité, les champs Elisées &amp; les ames bienheureuses qui y sont, reconoissent au moins que je suis le plus fidele, aussi-bien que le plus infortuné des Amans.</p>
@@ -498,13 +467,16 @@ leur avoit fait un conte à plaisir. Elle l'alla trouver aussi-tôt : Silvandre,
 <pb xml:id="page_abs_132" n="page_ori_124"/>
 <hi rend="italic">Bergeres</hi>, leur dit-il en riant, <hi rend="italic"> je vous ai égarées, mais nous sommes ici bonne compagnie, &amp; nous ne craignons point les loups. </hi>Il les fit apercevoir qu'ils étoient à l'entrée d'une espece de berceau d'arbres verts assez bas, formé par des branches courbées &amp; liées ensemble. L'allée étoit si étroite, qu'on n'y pouvoit passer qu'un à un. Silvandre marcha le premier, &amp; tenta l'avanture, les Bergers le suivirent. Ils trouverent un petit preau entouré de grands arbres, &amp; dans le fonds ils virent deux chênes en pillastres, que des feüillages joignoient par en haut, avec l'inscription suivante, gravée sur une table de bois.</p>
 <pb xml:id="page_abs_133" n="page_ori_125"/>
-<p rend="indent italic">Loin, bien loin, profanes esprits,<lb/>
-&nbsp;Qui n'est d'un saint amour épris,<lb/>
-&nbsp;En ce lieu saint ne fasse entrée.<lb/>
-&nbsp;Voici le bois où chaque jour,<lb/>
-&nbsp;Un cœur qui ne vit que d'amour,<lb/>
-&nbsp;Adore la Déesse Astrée.</hi>
-</p>
+<quote type="poem" rend="italic indent">
+<lg>
+<l>Loin, bien loin, profanes esprits,</l>
+<l>Qui n'est d'un saint amour épris,</l>
+<l>En ce lieu saint ne fasse entrée.</l>
+<l>Voici le bois où chaque jour,</l>
+<l>Un cœur qui ne vit que d'amour,</l>
+<l>Adore la Déesse Astrée.</l>
+</lg>
+</quote>
 <p rend="indent">La troupe alla plus avant, &amp; vit un petit Autel, sur lequel étoit un portrait avec ces mots au bas : <hi rend="italic">C'est la Deesse Astrée.</hi> En verité, dit Philis, c'est le veritable portrait d'Astrée. Voilà ses doubles C C, ses doubles A A, entrelassez, voilà jusqu'à sa houlette &amp; à son chien Melampe.</p>
 <p rend="indent">Astrée à tous ces discours demeuroit muette, &amp; remarquoit par-tout l'écriture de Celadon. Elle n'en disoit rien ; mais Philis &amp; Licidas qui la conoissoient aussi-bien qu'elle, s'en réjoüissoient. <hi rend="italic"> Ma Sœur</hi>, 
 <pb xml:id="page_abs_134" n="page_ori_126"/>
@@ -520,9 +492,11 @@ ce qui se passe dans mon cœur. Car si je ne l'ai pas plus aimé que toutes les 
 <hi rend="italic">de me montrer à ses yeux ; mais pourtant elle ne m'a pas défendu de la voir.</hi> Il pensa aussi qu'elle étoit venuë là avec ces Bergers, sur la lettre qu'il avoit laissée auprès de Silvandre endormi, &amp; peut-être pour le chercher. Cette pensée lui donna le courage de lui écrire une seconde lettre, &amp; de la lui mettre lui-même entre les mains, si elle n'étoit pas encore éveillée. Il l'écrivit dans le moment, &amp; courut au même lieu, qu'il trouva dans le même silence. Il s'approcha en tremblant de son aimable Bergere, mit devant elle un genou en terre, &amp; se voiant si prés de tant de beautez, il les considere, il les admire, il n'est plus maître de ses transports, il s'aproche encore, il se baisse, &amp; dérobe à sa Bergere une legere faveur, qu'elle eut pour
 <pb xml:id="page_abs_139" n="page_ori_131"/>
 tant refusée à tous les Rois de la terre. Elle s'éveille dans ce moment, ouvre les yeux, &amp; voit Celadon ; mais par bonheur pour lui, le Soleil qui venoit de se lever, donne dans les yeux d'Astrée, &amp; lui darde un raïon qui l'ébloüit. Elle voit Celadon, mais elle le voit au milieu d'une nuée éclatante, &amp; ne le voit plus. Il s'étoit sauvé tout éperdu, ne sachant ce qu'il faisoit. Il avoit laissé sur la gorge d'Astrée la lettre qu'il venoit d'écrire. Elle fit un grand cri, qui éveilla Philis &amp; Diane. Helas ! leur dit-elle, <hi rend="italic">je viens de voir l'ombre de Celadon toute resplendissante de lumiere, &amp; qui s'envoloit vers le Ciel.</hi> Elle voulut se lever, &amp; laissa tomber une lettre ; elle reconnut aussi-tôt l'écriture de Celadon, &amp; y lut ces paroles.</p>
-<p rend="indent">« Si vous êtes venuë en ce 
+<quote type="letter" rend="indent">
+<p>« Si vous êtes venuë en ce 
 <pb xml:id="page_abs_140" n="page_ori_132"/>
 lieu, où les restes de Celadon sont encore, pour voir s'il vous aime, vous n'en pouvez pas douter, en voiant avec quelle fidelité il vous obéït. Si la pitié vous y attire, quoique ce soit un peu tard, la pitié est la consolation des miserables : &amp; si c'est le hazard, je veux bien encore vous en être obligé. Adieu, &amp; si vous êtes la plus belle &amp; la plus aimée Bergere de l'Univers, je suis le plus infortuné &amp; le plus fidele des Amans. »</p>
+</quote>
 <p rend="indent">Ce fut bien alors que ces Bergers crurent que Celadon étoit mort. Tout le monde s'éveilla ; on conta la vision qu'avoit eu Astrée, &amp; l'on demeura d'accord, que pour mettre en repos une ombre si cherie, il faloit lui élever un tombeau. Toute la troupe y voulut contribuer ; les Bergers coupoient 
 <pb xml:id="page_abs_141" n="page_ori_133"/>
 des branches d'arbres &amp; des gasons, &amp; les élevoient en piramide. Les Bergeres cüeilloient des fleurs. Enfin les filles Druides d'un Temple de la bonne Déesse, qui n'étoit pas loin, arriverent avec le Vacie ou Sacrificateur. On offrit à Cerés une Truïe, &amp; quelques jeunes Taureaux noirs. On répandit le lait &amp; le vin sacré, on appella trois fois l'ame de Celadon ; les filles Druides les cheveux épars l'apelloient avec de grands cris. Enfin le Vacie en jettant des fleurs sur le tombeau, lui dit : <hi rend="italic">Adieu, Celadon, adieu, &amp; pour jamais adieu, en quelque terre que tu sois, qu'elle te puisse être legere.</hi> La Nimphe Leonide qui étoit presente à la ceremonie, en rioit dans le fond de son cœur, &amp; ne laissoit pas de jetter des fleurs comme les autres.</p>
@@ -627,14 +601,11 @@ grande chaleur, &amp; se confioient quelque petit secret, que des persones qui s
 dant banissons entre nous toutes les ceremonies ; ne m'appellez point Madame, l'amitié met tout au même niveau ; aimons-nous tendrement, &amp; nous en donnons des marques quand nous serons seules, il faut un peu se contraindre devant le monde. » Astrée ne répondit qu'en se jettant au cou d'Alexie, qui dans ce moment résolut de se découvrir. Elle voyoit Astrée dans ces transports vifs &amp; naturels que l'amour inspire, &amp; que l'amitié ne sauroit copier. <hi rend="italic">Ma chere</hi>, lui dit-elle, en lui rendant ses caresses avec usure : <hi rend="italic">Est-il bien vrai que vous m'aimiez. </hi>Astrée à ces paroles se sentit le cœur si gros, qu'elle ne pût répondre que par des larmes, <hi rend="italic">Mais</hi>, reprit Alexie, <hi rend="italic">vous avez aimé Celadon encore plus que vous ne m'aimez. Il est vrai, </hi>dit Astrée, <hi rend="italic">je l'ai 
 <pb xml:id="page_abs_185" n="page_ori_177"/>
 bien aimé, &amp; je l'aime bien encore ; je ne sai comment tout cela se fait ; Alexie &amp; Celadon s'embrassent dans mon cœur ; &amp; quand j'aime Alexie, je ne croï pas étre infidelle à Celadon. </hi>Celadon n'y pouvoit plus tenir, lorsque Philis entra dans le bois, &amp; s'aprocha dans le temps qu'il alloit parler, peut-être mal-à-propos. Son amour ne lui suffisoit pas, pour une pareille declaration, &amp; il avoit besoin de l'autorité du grand Druide.</p>
-<pb xml:id="page_abs_186" n="page_ori_178"/>
-<p><hi rend="bold">
-<title>LA NOUVELLE<lb/>
-ASTREE</title></hi><lb/></p>
 </div>
-<div xml:id="page_ASTREE0104" n="quatrieme" type="livre">
-<p>
-<hi rend="bold"><title>LIVRE QUATRIEME.</title></hi></p>
+<div xml:id="livre_4" n="4" type="livre">
+<pb xml:id="page_abs_186" n="page_ori_178"/>
+<head>LA NOUVELLE<lb/>
+ASTREE <lb/>LIVRE QUATRIEME.</head>
 <p rend="indent">Tout étoit en allarmes dans la ville de Marsilly. La révolte de Polemas étoit averée ; il levoit des Troupes, &amp; n'atendoit que l'arrivée des Bourguignons, pour venir assieger la Nimphe dans sa Ville capitale. Elle avoit envoyé ses ordres par tout le païs, pour faire assembler les milices, &amp; déja plus de cinq cent Chevaliers étoient entrez dans la Ville pour la défendre. Adamas qui avoit fait la guerre dans sa jeunesse, faisoit travailler aux fortifications ; on racommodoit 
 <pb xml:id="page_abs_187" n="page_ori_179"/>
 les brêches, on creusoit les fossez, on rassembloit les vivres de la campagne pour n'en point manquer, &amp; pour les ôter aux Ennemis. Ces précautions ne rassuroient point la Nimphe, qui connoissoit la grande puissance du Roi des Bourguignons, &amp; qui craignoit de plus que Polemas n'eut des intelligences secretes. En effet, il s'avança avec toute son armée, &amp; entoura la Ville de tous côtez. Un Bourgeois lui avoit promis de lui ouvrir une porte dans le plus fort de l'attaque. Ce traître heureusement fut découvert &amp; écartelé. Polemas ne laissa pas d'attaquer la Ville, &amp; de faire avancer ses machines de guerre. Il fut repoussé par-tout, &amp; perdit plus de deux mille hommes.</p>
@@ -708,12 +679,10 @@ presque lever les yeux, &amp; se soumettoit à la providence du grand Thautatés
 l'un auprès de l'autre. Il s'en approcha, &amp; les voyant d'une beauté extraordinaire, il espera qu'ils ne seroient point morts. Il les toucha &amp; trouva encore de la chaleur. <hi rend="italic">Courage, mes enfans</hi>, leur cria-t-il, <hi rend="italic">les Dieux font des miracles pour vous conserver.</hi> Il leur fit avaler aussi-tôt d'une liqueur souveraine, qui les rappella à la vie. Il les fit ensuite porter à sa maison, &amp; leur voyant la conoissance tout-à-fait revenuë : <hi rend="italic">Mes enfans</hi>, leur dit-il, avec l'autorité d'un grand Druide, <hi rend="italic">votre fidelité vient de mettre fin à un enchantement de plusieurs siecles. Il ne devoit finir que lorsque deux Amans fideles viendroient à la Fontaine de la Verité d'Amour, dans la résolution d'y mourir l'un pour l'autre. Vous l'avez fait mes enfans, les Dieux vous ont assez éprouvez, votre constance merite d'être couronnée.</hi> Ils s'étoient jet
 <pb xml:id="page_abs_218" n="page_ori_210"/>
 tez tous deux à genoux devant lui, pour écouter avec respect l'Arrêt qu'il alloit prononcer. Il les fit embrasser, &amp; sans vouloir d'autre éclaircissement, il les maria. La Nimphe Galathée avoit déja couronné l'amour de Lindamor. Le Druide maria aussi dans la suite Licidas frere de Celadon avec Philis, &amp; Diane avec Silvandre. Il n'y eut que l'inconstant Hilas, qui ne voulut jamais se fixer.</p>
-<p>
-&nbsp;<title>FIN</title>
-</p>
+<p rend="center bold">FIN</p>
 </div>
 </div>
- <div n="1" xml:id="privilege" type="piece_liminaire">
+<div n="1" xml:id="privilege" type="piece_liminaire">
 <pb xml:id="page_abs_219" n="page_ori_LIM1"/>
 <milestone unit="hr"/>
 <head rend="italic">PRIVILEGE DU ROY.</head>
@@ -724,10 +693,8 @@ l'espace de <hi rend="italic">quatre années consecutives,</hi> à compter du jo
 vant que de l'exposer en vente, il en sera mis deux exemplaires dans nôtre Bibliotheque publique, un dans celle de nôtre Cabinet du Louvre, &amp; un dans celle de nôtre tres-cher &amp; feal Chevalier, Chancelier, &amp; Garde des Sceaux de France, le sieur Phelypeaux Comte de Pontchartrain, Commandeur de nos Ordres ; le tout à peine de nullité des presentes, du contenu desquelles vous mandons &amp; enjoignons de faire joüir l'Exposant, ou ses ayant cause, pleinement &amp; paisiblement, sans souffrir qu'il lui soit fait aucun trouble ou empêchement. Voulons que la copie desdites Presentes, qui sera imprimée au commencement ou à la fin dudit Livre, soit tenuë pour dûëment signifiée, &amp; qu'aux copies collationnées par l'un de nos amez &amp; feaux Conseillers &amp; Secretaires, foy soit ajoûtée comme à l'Original. Commandons au premier nôtre Huissier ou Sergent, de faire pour l'execution d'icelles, tous actes requis &amp; necessaires, sans demander autre permission, &amp; nonobstant Clameur de Haro, Charte Normande, &amp; Lettres à ce contraires : Car tel est 
 <pb xml:id="page_abs_222" n="page_ori_LIM4"/>
 nôtre plaisir. Donné à Versailles le deuxiéme jour d'Octobre, l'an de grace mil sept cent douze, &amp; de nôtre regne le soixante-dixiéme. Par le Roy en son Conseil, LAUTHIER.</p>
-<p rend="indent"><hi rend="italic">Registré sur le Registre N° 3. de la Communauté des Imprimeurs &amp; Libraires de Paris page 522. N° 571. conformément aux Reglements, &amp; notamment à l'Arrêt du 3. Août 1703. à Paris ce dixiéme jour du mois d'Octobre 1712.</hi>
-</p>
-<p rend="indent">LOUIS JOSSE, <hi rend="italic">Syndic.</hi>
-</p>
+<p rend="italic indent">Registré sur le Registre N° 3. de la Communauté des Imprimeurs &amp; Libraires de Paris page 522. N° 571. conformément aux Reglements, &amp; notamment à l'Arrêt du 3. Août 1703. à Paris ce dixiéme jour du mois d'Octobre 1712.</p>
+<p rend="indent">LOUIS JOSSE, <hi rend="italic">Syndic.</hi></p>
 </div>
 </body>
 </text>
