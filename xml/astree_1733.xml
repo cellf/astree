@@ -28,21 +28,16 @@
             <publisher>Dir. Delphine Denis et Alexandre Gefen</publisher>
             <distributor>Centre d'étude de la langue et de la littérature françaises des XVII<hi rend="sup">e</hi> et XVIII<hi rend="sup">e</hi> siècles, UMR 8599 CNRS-Université Paris IV-Sorbonne</distributor>
          </publicationStmt>
-         <noteStmt>
-            <note>
-               <p>Réécriture attribuée à l'abbé Souchay</p>
-               <p>Orthographe conservée. Édition originale BnF Rés. Y2-7041-7045 présente dans le fonds Gallica de la BnF.</p>
-            </note>
-         </noteStmt>
          <sourceDesc>
             <bibl>
-               <edition>Dir. Delphine Denis et Alexandre Gefen</edition>
                <title>L’Astrée de M. d’Urfé, Pastorale allégorique, avec la clé, nouvelle édition, Où sans toucher ni au fonds ni aux épisodes, on s’est contenté de corriger le langage, et d’abréger les conversations</title>
                <author>D'Urfé, Honoré</author>
+               <author>Réécriture attribuée à l'abbé Souchay</author>
+               <edition>Dir. Delphine Denis et Alexandre Gefen</edition>
+               <edition>Édition originale BnF Rés. Y2-7041-7045 présente dans le fonds Gallica de la BnF, 5 vol.</edition>
                <date>1733</date>
                <pubPlace>Paris</pubPlace>
                <publisher>Pierre Witte et Didot</publisher>
-               <extent>5 vol.</extent>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -55,9 +50,12 @@
          </langUsage>
       </profileDesc>
       <encodingDesc>
-        <projectDesc>
+         <projectDesc>
           <p>???</p>
         </projectDesc>
+         <samplingDecl>
+            <p>Orthographe conservée.</p>
+         </samplingDecl>
         <tagsDecl>
           <rendition xml:id="div-rule">Les sections de niveau de niveau livre et partie sont précédées d’une barre dans l’imprimé</rendition>
         </tagsDecl>
@@ -73,7 +71,7 @@
        <text xml:id="partie1" n="1" type="partie">
       <front>
          <pb xml:id="page_abs_1" n="page_ori_LIM1"/>
-         <titlePage n="1" xml:id="page_titre1" type="page_titre">
+         <titlePage xml:id="page_titre1">
             <docTitle>
                <titlePart>
                   L'ASTRÉE<lb/>
