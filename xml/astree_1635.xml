@@ -157,7 +157,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
 <head>L'INCONSTANCE D'HYLAS.<lb/>COMEDIE-PASTORALE.</head>
 <div xml:id="acte_1" n="1" type="acte">
 <head>Acte premier.</head>
-<div xml:id="scene_1" type="scene" n="1">
+<div xml:id="scene_1-1" type="scene" n="1">
 <pb xml:id="page_abs_16" n="page_ori_1"/>
 <head>Scène premiere.</head>
 <stage type="personnage">Periandre, Dorinde</stage>
@@ -300,7 +300,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
 <stage type="didascalie">Il s'en va.</stage>
 </sp>
 </div>
-<div xml:id="scene_2" type="scene" n="2">
+<div xml:id="scene_1-2" type="scene" n="2">
 <head>Scène II.</head>
 <pb xml:id="page_abs_21" n="page_ori_6"/>
 <stage type="personnage">Dorinde, Hylas</stage>
@@ -598,7 +598,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
 <stage type="didascalie">Dorinde s'en va.</stage>
 </sp>
 </div>
-<div type="scene" n="3" xml:id="scene_3">
+<div type="scene" n="3" xml:id="scene_1-3">
 <head>Scène III.</head>
 <stage type="personnage">Hylas, Florice</stage>
 <sp who= "Hylas">
@@ -684,7 +684,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
 <l>Puis que dans ce baiser il emporte mon ame.</l>
 </sp>
 </div>
-<div type="scene" n="4" xml:id="scene_4">
+<div type="scene" n="4" xml:id="scene_1-4">
 <head>Scène IIII.</head>
 <pb xml:id="page_abs_33" n="page_ori_18"/>
 <stage type="personnage">Alcandre, Florice</stage>
@@ -728,7 +728,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
 <l>Que je ne me suis plaint que pour vous trop aymer.</l>
 </sp>
 </div>
-<div type="scene" n="5" xml:id="scene_5">
+<div type="scene" n="5" xml:id="scene_1-5">
 <head>Scène V.</head>
 <pb xml:id="page_abs_35" n="page_ori_20"/>
 <stage type="personnage">Periandre, Hylas</stage>
@@ -957,7 +957,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
 </div>
 <div xml:id="acte_2" n="2" type="acte">
 <head>Acte deuxiesme.</head>
-<div type="scene" n="1" xml:id="scene_1">
+<div type="scene" n="1" xml:id="scene_2-1">
 <head>Scène premiere.</head>
 <pb xml:id="page_abs_43" n="page_ori_28"/>
 <stage type="personnage">Periandre, Hylas</stage>
@@ -1155,7 +1155,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
 <l>Mesme par un appuy le plus foible du monde.</l>
 </sp>
 </div>
-<div type="scene" n="2" xml:id="scene_2">
+<div type="scene" n="2" xml:id="scene_2-2">
 <head>Scène II.</head>
 <pb xml:id="page_abs_50" n="page_ori_35"/>
 <stage type="personnage">Dorinde, Periandre</stage>
@@ -1329,7 +1329,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
 <l>Avant que d'y passer, consultons ma Sybille.</l>
 </sp>
 </div>
-<div type="scene" n="3" xml:id="scene_3">
+<div type="scene" n="3" xml:id="scene_2-3">
 <head>Scène III.</head>
 <pb xml:id="page_abs_56" n="page_ori_41"/>
 <stage type="personnage">Hylas, Page, Dorinde</stage>
@@ -1502,7 +1502,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Que je ne vous trompay que pour vous mieux aymer.</l>
 </sp>
 </div>
-<div type="scene" n="4" xml:id="scene_4">
+<div type="scene" n="4" xml:id="scene_2-4">
 <head>Scène IIII.</head>
 <pb xml:id="page_abs_63" n="page_ori_48"/>
 <sp who="Periandre">
@@ -1562,7 +1562,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 </lg>
 </sp>
 </div>
-<div type="scene" n="5" xml:id="scene_5">
+<div type="scene" n="5" xml:id="scene_2-5">
 <head>Scène V.</head>
 <pb xml:id="page_abs_66" n="page_ori_51"/>
 <stage type="personnage">Florice, Dorinde</stage>
@@ -1629,7 +1629,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Sans dessein ? qui vous suit &amp; n'a plus d'autre estude.</l>
 </sp>
 </div>
-<div type="scene" n="6" xml:id="scene_6">
+<div type="scene" n="6" xml:id="scene_2-6">
 <head>Scène VI.</head>
 <stage type="personnage">Hylas, Florice, Dorinde</stage>
 <sp who="Hylas">
@@ -1809,7 +1809,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 </div>
 <div xml:id="acte_3" n="3" type="acte">
 <head>Acte troisiesme.</head>
-<div type="scene" n="1" xml:id="scene_1">
+<div type="scene" n="1" xml:id="scene_3-1">
 <pb xml:id="page_abs_74" n="page_ori_59"/>
 <head>Scène premiere.</head>
 <stage type="personnage">Florice, Dorinde,</stage>
@@ -1895,7 +1895,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 </sp>
 <stage type="didascalie">Hylas entre.</stage>
 </div>
-<div type="scene" n="2" xml:id="scene_2">
+<div type="scene" n="2" xml:id="scene_3-2">
 <head>Scène II.</head>
 <pb xml:id="page_abs_77" n="page_ori_62"/>
 <stage type="personnage">Dorinde, Hylas</stage>
@@ -2133,7 +2133,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Damour ou de dépit l'on me verra constant.</l>
 </sp>
 </div>
-<div type="scene" n="3" xml:id="scene_3">
+<div type="scene" n="3" xml:id="scene_3-3">
 <head>Scène III.</head>
 <pb xml:id="page_abs_84" n="page_ori_69"/>
 <stage type="personnage">Florice, Alcandre</stage>
@@ -2186,7 +2186,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Un mot luy montrera son devoir, &amp; ma peine.</l>
 </sp>
 </div>
-<div type="scene" n="4" xml:id="scene_4">
+<div type="scene" n="4" xml:id="scene_3-4">
 <head>Scène IV.</head>
 <pb xml:id="page_abs_86" n="page_ori_71"/>
 <stage type="personnage">Periandre, Hylas, Florice</stage>
@@ -2357,7 +2357,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Souvenez-vous qu'Hylas me gagne en la perdant.</l>
 </sp>
 </div>
-<div type="scene" n="5" xml:id="scene_5">
+<div type="scene" n="5" xml:id="scene_3-5">
 <head>Scène V.</head>
 <stage type="personnage">Dorinde, Periandre</stage>
 <sp who="Dorinde">
@@ -2407,7 +2407,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Vous pourez découvrir &amp; sa mine, &amp; son jeu.</l>
 </sp>
 </div>
-<div type="scene" n="6" xml:id="scene_6">
+<div type="scene" n="6" xml:id="scene_3-6">
 <head>Scène VI.</head>
 <pb xml:id="page_abs_93" n="page_ori_78"/>
 <stage type="personnage">Hylas, Dorinde, Periandre</stage>
@@ -2511,7 +2511,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 </div>
 <div xml:id="acte_4" n="4" type="acte">
 <head>Acte quatriesme.</head>
-<div type="scene" n="1" xml:id="scene_1">
+<div type="scene" n="1" xml:id="scene_4-1">
 <head>Scène premiere.</head>
 <pb xml:id="page_abs_97" n="page_ori_82"/>
 <stage type="personnage">Stelle, Corylas.</stage>
@@ -2690,7 +2690,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Je vous feray bien-tost arpenter le Forests.</l>
 </sp>
 </div>
-<div type="scene" n="2" xml:id="scene_2">
+<div type="scene" n="2" xml:id="scene_4-2">
 <head>Scène II.</head>
 <pb xml:id="page_abs_102" n="page_ori_87"/>
 <sp who="Hylas">
@@ -2742,7 +2742,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Ne sçaura de tout art que celuy de m'aymer.</l>
 </sp>
 </div>
-<div type="scene" n="3" xml:id="scene_3">
+<div type="scene" n="3" xml:id="scene_4-3">
 <head>Scène III.</head>
 <pb xml:id="page_abs_105" n="page_ori_90"/>
 <stage type="personnage">Corylas, Hylas, Stelle</stage>
@@ -3039,7 +3039,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Et nous prepare à tous mille sujets de rire.</l>
 </sp>
 </div>
-<div type="scene" n="4" xml:id="scene_4">
+<div type="scene" n="4" xml:id="scene_4-4">
 <head>Scène IV.</head>
 <pb xml:id="page_abs_114" n="page_ori_99"/>
 <stage type="personnage">Periandre, Dorinde </stage>
@@ -3097,7 +3097,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Ne voy-je pas Hylas ? quel rencontre à tous deux !</l>
 </sp>
 </div>
-<div type="scene" n="5" xml:id="scene_5">
+<div type="scene" n="5" xml:id="scene_4-5">
 <head>Scène [V].</head>
 <stage type="personnage">Hylas, Stelle, Periandre, Dorinde, Florice, Corylas. Troupe de Bergers.</stage>
 <sp who="Hylas">
@@ -3258,7 +3258,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Mais Dieux ! je l'apperçoy ; la voicy l'Inhumaine.</l>
 </sp>
 </div>
-<div type="scene" n="6" xml:id="scene_6">
+<div type="scene" n="6" xml:id="scene_4-6">
 <head>Scène VI.</head>
 <stage type="personnage">Hylas, Stelle, Dorinde, Florice, Periandre</stage>
 <sp who="Hylas">
@@ -3381,7 +3381,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Hylas n'est asseuré de moy ni de sa force.</l>
 </sp>
 </div>
-<div type="scene" n="7" xml:id="scene_7">
+<div type="scene" n="7" xml:id="scene_4-7">
 <head>Scène VII.</head>
 <pb xml:id="page_abs_127" n="page_ori_112"/>
 <stage type="personnage">Corylas, Dorinde, Periandre, Hylas, Stelle</stage>
@@ -3443,7 +3443,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 </div>
 <div xml:id="acte_5" n="5" type="acte">
 <head>Acte cinquiesme.</head>
-<div type="scene" n="1" xml:id="scene_1">
+<div type="scene" n="1" xml:id="scene_5-1">
 <head>Scène premiere.</head>
 <pb xml:id="page_abs_129" n="page_ori_114"/>
 <sp who="Hylas">
@@ -3515,7 +3515,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 </p>
 </sp>
 </div>
-<div type="scene" n="2" xml:id="scene_2">
+<div type="scene" n="2" xml:id="scene_5-2">
 <head>Scène II.</head>
 <pb xml:id="page_abs_132" n="page_ori_117"/>
 <stage type="personnage">Periandre, Hylas</stage>
@@ -3660,7 +3660,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>L'action fut bien noire, estant faite la nuict.</l>
 </sp>
 </div>
-<div type="scene" n="3" xml:id="scene_3">
+<div type="scene" n="3" xml:id="scene_5-3">
 <head>Scène III.</head>
 <pb xml:id="page_abs_136" n="page_ori_121"/>
 <stage type="personnage">Periandre, Corilas, Stelle, H[y]las</stage>
@@ -3886,7 +3886,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Vous montrera mes vœux en vous obeyssant.</l>
 </sp>
 </div>
-<div type="scene" n="4" xml:id="scene_4">
+<div type="scene" n="4" xml:id="scene_5-4">
 <head>Scène IIII.</head>
 <pb xml:id="page_abs_143" n="page_ori_128"/>
 <sp who="Adamas">
@@ -3917,7 +3917,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
 <l>Fut témoin du bon-heur dont le Ciel m'a comblé.</l>
 </sp>
 </div>
-<div type="scene" n="5" xml:id="scene_5">
+<div type="scene" n="5" xml:id="scene_5-5">
 <head>Scène V.</head>
 <pb xml:id="page_abs_145" n="page_ori_130"/>
 <stage type="personnage">Dorinde, Adamas, Hylas, Corylas, Stelle, Periandre</stage>
