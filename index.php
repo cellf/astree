@@ -16,7 +16,7 @@ $themeHref=$pot->baseHref.'teipot/';
 <html>
   <head>
     <meta charset="UTF-8" />
-    <?php echo $doc['head']; ?>
+    <?php if (isset($doc['head'])) echo $doc['head']; ?>
     <link rel="stylesheet" type="text/css" href="<?php echo $themeHref; ?>html.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $themeHref; ?>teipot.css" />
   </head>
@@ -34,15 +34,16 @@ $themeHref=$pot->baseHref.'teipot/';
         <?php 
         echo '<a href="',$pot->baseHref,'">ASTRÉE</a> » ';
         // nous avons un livre, glisser aussi les liens de téléchargement
-        echo $doc['breadcrumb']; 
+        if (isset($doc['breadcrumb'])) echo $doc['breadcrumb']; 
         ?>
       </nav>
-      <div id="main">
+      <div id="article">
       <?php
-if ($doc['body']) {
+      
+if (isset($doc['body'])) {
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
-  if ($pot->q && (!$doc['artName'] || $doc['artName']=='index')) echo $pot->concBook($doc['bookId']);
+  if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookid']);
 }
 // pas de livre demandé, montrer un rapport général
 else {
@@ -52,8 +53,9 @@ else {
   echo $pot->report();
   // présentation bibliographique des résultats
   echo $pot->biblio(array('date', 'title'));
+  echo $pot->chrono();
   // concordance s’il y a recherche plein texte
-  echo $pot->conc();
+  echo $pot->concByBook();
 }
       ?>
       </div>
@@ -61,11 +63,11 @@ else {
         <p> </p>
           <?php
 // livre
-if ($doc['bookId']) {
+if (isset($doc['bookid'])) {
   echo "\n<nav>";
   // auteur, titre, date
   if ($doc['byline']) $doc['byline']=$doc['byline'].'<br/>';
-  echo "\n".'<header><a href="'.$pot->baseHref.$doc['bookName'].'/">'.$doc['byline'].$doc['title'].' ('.$doc['end'].')</a></header>';
+  echo "\n".'<header><a href="'.$pot->baseHref.$doc['bookname'].'/">'.$doc['byline'].$doc['title'].' ('.$doc['end'].')</a></header>';
   // table des matières
   echo $doc['toc'];
   echo "\n</nav>";
