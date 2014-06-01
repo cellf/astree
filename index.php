@@ -8,8 +8,7 @@ $pot=new Teipot(dirname(__FILE__).'/astree.sqlite', 'fr');
 $pot->file($pot->path);
 // Si un document correspond à ce chemin, charger un tableau avec différents composants (body, head, breadcrumb…)
 $doc=$pot->doc($pot->path);
-// chemin css, js ; baseHref est le nombre de '../' utile pour revenir en racine du site
-$themeHref=$pot->baseHref.'teipot/';
+$themeHref = $pot->basehref() . 'teipot/';
 
 
 ?><!DOCTYPE html>
@@ -23,7 +22,7 @@ $themeHref=$pot->baseHref.'teipot/';
   <body>
     <header id="header">
       <h1>
-        <a href="<?php echo $pot->baseHref; ?>">ASTRÉE, prototype version 2</a>
+        <a href="<?php echo $pot->basehref(); ?>">ASTRÉE, prototype version 2</a>
       </h1>
       <?php // liens de téléchargements
         // if ($doc['downloads']) echo "\n".'<nav id="downloads"><small>Télécharger :</small> '.$doc['downloads'].'</nav>';
@@ -32,7 +31,7 @@ $themeHref=$pot->baseHref.'teipot/';
     <div id="center">
       <nav id="toolbar">
         <?php 
-        echo '<a href="',$pot->baseHref,'">ASTRÉE</a> » ';
+        echo '<a href="' . $pot->basehref . '">ASTRÉE</a> » ';
         // nous avons un livre, glisser aussi les liens de téléchargement
         if (isset($doc['breadcrumb'])) echo $doc['breadcrumb']; 
         ?>
@@ -67,7 +66,7 @@ if (isset($doc['bookid'])) {
   echo "\n<nav>";
   // auteur, titre, date
   if ($doc['byline']) $doc['byline']=$doc['byline'].'<br/>';
-  echo "\n".'<header><a href="'.$pot->baseHref.$doc['bookname'].'/">'.$doc['byline'].$doc['title'].' ('.$doc['end'].')</a></header>';
+  echo "\n".'<header><a href="' . $pot->basehref() . $doc['bookname'] . '/">' . $doc['byline'] . $doc['title'] . ' ('.$doc['end'].')</a></header>';
   // table des matières
   echo $doc['toc'];
   echo "\n</nav>";
