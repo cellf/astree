@@ -8,7 +8,8 @@ $pot=new Teipot(dirname(__FILE__).'/astree.sqlite', 'fr');
 $pot->file($pot->path);
 // Si un document correspond à ce chemin, charger un tableau avec différents composants (body, head, breadcrumb…)
 $doc=$pot->doc($pot->path);
-$themeHref = $pot->basehref() . 'teipot/';
+$teipot = $pot->basehref() . 'teipot/';
+$theme = $pot->basehref() . 'theme/';
 
 
 ?><!DOCTYPE html>
@@ -16,8 +17,9 @@ $themeHref = $pot->basehref() . 'teipot/';
   <head>
     <meta charset="UTF-8" />
     <?php if (isset($doc['head'])) echo $doc['head']; ?>
-    <link rel="stylesheet" type="text/css" href="<?php echo $themeHref; ?>html.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo $themeHref; ?>teipot.css" />
+    <link rel="favicon" href="<?php echo $theme; ?>favicon.ico">
+    <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
   </head>
   <body>
     <header id="header">
@@ -62,7 +64,7 @@ else {
         <p> </p>
           <?php
 // livre
-if (isset($doc['bookid'])) {
+if (isset($doc['bookrowid'])) {
   echo "\n<nav>";
   // auteur, titre, date
   if ($doc['byline']) $doc['byline']=$doc['byline'].'<br/>';
@@ -86,8 +88,8 @@ else {
     <footer id="footer">
       Prototype d'application TEI
     </footer>
-    <script type="text/javascript" src="<?php echo $themeHref; ?>Tree.js">//</script>
-    <script type="text/javascript" src="<?php echo $themeHref; ?>Sortable.js">//</script>
+    <script type="text/javascript" src="<?php echo $teipot; ?>Tree.js">//</script>
+    <script type="text/javascript" src="<?php echo $teipot; ?>Sortable.js">//</script>
     <script type="text/javascript"><?php echo $doc['js']; ?></script>  
   </body>
 </html>
