@@ -54,7 +54,6 @@ else {
   echo $pot->report();
   // présentation bibliographique des résultats
   echo $pot->biblio(array('date', 'title'));
-  echo $pot->chrono();
   // concordance s’il y a recherche plein texte
   echo $pot->concByBook();
 }
