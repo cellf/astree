@@ -7,12 +7,12 @@
     <fileDesc>
       <titleStmt>
         <title>La Nouvelle Astrée</title>
-        <author key="Choisy, François-Timoléon (de) 1644-1724)">attribuée à l'abbé de Choisy</author>
+        <author key="Choisy, François-Timoléon (de) (1644-1724)">attribuée à l'abbé de Choisy</author>
         <editor>Delphine Denis</editor>
         <editor>Alexandre Gefen</editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>ACI Astrée (Université Paris 4/Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France)</publisher>
+        <publisher>Équipe <hi rend="i">Le Règne d'Astrée</hi></publisher>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>© Copyright 2007-2014 - Équipe Le Règne d'Astrée (<ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">Licence Creative Commons : diffusion et reproduction libres avec l'obligation de citer la source et l'interdiction de toute modification et de toute utilisation commerciale</ref>)</p>
@@ -21,7 +21,7 @@
         <date when="2013"/>
       </publicationStmt>
       <sourceDesc>
-        <bibl> <title>La Nouvelle Astrée</title> <author>D'Urfé, Honoré</author> <date>1712</date> </bibl>
+        <bibl> <title>La Nouvelle Astrée</title>, <author>D'Urfé, Honoré</author>, <date>1712</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -12,7 +12,7 @@
         <editor>Alexandre Gefen</editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>ACI Astrée (Université Paris 4 / Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de France)</publisher>
+        <publisher>Équipe <hi rend="i">Le Règne d'Astrée</hi></publisher>
         <date when="2013"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
@@ -21,8 +21,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl> <title>Astrée. Seconde partie, édition de 1614</title> <author>D'Urfé, Honoré</author> <edition>Le texte de cette édition (Paris, Toussaint du Bray, in-8°) a été établi sur l’exemplaire conservé à la Bibliothèque Mazarine, sous la cote [BM 63931(2), sous la direction de Delphine Denis et d'Alexandre Gefen.
- Nous avons signalé les éventuelles erreurs de foliotation.</edition> <date>1614</date> </bibl>
+        <bibl> <title>Astrée. Seconde partie, édition de 1614</title>, <author>D'Urfé, Honoré</author>. Le texte de cette édition (Paris, Toussaint du Bray, in-8°) a été établi sur l’exemplaire conservé à la Bibliothèque Mazarine, sous la cote [BM 63931(2), sous la direction de Delphine Denis et d'Alexandre Gefen.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -35,7 +34,7 @@
     </profileDesc>
     <encodingDesc>
       <samplingDecl>
-        <p>Orthographe conservée</p>
+        <p>Orthographe conservée. Nous avons signalé les éventuelles erreurs de foliotation.</p>
       </samplingDecl>
     </encodingDesc>
     <revisionDesc>

@@ -44,7 +44,7 @@ $theme = $pot->basehref() . 'theme/';
 if (isset($doc['body'])) {
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
-  if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookid']);
+  if ($pot->q && (!$doc['artname'] || $doc['artname']=='index')) echo $pot->concBook($doc['bookrowid']);
 }
 // pas de livre demandé, montrer un rapport général
 else {
