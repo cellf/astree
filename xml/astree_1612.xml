@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../teipub/xsl/tei2html.xsl"?>
-<?xml-model href="../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="astree.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xml:id="astree_1612" xml:lang="français" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -67,9 +67,7 @@
         <docDate>M. DC. XII.</docDate>
         <docImprint rend="italic">Avec Privilege de sa Majesté.</docImprint>
       </titlePage>
-    </front>
-    <body>
-      <div n="1" type="piece_preliminaire" xml:id="epitre">
+      <div n="1" xml:id="epitre">
         <pb n="page_ori_aiij" xml:id="page_abs_2"/>
         <head rend="bold">AU ROY.</head>
         <p rend="indent">SIRE,<lb/></p>
@@ -86,7 +84,7 @@ affectionné, &amp; tres-fidelle <lb/>
 sujet &amp; serviteur de V. M.<lb/>
 HONORE D'URFE.</p>
       </div>
-      <div n="2" type="piece_preliminaire" xml:id="auteur_a_la_bergere">
+      <div n="2" xml:id="auteur_a_la_bergere">
         <pb n="page_ori_XXX" xml:id="page_abs_6"/>
         <head rend="bold">L'AUTHEUR<lb/>
 A LA BERGERE<lb/>
@@ -122,7 +120,8 @@ tentent pourveu que l'on puisse reconnoistre que la forme de l'habit a quelque c
 mais à l'oüye seulement, qui n'est pas un sens qui touche si vivement l'ame.<lb/></p>
         <p rend="italic indent">Voila, ma Bergere, de quoy je te veux advertir pour ce coup, à fin que s'il est possible tu rapportes quelque contentement de ton voyage. Le Ciel te le rende heureux, &amp; te donne un si bon Genie, que tu me survives autant de siecles, que le sujet qui t'a fait naistre me survivra en m'accompagnant au cercueil.</p>
       </div>
-      <div n="1" type="partie" xml:id="premiere_partie">
+    </front>
+    <body>
         <pb n="page_ori_1" xml:id="page_abs_14"/>
         <head rend="bold">
 LA PREMIERE <lb/>
@@ -1342,7 +1341,6 @@ Leonide qui craignoit d'estre veuë ou par Polemas, ou par Climanthe, n'osa se l
 arrivé, qu'il vid venir d'assez loing un Berger, qui sembloit chercher ce mesme lieu, pour la mesme occasion qui luy avoit conduit : &amp; par ce qu'il monstroit d'estre fort pensif en soy-mesme, lors qu'il arriva, Adamas pour ne le distraire de ses pensées, ne le voulut point saluer : mais sans se faire voir à luy, voulut écouter ce qu'il alloit disant : &amp; peu apres qu'il se fut assis de l'autre costé du buisson, il ouyt qu'il reprit la parole ainsi. Et pourquoy aymerois-je cete volage ? En premier lieu sa beauté ne m'y peut contraindre, car elle n'en a pas assez pour avoir le nom de belle : &amp; puis ses merites ne sont point tels, que s'ils ne sont aidez d'autres considerations, ils puissent retenir un honneste homme à son service ; &amp; en fin son amitié qui estoit tout ce qui m'obligeoit à elle, est si muable, que s'il y a quelque impression d'Amour en son cœur, je croy qu'il est non seulement de cire, mais de cire presque fonduë, tant il reçoit aisément les figures de toutes nouveautez, &amp; qu'il ressemble à ses yeux, qui reçoivent les figures de tout ce qu'on leur presente : mais aussi qui les perdent aussi tost que l'object n'en est plus devant eux : que si je l'ay aimée, il faut que j'advoüe que c'est par ce que je pensois qu'elle m'aimast : mais si cela n'estoit pas, je l'excuse : car je sçay bien qu'elle mesme pensoit de m'aimer. Ce Berger eust continué davantage, n'eust esté qu'une Bergere, de fortune y survint, qui sembloit l'avoir suivy de loing : &amp; quoy qu'elle eust ouy quelques paroles des <pb n="page_ori_141v" xml:id="page_abs_295"/>
 siennes, si n'en fit elle semblant, &amp; au contraire s'asseant aupres de luy, elle luy dit : Et bien, Corilas, quel nouveau soucy est celuy qui vous retient si pensif ? Le Berger luy respondit le plus dédaigneusement qu'il peut, &amp; sans tourner la teste de son costé : C'est celuy qui me fait rechercher avec quelle nouvelle tromperie vous laisserez ceux qu'à ceste heure vous commencez d'aimer. Et quoy, dit la Bergere, pourriez-vous croire que j'affectionne autre que vous ? Et vous, dit le Berger, pourriez-vous croire, que je pense que vous m'affectionnez ? Que croyez vous donc de moy ? dit-elle. Tout le pire, respondit Corilas, que vous pouvez croire d'une personne que vous haïssez. Vous avez, adjousta-t'elle, d'estranges opinions de moy. Et vous, dit Corilas, d'estranges effets en vous. O Dieux ! dit la Bergere, quel homme ay-je trouvé en vous ? C'est moy, respondit le Berger, qui puis dire avec beaucoup plus de raison, en vous rencontrant, Stelle, Quelle femme ay-je trouvée ? car y a t'il rien qui soit plus incapable d'amitié que vous ? vous, dis-je, qui ne vous plaisez qu'à tromper ceux qui se fient en vous, &amp; qui imitez le chasseur, qui poursuit avec tant de soing la beste dont apres il donne curée à ses chiens. Vous avez, dit-elle, si peu de raison en ce que vous dittes, que celuy en auroit encore moins, qui s'arresteroit à vous respondre. Plust à Dieu, dit le Berger, que j'en eusse tousjours eu autant en mon ame, qu'à ceste heure j'en ay en mes paroles, je n'aurois <pb n="page_ori_142" xml:id="page_abs_296"/>
 pas le regret qui m'afflige. Et apres s'estre l'un &amp; l'autre teus pour quelque temps, elle releva sa voix, &amp; chantant luy parla de ceste sorte : &amp; luy de mesme, pour ne demeurer sans réponse, luy alloit repliquant.</p>
-            <lb/>
             <milestone unit="rule"/>
             <quote rend="indent"> <label rend="noindent">DIALOGUE<lb/>
 DE STELLE, ET CORILAS.</label> <p rend="center">STEL.</p> <lg rend="italic">
@@ -3408,8 +3406,9 @@ tin : Ainsi alloit trainant sa vie ce triste Berger, qui en peu de temps se ren
 d'Astrée.</p>
           </div>
         </div>
-      </div>
-      <div n="1" type="table" xml:id="table_histoires">
+    </body>
+    <back>
+      <div n="1" type="toc" xml:id="table_histoires">
         <pb n="page_ori_" xml:id="page_abs_823"/>
         <milestone unit="rule"/>
         <head rend="bold">TABLE DES HISTOIRES CONTENUES EN LA PREMIERE PARTIE
@@ -3435,7 +3434,7 @@ d'Astrée.</p>
 <lb/>Histoire de Lydias &amp; de Melandre. 383.
 <lb/> </p>
       </div>
-      <div n="2" type="table" xml:id="table_lettres">
+      <div n="2" type="toc" xml:id="table_lettres">
         <pb n="page_ori_" xml:id="page_abs_824"/>
         <head rend="bold italic">TABLE DES LETTRES.</head>
         <p> <lb/>RESPONSE de Celadon à Lycidas. 10.
@@ -3477,9 +3476,8 @@ d'Astrée.</p>
 <lb/>Lettre de Ligdamon à Silvie. 366.
 <lb/>Lettre d'Astrée à Celadon. 406.
 </p>
-        <lb/>
       </div>
-      <div n="3" type="table" xml:id="table_poesies">
+      <div n="3" type="toc" xml:id="table_poesies">
         <pb n="page_ori_" xml:id="page_abs_825"/>
         <milestone unit="rule"/>
         <head rend="bold italic">TABLE DES POESIES.</head>
@@ -3533,14 +3531,16 @@ d'Astrée.</p>
         <pb n="page_ori_" xml:id="page_abs_826"/>
         <p rend="bold italic">Fin de la Table</p>
       </div>
-      <div n="2" type="piece_liminaire" xml:id="privilege">
+      <div n="2" type="toc" xml:id="privilege">
         <head rend="italic">EXTRAICT DU <lb/>Privilege du Roy.</head>
         <p>Par lettres Patentes de sa Majesté il est permis à Jehan Micard marchand Libraire, &amp; Toussaincts du Bray aussi marchand Libraire Juré en l'Université de Paris, d'Imprimer ou faire Imprimer par qui bon leur semblera, La Premiere &amp; Seconde Partie de l'Astrée DE MESSIRE HONORÉ D'URFÉ, Gentil-homme ordinaire de la Chambre du Roy, Capitaine de cinquante hommes d'armes de ses Ordonnances, Comte de Chasteau-neuf, Baron de Chasteau-Morand, &amp;c. lesquels Livres ils desireroient faire Imprimer &amp; mettre en lumiere : Mais ils craignent ne le pouvoir faire sans nostre permission, humblement requerant icelle, lequel inclinant liberalement à leur requeste : Avons permis &amp; permettons ausdits Micard &amp; du Bray, d'Imprimer lesdits Livres, pour le temps &amp; terme de six ans entiers &amp; accomplis, à compter du jour &amp; datte que lesdits Livres seront achevez d'Imprimer. Et deffenses sont faites à tous Libraires &amp; Imprimeurs de cestuy nostre Royaume, d'Imprimer ou faire imprimer lesdits Livres de l'Astrée, sans l'exprez consentement desdits supplians, à peine de trois mil livres d'amende,
 <pb n="page_ori_" xml:id="page_abs_827"/>
 confiscation des Exemplaires, &amp; de tous despens, dommages &amp; interests : Car tel est nostre plaisir. Donné à Paris le quinziesme jour de Febvrier l'an de Grace mil six cens dix, &amp; de nostre regne le vingt-iesme.
 <lb/> <lb/>&#160;Signé,
-<lb/>&#160;<hi rend="italic">Par le Roy en son Conseil.</hi> <lb/><hi rend="right">&#160;DESPORTES.</hi> </p>
+<lb/>&#160;<hi rend="italic">Par le Roy en son Conseil.</hi>
+          </p>
+        <p rend="right">&#160;DESPORTES.</p>
       </div>
-    </body>
+    </back>
   </text>
 </TEI>

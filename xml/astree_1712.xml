@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../teipub/xsl/tei2html.xsl"?>
-<?xml-model href="../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="astree.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -59,51 +59,64 @@ MADAME.</titlePart>
         <docDate>M. DCC. XII.</docDate>
         <docImprint rend="italic">Avec Approbation &amp; Privilege.</docImprint>
       </titlePage>
-    </front>
-    <body>
-      <div n="1" type="piece_preliminaire" xml:id="dedicace">
+      <div n="1" type="privilege" xml:id="privilege">
+        <pb n="page_ori_LIM1" xml:id="page_abs_219"/>
+        <milestone unit="hr"/>
+        <head rend="italic">PRIVILEGE DU ROY.</head>
+        <p rend="indent">LOUIS PAR LA GRACE DE DIEU, Roi de France &amp; de Navarre, à nos amez &amp; feaux Conseillers, les Gens tenans nos Cours de Parlement, Maîtres des Requêtes ordinaires de nôtre Hôtel, Grand Conseil, Prevôt de Paris, Baillifs, Sénéchaux, leurs Lieutenans Civils, &amp; autres nos Justiciers qu'il appartiendra : Salut. Nicolas PEPIE, Libraire à Paris, Nous a fait tres-humblement remontrer qu'il desireroit faire imprimer un Livre intitulé, <hi rend="italic">La nouvelle Astrée,</hi> s'il nous plaisoit de lui accorder nos Lettres de Privilege sur ce necessaires : A CES CAUSES, desirant traitter favorablement l'Exposant ; Nous lui avons permis &amp; accordé, permettons &amp; accordons par ces presentes, de faire imprimer, vendre &amp; debiter dans tous les lieux de nôtre obéïssance, par tel Imprimeur qu'il voudra choisir, ledit Livre intitulé <hi rend="italic">La nouvelle Astrée,</hi> en tant de Volumes, de telle marge, caractere, &amp; autant de fois que bon lui semblera, 
+          <pb n="page_ori_LIM2" xml:id="page_abs_220"/>
+          l'espace de <hi rend="italic">quatre années consecutives,</hi> à compter du jour &amp; datte desdites Presentes ; défendons à tous Imprimeurs, Libraires, &amp; autres personnes, de quelque qualité &amp; condition qu'elles soient, d'imprimer, faire imprimer, ou contrefaire, vendre, ni debiter ledit Livre, &amp; d'en faire aucuns extraits, sous quelque prétexte que ce puisse être, même d'impression étrangere, sans le consentement par écrit de l'Exposant, ou de ses ayant cause ; sous peine de quinze cens livres d'amende contre chacun des contrevenans, applicable un tiers à Nous, un tiers à l'Hôtel-Dieu de Paris, &amp; l'autre tiers à l'Exposant, de confiscation des Exemplaires contrefaits, &amp; de tous dépens, dommages &amp; interêts, à condition de faire enregistrer ces Presentes dans trois mois du jour de leur datte, sur le Registre de la Communauté des Imprimeurs &amp; Libraires de Paris, que l'impression dudit Livre sera faite en beaux caracteres, sur du beau &amp; bon papier, dans nôtre Royaume &amp; non ailleurs, conformement aux Reglemens de la Librairie ; &amp; qu'a
+          <pb n="page_ori_LIM3" xml:id="page_abs_221"/>
+          vant que de l'exposer en vente, il en sera mis deux exemplaires dans nôtre Bibliotheque publique, un dans celle de nôtre Cabinet du Louvre, &amp; un dans celle de nôtre tres-cher &amp; feal Chevalier, Chancelier, &amp; Garde des Sceaux de France, le sieur Phelypeaux Comte de Pontchartrain, Commandeur de nos Ordres ; le tout à peine de nullité des presentes, du contenu desquelles vous mandons &amp; enjoignons de faire joüir l'Exposant, ou ses ayant cause, pleinement &amp; paisiblement, sans souffrir qu'il lui soit fait aucun trouble ou empêchement. Voulons que la copie desdites Presentes, qui sera imprimée au commencement ou à la fin dudit Livre, soit tenuë pour dûëment signifiée, &amp; qu'aux copies collationnées par l'un de nos amez &amp; feaux Conseillers &amp; Secretaires, foy soit ajoûtée comme à l'Original. Commandons au premier nôtre Huissier ou Sergent, de faire pour l'execution d'icelles, tous actes requis &amp; necessaires, sans demander autre permission, &amp; nonobstant Clameur de Haro, Charte Normande, &amp; Lettres à ce contraires : Car tel est 
+          <pb n="page_ori_LIM4" xml:id="page_abs_222"/>
+          nôtre plaisir. Donné à Versailles le deuxiéme jour d'Octobre, l'an de grace mil sept cent douze, &amp; de nôtre regne le soixante-dixiéme. Par le Roy en son Conseil, LAUTHIER.</p>
+        <p rend="italic indent">Registré sur le Registre N° 3. de la Communauté des Imprimeurs &amp; Libraires de Paris page 522. N° 571. conformément aux Reglements, &amp; notamment à l'Arrêt du 3. Août 1703. à Paris ce dixiéme jour du mois d'Octobre 1712.</p>
+        <p rend="indent">LOUIS JOSSE, <hi rend="italic">Syndic.</hi></p>
+      </div>
+      <div n="1" type="dedication" xml:id="dedicace">
         <pb n="page_ori_LIM3" xml:id="page_abs_2"/>
         <head>A<lb/>
-SON ALTESSE<lb/>
-ROYALE<lb/>
-MADAME.</head>
+          SON ALTESSE<lb/>
+          ROYALE<lb/>
+          MADAME.</head>
         <p>MADAME,</p>
         <p rend="indent italic">Le Manuscrit de la nouvelle Astrée m'étant tombé entre les mains, j'ose le mettre sous la protection de votre ALTESSE ROYALE ; elle ne dédaignera pas de jetter les yeux sur un 
-<pb n="page_ori_LIM4" xml:id="page_abs_3"/>
-EPISTRE<lb/>
-petit Ouvrage composé par une persone du beau sexe, qui a trouvé le moyen de le purger de tout ce qui pouroit offenser la pudeur la plus scrupuleuse. MADAME y verra partout la bonne morale suivie, le merite réccompensé, &amp; la vertu couronnée. Elle y trouvera même ces exemples, qu'elle donne si souvent de générosité, de bonté, &amp; de grandeur de courage, &amp; je me flate qu'elle agréera le respectueux hommage que lui rend en cette occasion,
-</p>
+          <pb n="page_ori_LIM4" xml:id="page_abs_3"/>
+          EPISTRE<lb/>
+          petit Ouvrage composé par une persone du beau sexe, qui a trouvé le moyen de le purger de tout ce qui pouroit offenser la pudeur la plus scrupuleuse. MADAME y verra partout la bonne morale suivie, le merite réccompensé, &amp; la vertu couronnée. Elle y trouvera même ces exemples, qu'elle donne si souvent de générosité, de bonté, &amp; de grandeur de courage, &amp; je me flate qu'elle agréera le respectueux hommage que lui rend en cette occasion,
+        </p>
         <p rend="indent">MADAME,</p>
         <p rend="indent">DE VOTRE ALTESSE ROYALE,</p>
         <p rend="right">Le tres-humble, tres-obéïssant,<lb/> &amp; tres-fidele serviteur, Pepié.</p>
       </div>
-      <div n="2" type="piece_preliminaire" xml:id="avertissement">
+      <div n="2" xml:id="avertissement">
         <head>AVERTISSEMENT.</head>
         <p rend="indent">Une Dame que la naissance &amp; les biens de la fortune rendent moins recommandable que les qualitez personelles, m'a donné sans y penser, la premiere idée de ce petit Ouvrage : Elle avoit oüi dire, qu'une jeune persone, qui veut avoir de l'esprit, doit lire &amp; relire le Roman d'Astrée, &amp; cependant, malgré sa prévention &amp; son courage, elle n'avoit jamais pu aller jusqu'à la fin du premier Volume. Les Episodes continuels, l'affectation d'u
-<pb n="page_ori_LIM" xml:id="page_abs_4"/>
-ne vaine science, dont elle ne s'imaginoit pas avoir grand besoin, l'étalage de la Doctrine profonde des Anciens Druides, les Poësies frequentes &amp; froides, tout cela l'avoit assez rebutée, pour ne pas continuer une lecture qu'elle trouvoit ennuïeuse : mais en même temps la défiance de soi-même, qui accompagne d'ordinaire les bons esprits, lui faisoit croire que l'aprobation du Public devoit prévaloir à son sentiment particulier, &amp; que l'Ouvrage ne laissoit pas d'être fort bon, quoiqu'il ne l'eut pas divertie. Elle me fit l'honneur de 
-<pb n="page_ori_LIM7" xml:id="page_abs_5"/>
-m'en parler en ce sens là, &amp; je ne fus pas de l'avis de sa modestie. Persuadée que tout ce qui lui avoit déplû dans Astrée, devoit lui déplaire, je lui proposé d'en ôter tous les défauts qu'elle avoit sentis par un bon goût naturel, d'en faire un petit Ouvrage de galanterie champêtre, d'en adoucir certains endroits un peu libres, que la pudeur scrupuleuse de nôtre siecle ne sauroit souffrir dans les Livres, de le purger de Theologie, de Politique, de Medecine, de Poësie, d'en éloigner tous les personages inutiles, de n'y jamais perdre de vûë 
-<pb n="page_ori_LIM8" xml:id="page_abs_6"/>
-Astrée &amp; Celadon, &amp; d'éviter par-là l'écuëil de tous les longs Romans, où le Héros &amp; l'Héroïne ne paroissent sur la Scene que rarement ; ce qui empêche, qu'on ne s'affectionne à la suite de leurs avantures ; leurs amis, &amp; leurs amies, qu'on n'aime pas tant qu'eux, tenant ordinairement les trois quarts du Livre. Il a fallu de plus changer le stile, quoiqu'il eut beaucoup de force dans l'Original. Cent ans dans une Langue vivante, mettent tout hors de mode. J'ai pourtant conservé certains traits qu'on remarquera 
-<pb n="page_ori_LIM9" xml:id="page_abs_7"/>
-assez aux mots antiques, &amp; encore mieux à la beauté des sentimens. Un homme de la condition de Monsieur d'Urfé, ne pouvoit en avoir que de fort nobles &amp; de fort élevez.</p>
+          <pb n="page_ori_LIM" xml:id="page_abs_4"/>
+          ne vaine science, dont elle ne s'imaginoit pas avoir grand besoin, l'étalage de la Doctrine profonde des Anciens Druides, les Poësies frequentes &amp; froides, tout cela l'avoit assez rebutée, pour ne pas continuer une lecture qu'elle trouvoit ennuïeuse : mais en même temps la défiance de soi-même, qui accompagne d'ordinaire les bons esprits, lui faisoit croire que l'aprobation du Public devoit prévaloir à son sentiment particulier, &amp; que l'Ouvrage ne laissoit pas d'être fort bon, quoiqu'il ne l'eut pas divertie. Elle me fit l'honneur de 
+          <pb n="page_ori_LIM7" xml:id="page_abs_5"/>
+          m'en parler en ce sens là, &amp; je ne fus pas de l'avis de sa modestie. Persuadée que tout ce qui lui avoit déplû dans Astrée, devoit lui déplaire, je lui proposé d'en ôter tous les défauts qu'elle avoit sentis par un bon goût naturel, d'en faire un petit Ouvrage de galanterie champêtre, d'en adoucir certains endroits un peu libres, que la pudeur scrupuleuse de nôtre siecle ne sauroit souffrir dans les Livres, de le purger de Theologie, de Politique, de Medecine, de Poësie, d'en éloigner tous les personages inutiles, de n'y jamais perdre de vûë 
+          <pb n="page_ori_LIM8" xml:id="page_abs_6"/>
+          Astrée &amp; Celadon, &amp; d'éviter par-là l'écuëil de tous les longs Romans, où le Héros &amp; l'Héroïne ne paroissent sur la Scene que rarement ; ce qui empêche, qu'on ne s'affectionne à la suite de leurs avantures ; leurs amis, &amp; leurs amies, qu'on n'aime pas tant qu'eux, tenant ordinairement les trois quarts du Livre. Il a fallu de plus changer le stile, quoiqu'il eut beaucoup de force dans l'Original. Cent ans dans une Langue vivante, mettent tout hors de mode. J'ai pourtant conservé certains traits qu'on remarquera 
+          <pb n="page_ori_LIM9" xml:id="page_abs_7"/>
+          assez aux mots antiques, &amp; encore mieux à la beauté des sentimens. Un homme de la condition de Monsieur d'Urfé, ne pouvoit en avoir que de fort nobles &amp; de fort élevez.</p>
         <p rend="indent">Voilà, mon cher Lecteur, ce qui a fait naître la petite Histoire d'Astrée &amp; de Celadon. L'accüeil favorable que vous avez fait à quelques bagatelles qui me sont échapées, m'a enhardie à vous faire ce petit present. Il ne tiendra qu'à vous, de vous en attirer bien-tôt un autre.
-</p>
+        </p>
       </div>
-      <div n="3" type="piece_preliminaire" xml:id="approbation">
+      <div n="3" xml:id="approbation">
         <pb n="page_ori_LIM" xml:id="page_abs_8"/>
         <milestone unit="hr"/>
         <head>APPROBATION</head>
         <p rend="indent">J'ay lû par ordre de Monseigneur le Chancelier, <hi rend="italic">La nouvelle Astrée</hi>, &amp; j'ai cru que le Public en verroit l'impression avec plaisir. Fait à Paris ce douziéme Mai mil sept cent douze.
-</p>
+        </p>
         <p rend="right">FONTENELLE.</p>
       </div>
-      <div n="1" type="partie" xml:id="premiere_partie">
+    </front>
+    <body>
         <pb n="page_ori_1" xml:id="page_abs_9"/>
         <head>LA NOUVELLE<lb/>
 ASTREE</head>
-        <div n="1" type="livre" xml:id="livre_1">
+        <div n="1" type="book" xml:id="livre_1">
           <head>LIVRE PREMIER.</head>
           <p rend="indent">La nature avoit rendu le petit païs de Forêt, le plus délicieux des Gaules : les montagnes, les plaines, les bois &amp; les ruisseaux y formoient une agréable diversité ; &amp; quoique les bords du Lignon ne fussent pas si fameux que ceux du Tibre, les Bergers &amp; les Bergeres, qui pouvoient s'y voir tous les jours, y vivoient contens, sans porter envie au reste de l'Univers : heureuse tranquillité, si l'amour ne l'avoit point troublée.</p>
           <pb n="page_ori_2" xml:id="page_abs_10"/>
@@ -235,7 +248,7 @@ faite, elles ne se disoient jamais ce qu'elles pensoient véritablement. Celadon
 d'envoïer chercher le Druide Adamas, qui étoit fort savant dans la conoissance des simples, &amp; de se confier en lui. Il étoit oncle de Leonide, qui partit sur le champ pour l'aller chercher à Marsilly ; mais comme Celadon se trouva beaucoup mieux dès le même soir, Galathée fit partir en diligence la Nimphe Silvie, pour contremander le Druide, dont la présence eut été incommode, dès qu'elle n'étoit pas nécessaire.
 </p>
         </div>
-        <div n="2" type="livre" xml:id="livre_2">
+        <div n="2" type="book" xml:id="livre_2">
           <pb n="page_ori_50" xml:id="page_abs_58"/>
           <head>LA NOUVELLE<lb/>
 ASTREE <lb/>LIVRE SECOND.</head>
@@ -331,7 +344,7 @@ quittai Semire sans lui dire une parole, &amp; mon malheur m'aïant fait rencont
             <p rend="indent">Astrée ne put achever son recit sans verser bien des larmes. Les deux Bergeres attendiries pleurerent avec elle, &amp; soulagerent sa douleur en la partageant.</p>
           </div>
         </div>
-        <div n="3" type="livre" xml:id="livre_3">
+        <div n="3" type="book" xml:id="livre_3">
           <pb n="page_ori_85" xml:id="page_abs_93"/>
           <head>LA NOUVELLE<lb/>
 ASTREE <lb/>LIVRE TROISIEME.</head>
@@ -552,7 +565,7 @@ dant banissons entre nous toutes les ceremonies ; ne m'appellez point Madame, l'
 <pb n="page_ori_177" xml:id="page_abs_185"/>
 bien aimé, &amp; je l'aime bien encore ; je ne sai comment tout cela se fait ; Alexie &amp; Celadon s'embrassent dans mon cœur ; &amp; quand j'aime Alexie, je ne croï pas étre infidelle à Celadon. </hi>Celadon n'y pouvoit plus tenir, lorsque Philis entra dans le bois, &amp; s'aprocha dans le temps qu'il alloit parler, peut-être mal-à-propos. Son amour ne lui suffisoit pas, pour une pareille declaration, &amp; il avoit besoin de l'autorité du grand Druide.</p>
         </div>
-        <div n="4" type="livre" xml:id="livre_4">
+        <div n="4" type="book" xml:id="livre_4">
           <pb n="page_ori_178" xml:id="page_abs_186"/>
           <head>LA NOUVELLE<lb/>
 ASTREE <lb/>LIVRE QUATRIEME.</head>
@@ -630,21 +643,6 @@ l'un auprès de l'autre. Il s'en approcha, &amp; les voyant d'une beauté extrao
 tez tous deux à genoux devant lui, pour écouter avec respect l'Arrêt qu'il alloit prononcer. Il les fit embrasser, &amp; sans vouloir d'autre éclaircissement, il les maria. La Nimphe Galathée avoit déja couronné l'amour de Lindamor. Le Druide maria aussi dans la suite Licidas frere de Celadon avec Philis, &amp; Diane avec Silvandre. Il n'y eut que l'inconstant Hilas, qui ne voulut jamais se fixer.</p>
           <p rend="center bold">FIN</p>
         </div>
-      </div>
-      <div n="1" type="piece_liminaire" xml:id="privilege">
-        <pb n="page_ori_LIM1" xml:id="page_abs_219"/>
-        <milestone unit="hr"/>
-        <head rend="italic">PRIVILEGE DU ROY.</head>
-        <p rend="indent">LOUIS PAR LA GRACE DE DIEU, Roi de France &amp; de Navarre, à nos amez &amp; feaux Conseillers, les Gens tenans nos Cours de Parlement, Maîtres des Requêtes ordinaires de nôtre Hôtel, Grand Conseil, Prevôt de Paris, Baillifs, Sénéchaux, leurs Lieutenans Civils, &amp; autres nos Justiciers qu'il appartiendra : Salut. Nicolas PEPIE, Libraire à Paris, Nous a fait tres-humblement remontrer qu'il desireroit faire imprimer un Livre intitulé, <hi rend="italic">La nouvelle Astrée,</hi> s'il nous plaisoit de lui accorder nos Lettres de Privilege sur ce necessaires : A CES CAUSES, desirant traitter favorablement l'Exposant ; Nous lui avons permis &amp; accordé, permettons &amp; accordons par ces presentes, de faire imprimer, vendre &amp; debiter dans tous les lieux de nôtre obéïssance, par tel Imprimeur qu'il voudra choisir, ledit Livre intitulé <hi rend="italic">La nouvelle Astrée,</hi> en tant de Volumes, de telle marge, caractere, &amp; autant de fois que bon lui semblera, 
-<pb n="page_ori_LIM2" xml:id="page_abs_220"/>
-l'espace de <hi rend="italic">quatre années consecutives,</hi> à compter du jour &amp; datte desdites Presentes ; défendons à tous Imprimeurs, Libraires, &amp; autres personnes, de quelque qualité &amp; condition qu'elles soient, d'imprimer, faire imprimer, ou contrefaire, vendre, ni debiter ledit Livre, &amp; d'en faire aucuns extraits, sous quelque prétexte que ce puisse être, même d'impression étrangere, sans le consentement par écrit de l'Exposant, ou de ses ayant cause ; sous peine de quinze cens livres d'amende contre chacun des contrevenans, applicable un tiers à Nous, un tiers à l'Hôtel-Dieu de Paris, &amp; l'autre tiers à l'Exposant, de confiscation des Exemplaires contrefaits, &amp; de tous dépens, dommages &amp; interêts, à condition de faire enregistrer ces Presentes dans trois mois du jour de leur datte, sur le Registre de la Communauté des Imprimeurs &amp; Libraires de Paris, que l'impression dudit Livre sera faite en beaux caracteres, sur du beau &amp; bon papier, dans nôtre Royaume &amp; non ailleurs, conformement aux Reglemens de la Librairie ; &amp; qu'a
-<pb n="page_ori_LIM3" xml:id="page_abs_221"/>
-vant que de l'exposer en vente, il en sera mis deux exemplaires dans nôtre Bibliotheque publique, un dans celle de nôtre Cabinet du Louvre, &amp; un dans celle de nôtre tres-cher &amp; feal Chevalier, Chancelier, &amp; Garde des Sceaux de France, le sieur Phelypeaux Comte de Pontchartrain, Commandeur de nos Ordres ; le tout à peine de nullité des presentes, du contenu desquelles vous mandons &amp; enjoignons de faire joüir l'Exposant, ou ses ayant cause, pleinement &amp; paisiblement, sans souffrir qu'il lui soit fait aucun trouble ou empêchement. Voulons que la copie desdites Presentes, qui sera imprimée au commencement ou à la fin dudit Livre, soit tenuë pour dûëment signifiée, &amp; qu'aux copies collationnées par l'un de nos amez &amp; feaux Conseillers &amp; Secretaires, foy soit ajoûtée comme à l'Original. Commandons au premier nôtre Huissier ou Sergent, de faire pour l'execution d'icelles, tous actes requis &amp; necessaires, sans demander autre permission, &amp; nonobstant Clameur de Haro, Charte Normande, &amp; Lettres à ce contraires : Car tel est 
-<pb n="page_ori_LIM4" xml:id="page_abs_222"/>
-nôtre plaisir. Donné à Versailles le deuxiéme jour d'Octobre, l'an de grace mil sept cent douze, &amp; de nôtre regne le soixante-dixiéme. Par le Roy en son Conseil, LAUTHIER.</p>
-        <p rend="italic indent">Registré sur le Registre N° 3. de la Communauté des Imprimeurs &amp; Libraires de Paris page 522. N° 571. conformément aux Reglements, &amp; notamment à l'Arrêt du 3. Août 1703. à Paris ce dixiéme jour du mois d'Octobre 1712.</p>
-        <p rend="indent">LOUIS JOSSE, <hi rend="italic">Syndic.</hi></p>
-      </div>
     </body>
   </text>
 </TEI>

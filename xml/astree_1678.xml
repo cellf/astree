@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../teipub/xsl/tei2html.xsl"?>
-<?xml-model href="../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="astree.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -304,7 +304,7 @@ senti d'amour &amp; de fidelité. C'étoit ainsi que Licidas soulageoit sa doule
 </p>
         <p rend="italic center">Fin du Premier Livre.</p>
       </div>
-      <div n="2" type="livre" xml:id="livre_2">
+      <div n="2" type="book" xml:id="livre_2">
         <pb n="page_ori_49" xml:id="page_abs_47"/>
         <head>ASTREE.<lb/> <hi rend="italic">LIVRE SECOND.</hi></head>
         <p rend="indent">Pendant que tout le monde pleuroit ainsi la mort de Celadon, il recevoit dans le Palais d'Isoure le secours des trois belles Nimphes qui l'avoient trouvé sur le rivage ; mais de quelques remedes qu'elles se pussent servir, il ne reprit ses esprits que le lendemain matin, bien étonné de se trouver dans une chambre magnifique sans pouvoir deviner la maniere dont il y avoit esté conduit, &amp; sans se souvenir d'autre chose que de son desespoir. Helas ! dit-il, rempli de cette pensée, je ne suis pas mort, puisque l'amour vit dans mon cœur, &amp; qu'il conserve encore l'idée de sa Berge
@@ -504,7 +504,7 @@ amour. La possession d'Amarillis luy parut necessaire pour son repos, &amp; jama
           <p rend="italic center">Fin du Second Livre.</p>
         </div>
       </div>
-      <div n="3" type="livre" xml:id="livre_3">
+      <div n="3" type="book" xml:id="livre_3">
         <pb n="page_ori_1" xml:id="page_abs_100"/>
         <head rend="italic">L'ASTREE. <lb/><hi rend="n">LIVRE TROISIEME.</hi><milestone unit="hr"/><lb/> SECONDE PARTIE.</head>
         <p rend="indent">La presence des belles Nimphes qui passerent tout le jour avecque Celadon, luy eust donné un fort grand plaisir, si le changement d'Astrée ne l'eust rendu insensible à la joye. Il trouvoit quelque agrément dans la conversation des Nimphes ; mais son desespoir faisoit grand tort à sa delicatesse, &amp; l'obligeoit à souhaiter la nuit, comme le temps le plus favorable pour s'entretenir de son mal-heur. Lors que

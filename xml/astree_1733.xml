@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../teipub/xsl/tei2html.xsl"?>
-<?xml-model href="../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="astree.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
@@ -2271,7 +2271,7 @@
           </div>
         </body>
       </text>
-      <text n="2" type="partie" xml:id="partie2">
+      <text n="2" type="part" xml:id="partie2">
         <front>
           <titlePage xml:id="page_titre2">
             <pb n="page_ori_LIM" xml:id="page_abs_599"/>
@@ -4306,7 +4306,7 @@
           </div>
         </body>
       </text>
-      <text n="3" type="partie" xml:id="partie3">
+      <text n="3" type="part" xml:id="partie3">
         <front>
           <pb n="page_ori_LIM" xml:id="page_abs_1112"/>
           <titlePage xml:id="page_titre3">
@@ -6656,7 +6656,7 @@
           </div>
         </body>
       </text>
-      <text n="4" type="partie" xml:id="partie4">
+      <text n="4" type="part" xml:id="partie4">
         <front>
           <titlePage xml:id="page_titre4">
             <pb n="page_ori_LIM" xml:id="page_abs_1714"/>
@@ -9156,7 +9156,7 @@
           </div>
         </body>
       </text>
-      <text n="5" type="partie" xml:id="partie5">
+      <text n="5" type="part" xml:id="partie5">
         <front>
           <titlePage xml:id="page_titre5">
             <pb n="page_ori_LIM" xml:id="page_abs_2377"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../teipub/xsl/tei2html.xsl"?>
-<?xml-model href="../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="astree.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -128,7 +128,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
     </front>
     <body>
       <head>L'INCONSTANCE D'HYLAS.<lb/>COMEDIE-PASTORALE.</head>
-      <div n="1" type="acte" xml:id="acte_1">
+      <div n="1" type="act" xml:id="acte_1">
         <head>Acte premier.</head>
         <div n="1" type="scene" xml:id="scene_1-1">
           <pb n="page_ori_1" xml:id="page_abs_16"/>
@@ -928,7 +928,7 @@ avoit receu sa Maistresse de la mesme main qui la luy avoit dérobée. Pour se v
           </sp>
         </div>
       </div>
-      <div n="2" type="acte" xml:id="acte_2">
+      <div n="2" type="act" xml:id="acte_2">
         <head>Acte deuxiesme.</head>
         <div n="1" type="scene" xml:id="scene_2-1">
           <head>Scène premiere.</head>
@@ -1780,7 +1780,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
           </sp>
         </div>
       </div>
-      <div n="3" type="acte" xml:id="acte_3">
+      <div n="3" type="act" xml:id="acte_3">
         <head>Acte troisiesme.</head>
         <div n="1" type="scene" xml:id="scene_3-1">
           <pb n="page_ori_59" xml:id="page_abs_74"/>
@@ -2482,7 +2482,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
           </sp>
         </div>
       </div>
-      <div n="4" type="acte" xml:id="acte_4">
+      <div n="4" type="act" xml:id="acte_4">
         <head>Acte quatriesme.</head>
         <div n="1" type="scene" xml:id="scene_4-1">
           <head>Scène premiere.</head>
@@ -3148,7 +3148,6 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
           <p rend="i">Ajoûtant par avis cét Article commun,</p>
           <p rend="i">De les oublier tous, &amp; n'en tenir pas un.</p>
           <p>Si[g]né Hylas, Stelle.</p>
-          <lb/>
           <sp who="hylas">
             <speaker>Hylas </speaker>
             <stage type="didascalia">(montrant sa Bergere à Periandre.)</stage>
@@ -3412,7 +3411,7 @@ de me laisser tout seul porter ma disgrace, &amp; de connoistre combien je desir
           </sp>
         </div>
       </div>
-      <div n="5" type="acte" xml:id="acte_5">
+      <div n="5" type="act" xml:id="acte_5">
         <head>Acte cinquiesme.</head>
         <div n="1" type="scene" xml:id="scene_5-1">
           <head>Scène premiere.</head>
